@@ -1,0 +1,420 @@
+<?xml version="1.0"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+<file source-language="en" target-language="en" datatype="plaintext" original="admin.xml">
+  <body>
+    <trans-unit id="author.submit">
+      <source>author.submit</source>
+        <target>New Submission</target>
+    </trans-unit>
+    <trans-unit id="author.track">
+      <source>author.track</source>
+        <target>Active Submissions</target>
+    </trans-unit>
+    <trans-unit id="author.competingInterests">
+      <source>author.competingInterests</source>
+        <target>Competing&nbsp;interests <a target="_new" class="action" href="{$competingInterestGuidelinesUrl}">CI&nbsp;Policy</a></target>
+    </trans-unit>
+    <trans-unit id="author.submit.submitArticle">
+      <source>author.submit.submitArticle</source>
+        <target>Submit an Article</target>
+    </trans-unit>
+    <trans-unit id="author.submit.stepsToSubmit">
+      <source>author.submit.stepsToSubmit</source>
+        <target>Five Steps to Submit</target>
+    </trans-unit>
+    <trans-unit id="author.submit.startHereTitle">
+      <source>author.submit.startHereTitle</source>
+        <target>Start a New Submission</target>
+    </trans-unit>
+    <trans-unit id="author.submit.startHereLink">
+      <source>author.submit.startHereLink</source>
+        <target><a href="{$submitUrl}" class="action">Click here</a> to go to step one of the five-step submission process.</target>
+    </trans-unit>
+    <trans-unit id="author.submit.step1">
+      <source>author.submit.step1</source>
+        <target>Step 1. Starting the Submission</target>
+    </trans-unit>
+    <trans-unit id="author.submit.step2">
+      <source>author.submit.step2</source>
+        <target>Step 2. Uploading the Submission</target>
+    </trans-unit>
+    <trans-unit id="author.submit.step3">
+      <source>author.submit.step3</source>
+        <target>Step 3. Entering the Submission's Metadata</target>
+    </trans-unit>
+    <trans-unit id="author.submit.step4">
+      <source>author.submit.step4</source>
+        <target>Step 4. Uploading Supplementary Files</target>
+    </trans-unit>
+    <trans-unit id="author.submit.step4a">
+      <source>author.submit.step4a</source>
+        <target>Step 4a. Add a Supplementary File</target>
+    </trans-unit>
+    <trans-unit id="author.submit.step5">
+      <source>author.submit.step5</source>
+        <target>Step 5. Confirming the Submission</target>
+    </trans-unit>
+    <trans-unit id="author.submit.start">
+      <source>author.submit.start</source>
+        <target>Start</target>
+    </trans-unit>
+    <trans-unit id="author.submit.upload">
+      <source>author.submit.upload</source>
+        <target>Upload Submission</target>
+    </trans-unit>
+    <trans-unit id="author.submit.metadata">
+      <source>author.submit.metadata</source>
+        <target>Enter Metadata</target>
+    </trans-unit>
+    <trans-unit id="author.submit.supplementaryFiles">
+      <source>author.submit.supplementaryFiles</source>
+        <target>Upload Supplementary Files</target>
+    </trans-unit>
+    <trans-unit id="author.submit.confirmation">
+      <source>author.submit.confirmation</source>
+        <target>Confirmation</target>
+    </trans-unit>
+    <trans-unit id="author.submit.nextSteps">
+      <source>author.submit.nextSteps</source>
+        <target>Next Steps</target>
+    </trans-unit>
+    <trans-unit id="submission.submit.cancelSubmission">
+      <source>submission.submit.cancelSubmission</source>
+        <target>You can complete this submission at a later date by selecting Active Submissions from the Author home.</target>
+    </trans-unit>
+    <trans-unit id="author.submit.notAccepting">
+      <source>author.submit.notAccepting</source>
+        <target>This journal is not accepting submissions at this time.</target>
+    </trans-unit>
+    <trans-unit id="author.submit.requestWaiver">
+      <source>author.submit.requestWaiver</source>
+        <target>Request Waiver</target>
+    </trans-unit>
+    <trans-unit id="author.submit.qualifyForWaiver">
+      <source>author.submit.qualifyForWaiver</source>
+        <target>Please consider waiving the Article Submission Fee for this article</target>
+    </trans-unit>
+    <trans-unit id="author.submit.addReasonsForWaiver">
+      <source>author.submit.addReasonsForWaiver</source>
+        <target>Please use the comments box below to indicate why fees should be waived.</target>
+    </trans-unit>
+    <trans-unit id="author.submit.mustEnterWaiverReason">
+      <source>author.submit.mustEnterWaiverReason</source>
+        <target>If you are applying for a waiver, you must enter a reason in the space provided.</target>
+    </trans-unit>
+    <trans-unit id="author.submissions.queuedReviewSubsequent">
+      <source>author.submissions.queuedReviewSubsequent</source>
+        <target>In Review Round {$round}</target>
+    </trans-unit>
+    <trans-unit id="author.submissions.queuedReviewRevisions">
+      <source>author.submissions.queuedReviewRevisions</source>
+        <target>In Review: Revisions Required</target>
+    </trans-unit>
+    <trans-unit id="author.submissions.queuedEditingCopyedit">
+      <source>author.submissions.queuedEditingCopyedit</source>
+        <target>In Editing: Copyedit Requested</target>
+    </trans-unit>
+    <trans-unit id="author.submissions.queuedEditingProofread">
+      <source>author.submissions.queuedEditingProofread</source>
+        <target>In Editing: Proofread Requested</target>
+    </trans-unit>
+    <trans-unit id="author.submissions.uploadCopyeditedVersion">
+      <source>author.submissions.uploadCopyeditedVersion</source>
+        <target>Upload Copyedited Version</target>
+    </trans-unit>
+    <trans-unit id="author.submissions.proofreadingCorrections">
+      <source>author.submissions.proofreadingCorrections</source>
+        <target>Proofreading Corrections</target>
+    </trans-unit>
+    <trans-unit id="author.submissions.confirmDelete">
+      <source>author.submissions.confirmDelete</source>
+        <target>Are you sure you want to delete this incomplete submission?</target>
+    </trans-unit>
+    <trans-unit id="author.submissions.viewStatus">
+      <source>author.submissions.viewStatus</source>
+        <target>View Status</target>
+    </trans-unit>
+    <trans-unit id="author.submissions.noSubmissions">
+      <source>author.submissions.noSubmissions</source>
+        <target>No submissions.</target>
+    </trans-unit>
+    <trans-unit id="author.submit.journalSection">
+      <source>author.submit.journalSection</source>
+        <target>Journal Section</target>
+    </trans-unit>
+    <trans-unit id="author.submit.journalSectionDescription">
+      <source>author.submit.journalSectionDescription</source>
+        <target>Articles must be submitted to one of the journal's sections.</target>
+    </trans-unit>
+    <trans-unit id="author.submit.verifyChecklist">
+      <source>author.submit.verifyChecklist</source>
+        <target>You must make sure all items in the submission checklist are satisfied before continuing.</target>
+    </trans-unit>
+    <trans-unit id="author.submit.copyrightNoticeAgree">
+      <source>author.submit.copyrightNoticeAgree</source>
+        <target>The authors agree to the terms of this Copyright Notice, which will apply to this submission if and when it is published by this journal (comments to the editor can be added below).</target>
+    </trans-unit>
+    <trans-unit id="author.submit.copyrightNoticeAgreeRequired">
+      <source>author.submit.copyrightNoticeAgreeRequired</source>
+        <target>You must agree to the terms of the Copyright Notice before continuing.</target>
+    </trans-unit>
+    <trans-unit id="submission.submit.coverNote">
+      <source>submission.submit.coverNote</source>
+        <target>Comments for the Editor</target>
+    </trans-unit>
+    <trans-unit id="author.submit.comments">
+      <source>author.submit.comments</source>
+        <target>Enter text (optional)</target>
+    </trans-unit>
+    <trans-unit id="author.submit.form.sectionRequired">
+      <source>author.submit.form.sectionRequired</source>
+        <target>Please select an appropriate journal section for this submission.</target>
+    </trans-unit>
+    <trans-unit id="author.submit.form.localeRequired">
+      <source>author.submit.form.localeRequired</source>
+        <target>Please select a submission language.</target>
+    </trans-unit>
+    <trans-unit id="submission.submit.privacyStatement">
+      <source>submission.submit.privacyStatement</source>
+        <target>Journal's Privacy Statement</target>
+    </trans-unit>
+    <trans-unit id="author.submit.reorderInstructions">
+      <source>author.submit.reorderInstructions</source>
+        <target>Reorder authors to appear in the order they will be listed on publication.</target>
+    </trans-unit>
+    <trans-unit id="author.submit.reorder">
+      <source>author.submit.reorder</source>
+        <target>Reorder author's name</target>
+    </trans-unit>
+    <trans-unit id="author.submit.selectPrincipalContact">
+      <source>author.submit.selectPrincipalContact</source>
+        <target>Principal contact for editorial correspondence.</target>
+    </trans-unit>
+    <trans-unit id="author.submit.addAuthor">
+      <source>author.submit.addAuthor</source>
+        <target>Add Author</target>
+    </trans-unit>
+    <trans-unit id="author.submit.deleteAuthor">
+      <source>author.submit.deleteAuthor</source>
+        <target>Delete Author</target>
+    </trans-unit>
+    <trans-unit id="author.submit.submissionIndexingDescription">
+      <source>author.submit.submissionIndexingDescription</source>
+        <target>Provide terms for indexing the submission; separate terms with a semi-colon (term1; term2; term3).</target>
+    </trans-unit>
+    <trans-unit id="author.submit.coverageInstructions">
+      <source>author.submit.coverageInstructions</source>
+        <target>Refers to geo-spatial location, chronological or historical coverage, and/or characteristics of research sample.</target>
+    </trans-unit>
+    <trans-unit id="author.submit.languageInstructions">
+      <source>author.submit.languageInstructions</source>
+        <target>English=en; French=fr; Spanish=es. <a href="http://www.loc.gov/standards/iso639-2/php/code_list.php" target="_blank">Additional codes</a>.</target>
+    </trans-unit>
+    <trans-unit id="author.submit.form.authorRequired">
+      <source>author.submit.form.authorRequired</source>
+        <target>At least one author is required.</target>
+    </trans-unit>
+    <trans-unit id="author.submit.form.authorRequiredFields">
+      <source>author.submit.form.authorRequiredFields</source>
+        <target>The first name, last name, and email address of each author is required.</target>
+    </trans-unit>
+    <trans-unit id="author.submit.form.titleRequired">
+      <source>author.submit.form.titleRequired</source>
+        <target>Please enter the title of your article.</target>
+    </trans-unit>
+    <trans-unit id="author.submit.form.abstractRequired">
+      <source>author.submit.form.abstractRequired</source>
+        <target>Please enter the abstract of your article.</target>
+    </trans-unit>
+    <trans-unit id="author.submit.form.wordCountAlert">
+      <source>author.submit.form.wordCountAlert</source>
+        <target>You have exceeded the maximum word limit for abstracts in this section's track.</target>
+    </trans-unit>
+    <trans-unit id="author.submit.submissionFile">
+      <source>author.submit.submissionFile</source>
+        <target>Submission File</target>
+    </trans-unit>
+    <trans-unit id="author.submit.uploadSubmissionFile">
+      <source>author.submit.uploadSubmissionFile</source>
+        <target>Upload submission file</target>
+    </trans-unit>
+    <trans-unit id="author.submit.replaceSubmissionFile">
+      <source>author.submit.replaceSubmissionFile</source>
+        <target>Replace submission file</target>
+    </trans-unit>
+    <trans-unit id="author.submit.noSubmissionFile">
+      <source>author.submit.noSubmissionFile</source>
+        <target>No submission file uploaded.</target>
+    </trans-unit>
+    <trans-unit id="author.submit.noSubmissionConfirm">
+      <source>author.submit.noSubmissionConfirm</source>
+        <target>Are you sure you wish to continue without uploading a submission file?</target>
+    </trans-unit>
+    <trans-unit id="author.submit.supplementaryFilesInstructions">
+      <source>author.submit.supplementaryFilesInstructions</source>
+        <target>This optional step allows Supplementary Files to be added to a submission. The files, which can be in any format, might include (a) research instruments, (b) data sets, which comply with the terms of the study's research ethics review, (c) sources that otherwise would be unavailable to readers, (d) figures and tables that cannot be integrated into the text itself, or other materials that add to the contribution of the work.</target>
+    </trans-unit>
+    <trans-unit id="author.submit.supplementaryFiles.saveToUpload">
+      <source>author.submit.supplementaryFiles.saveToUpload</source>
+        <target>Click Save to upload file (after which additional files can be uploaded).</target>
+    </trans-unit>
+    <trans-unit id="author.submit.forgottenSubmitSuppFile">
+      <source>author.submit.forgottenSubmitSuppFile</source>
+        <target>Are you sure you wish to continue without uploading the supplementary file you have chosen?</target>
+    </trans-unit>
+    <trans-unit id="author.submit.noSupplementaryFiles">
+      <source>author.submit.noSupplementaryFiles</source>
+        <target>No supplementary files have been added to this submission.</target>
+    </trans-unit>
+    <trans-unit id="author.submit.backToSupplementaryFiles">
+      <source>author.submit.backToSupplementaryFiles</source>
+        <target>Back to Supplementary Files</target>
+    </trans-unit>
+    <trans-unit id="author.submit.confirmDeleteSuppFile">
+      <source>author.submit.confirmDeleteSuppFile</source>
+        <target>Are you sure you want to delete this supplementary file?</target>
+    </trans-unit>
+    <trans-unit id="author.submit.uploadSuppFile">
+      <source>author.submit.uploadSuppFile</source>
+        <target>Upload supplementary file</target>
+    </trans-unit>
+    <trans-unit id="author.submit.addSupplementaryFile">
+      <source>author.submit.addSupplementaryFile</source>
+        <target>Add a Supplementary File</target>
+    </trans-unit>
+    <trans-unit id="author.submit.editSupplementaryFile">
+      <source>author.submit.editSupplementaryFile</source>
+        <target>Edit a Supplementary File</target>
+    </trans-unit>
+    <trans-unit id="author.submit.supplementaryFileData">
+      <source>author.submit.supplementaryFileData</source>
+        <target>Supplementary File Metadata</target>
+    </trans-unit>
+    <trans-unit id="author.submit.supplementaryFileDataDescription">
+      <source>author.submit.supplementaryFileDataDescription</source>
+        <target>To index this supplementary material, provide the following metadata for the uploaded supplementary file.</target>
+    </trans-unit>
+    <trans-unit id="author.submit.supplementaryFileUpload">
+      <source>author.submit.supplementaryFileUpload</source>
+        <target>Supplementary File</target>
+    </trans-unit>
+    <trans-unit id="author.submit.suppFile.createrOrOwner">
+      <source>author.submit.suppFile.createrOrOwner</source>
+        <target>Creator (or owner) of file</target>
+    </trans-unit>
+    <trans-unit id="author.submit.suppFile.researchInstrument">
+      <source>author.submit.suppFile.researchInstrument</source>
+        <target>Research Instrument</target>
+    </trans-unit>
+    <trans-unit id="author.submit.suppFile.researchMaterials">
+      <source>author.submit.suppFile.researchMaterials</source>
+        <target>Research Materials</target>
+    </trans-unit>
+    <trans-unit id="author.submit.suppFile.researchResults">
+      <source>author.submit.suppFile.researchResults</source>
+        <target>Research Results</target>
+    </trans-unit>
+    <trans-unit id="author.submit.suppFile.transcripts">
+      <source>author.submit.suppFile.transcripts</source>
+        <target>Transcripts</target>
+    </trans-unit>
+    <trans-unit id="author.submit.suppFile.dataAnalysis">
+      <source>author.submit.suppFile.dataAnalysis</source>
+        <target>Data Analysis</target>
+    </trans-unit>
+    <trans-unit id="author.submit.suppFile.dataSet">
+      <source>author.submit.suppFile.dataSet</source>
+        <target>Data Set</target>
+    </trans-unit>
+    <trans-unit id="author.submit.suppFile.sourceText">
+      <source>author.submit.suppFile.sourceText</source>
+        <target>Source Text</target>
+    </trans-unit>
+    <trans-unit id="author.submit.suppFile.briefDescription">
+      <source>author.submit.suppFile.briefDescription</source>
+        <target>Brief description</target>
+    </trans-unit>
+    <trans-unit id="author.submit.suppFile.availableToPeers">
+      <source>author.submit.suppFile.availableToPeers</source>
+        <target>Present file to reviewers (without metadata), as it will not compromise blind review.</target>
+    </trans-unit>
+    <trans-unit id="author.submit.suppFile.publisherDescription">
+      <source>author.submit.suppFile.publisherDescription</source>
+        <target>Use only with formally published materials.</target>
+    </trans-unit>
+    <trans-unit id="author.submit.suppFile.dateDescription">
+      <source>author.submit.suppFile.dateDescription</source>
+        <target>Date when data was collected or instrument created.</target>
+    </trans-unit>
+    <trans-unit id="author.submit.suppFile.sourceDescription">
+      <source>author.submit.suppFile.sourceDescription</source>
+        <target>Name of study or other point of origin.</target>
+    </trans-unit>
+    <trans-unit id="author.submit.suppFile.specifyOtherType">
+      <source>author.submit.suppFile.specifyOtherType</source>
+        <target>Specify other</target>
+    </trans-unit>
+    <trans-unit id="author.submit.suppFile.noFile">
+      <source>author.submit.suppFile.noFile</source>
+        <target>No file uploaded.</target>
+    </trans-unit>
+    <trans-unit id="author.submit.suppFile.form.titleRequired">
+      <source>author.submit.suppFile.form.titleRequired</source>
+        <target>Please enter the title of this supplementary file.</target>
+    </trans-unit>
+    <trans-unit id="author.submit.suppFile.form.subjectRequired">
+      <source>author.submit.suppFile.form.subjectRequired</source>
+        <target>Please enter a subject.</target>
+    </trans-unit>
+    <trans-unit id="author.submit.suppFile.form.descriptionRequired">
+      <source>author.submit.suppFile.form.descriptionRequired</source>
+        <target>Please enter a description.</target>
+    </trans-unit>
+    <trans-unit id="author.suppFile.suppFilePublicIdentificationExists">
+      <source>author.suppFile.suppFilePublicIdentificationExists</source>
+        <target>Public supplemental file identification already exists.</target>
+    </trans-unit>
+    <trans-unit id="author.suppFile.publicSuppFileIdentifier">
+      <source>author.suppFile.publicSuppFileIdentifier</source>
+        <target>Public supplemental file identifier</target>
+    </trans-unit>
+    <trans-unit id="author.submit.confirmationDescription">
+      <source>author.submit.confirmationDescription</source>
+        <target>To submit your manuscript to {$journalTitle} click Finish Submission. The submission's principal contact will receive an acknowledgement by email and will be able to view the submission's progress through the editorial process by logging in to the journal web site. Thank you for your interest in publishing with {$journalTitle}.</target>
+    </trans-unit>
+    <trans-unit id="author.submit.noFiles">
+      <source>author.submit.noFiles</source>
+        <target>No files have been attached to this submission.</target>
+    </trans-unit>
+    <trans-unit id="author.submit.filesSummary">
+      <source>author.submit.filesSummary</source>
+        <target>File Summary</target>
+    </trans-unit>
+    <trans-unit id="author.submit.finishSubmission">
+      <source>author.submit.finishSubmission</source>
+        <target>Finish Submission</target>
+    </trans-unit>
+    <trans-unit id="author.submit.submissionComplete">
+      <source>author.submit.submissionComplete</source>
+        <target>Submission complete. Thank you for your interest in publishing with {$journalTitle}.</target>
+    </trans-unit>
+    <trans-unit id="author.article.uploadAuthorVersion">
+      <source>author.article.uploadAuthorVersion</source>
+        <target>Upload Author Version</target>
+    </trans-unit>
+    <trans-unit id="author.article.copyeditedFile">
+      <source>author.article.copyeditedFile</source>
+        <target>Copyedited File</target>
+    </trans-unit>
+    <trans-unit id="author.article.authorRevisedFile">
+      <source>author.article.authorRevisedFile</source>
+        <target>Author File</target>
+    </trans-unit>
+    <trans-unit id="author.submit.authorSubmitLoginMessage">
+      <source>author.submit.authorSubmitLoginMessage</source>
+        <target>A user account is required to submit to this journal. This allows our editors to track your submissions and contact you when the status of your submission changes, or if additional information is required from you.</target>
+    </trans-unit>
+  </body>
+</file>
+</xliff>
+ 

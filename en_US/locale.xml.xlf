@@ -1,0 +1,2741 @@
+<?xml version="1.0"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+<file source-language="en" target-language="en" datatype="plaintext" original="admin.xml">
+  <body>
+    <trans-unit id="context.current">
+      <source>context.current</source>
+        <target>Current Journal:</target>
+    </trans-unit>
+    <trans-unit id="context.select">
+      <source>context.select</source>
+        <target>Switch to another journal:</target>
+    </trans-unit>
+    <trans-unit id="navigation.categories">
+      <source>navigation.categories</source>
+        <target>Categories</target>
+    </trans-unit>
+    <trans-unit id="navigation.categories.browse">
+      <source>navigation.categories.browse</source>
+        <target>Browse</target>
+    </trans-unit>
+    <trans-unit id="reviewer.article.enterReviewForm">
+      <source>reviewer.article.enterReviewForm</source>
+        <target>Click on icon to fill in the review form.</target>
+    </trans-unit>
+    <trans-unit id="reviewer.submission.reviewFormResponse.form.responseRequired">
+      <source>reviewer.submission.reviewFormResponse.form.responseRequired</source>
+        <target>Please fill in required fields.</target>
+    </trans-unit>
+    <trans-unit id="common.openJournalSystems">
+      <source>common.openJournalSystems</source>
+        <target>Open Journal Systems</target>
+    </trans-unit>
+    <trans-unit id="common.confirmComplete">
+      <source>common.confirmComplete</source>
+        <target>Are you sure you wish to mark this task as completed? You may not be able to make changes afterwards.</target>
+    </trans-unit>
+    <trans-unit id="common.payment">
+      <source>common.payment</source>
+        <target>Payment</target>
+    </trans-unit>
+    <trans-unit id="common.payments">
+      <source>common.payments</source>
+        <target>Payments</target>
+    </trans-unit>
+    <trans-unit id="common.homePageHeader.altText">
+      <source>common.homePageHeader.altText</source>
+        <target>Homepage Header</target>
+    </trans-unit>
+    <trans-unit id="common.journalHomepageImage.altText">
+      <source>common.journalHomepageImage.altText</source>
+        <target>Journal Homepage Image</target>
+    </trans-unit>
+    <trans-unit id="navigation.journalHelp">
+      <source>navigation.journalHelp</source>
+        <target>Journal Help</target>
+    </trans-unit>
+    <trans-unit id="navigation.current">
+      <source>navigation.current</source>
+        <target>Current</target>
+    </trans-unit>
+    <trans-unit id="navigation.otherJournals">
+      <source>navigation.otherJournals</source>
+        <target>Other Journals</target>
+    </trans-unit>
+    <trans-unit id="navigation.browseByIssue">
+      <source>navigation.browseByIssue</source>
+        <target>By Issue</target>
+    </trans-unit>
+    <trans-unit id="navigation.browseByAuthor">
+      <source>navigation.browseByAuthor</source>
+        <target>By Author</target>
+    </trans-unit>
+    <trans-unit id="navigation.infoForAuthors">
+      <source>navigation.infoForAuthors</source>
+        <target>For Authors</target>
+    </trans-unit>
+    <trans-unit id="navigation.infoForLibrarians">
+      <source>navigation.infoForLibrarians</source>
+        <target>For Librarians</target>
+    </trans-unit>
+    <trans-unit id="navigation.competingInterestGuidelines">
+      <source>navigation.competingInterestGuidelines</source>
+        <target>Competing Interest Guidelines</target>
+    </trans-unit>
+    <trans-unit id="navigation.infoForAuthors.long">
+      <source>navigation.infoForAuthors.long</source>
+        <target>Information For Authors</target>
+    </trans-unit>
+    <trans-unit id="navigation.infoForLibrarians.long">
+      <source>navigation.infoForLibrarians.long</source>
+        <target>Information For Librarians</target>
+    </trans-unit>
+    <trans-unit id="common.queue.long.submissionsUnassigned">
+      <source>common.queue.long.submissionsUnassigned</source>
+        <target>Unassigned</target>
+    </trans-unit>
+    <trans-unit id="common.queue.short.submissionsUnassigned">
+      <source>common.queue.short.submissionsUnassigned</source>
+        <target>Unassigned</target>
+    </trans-unit>
+    <trans-unit id="common.queue.long.submissionsInEditing">
+      <source>common.queue.long.submissionsInEditing</source>
+        <target>Submissions in Editing</target>
+    </trans-unit>
+    <trans-unit id="common.queue.short.submissionsInEditing">
+      <source>common.queue.short.submissionsInEditing</source>
+        <target>In Editing</target>
+    </trans-unit>
+    <trans-unit id="common.queue.long.submissionsInReview">
+      <source>common.queue.long.submissionsInReview</source>
+        <target>Submissions in Review</target>
+    </trans-unit>
+    <trans-unit id="common.queue.short.submissionsInReview">
+      <source>common.queue.short.submissionsInReview</source>
+        <target>In Review</target>
+    </trans-unit>
+    <trans-unit id="common.queue.long.submissionsArchives">
+      <source>common.queue.long.submissionsArchives</source>
+        <target>Archives</target>
+    </trans-unit>
+    <trans-unit id="common.queue.short.submissionsArchives">
+      <source>common.queue.short.submissionsArchives</source>
+        <target>Archives</target>
+    </trans-unit>
+    <trans-unit id="common.queue.long.active">
+      <source>common.queue.long.active</source>
+        <target>Active</target>
+    </trans-unit>
+    <trans-unit id="common.queue.short.active">
+      <source>common.queue.short.active</source>
+        <target>Active</target>
+    </trans-unit>
+    <trans-unit id="common.queue.long.completed">
+      <source>common.queue.long.completed</source>
+        <target>Archive</target>
+    </trans-unit>
+    <trans-unit id="common.queue.short.completed">
+      <source>common.queue.short.completed</source>
+        <target>Archive</target>
+    </trans-unit>
+    <trans-unit id="section.section">
+      <source>section.section</source>
+        <target>Section</target>
+    </trans-unit>
+    <trans-unit id="section.sections">
+      <source>section.sections</source>
+        <target>Sections</target>
+    </trans-unit>
+    <trans-unit id="section.title">
+      <source>section.title</source>
+        <target>Section title</target>
+    </trans-unit>
+    <trans-unit id="section.abbreviation">
+      <source>section.abbreviation</source>
+        <target>Abbreviation</target>
+    </trans-unit>
+    <trans-unit id="section.abbreviation.example">
+      <source>section.abbreviation.example</source>
+        <target>(For example, Articles=ART)</target>
+    </trans-unit>
+    <trans-unit id="article.article">
+      <source>article.article</source>
+        <target>Article</target>
+    </trans-unit>
+    <trans-unit id="article.articles">
+      <source>article.articles</source>
+        <target>Articles</target>
+    </trans-unit>
+    <trans-unit id="article.submissionId">
+      <source>article.submissionId</source>
+        <target>Submission ID</target>
+    </trans-unit>
+    <trans-unit id="article.title">
+      <source>article.title</source>
+        <target>Title</target>
+    </trans-unit>
+    <trans-unit id="article.authors">
+      <source>article.authors</source>
+        <target>Authors</target>
+    </trans-unit>
+    <trans-unit id="article.indexingInformation">
+      <source>article.indexingInformation</source>
+        <target>Indexing Information</target>
+    </trans-unit>
+    <trans-unit id="article.metadata">
+      <source>article.metadata</source>
+        <target>Metadata</target>
+    </trans-unit>
+    <trans-unit id="article.journalSection">
+      <source>article.journalSection</source>
+        <target>Journal Section</target>
+    </trans-unit>
+    <trans-unit id="article.file">
+      <source>article.file</source>
+        <target>File</target>
+    </trans-unit>
+    <trans-unit id="article.suppFile">
+      <source>article.suppFile</source>
+        <target>Supplementary File</target>
+    </trans-unit>
+    <trans-unit id="article.suppFiles">
+      <source>article.suppFiles</source>
+        <target>Supplementary File(s)</target>
+    </trans-unit>
+    <trans-unit id="article.suppFilesAbbrev">
+      <source>article.suppFilesAbbrev</source>
+        <target>Supp. files</target>
+    </trans-unit>
+    <trans-unit id="article.discipline">
+      <source>article.discipline</source>
+        <target>Academic discipline and sub-disciplines</target>
+    </trans-unit>
+    <trans-unit id="article.subject">
+      <source>article.subject</source>
+        <target>Keywords</target>
+    </trans-unit>
+    <trans-unit id="article.coverage">
+      <source>article.coverage</source>
+        <target>Coverage</target>
+    </trans-unit>
+    <trans-unit id="article.type">
+      <source>article.type</source>
+        <target>Type, method or approach</target>
+    </trans-unit>
+    <trans-unit id="article.language">
+      <source>article.language</source>
+        <target>Language</target>
+    </trans-unit>
+    <trans-unit id="article.sectionEditor">
+      <source>article.sectionEditor</source>
+        <target>SE</target>
+    </trans-unit>
+    <trans-unit id="article.commentsToEditor">
+      <source>article.commentsToEditor</source>
+        <target>Author comments</target>
+    </trans-unit>
+    <trans-unit id="article.submission">
+      <source>article.submission</source>
+        <target>Submission</target>
+    </trans-unit>
+    <trans-unit id="article.submissions">
+      <source>article.submissions</source>
+        <target>Submissions</target>
+    </trans-unit>
+    <trans-unit id="article.details">
+      <source>article.details</source>
+        <target>Details</target>
+    </trans-unit>
+    <trans-unit id="article.abstract">
+      <source>article.abstract</source>
+        <target>Abstract</target>
+    </trans-unit>
+    <trans-unit id="article.coverPage.altText">
+      <source>article.coverPage.altText</source>
+        <target>Cover Image</target>
+    </trans-unit>
+    <trans-unit id="article.accessLogoOpen.altText">
+      <source>article.accessLogoOpen.altText</source>
+        <target>Open Access</target>
+    </trans-unit>
+    <trans-unit id="article.accessLogoRestricted.altText">
+      <source>article.accessLogoRestricted.altText</source>
+        <target>Restricted Access</target>
+    </trans-unit>
+    <trans-unit id="article.comments.sectionDefault">
+      <source>article.comments.sectionDefault</source>
+        <target>Default</target>
+    </trans-unit>
+    <trans-unit id="article.comments.disable">
+      <source>article.comments.disable</source>
+        <target>Disable</target>
+    </trans-unit>
+    <trans-unit id="article.comments.enable">
+      <source>article.comments.enable</source>
+        <target>Enable</target>
+    </trans-unit>
+    <trans-unit id="article.fontSize">
+      <source>article.fontSize</source>
+        <target>Font Size</target>
+    </trans-unit>
+    <trans-unit id="article.fontSize.small.altText">
+      <source>article.fontSize.small.altText</source>
+        <target>Small</target>
+    </trans-unit>
+    <trans-unit id="article.fontSize.medium.altText">
+      <source>article.fontSize.medium.altText</source>
+        <target>Medium</target>
+    </trans-unit>
+    <trans-unit id="article.fontSize.large.altText">
+      <source>article.fontSize.large.altText</source>
+        <target>Large</target>
+    </trans-unit>
+    <trans-unit id="article.return">
+      <source>article.return</source>
+        <target>Return to Article Details</target>
+    </trans-unit>
+    <trans-unit id="submission.submissionEditing">
+      <source>submission.submissionEditing</source>
+        <target>Submission Editing</target>
+    </trans-unit>
+    <trans-unit id="submission.changeSection">
+      <source>submission.changeSection</source>
+        <target>Change to</target>
+    </trans-unit>
+    <trans-unit id="submission.sent">
+      <source>submission.sent</source>
+        <target>Sent</target>
+    </trans-unit>
+    <trans-unit id="submission.editorDecision">
+      <source>submission.editorDecision</source>
+        <target>Editor Decision</target>
+    </trans-unit>
+    <trans-unit id="submission.round">
+      <source>submission.round</source>
+        <target>Round&nbsp;{$round}</target>
+    </trans-unit>
+    <trans-unit id="submission.editorReview">
+      <source>submission.editorReview</source>
+        <target>Editor Review</target>
+    </trans-unit>
+    <trans-unit id="submission.notifyAuthor">
+      <source>submission.notifyAuthor</source>
+        <target>Notify Author</target>
+    </trans-unit>
+    <trans-unit id="submission.notifyEditor">
+      <source>submission.notifyEditor</source>
+        <target>Notify Editor</target>
+    </trans-unit>
+    <trans-unit id="submission.editorAuthorRecord">
+      <source>submission.editorAuthorRecord</source>
+        <target>Editor/Author Email Record</target>
+    </trans-unit>
+    <trans-unit id="submission.reviewersVersion">
+      <source>submission.reviewersVersion</source>
+        <target>Reviewer's annotated version of file</target>
+    </trans-unit>
+    <trans-unit id="submission.postReviewVersion">
+      <source>submission.postReviewVersion</source>
+        <target>Post-review version of file</target>
+    </trans-unit>
+    <trans-unit id="submission.editorVersion">
+      <source>submission.editorVersion</source>
+        <target>Editor Version</target>
+    </trans-unit>
+    <trans-unit id="submission.authorsRevisedVersion">
+      <source>submission.authorsRevisedVersion</source>
+        <target>Author's revised version of file</target>
+    </trans-unit>
+    <trans-unit id="submission.authorVersion">
+      <source>submission.authorVersion</source>
+        <target>Author Version</target>
+    </trans-unit>
+    <trans-unit id="submission.copyediting">
+      <source>submission.copyediting</source>
+        <target>Copyediting</target>
+    </trans-unit>
+    <trans-unit id="submission.copyedit">
+      <source>submission.copyedit</source>
+        <target>Copyedit</target>
+    </trans-unit>
+    <trans-unit id="submission.proofreading">
+      <source>submission.proofreading</source>
+        <target>Proofreading</target>
+    </trans-unit>
+    <trans-unit id="submission.scheduling">
+      <source>submission.scheduling</source>
+        <target>Scheduling</target>
+    </trans-unit>
+    <trans-unit id="submission.scheduledIn">
+      <source>submission.scheduledIn</source>
+        <target>Scheduled for publication in {$issueName}.</target>
+    </trans-unit>
+    <trans-unit id="submission.scheduledIn.tba">
+      <source>submission.scheduledIn.tba</source>
+        <target>(TBA)</target>
+    </trans-unit>
+    <trans-unit id="submissions.sec">
+      <source>submissions.sec</source>
+        <target>Sec</target>
+    </trans-unit>
+    <trans-unit id="submissions.step1">
+      <source>submissions.step1</source>
+        <target>Step 1</target>
+    </trans-unit>
+    <trans-unit id="submissions.step3">
+      <source>submissions.step3</source>
+        <target>Step 3</target>
+    </trans-unit>
+    <trans-unit id="submissions.queuedReview">
+      <source>submissions.queuedReview</source>
+        <target>In Review</target>
+    </trans-unit>
+    <trans-unit id="submissions.scheduled">
+      <source>submissions.scheduled</source>
+        <target>Scheduled</target>
+    </trans-unit>
+    <trans-unit id="submissions.published">
+      <source>submissions.published</source>
+        <target>Published</target>
+    </trans-unit>
+    <trans-unit id="submissions.initial">
+      <source>submissions.initial</source>
+        <target>Initial</target>
+    </trans-unit>
+    <trans-unit id="submissions.proofread">
+      <source>submissions.proofread</source>
+        <target>Proofread</target>
+    </trans-unit>
+    <trans-unit id="submissions.initialProof">
+      <source>submissions.initialProof</source>
+        <target>Initial Proof</target>
+    </trans-unit>
+    <trans-unit id="submissions.postAuthor">
+      <source>submissions.postAuthor</source>
+        <target>Post-Author</target>
+    </trans-unit>
+    <trans-unit id="submissions.reviewRound">
+      <source>submissions.reviewRound</source>
+        <target>Review Round</target>
+    </trans-unit>
+    <trans-unit id="submissions.proof">
+      <source>submissions.proof</source>
+        <target>Proof</target>
+    </trans-unit>
+    <trans-unit id="submissions.editorDecision">
+      <source>submissions.editorDecision</source>
+        <target>Editor Decision</target>
+    </trans-unit>
+    <trans-unit id="submissions.editorRuling">
+      <source>submissions.editorRuling</source>
+        <target>Editor Ruling</target>
+    </trans-unit>
+    <trans-unit id="submission.eventLog">
+      <source>submission.eventLog</source>
+        <target>Event Log</target>
+    </trans-unit>
+    <trans-unit id="submissions.copyeditComplete">
+      <source>submissions.copyeditComplete</source>
+        <target>Copyedited</target>
+    </trans-unit>
+    <trans-unit id="submissions.layoutComplete">
+      <source>submissions.layoutComplete</source>
+        <target>Layout edited</target>
+    </trans-unit>
+    <trans-unit id="submissions.proofreadingComplete">
+      <source>submissions.proofreadingComplete</source>
+        <target>Proofread</target>
+    </trans-unit>
+    <trans-unit id="journal.currentIssue">
+      <source>journal.currentIssue</source>
+        <target>Current Issue</target>
+    </trans-unit>
+    <trans-unit id="journal.journals">
+      <source>journal.journals</source>
+        <target>Journals</target>
+    </trans-unit>
+    <trans-unit id="journal.path">
+      <source>journal.path</source>
+        <target>Path</target>
+    </trans-unit>
+    <trans-unit id="context.context">
+      <source>context.context</source>
+        <target>Journal</target>
+    </trans-unit>
+    <trans-unit id="journal.issn">
+      <source>journal.issn</source>
+        <target>ISSN</target>
+    </trans-unit>
+    <trans-unit id="journal.viewAllIssues">
+      <source>journal.viewAllIssues</source>
+        <target>View All Issues</target>
+    </trans-unit>
+    <trans-unit id="user.noRoles.selectUsersWithoutRoles">
+      <source>user.noRoles.selectUsersWithoutRoles</source>
+        <target>Include users with no roles in this journal.</target>
+    </trans-unit>
+    <trans-unit id="user.profile.profileImage">
+      <source>user.profile.profileImage</source>
+        <target>Profile Image</target>
+    </trans-unit>
+    <trans-unit id="user.showAllJournals">
+      <source>user.showAllJournals</source>
+        <target>Show My Journals</target>
+    </trans-unit>
+    <trans-unit id="user.registerForOtherJournals">
+      <source>user.registerForOtherJournals</source>
+        <target>Register for Other Journals</target>
+    </trans-unit>
+    <trans-unit id="user.reviewerPrompt">
+      <source>user.reviewerPrompt</source>
+        <target>Would you be willing to review submissions to this journal?</target>
+    </trans-unit>
+    <trans-unit id="user.reviewerPrompt.userGroup">
+      <source>user.reviewerPrompt.userGroup</source>
+        <target>Yes, request the {$userGroup} role.</target>
+    </trans-unit>
+    <trans-unit id="user.reviewerPrompt.optin">
+      <source>user.reviewerPrompt.optin</source>
+        <target>Yes, I would like to be contacted with requests to review submissions to this journal.</target>
+    </trans-unit>
+    <trans-unit id="user.register.contextsPrompt">
+      <source>user.register.contextsPrompt</source>
+        <target>Which journals on this site would you like to register with?</target>
+    </trans-unit>
+    <trans-unit id="user.register.otherContextRoles">
+      <source>user.register.otherContextRoles</source>
+        <target>Request the following roles.</target>
+    </trans-unit>
+    <trans-unit id="user.register.noContextReviewerInterests">
+      <source>user.register.noContextReviewerInterests</source>
+        <target>If you requested to be a reviewer on any journal, please enter your subject interests.</target>
+    </trans-unit>
+    <trans-unit id="user.myJournals">
+      <source>user.myJournals</source>
+        <target>My Journals</target>
+    </trans-unit>
+    <trans-unit id="user.manageMySubscriptions">
+      <source>user.manageMySubscriptions</source>
+        <target>Manage My Subscriptions</target>
+    </trans-unit>
+    <trans-unit id="user.noRoles.chooseJournal">
+      <source>user.noRoles.chooseJournal</source>
+        <target>Your account is not currently associated with any journals. Please choose a journal:</target>
+    </trans-unit>
+    <trans-unit id="user.noRoles.noRolesForJournal">
+      <source>user.noRoles.noRolesForJournal</source>
+        <target>Your account does not currently have any roles for this journal. Please choose from the actions below:</target>
+    </trans-unit>
+    <trans-unit id="user.noRoles.submitArticle">
+      <source>user.noRoles.submitArticle</source>
+        <target>Submit a Proposal</target>
+    </trans-unit>
+    <trans-unit id="user.noRoles.submitArticleRegClosed">
+      <source>user.noRoles.submitArticleRegClosed</source>
+        <target>Submit an Article: Author registration is currently disabled.</target>
+    </trans-unit>
+    <trans-unit id="user.noRoles.regReviewer">
+      <source>user.noRoles.regReviewer</source>
+        <target>Register as a Reviewer</target>
+    </trans-unit>
+    <trans-unit id="user.noRoles.regReviewerClosed">
+      <source>user.noRoles.regReviewerClosed</source>
+        <target>Register as a Reviewer: Reviewer registration is currently disabled.</target>
+    </trans-unit>
+    <trans-unit id="user.role.manager">
+      <source>user.role.manager</source>
+        <target>Journal Manager</target>
+    </trans-unit>
+    <trans-unit id="user.role.subEditor">
+      <source>user.role.subEditor</source>
+        <target>Section Editor</target>
+    </trans-unit>
+    <trans-unit id="user.role.subscriptionManager">
+      <source>user.role.subscriptionManager</source>
+        <target>Subscription Manager</target>
+    </trans-unit>
+    <trans-unit id="user.role.managers">
+      <source>user.role.managers</source>
+        <target>Journal Managers</target>
+    </trans-unit>
+    <trans-unit id="user.role.subEditors">
+      <source>user.role.subEditors</source>
+        <target>Section Editors</target>
+    </trans-unit>
+    <trans-unit id="user.role.subscriptionManagers">
+      <source>user.role.subscriptionManagers</source>
+        <target>Subscription Managers</target>
+    </trans-unit>
+    <trans-unit id="user.role.journalAssistant">
+      <source>user.role.journalAssistant</source>
+        <target>Journal Assistant</target>
+    </trans-unit>
+    <trans-unit id="user.role.journalAssistants">
+      <source>user.role.journalAssistants</source>
+        <target>Journal Assistants</target>
+    </trans-unit>
+    <trans-unit id="issue.issue">
+      <source>issue.issue</source>
+        <target>Issue</target>
+    </trans-unit>
+    <trans-unit id="issue.issues">
+      <source>issue.issues</source>
+        <target>Issues</target>
+    </trans-unit>
+    <trans-unit id="issue.title">
+      <source>issue.title</source>
+        <target>Title</target>
+    </trans-unit>
+    <trans-unit id="issue.volume">
+      <source>issue.volume</source>
+        <target>Volume</target>
+    </trans-unit>
+    <trans-unit id="issue.number">
+      <source>issue.number</source>
+        <target>Number</target>
+    </trans-unit>
+    <trans-unit id="issue.vol">
+      <source>issue.vol</source>
+        <target>Vol</target>
+    </trans-unit>
+    <trans-unit id="issue.no">
+      <source>issue.no</source>
+        <target>No</target>
+    </trans-unit>
+    <trans-unit id="issue.year">
+      <source>issue.year</source>
+        <target>Year</target>
+    </trans-unit>
+    <trans-unit id="issue.noIssues">
+      <source>issue.noIssues</source>
+        <target>No Issues</target>
+    </trans-unit>
+    <trans-unit id="issue.toc">
+      <source>issue.toc</source>
+        <target>Table of Contents</target>
+    </trans-unit>
+    <trans-unit id="issue.abstract">
+      <source>issue.abstract</source>
+        <target>Abstract</target>
+    </trans-unit>
+    <trans-unit id="issue.coverPage.altText">
+      <source>issue.coverPage.altText</source>
+        <target>Cover Page</target>
+    </trans-unit>
+    <trans-unit id="issue.fullIssue">
+      <source>issue.fullIssue</source>
+        <target>Full Issue</target>
+    </trans-unit>
+    <trans-unit id="issue.nonpdf.title">
+      <source>issue.nonpdf.title</source>
+        <target>Issue Download</target>
+    </trans-unit>
+    <trans-unit id="issue.viewIssue">
+      <source>issue.viewIssue</source>
+        <target>View Issue</target>
+    </trans-unit>
+    <trans-unit id="issue.return">
+      <source>issue.return</source>
+        <target>Return to Issue Details</target>
+    </trans-unit>
+    <trans-unit id="subscriptionTypes.currency">
+      <source>subscriptionTypes.currency</source>
+        <target>Currency</target>
+    </trans-unit>
+    <trans-unit id="subscriptionTypes.year">
+      <source>subscriptionTypes.year</source>
+        <target>year</target>
+    </trans-unit>
+    <trans-unit id="subscriptionTypes.years">
+      <source>subscriptionTypes.years</source>
+        <target>years</target>
+    </trans-unit>
+    <trans-unit id="subscriptionTypes.month">
+      <source>subscriptionTypes.month</source>
+        <target>month</target>
+    </trans-unit>
+    <trans-unit id="subscriptionTypes.months">
+      <source>subscriptionTypes.months</source>
+        <target>months</target>
+    </trans-unit>
+    <trans-unit id="subscriptionTypes.nonExpiring">
+      <source>subscriptionTypes.nonExpiring</source>
+        <target>Non-expiring</target>
+    </trans-unit>
+    <trans-unit id="subscriptionTypes.format">
+      <source>subscriptionTypes.format</source>
+        <target>Format</target>
+    </trans-unit>
+    <trans-unit id="subscriptionTypes.format.online">
+      <source>subscriptionTypes.format.online</source>
+        <target>Online</target>
+    </trans-unit>
+    <trans-unit id="subscriptionTypes.format.print">
+      <source>subscriptionTypes.format.print</source>
+        <target>Print</target>
+    </trans-unit>
+    <trans-unit id="subscriptionTypes.format.printOnline">
+      <source>subscriptionTypes.format.printOnline</source>
+        <target>Print and Online</target>
+    </trans-unit>
+    <trans-unit id="subscriptions.inactive">
+      <source>subscriptions.inactive</source>
+        <target>Inactive</target>
+    </trans-unit>
+    <trans-unit id="subscriptions.status">
+      <source>subscriptions.status</source>
+        <target>Status</target>
+    </trans-unit>
+    <trans-unit id="subscriptions.status.active">
+      <source>subscriptions.status.active</source>
+        <target>Active</target>
+    </trans-unit>
+    <trans-unit id="subscriptions.status.needsInformation">
+      <source>subscriptions.status.needsInformation</source>
+        <target>Needs Information</target>
+    </trans-unit>
+    <trans-unit id="subscriptions.status.needsApproval">
+      <source>subscriptions.status.needsApproval</source>
+        <target>Needs Approval</target>
+    </trans-unit>
+    <trans-unit id="subscriptions.status.awaitingManualPayment">
+      <source>subscriptions.status.awaitingManualPayment</source>
+        <target>Awaiting Manual Payment</target>
+    </trans-unit>
+    <trans-unit id="subscriptions.status.awaitingOnlinePayment">
+      <source>subscriptions.status.awaitingOnlinePayment</source>
+        <target>Awaiting Online Payment</target>
+    </trans-unit>
+    <trans-unit id="subscriptions.status.noSubscription">
+      <source>subscriptions.status.noSubscription</source>
+        <target>You do not have an active subscription.</target>
+    </trans-unit>
+    <trans-unit id="subscriptions.status.other">
+      <source>subscriptions.status.other</source>
+        <target>Other, See Notes</target>
+    </trans-unit>
+    <trans-unit id="subscriptions.individualDescription">
+      <source>subscriptions.individualDescription</source>
+        <target>Individual subscriptions require login to access subscription content.</target>
+    </trans-unit>
+    <trans-unit id="subscriptions.institutionalDescription">
+      <source>subscriptions.institutionalDescription</source>
+        <target>Institutional subscriptions do not require login. The user's domain and/or IP address is used to provide access to subscription content.</target>
+    </trans-unit>
+    <trans-unit id="subscriptions.institutionalOnlinePaymentDescription">
+      <source>subscriptions.institutionalOnlinePaymentDescription</source>
+        <target><strong>Note:</strong> Institutional subscriptions purchased online require approval of the domain and IP ranges before the subscription is activated.</target>
+    </trans-unit>
+    <trans-unit id="submission.event.general.defaultEvent">
+      <source>submission.event.general.defaultEvent</source>
+        <target>Submission event</target>
+    </trans-unit>
+    <trans-unit id="submission.event.submissionSubmitted">
+      <source>submission.event.submissionSubmitted</source>
+        <target>Article submitted</target>
+    </trans-unit>
+    <trans-unit id="submission.event.general.issueScheduled">
+      <source>submission.event.general.issueScheduled</source>
+        <target>Submission sent to issue scheduling queue</target>
+    </trans-unit>
+    <trans-unit id="submission.event.general.issueAssigned">
+      <source>submission.event.general.issueAssigned</source>
+        <target>Submission assigned to issue</target>
+    </trans-unit>
+    <trans-unit id="submission.event.general.articlePublished">
+      <source>submission.event.general.articlePublished</source>
+        <target>Article published</target>
+    </trans-unit>
+    <trans-unit id="submission.event.author.authorRevision">
+      <source>submission.event.author.authorRevision</source>
+        <target>Author revision submitted</target>
+    </trans-unit>
+    <trans-unit id="submission.event.general.authorRevision">
+      <source>submission.event.general.authorRevision</source>
+        <target>Author revision file updated</target>
+    </trans-unit>
+    <trans-unit id="submission.event.editor.editorAssigned">
+      <source>submission.event.editor.editorAssigned</source>
+        <target>Editor assigned to submission</target>
+    </trans-unit>
+    <trans-unit id="submission.event.editor.editorUnassigned">
+      <source>submission.event.editor.editorUnassigned</source>
+        <target>Editor unassigned from submission</target>
+    </trans-unit>
+    <trans-unit id="submission.event.editor.editorDecision">
+      <source>submission.event.editor.editorDecision</source>
+        <target>Editor decision submitted</target>
+    </trans-unit>
+    <trans-unit id="submission.event.editor.editorFile">
+      <source>submission.event.editor.editorFile</source>
+        <target>Editor file updated</target>
+    </trans-unit>
+    <trans-unit id="submission.event.editor.submissionArchived">
+      <source>submission.event.editor.submissionArchived</source>
+        <target>Submission sent to archive</target>
+    </trans-unit>
+    <trans-unit id="submission.event.editor.submissionRestored">
+      <source>submission.event.editor.submissionRestored</source>
+        <target>Submission restored from archive</target>
+    </trans-unit>
+    <trans-unit id="submission.event.copyedit.copyeditorAssigned">
+      <source>submission.event.copyedit.copyeditorAssigned</source>
+        <target>Copyeditor assigned to submission</target>
+    </trans-unit>
+    <trans-unit id="submission.event.copyedit.copyeditorUnassigned">
+      <source>submission.event.copyedit.copyeditorUnassigned</source>
+        <target>Copyeditor unassigned from submission</target>
+    </trans-unit>
+    <trans-unit id="submission.event.copyedit.copyeditInitiated">
+      <source>submission.event.copyedit.copyeditInitiated</source>
+        <target>Copyedit assignment initiated</target>
+    </trans-unit>
+    <trans-unit id="submission.event.copyedit.copyeditRevision">
+      <source>submission.event.copyedit.copyeditRevision</source>
+        <target>Copyeditor revisions file updated</target>
+    </trans-unit>
+    <trans-unit id="submission.event.copyedit.copyeditInitialCompleted">
+      <source>submission.event.copyedit.copyeditInitialCompleted</source>
+        <target>Initial copyedit completed</target>
+    </trans-unit>
+    <trans-unit id="submission.event.copyedit.copyeditFinalCompleted">
+      <source>submission.event.copyedit.copyeditFinalCompleted</source>
+        <target>Final copyedit completed</target>
+    </trans-unit>
+    <trans-unit id="submission.event.copyedit.copyeditSetFile">
+      <source>submission.event.copyedit.copyeditSetFile</source>
+        <target>Copyedit file updated</target>
+    </trans-unit>
+    <trans-unit id="submission.event.proofread.proofreaderAssigned">
+      <source>submission.event.proofread.proofreaderAssigned</source>
+        <target>Proofreader assigned to submission</target>
+    </trans-unit>
+    <trans-unit id="submission.event.proofread.proofreaderUnassigned">
+      <source>submission.event.proofread.proofreaderUnassigned</source>
+        <target>Proofreader unassigned from submission</target>
+    </trans-unit>
+    <trans-unit id="submission.event.proofread.proofreadInitiated">
+      <source>submission.event.proofread.proofreadInitiated</source>
+        <target>Proofread assignment initiated</target>
+    </trans-unit>
+    <trans-unit id="submission.event.proofread.proofreadRevision">
+      <source>submission.event.proofread.proofreadRevision</source>
+        <target>Proofreader revisions file updated</target>
+    </trans-unit>
+    <trans-unit id="submission.event.proofread.proofreadCompleted">
+      <source>submission.event.proofread.proofreadCompleted</source>
+        <target>Proofread assignment completed</target>
+    </trans-unit>
+    <trans-unit id="submission.event.layout.layoutEditorAssigned">
+      <source>submission.event.layout.layoutEditorAssigned</source>
+        <target>Layout editor assigned to submission</target>
+    </trans-unit>
+    <trans-unit id="submission.event.layout.layoutEditorUnassigned">
+      <source>submission.event.layout.layoutEditorUnassigned</source>
+        <target>Layout editor unassigned from submission</target>
+    </trans-unit>
+    <trans-unit id="submission.event.layout.layoutInitiated">
+      <source>submission.event.layout.layoutInitiated</source>
+        <target>Layout assignment initiated</target>
+    </trans-unit>
+    <trans-unit id="submission.event.layout.layoutGalleyCreated">
+      <source>submission.event.layout.layoutGalleyCreated</source>
+        <target>Layout galley updated</target>
+    </trans-unit>
+    <trans-unit id="submission.event.layout.layoutComplete">
+      <source>submission.event.layout.layoutComplete</source>
+        <target>Layout assignment completed</target>
+    </trans-unit>
+    <trans-unit id="reader.subscribersOnly">
+      <source>reader.subscribersOnly</source>
+        <target>Subscribers Only</target>
+    </trans-unit>
+    <trans-unit id="reader.subscriptionRequiredLoginText">
+      <source>reader.subscriptionRequiredLoginText</source>
+        <target>Subscription required to access item. To verify subscription, log in to journal.</target>
+    </trans-unit>
+    <trans-unit id="reader.openAccess">
+      <source>reader.openAccess</source>
+        <target>Open Access</target>
+    </trans-unit>
+    <trans-unit id="reader.subscriptionAccess">
+      <source>reader.subscriptionAccess</source>
+        <target>Requires Subscription</target>
+    </trans-unit>
+    <trans-unit id="reader.subscriptionOrFeeAccess">
+      <source>reader.subscriptionOrFeeAccess</source>
+        <target>Requires Subscription or Fee</target>
+    </trans-unit>
+    <trans-unit id="reader.purchasePrice">
+      <source>reader.purchasePrice</source>
+        <target>({$currency} {$price})</target>
+    </trans-unit>
+    <trans-unit id="comments.commentsOnArticle">
+      <source>comments.commentsOnArticle</source>
+        <target>Comments on this article</target>
+    </trans-unit>
+    <trans-unit id="comments.authenticated">
+      <source>comments.authenticated</source>
+        <target>by <a href="{$publicProfileUrl}" target="_parent">{$userName}</a></target>
+    </trans-unit>
+    <trans-unit id="search.results.orderBy">
+      <source>search.results.orderBy</source>
+        <target>Order results by</target>
+    </trans-unit>
+    <trans-unit id="search.results.orderBy.article">
+      <source>search.results.orderBy.article</source>
+        <target>Article Title</target>
+    </trans-unit>
+    <trans-unit id="search.results.orderBy.author">
+      <source>search.results.orderBy.author</source>
+        <target>Author</target>
+    </trans-unit>
+    <trans-unit id="search.results.orderBy.date">
+      <source>search.results.orderBy.date</source>
+        <target>Publication Date</target>
+    </trans-unit>
+    <trans-unit id="search.results.orderBy.issue">
+      <source>search.results.orderBy.issue</source>
+        <target>Issue</target>
+    </trans-unit>
+    <trans-unit id="search.results.orderBy.journal">
+      <source>search.results.orderBy.journal</source>
+        <target>Journal Title</target>
+    </trans-unit>
+    <trans-unit id="search.results.orderBy.popularityAll">
+      <source>search.results.orderBy.popularityAll</source>
+        <target>Popularity (All Time)</target>
+    </trans-unit>
+    <trans-unit id="search.results.orderBy.popularityMonth">
+      <source>search.results.orderBy.popularityMonth</source>
+        <target>Popularity (Last Month)</target>
+    </trans-unit>
+    <trans-unit id="search.results.orderBy.relevance">
+      <source>search.results.orderBy.relevance</source>
+        <target>Relevance</target>
+    </trans-unit>
+    <trans-unit id="search.results.orderDir.asc">
+      <source>search.results.orderDir.asc</source>
+        <target>Ascending</target>
+    </trans-unit>
+    <trans-unit id="search.results.orderDir.desc">
+      <source>search.results.orderDir.desc</source>
+        <target>Descending</target>
+    </trans-unit>
+    <trans-unit id="search.results.similarDocuments">
+      <source>search.results.similarDocuments</source>
+        <target>similar documents</target>
+    </trans-unit>
+    <trans-unit id="admin.auth.defaultSourceDescription">
+      <source>admin.auth.defaultSourceDescription</source>
+        <target><p>Specifying a default authentication source other than OJS has the following effects:</p>
+<ul>
+	<li>If a user attempts to register a new account with this site with a username that exists on the authentication source (but not in the OJS database), the registration attempt is only allowed if the supplied password is valid for that user account.</li>
+</ul></target>
+    </trans-unit>
+    <trans-unit id="admin.overwriteConfigFileInstructions">
+      <source>admin.overwriteConfigFileInstructions</source>
+        <target><h4>NOTE!</h4>
+<p>The system could not automatically overwrite the configuration file. To apply your configuration changes you must open <tt>config.inc.php</tt> in a suitable text editor and replace its contents with the contents of the text field below.</p></target>
+    </trans-unit>
+    <trans-unit id="subscriptionManager.subscriptionManagement">
+      <source>subscriptionManager.subscriptionManagement</source>
+        <target>Subscription Management</target>
+    </trans-unit>
+    <trans-unit id="subscriptionManager.individualSubscriptions">
+      <source>subscriptionManager.individualSubscriptions</source>
+        <target>Individual Subscriptions</target>
+    </trans-unit>
+    <trans-unit id="subscriptionManager.institutionalSubscriptions">
+      <source>subscriptionManager.institutionalSubscriptions</source>
+        <target>Institutional Subscriptions</target>
+    </trans-unit>
+    <trans-unit id="subscriptionManager.subscriptionTypes">
+      <source>subscriptionManager.subscriptionTypes</source>
+        <target>Subscription Types</target>
+    </trans-unit>
+    <trans-unit id="plugins.categories.viewableFiles">
+      <source>plugins.categories.viewableFiles</source>
+        <target>Article Galley Plugins</target>
+    </trans-unit>
+    <trans-unit id="plugins.categories.viewableFiles.description">
+      <source>plugins.categories.viewableFiles.description</source>
+        <target>Article Galley Plugins add support for displaying different document types as article galleys.</target>
+    </trans-unit>
+    <trans-unit id="plugins.categories.auth.description">
+      <source>plugins.categories.auth.description</source>
+        <target>Authorization Plugins allow Open Journal Systems to delegate user authentication tasks to other systems, such as LDAP servers.</target>
+    </trans-unit>
+    <trans-unit id="plugins.categories.generic.description">
+      <source>plugins.categories.generic.description</source>
+        <target>Generic plugins are used to extend Open Journal Systems in a variety of ways that are not supported by the other plugin categories.</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.lockssDescription">
+      <source>manager.setup.lockssDescription</source>
+        <target>
+	Open Journal Systems supports the LOCKSS (Lots of Copies Keep Stuff Safe) system to ensure a secure and permanent archive for journal content. If your journal has been accepted to archive content in the Global LOCKSS Network or participates in a Private LOCKSS Network other than the PKP PN, enable it here:
+</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.clockssDescription">
+      <source>manager.setup.clockssDescription</source>
+        <target>Open Journal Systems also supports the CLOCKSS (Controlled Lots of Copies Keep Stuff Safe) system to ensure a secure and permanent archive for the journal. If your journal signed a contract with the CLOCKSS Archive, enable it here:</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.porticoDescription">
+      <source>manager.setup.porticoDescription</source>
+        <target>Portico is a not-for-profit service committed to the preservation of digital publications, including e-journals, e-books, and digitized historical collections. If your journal signed a contract with Portico, enable it here:</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.authorCopyrightNotice.sample">
+      <source>manager.setup.authorCopyrightNotice.sample</source>
+        <target><h3>Proposed Creative Commons Copyright Notices</h3>
+<h4>1. Proposed Policy for Journals That Offer Open Access</h4>
+Authors who publish with this journal agree to the following terms:
+<ol type="a">
+	<li>Authors retain copyright and grant the journal right of first publication with the work simultaneously licensed under a <a target="_new" href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License</a> that allows others to share the work with an acknowledgement of the work's authorship and initial publication in this journal.</li>
+	<li>Authors are able to enter into separate, additional contractual arrangements for the non-exclusive distribution of the journal's published version of the work (e.g., post it to an institutional repository or publish it in a book), with an acknowledgement of its initial publication in this journal.</li>
+	<li>Authors are permitted and encouraged to post their work online (e.g., in institutional repositories or on their website) prior to and during the submission process, as it can lead to productive exchanges, as well as earlier and greater citation of published work (See <a target="_new" href="http://opcit.eprints.org/oacitation-biblio.html">The Effect of Open Access</a>).</li>
+</ol>
+
+<h4>2. Proposed Policy for Journals That Offer Delayed Open Access</h4>
+Authors who publish with this journal agree to the following terms:
+<ol type="a">
+	<li>Authors retain copyright and grant the journal right of first publication, with the work [SPECIFY PERIOD OF TIME] after publication simultaneously licensed under a <a target="_new" href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License</a> that allows others to share the work with an acknowledgement of the work's authorship and initial publication in this journal.</li>
+	 <li>Authors are able to enter into separate, additional contractual arrangements for the non-exclusive distribution of the journal's published version of the work (e.g., post it to an institutional repository or publish it in a book), with an acknowledgement of its initial publication in this journal.</li>
+	 <li>Authors are permitted and encouraged to post their work online (e.g., in institutional repositories or on their website) prior to and during the submission process, as it can lead to productive exchanges, as well as earlier and greater citation of published work (See <a target="_new" href="http://opcit.eprints.org/oacitation-biblio.html"> The Effect of Open Access</a>).</li>
+</ol></target>
+    </trans-unit>
+    <trans-unit id="manager.setup.basicEditorialStepsDescription">
+      <source>manager.setup.basicEditorialStepsDescription</source>
+        <target>Steps: Submission Queue &gt; Submission Review &gt; Submission Editing &gt; Table of Contents.<br /><br />
+Select a model for handling these aspects of the editorial process. (To designate a Managing Editor and Section Editors, go to Editors in Journal Management.)</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.referenceLinkingDescription">
+      <source>manager.setup.referenceLinkingDescription</source>
+        <target><p>To enable readers to locate online versions of the work cited by an author, the following options are available.</p>
+
+<ol>
+	<li><strong>Add a Reading Tool</strong><p>The Journal Manager can add "Find References" to the Reading Tools that accompany published items, which enables readers to paste a reference's title and then search pre-selected scholarly databases for the cited work.</p></li>
+	<li><strong>Embed Links in the References</strong><p>The Layout Editor can add a link to references that can be found online by using the following instructions (which can be edited).</p></li>
+</ol></target>
+    </trans-unit>
+    <trans-unit id="manager.people.confirmDisable">
+      <source>manager.people.confirmDisable</source>
+        <target>Disable this user? This will prevent the user from logging into the system.
+
+You may optionally provide the user with a reason for disabling their account.</target>
+    </trans-unit>
+    <trans-unit id="manager.people.noAdministrativeRights">
+      <source>manager.people.noAdministrativeRights</source>
+        <target>Sorry, you do not have administrative rights over this user. This may be because:
+		<ul>
+			<li>The user is a site administrator</li>
+			<li>The user is active in journals you do not manage</li>
+		</ul>
+	This task must be performed by a site administrator.
+	</target>
+    </trans-unit>
+    <trans-unit id="editor.submissionReview.notes">
+      <source>editor.submissionReview.notes</source>
+        <target>
+	<ol>
+	<li>Highlighted items indicate action is required by an editor, labelled as follows:
+		<ul>
+			<li class="highlightReviewerNotNotified">A Reviewer has been assigned but not notified by email</li>
+			<li class="highlightNoDecision">All Reviewers have returned with their comments, but no decision is recorded</li>
+			<li class="highlightRevisedCopyUploaded">Author has uploaded a revised manuscript</li>
+			<li class="highlightReviewerConfirmationOverdue">Reviewer is overdue to confirm peer review invitation</li>
+			<li class="highlightReviewerCompletionOverdue">Reviewer is overdue to complete review</li>
+		</ul>
+	</li>
+	<li>"Due" is filled in when reviewer accepts request to review; it displays number of weeks to review's due date or (-) weeks that it is overdue.</li>
+</ol></target>
+    </trans-unit>
+    <trans-unit id="editor.submissionEditing.notes">
+      <source>editor.submissionEditing.notes</source>
+        <target>
+	<ol>
+	<li>Highlighted items indicate action is required by an editor, labelled as follows:
+		<ul>
+			<li class="highlightCopyediting">An action is required in the copyediting stage</li>
+			<li class="highlightLayoutEditing">An action is required in the layout editing stage</li>
+			<li class="higlightProofreading">An action is required in the proofreading stage</li>
+		</ul>
+	</li>
+</ol></target>
+    </trans-unit>
+    <trans-unit id="sectionEditor.activeEditorialAssignments">
+      <source>sectionEditor.activeEditorialAssignments</source>
+        <target>Active Editorial Assignments</target>
+    </trans-unit>
+    <trans-unit id="sectionEditor.completedEditorialAssignments">
+      <source>sectionEditor.completedEditorialAssignments</source>
+        <target>Completed Editorial Assignments</target>
+    </trans-unit>
+    <trans-unit id="sectionEditor.noneAssigned">
+      <source>sectionEditor.noneAssigned</source>
+        <target>No submissions assigned.</target>
+    </trans-unit>
+    <trans-unit id="sectionEditor.copyedit.confirmRenotify">
+      <source>sectionEditor.copyedit.confirmRenotify</source>
+        <target>Notifying this copy editor again will restart their assignment. Are you sure you wish to do this?</target>
+    </trans-unit>
+    <trans-unit id="sectionEditor.author.confirmRenotify">
+      <source>sectionEditor.author.confirmRenotify</source>
+        <target>Notifying this author again will restart their assignment. Are you sure you wish to do this?</target>
+    </trans-unit>
+    <trans-unit id="sectionEditor.layout.confirmRenotify">
+      <source>sectionEditor.layout.confirmRenotify</source>
+        <target>Notifying this layout editor again will restart their assignment. Are you sure you wish to do this?</target>
+    </trans-unit>
+    <trans-unit id="sectionEditor.proofreader.confirmRenotify">
+      <source>sectionEditor.proofreader.confirmRenotify</source>
+        <target>Notifying this proofreader again will restart their assignment. Are you sure you wish to do this?</target>
+    </trans-unit>
+    <trans-unit id="sectionEditor.regrets.breadcrumb">
+      <source>sectionEditor.regrets.breadcrumb</source>
+        <target>Regrets</target>
+    </trans-unit>
+    <trans-unit id="sectionEditor.regrets.title">
+      <source>sectionEditor.regrets.title</source>
+        <target>#{$submissionId} Reviewer Regrets, Cancellations & Earlier Rounds</target>
+    </trans-unit>
+    <trans-unit id="sectionEditor.regrets">
+      <source>sectionEditor.regrets</source>
+        <target>Regrets</target>
+    </trans-unit>
+    <trans-unit id="sectionEditor.regrets.link">
+      <source>sectionEditor.regrets.link</source>
+        <target>View Regrets, Cancels, Previous Rounds</target>
+    </trans-unit>
+    <trans-unit id="sectionEditor.regrets.reviewRound">
+      <source>sectionEditor.regrets.reviewRound</source>
+        <target>Peer Review, Round {$round}</target>
+    </trans-unit>
+    <trans-unit id="sectionEditor.regrets.decisionRound">
+      <source>sectionEditor.regrets.decisionRound</source>
+        <target>Editor Decision, Round {$round}</target>
+    </trans-unit>
+    <trans-unit id="sectionEditor.regrets.regretsAndCancels">
+      <source>sectionEditor.regrets.regretsAndCancels</source>
+        <target>Reviewer Regrets & Cancellations</target>
+    </trans-unit>
+    <trans-unit id="sectionEditor.regrets.regret">
+      <source>sectionEditor.regrets.regret</source>
+        <target>Regret</target>
+    </trans-unit>
+    <trans-unit id="sectionEditor.regrets.result">
+      <source>sectionEditor.regrets.result</source>
+        <target>Result</target>
+    </trans-unit>
+    <trans-unit id="sectionEditor.review.enrollReviewer">
+      <source>sectionEditor.review.enrollReviewer</source>
+        <target>Enroll an Existing User As Reviewer</target>
+    </trans-unit>
+    <trans-unit id="sectionEditor.review.createReviewer">
+      <source>sectionEditor.review.createReviewer</source>
+        <target>Create New Reviewer</target>
+    </trans-unit>
+    <trans-unit id="layoutEditor.activeEditorialAssignments">
+      <source>layoutEditor.activeEditorialAssignments</source>
+        <target>Active Editorial Assignments</target>
+    </trans-unit>
+    <trans-unit id="layoutEditor.completedEditorialAssignments">
+      <source>layoutEditor.completedEditorialAssignments</source>
+        <target>Completed Editorial Assignments</target>
+    </trans-unit>
+    <trans-unit id="layoutEditor.noActiveAssignments">
+      <source>layoutEditor.noActiveAssignments</source>
+        <target>No active editorial assignments.</target>
+    </trans-unit>
+    <trans-unit id="layoutEditor.layoutEditingAssignments">
+      <source>layoutEditor.layoutEditingAssignments</source>
+        <target>Layout Editing Assignments</target>
+    </trans-unit>
+    <trans-unit id="layoutEditor.galley.uploadGalleyFormat">
+      <source>layoutEditor.galley.uploadGalleyFormat</source>
+        <target>Upload galley format</target>
+    </trans-unit>
+    <trans-unit id="layoutEditor.galley.replaceGalley">
+      <source>layoutEditor.galley.replaceGalley</source>
+        <target>Replace File</target>
+    </trans-unit>
+    <trans-unit id="layoutEditor.galley.uploadSuppFile">
+      <source>layoutEditor.galley.uploadSuppFile</source>
+        <target>Upload supplementary file</target>
+    </trans-unit>
+    <trans-unit id="submission.layout.imageInvalid">
+      <source>submission.layout.imageInvalid</source>
+        <target>Invalid image format. Accepted formats are .gif, .jpg, and .png.</target>
+    </trans-unit>
+    <trans-unit id="submission.layout.galley.remotelyHostedContent">
+      <source>submission.layout.galley.remotelyHostedContent</source>
+        <target>This galley will be available at a separate website.</target>
+    </trans-unit>
+    <trans-unit id="submission.layout.galley.remoteURL">
+      <source>submission.layout.galley.remoteURL</source>
+        <target>URL of remotely-hosted content</target>
+    </trans-unit>
+    <trans-unit id="reviewer.pendingReviews">
+      <source>reviewer.pendingReviews</source>
+        <target>Articles Pending Review</target>
+    </trans-unit>
+    <trans-unit id="reviewer.completedReviews">
+      <source>reviewer.completedReviews</source>
+        <target>Done</target>
+    </trans-unit>
+    <trans-unit id="reviewer.averageQuality">
+      <source>reviewer.averageQuality</source>
+        <target>Rating</target>
+    </trans-unit>
+    <trans-unit id="reviewer.article.fileToBeReviewed">
+      <source>reviewer.article.fileToBeReviewed</source>
+        <target>File to be reviewed</target>
+    </trans-unit>
+    <trans-unit id="reviewer.article.notifyTheEditor">
+      <source>reviewer.article.notifyTheEditor</source>
+        <target>Notify The Editor</target>
+    </trans-unit>
+    <trans-unit id="reviewer.article.canDoReview">
+      <source>reviewer.article.canDoReview</source>
+        <target>Will do the review</target>
+    </trans-unit>
+    <trans-unit id="reviewer.article.cannotDoReview">
+      <source>reviewer.article.cannotDoReview</source>
+        <target>Unable to do the review</target>
+    </trans-unit>
+    <trans-unit id="reviewer.article.restrictedFileAccess">
+      <source>reviewer.article.restrictedFileAccess</source>
+        <target>Submission will be made available, if and when reviewer agrees to undertake review</target>
+    </trans-unit>
+    <trans-unit id="reviewer.article.submissionEditor">
+      <source>reviewer.article.submissionEditor</source>
+        <target>Submission Editor</target>
+    </trans-unit>
+    <trans-unit id="reviewer.article.reviewerCommentsDescription">
+      <source>reviewer.article.reviewerCommentsDescription</source>
+        <target>Type or paste in review comments here</target>
+    </trans-unit>
+    <trans-unit id="reviewer.article.editorToEnter">
+      <source>reviewer.article.editorToEnter</source>
+        <target>Editor To Enter</target>
+    </trans-unit>
+    <trans-unit id="reviewer.article.sendReminder">
+      <source>reviewer.article.sendReminder</source>
+        <target>Send Reminder</target>
+    </trans-unit>
+    <trans-unit id="reviewer.article.automatic">
+      <source>reviewer.article.automatic</source>
+        <target>(Auto)</target>
+    </trans-unit>
+    <trans-unit id="reviewer.article.recommendation">
+      <source>reviewer.article.recommendation</source>
+        <target>Recommendation</target>
+    </trans-unit>
+    <trans-unit id="reviewer.article.submitReview">
+      <source>reviewer.article.submitReview</source>
+        <target>Submit Review To Editor</target>
+    </trans-unit>
+    <trans-unit id="reviewer.article.reviewerComments">
+      <source>reviewer.article.reviewerComments</source>
+        <target>Comments</target>
+    </trans-unit>
+    <trans-unit id="reviewer.article.uploadedFile">
+      <source>reviewer.article.uploadedFile</source>
+        <target>Uploaded files</target>
+    </trans-unit>
+    <trans-unit id="reviewer.article.reviewersAnnotatedVersion">
+      <source>reviewer.article.reviewersAnnotatedVersion</source>
+        <target>Version uploaded by reviewer</target>
+    </trans-unit>
+    <trans-unit id="reviewer.article.reviewersAnnotatedVersionDescription">
+      <source>reviewer.article.reviewersAnnotatedVersionDescription</source>
+        <target>(If you want to annotate the file, for the editor, save on your hard drive and use Browse/Upload.)</target>
+    </trans-unit>
+    <trans-unit id="reviewer.article.schedule.request">
+      <source>reviewer.article.schedule.request</source>
+        <target>Editor's Request</target>
+    </trans-unit>
+    <trans-unit id="reviewer.article.schedule.response">
+      <source>reviewer.article.schedule.response</source>
+        <target>Your Response</target>
+    </trans-unit>
+    <trans-unit id="reviewer.article.schedule.submitted">
+      <source>reviewer.article.schedule.submitted</source>
+        <target>Review Submitted</target>
+    </trans-unit>
+    <trans-unit id="reviewer.article.schedule.due">
+      <source>reviewer.article.schedule.due</source>
+        <target>Review Due</target>
+    </trans-unit>
+    <trans-unit id="reviewer.article.decision.accept">
+      <source>reviewer.article.decision.accept</source>
+        <target>Accept Submission</target>
+    </trans-unit>
+    <trans-unit id="reviewer.article.decision.pendingRevisions">
+      <source>reviewer.article.decision.pendingRevisions</source>
+        <target>Revisions Required</target>
+    </trans-unit>
+    <trans-unit id="reviewer.article.decision.resubmitHere">
+      <source>reviewer.article.decision.resubmitHere</source>
+        <target>Resubmit for Review</target>
+    </trans-unit>
+    <trans-unit id="reviewer.article.decision.resubmitElsewhere">
+      <source>reviewer.article.decision.resubmitElsewhere</source>
+        <target>Resubmit Elsewhere</target>
+    </trans-unit>
+    <trans-unit id="reviewer.article.decision.decline">
+      <source>reviewer.article.decision.decline</source>
+        <target>Decline Submission</target>
+    </trans-unit>
+    <trans-unit id="reviewer.article.decision.seeComments">
+      <source>reviewer.article.decision.seeComments</source>
+        <target>See Comments</target>
+    </trans-unit>
+    <trans-unit id="reviewer.article.schedule">
+      <source>reviewer.article.schedule</source>
+        <target>Schedule</target>
+    </trans-unit>
+    <trans-unit id="reviewer.article.submissionToBeReviewed">
+      <source>reviewer.article.submissionToBeReviewed</source>
+        <target>Submission To Be Reviewed</target>
+    </trans-unit>
+    <trans-unit id="reviewer.article.reviewSchedule">
+      <source>reviewer.article.reviewSchedule</source>
+        <target>Review Schedule</target>
+    </trans-unit>
+    <trans-unit id="reviewer.article.reviewSteps">
+      <source>reviewer.article.reviewSteps</source>
+        <target>Review Steps</target>
+    </trans-unit>
+    <trans-unit id="reviewer.article.reviewerGuidelines">
+      <source>reviewer.article.reviewerGuidelines</source>
+        <target>Reviewer Guidelines</target>
+    </trans-unit>
+    <trans-unit id="reviewer.article.reviewGuidelinesDescription">
+      <source>reviewer.article.reviewGuidelinesDescription</source>
+        <target>The Review Guidelines will provide reviewers with criteria for judging a submission's suitability for publication in the journal, and can include any special instructions for preparing an effective and helpful review. In conducting the review, reviewers are presented with with two open text boxes, the first "for author and editor," and the second "for editor." Alternatively, the Journal Manager can create a peer review form under Review Forms. In all cases, editors will have the option of including the reviews in corresponding with the author.</target>
+    </trans-unit>
+    <trans-unit id="reviewer.article.notifyEditorA">
+      <source>reviewer.article.notifyEditorA</source>
+        <target>Notify the submission's editor</target>
+    </trans-unit>
+    <trans-unit id="reviewer.article.notifyEditorB">
+      <source>reviewer.article.notifyEditorB</source>
+        <target>as to whether you will undertake the review.</target>
+    </trans-unit>
+    <trans-unit id="reviewer.article.consultGuidelines">
+      <source>reviewer.article.consultGuidelines</source>
+        <target>If you are going to do the review, consult Reviewer Guidelines below.</target>
+    </trans-unit>
+    <trans-unit id="reviewer.article.downloadSubmission">
+      <source>reviewer.article.downloadSubmission</source>
+        <target>Click on file names to download and review (on screen or by printing) the files associated with this submission.</target>
+    </trans-unit>
+    <trans-unit id="reviewer.article.enterCompetingInterests">
+      <source>reviewer.article.enterCompetingInterests</source>
+        <target>Declare whether or not you have competing interests with regard to this research (see <a target="_new" class="action" href="{$competingInterestGuidelinesUrl}">CI&nbsp;Policy</a>).</target>
+    </trans-unit>
+    <trans-unit id="reviewer.competingInterests">
+      <source>reviewer.competingInterests</source>
+        <target>Competing Interests</target>
+    </trans-unit>
+    <trans-unit id="reviewer.article.enterReviewA">
+      <source>reviewer.article.enterReviewA</source>
+        <target>Click on icon to enter (or paste) your review of this submission.</target>
+    </trans-unit>
+    <trans-unit id="reviewer.article.uploadFile">
+      <source>reviewer.article.uploadFile</source>
+        <target>In addition, you can upload files for the editor and/or author to consult.</target>
+    </trans-unit>
+    <trans-unit id="reviewer.article.selectRecommendation">
+      <source>reviewer.article.selectRecommendation</source>
+        <target>Select a recommendation and submit the review to complete the process. You must enter a review or upload a file before selecting a recommendation.</target>
+    </trans-unit>
+    <trans-unit id="reviewer.article.selectRecommendation.byEditor">
+      <source>reviewer.article.selectRecommendation.byEditor</source>
+        <target>Set or adjust the reviewer recommendation.</target>
+    </trans-unit>
+    <trans-unit id="reviewer.article.mustSelectDecision">
+      <source>reviewer.article.mustSelectDecision</source>
+        <target>No recommendation was selected. You must choose a recommendation to submit.</target>
+    </trans-unit>
+    <trans-unit id="reviewer.article.confirmDecision">
+      <source>reviewer.article.confirmDecision</source>
+        <target>Once you have recorded a decision you will no longer be able to make changes to this review. Are you sure you wish to continue?</target>
+    </trans-unit>
+    <trans-unit id="copyeditor.article.fileToCopyedit">
+      <source>copyeditor.article.fileToCopyedit</source>
+        <target>File To C/E</target>
+    </trans-unit>
+    <trans-unit id="copyeditor.article.copyeditorFile">
+      <source>copyeditor.article.copyeditorFile</source>
+        <target>Copyeditor File</target>
+    </trans-unit>
+    <trans-unit id="copyeditor.article.copyeditorFinalFile">
+      <source>copyeditor.article.copyeditorFinalFile</source>
+        <target>Copyeditor File</target>
+    </trans-unit>
+    <trans-unit id="proofreader.noProofreadingAssignments">
+      <source>proofreader.noProofreadingAssignments</source>
+        <target>No Proofreading Assignments</target>
+    </trans-unit>
+    <trans-unit id="author.submit.uploadInstructions">
+      <source>author.submit.uploadInstructions</source>
+        <target>
+<p>To upload a manuscript to this journal, complete the following steps.</p>
+<ol>
+<li>On this page, click Browse (or Choose File) which opens a Choose File window for locating the file on the hard drive of your computer.</li>
+<li>Locate the file you wish to submit and highlight it.</li>
+<li>Click Open on the Choose File window, which places the name of the file on this page.</li>
+<li>Click Upload on this page, which uploads the file from the computer to the journal's web site and renames it following the journal's conventions.</li>
+<li>Once the submission is uploaded, click Save and Continue at the bottom of this page.</li>
+</ol></target>
+    </trans-unit>
+    <trans-unit id="submission.review.mustUploadFileForReview">
+      <source>submission.review.mustUploadFileForReview</source>
+        <target>Request email cannot be sent until a Review Version is in place.</target>
+    </trans-unit>
+    <trans-unit id="submission.copyedit.mustUploadFileForInitialCopyedit">
+      <source>submission.copyedit.mustUploadFileForInitialCopyedit</source>
+        <target>Request email cannot be sent until file is selected for copyediting in Editor Decision, Review page.</target>
+    </trans-unit>
+    <trans-unit id="submission.copyedit.mustUploadFileForCopyedit">
+      <source>submission.copyedit.mustUploadFileForCopyedit</source>
+        <target>Request email cannot be sent until file is uploaded for copyediting.</target>
+    </trans-unit>
+    <trans-unit id="submission.copyedit.initialCopyedit">
+      <source>submission.copyedit.initialCopyedit</source>
+        <target>Initial Copyedit</target>
+    </trans-unit>
+    <trans-unit id="submission.copyedit.editorsCopyedit">
+      <source>submission.copyedit.editorsCopyedit</source>
+        <target>Editor's Copyedit</target>
+    </trans-unit>
+    <trans-unit id="submission.copyedit.editorAuthorReview">
+      <source>submission.copyedit.editorAuthorReview</source>
+        <target>Author Copyedit</target>
+    </trans-unit>
+    <trans-unit id="submission.copyedit.finalCopyedit">
+      <source>submission.copyedit.finalCopyedit</source>
+        <target>Final Copyedit</target>
+    </trans-unit>
+    <trans-unit id="submission.copyedit.copyeditVersion">
+      <source>submission.copyedit.copyeditVersion</source>
+        <target>C/E Version</target>
+    </trans-unit>
+    <trans-unit id="submission.copyedit.selectCopyeditor">
+      <source>submission.copyedit.selectCopyeditor</source>
+        <target>Assign Copyeditor</target>
+    </trans-unit>
+    <trans-unit id="submission.copyedit.useFile">
+      <source>submission.copyedit.useFile</source>
+        <target>Use File</target>
+    </trans-unit>
+    <trans-unit id="submission.copyedit.copyeditComments">
+      <source>submission.copyedit.copyeditComments</source>
+        <target>Copyedit Comments</target>
+    </trans-unit>
+    <trans-unit id="submission.copyedit.instructions">
+      <source>submission.copyedit.instructions</source>
+        <target>Copyedit Instructions</target>
+    </trans-unit>
+    <trans-unit id="submission.layout.noLayoutFile">
+      <source>submission.layout.noLayoutFile</source>
+        <target>None (Upload final copyedit version as Layout Version prior to sending request)</target>
+    </trans-unit>
+    <trans-unit id="submission.layout.publicGalleyId">
+      <source>submission.layout.publicGalleyId</source>
+        <target>Public Galley Identifier</target>
+    </trans-unit>
+    <trans-unit id="submission.layout.galleyPublicIdentificationExists">
+      <source>submission.layout.galleyPublicIdentificationExists</source>
+        <target>Public galley identification already exists.</target>
+    </trans-unit>
+    <trans-unit id="submission.layout.assignLayoutEditor">
+      <source>submission.layout.assignLayoutEditor</source>
+        <target>Assign Layout Editor</target>
+    </trans-unit>
+    <trans-unit id="submission.layout.replaceLayoutEditor">
+      <source>submission.layout.replaceLayoutEditor</source>
+        <target>Replace Layout Editor</target>
+    </trans-unit>
+    <trans-unit id="submission.layout.layoutComments">
+      <source>submission.layout.layoutComments</source>
+        <target>Layout Comments</target>
+    </trans-unit>
+    <trans-unit id="submission.layout.instructions">
+      <source>submission.layout.instructions</source>
+        <target>Layout Instructions</target>
+    </trans-unit>
+    <trans-unit id="submission.layout.referenceLinking">
+      <source>submission.layout.referenceLinking</source>
+        <target>Reference Linking</target>
+    </trans-unit>
+    <trans-unit id="submission.proofreadingComments">
+      <source>submission.proofreadingComments</source>
+        <target>Proofreading Comments</target>
+    </trans-unit>
+    <trans-unit id="submission.proofread.corrections">
+      <source>submission.proofread.corrections</source>
+        <target>Proofreading Corrections</target>
+    </trans-unit>
+    <trans-unit id="submission.proofread.instructions">
+      <source>submission.proofread.instructions</source>
+        <target>Proofing Instructions</target>
+    </trans-unit>
+    <trans-unit id="submission.logType.article">
+      <source>submission.logType.article</source>
+        <target>Article</target>
+    </trans-unit>
+    <trans-unit id="submission.logType.author">
+      <source>submission.logType.author</source>
+        <target>Author</target>
+    </trans-unit>
+    <trans-unit id="submission.logType.editor">
+      <source>submission.logType.editor</source>
+        <target>Editor</target>
+    </trans-unit>
+    <trans-unit id="submission.logType.review">
+      <source>submission.logType.review</source>
+        <target>Review</target>
+    </trans-unit>
+    <trans-unit id="submission.logType.copyedit">
+      <source>submission.logType.copyedit</source>
+        <target>Copyedit</target>
+    </trans-unit>
+    <trans-unit id="submission.logType.layout">
+      <source>submission.logType.layout</source>
+        <target>Layout</target>
+    </trans-unit>
+    <trans-unit id="submission.logType.proofread">
+      <source>submission.logType.proofread</source>
+        <target>Proofread</target>
+    </trans-unit>
+    <trans-unit id="submission.comments.editorAuthorCorrespondence">
+      <source>submission.comments.editorAuthorCorrespondence</source>
+        <target>Editor/Author Correspondence</target>
+    </trans-unit>
+    <trans-unit id="submission.comments.copyeditComments">
+      <source>submission.comments.copyeditComments</source>
+        <target>Copyedit Comments</target>
+    </trans-unit>
+    <trans-unit id="submission.comments.viewableDescription">
+      <source>submission.comments.viewableDescription</source>
+        <target>These comments can be shared with the author.<br />
+(After saving, further comments can be added.)</target>
+    </trans-unit>
+    <trans-unit id="submission.comments.canShareWithAuthor">
+      <source>submission.comments.canShareWithAuthor</source>
+        <target>For author and editor</target>
+    </trans-unit>
+    <trans-unit id="submission.comments.cannotShareWithAuthor">
+      <source>submission.comments.cannotShareWithAuthor</source>
+        <target>For editor</target>
+    </trans-unit>
+    <trans-unit id="submission.comments.blindCcReviewers">
+      <source>submission.comments.blindCcReviewers</source>
+        <target>After sending, present an editable BCC copy to send to reviewers.</target>
+    </trans-unit>
+    <trans-unit id="submission.comments.forAuthorEditor">
+      <source>submission.comments.forAuthorEditor</source>
+        <target>For author and editor</target>
+    </trans-unit>
+    <trans-unit id="submission.comments.forEditor">
+      <source>submission.comments.forEditor</source>
+        <target>For editor</target>
+    </trans-unit>
+    <trans-unit id="submission.comments.saveAndEmailAuthor">
+      <source>submission.comments.saveAndEmailAuthor</source>
+        <target>Save and Email Author</target>
+    </trans-unit>
+    <trans-unit id="submission.comments.saveAndEmailEditor">
+      <source>submission.comments.saveAndEmailEditor</source>
+        <target>Save and Email Editor</target>
+    </trans-unit>
+    <trans-unit id="user.register.selectContext">
+      <source>user.register.selectContext</source>
+        <target>Select a journal to register with:</target>
+    </trans-unit>
+    <trans-unit id="user.register.noJournals">
+      <source>user.register.noJournals</source>
+        <target>There are no journals you may register with on this site.</target>
+    </trans-unit>
+    <trans-unit id="user.register.privacyStatement">
+      <source>user.register.privacyStatement</source>
+        <target>Privacy Statement</target>
+    </trans-unit>
+    <trans-unit id="user.register.registrationDisabled">
+      <source>user.register.registrationDisabled</source>
+        <target>This journal is currently not accepting user registrations.</target>
+    </trans-unit>
+    <trans-unit id="user.register.form.passwordLengthTooShort">
+      <source>user.register.form.passwordLengthTooShort</source>
+        <target>The password you entered is not long enough.</target>
+    </trans-unit>
+    <trans-unit id="user.register.readerDescription">
+      <source>user.register.readerDescription</source>
+        <target>Notified by email on publication of an issue of the journal.</target>
+    </trans-unit>
+    <trans-unit id="user.register.openAccessNotificationDescription">
+      <source>user.register.openAccessNotificationDescription</source>
+        <target>Notified by email when an issue of the journal is made open access.</target>
+    </trans-unit>
+    <trans-unit id="user.register.authorDescription">
+      <source>user.register.authorDescription</source>
+        <target>Able to submit items to the journal.</target>
+    </trans-unit>
+    <trans-unit id="user.register.reviewerDescriptionNoInterests">
+      <source>user.register.reviewerDescriptionNoInterests</source>
+        <target>Willing to conduct peer review of submissions to the journal.</target>
+    </trans-unit>
+    <trans-unit id="user.register.reviewerDescription">
+      <source>user.register.reviewerDescription</source>
+        <target>Willing to conduct peer review of submissions to the site.</target>
+    </trans-unit>
+    <trans-unit id="user.register.reviewerInterests">
+      <source>user.register.reviewerInterests</source>
+        <target>Identify reviewing interests (substantive areas and research methods):</target>
+    </trans-unit>
+    <trans-unit id="user.register.form.emailConsentAllContexts">
+      <source>user.register.form.emailConsentAllContexts</source>
+        <target>Yes, I would like to be notified of new publications and announcements for all journals that I registered with.</target>
+    </trans-unit>
+    <trans-unit id="user.register.form.privacyConsentThisContext">
+      <source>user.register.form.privacyConsentThisContext</source>
+        <target>Yes, I agree to have my data collected and stored according to this journal's <a href="{$privacyUrl}" target="_blank">privacy statement</a>.</target>
+    </trans-unit>
+    <trans-unit id="user.register.form.missingContextConsent">
+      <source>user.register.form.missingContextConsent</source>
+        <target>You must consent to the privacy statement for any journal with which you are registering.</target>
+    </trans-unit>
+    <trans-unit id="user.register.form.missingSiteConsent">
+      <source>user.register.form.missingSiteConsent</source>
+        <target>You must consent to this site's privacy statement.</target>
+    </trans-unit>
+    <trans-unit id="user.subscriptions.mySubscriptions">
+      <source>user.subscriptions.mySubscriptions</source>
+        <target>My Subscriptions</target>
+    </trans-unit>
+    <trans-unit id="user.subscriptions.subscriptionStatus">
+      <source>user.subscriptions.subscriptionStatus</source>
+        <target>Subscription Status</target>
+    </trans-unit>
+    <trans-unit id="user.subscriptions.statusInformation">
+      <source>user.subscriptions.statusInformation</source>
+        <target>Active and expired subscriptions are displayed below along with their expiration date. In addition, the following status information may be included with each subscription.</target>
+    </trans-unit>
+    <trans-unit id="user.subscriptions.status">
+      <source>user.subscriptions.status</source>
+        <target>Status</target>
+    </trans-unit>
+    <trans-unit id="user.subscriptions.statusDescription">
+      <source>user.subscriptions.statusDescription</source>
+        <target>Description</target>
+    </trans-unit>
+    <trans-unit id="user.subscriptions.status.needsInformationDescription">
+      <source>user.subscriptions.status.needsInformationDescription</source>
+        <target>Additional information is needed before the subscription can be activated</target>
+    </trans-unit>
+    <trans-unit id="user.subscriptions.status.needsApprovalDescription">
+      <source>user.subscriptions.status.needsApprovalDescription</source>
+        <target>Subscription must be reviewed before it can be activated</target>
+    </trans-unit>
+    <trans-unit id="user.subscriptions.status.awaitingManualPaymentDescription">
+      <source>user.subscriptions.status.awaitingManualPaymentDescription</source>
+        <target>Manual payment has been initiated but not yet received</target>
+    </trans-unit>
+    <trans-unit id="user.subscriptions.status.awaitingOnlinePaymentDescription">
+      <source>user.subscriptions.status.awaitingOnlinePaymentDescription</source>
+        <target>An online payment has been initiated but canceled or not completed</target>
+    </trans-unit>
+    <trans-unit id="user.subscriptions.individualSubscriptions">
+      <source>user.subscriptions.individualSubscriptions</source>
+        <target>Individual Subscription</target>
+    </trans-unit>
+    <trans-unit id="user.subscriptions.institutionalSubscriptions">
+      <source>user.subscriptions.institutionalSubscriptions</source>
+        <target>Institutional Subscriptions</target>
+    </trans-unit>
+    <trans-unit id="user.subscriptions.renew">
+      <source>user.subscriptions.renew</source>
+        <target>Renew</target>
+    </trans-unit>
+    <trans-unit id="user.subscriptions.purchase">
+      <source>user.subscriptions.purchase</source>
+        <target>Purchase</target>
+    </trans-unit>
+    <trans-unit id="user.subscriptions.purchaseNewSubscription">
+      <source>user.subscriptions.purchaseNewSubscription</source>
+        <target>Purchase New Subscription</target>
+    </trans-unit>
+    <trans-unit id="user.subscriptions.purchaseIndividualSubscription">
+      <source>user.subscriptions.purchaseIndividualSubscription</source>
+        <target>Purchase Individual Subscription</target>
+    </trans-unit>
+    <trans-unit id="user.subscriptions.purchaseInstitutionalSubscription">
+      <source>user.subscriptions.purchaseInstitutionalSubscription</source>
+        <target>Purchase Institutional Subscription</target>
+    </trans-unit>
+    <trans-unit id="user.subscriptions.expires">
+      <source>user.subscriptions.expires</source>
+        <target>Expires: {$date}</target>
+    </trans-unit>
+    <trans-unit id="user.subscriptions.expired">
+      <source>user.subscriptions.expired</source>
+        <target>Expired: {$date}</target>
+    </trans-unit>
+    <trans-unit id="user.subscriptions.viewSubscriptionTypes">
+      <source>user.subscriptions.viewSubscriptionTypes</source>
+        <target>View Available Subscription Types</target>
+    </trans-unit>
+    <trans-unit id="user.subscriptions.form.typeId">
+      <source>user.subscriptions.form.typeId</source>
+        <target>Subscription Type</target>
+    </trans-unit>
+    <trans-unit id="user.subscriptions.form.membership">
+      <source>user.subscriptions.form.membership</source>
+        <target>Membership</target>
+    </trans-unit>
+    <trans-unit id="user.subscriptions.form.membershipRequired">
+      <source>user.subscriptions.form.membershipRequired</source>
+        <target>The selected subscription type requires membership information.</target>
+    </trans-unit>
+    <trans-unit id="user.subscriptions.form.typeIdValid">
+      <source>user.subscriptions.form.typeIdValid</source>
+        <target>Please select a valid subscription type.</target>
+    </trans-unit>
+    <trans-unit id="user.subscriptions.form.subscriptionExists">
+      <source>user.subscriptions.form.subscriptionExists</source>
+        <target>This user account already has an individual subscription.</target>
+    </trans-unit>
+    <trans-unit id="user.subscriptions.form.membershipInstructions">
+      <source>user.subscriptions.form.membershipInstructions</source>
+        <target>Membership information if required for the selected subscription type.</target>
+    </trans-unit>
+    <trans-unit id="user.subscriptions.form.institutionName">
+      <source>user.subscriptions.form.institutionName</source>
+        <target>Institution name</target>
+    </trans-unit>
+    <trans-unit id="user.subscriptions.form.institutionNameRequired">
+      <source>user.subscriptions.form.institutionNameRequired</source>
+        <target>An institution name is required.</target>
+    </trans-unit>
+    <trans-unit id="user.subscriptions.form.institutionMailingAddress">
+      <source>user.subscriptions.form.institutionMailingAddress</source>
+        <target>Mailing address</target>
+    </trans-unit>
+    <trans-unit id="user.subscriptions.form.domain">
+      <source>user.subscriptions.form.domain</source>
+        <target>Domain</target>
+    </trans-unit>
+    <trans-unit id="user.subscriptions.form.domainInstructions">
+      <source>user.subscriptions.form.domainInstructions</source>
+        <target>If a domain is entered here, IP ranges are optional.<br />Valid values are domain names (e.g. lib.sfu.ca).</target>
+    </trans-unit>
+    <trans-unit id="user.subscriptions.form.domainIPRangeRequired">
+      <source>user.subscriptions.form.domainIPRangeRequired</source>
+        <target>The selected subscription type requires a domain and/or an IP range for subscription authentication.</target>
+    </trans-unit>
+    <trans-unit id="user.subscriptions.form.domainValid">
+      <source>user.subscriptions.form.domainValid</source>
+        <target>Please enter a valid domain.</target>
+    </trans-unit>
+    <trans-unit id="user.subscriptions.form.ipRange">
+      <source>user.subscriptions.form.ipRange</source>
+        <target>IP ranges</target>
+    </trans-unit>
+    <trans-unit id="user.subscriptions.form.ipRangeItem">
+      <source>user.subscriptions.form.ipRangeItem</source>
+        <target>&#8226;</target>
+    </trans-unit>
+    <trans-unit id="user.subscriptions.form.ipRangeInstructions">
+      <source>user.subscriptions.form.ipRangeInstructions</source>
+        <target>If IP ranges are entered here, the domain is optional.<br />Valid values include an IP address (e.g. 142.58.103.1), IP range (e.g. 142.58.103.1 - 142.58.103.4), IP range with wildcard '*' (e.g. 142.58.*.*), and an IP range with CIDR (e.g. 142.58.100.0/24).</target>
+    </trans-unit>
+    <trans-unit id="user.subscriptions.form.ipRangeValid">
+      <source>user.subscriptions.form.ipRangeValid</source>
+        <target>Please enter a valid IP range.</target>
+    </trans-unit>
+    <trans-unit id="user.subscriptions.form.deleteIpRange">
+      <source>user.subscriptions.form.deleteIpRange</source>
+        <target>Delete</target>
+    </trans-unit>
+    <trans-unit id="user.subscriptions.form.addIpRange">
+      <source>user.subscriptions.form.addIpRange</source>
+        <target>Add</target>
+    </trans-unit>
+    <trans-unit id="search.browseAuthorIndex">
+      <source>search.browseAuthorIndex</source>
+        <target>Browse Author Index</target>
+    </trans-unit>
+    <trans-unit id="search.searchFor">
+      <source>search.searchFor</source>
+        <target>Search articles for</target>
+    </trans-unit>
+    <trans-unit id="search.withinJournal">
+      <source>search.withinJournal</source>
+        <target>Within</target>
+    </trans-unit>
+    <trans-unit id="search.allJournals">
+      <source>search.allJournals</source>
+        <target>All Journals</target>
+    </trans-unit>
+    <trans-unit id="search.authorIndex">
+      <source>search.authorIndex</source>
+        <target>Browse Author Index</target>
+    </trans-unit>
+    <trans-unit id="search.authorDetails">
+      <source>search.authorDetails</source>
+        <target>Author Details</target>
+    </trans-unit>
+    <trans-unit id="search.syntaxInstructions">
+      <source>search.syntaxInstructions</source>
+        <target>Search tips: <ul>
+<li>Search terms are case-insensitive</li>
+<li>Common words are ignored</li>
+<li>By default only articles containing <em>all</em> terms in the query are returned (i.e., <em>AND</em> is implied)</li>
+<li>Combine multiple words with <em>OR</em> to find articles containing either term; e.g., <em>education OR research</em></li>
+<li>Use parentheses to create more complex queries; e.g., <em>archive ((journal OR conference) NOT theses)</em></li>
+<li>Search for an exact phrase by putting it in quotes; e.g., <em>"open access publishing"</em></li>
+<li>Exclude a word by prefixing it with <strong>-</strong> or <em>NOT</em>; e.g. <em>online -politics</em> or <em>online NOT politics</em></li>
+<li>Use <strong>*</strong> in a term as a wildcard to match any sequence of characters; e.g., <em>soci* morality</em> would match documents containing "sociological" or "societal"</li>
+</ul></target>
+    </trans-unit>
+    <trans-unit id="article.pageTitle">
+      <source>article.pageTitle</source>
+        <target>View of {$title}</target>
+    </trans-unit>
+    <trans-unit id="article.pdf.title">
+      <source>article.pdf.title</source>
+        <target>Portable Document Format (PDF)</target>
+    </trans-unit>
+    <trans-unit id="article.download">
+      <source>article.download</source>
+        <target>Download this PDF file</target>
+    </trans-unit>
+    <trans-unit id="article.pluginMissing">
+      <source>article.pluginMissing</source>
+        <target><p>The PDF file you selected should load here if your Web browser has a PDF reader plugin installed (for example, a recent version of <a href="https://get.adobe.com/reader/">Adobe Acrobat Reader</a>).</p></target>
+    </trans-unit>
+    <trans-unit id="article.nonpdf.title">
+      <source>article.nonpdf.title</source>
+        <target>Article Download</target>
+    </trans-unit>
+    <trans-unit id="article.nonpdf.note">
+      <source>article.nonpdf.note</source>
+        <target>The file you selected should begin downloading automatically. If it does not, click the link below. Note that this file may require a special viewer or plugin to view.<br /><br />If the file does not download automatically, <a href="{$url}">click here</a>.</target>
+    </trans-unit>
+    <trans-unit id="site.journalsHosted">
+      <source>site.journalsHosted</source>
+        <target>Journals hosted on this site</target>
+    </trans-unit>
+    <trans-unit id="site.journalView">
+      <source>site.journalView</source>
+        <target>View Journal</target>
+    </trans-unit>
+    <trans-unit id="site.journalRegister">
+      <source>site.journalRegister</source>
+        <target>Register</target>
+    </trans-unit>
+    <trans-unit id="site.journalCurrent">
+      <source>site.journalCurrent</source>
+        <target>Current Issue</target>
+    </trans-unit>
+    <trans-unit id="site.noJournals">
+      <source>site.noJournals</source>
+        <target>There are no journals available.</target>
+    </trans-unit>
+    <trans-unit id="current.current">
+      <source>current.current</source>
+        <target>Current</target>
+    </trans-unit>
+    <trans-unit id="current.noCurrentIssue">
+      <source>current.noCurrentIssue</source>
+        <target>No Current Issue</target>
+    </trans-unit>
+    <trans-unit id="current.noCurrentIssueDesc">
+      <source>current.noCurrentIssueDesc</source>
+        <target>This journal has not published any issues.</target>
+    </trans-unit>
+    <trans-unit id="archive.archives">
+      <source>archive.archives</source>
+        <target>Archives</target>
+    </trans-unit>
+    <trans-unit id="archive.archivesPageNumber">
+      <source>archive.archivesPageNumber</source>
+        <target>Archives - Page {$pageNumber}</target>
+    </trans-unit>
+    <trans-unit id="archive.browse">
+      <source>archive.browse</source>
+        <target>Browse through the older issues</target>
+    </trans-unit>
+    <trans-unit id="archive.issueUnavailable">
+      <source>archive.issueUnavailable</source>
+        <target>Issue Unavailable</target>
+    </trans-unit>
+    <trans-unit id="about.statistics">
+      <source>about.statistics</source>
+        <target>Statistics</target>
+    </trans-unit>
+    <trans-unit id="about.contact">
+      <source>about.contact</source>
+        <target>Contact</target>
+    </trans-unit>
+    <trans-unit id="about.aboutContext">
+      <source>about.aboutContext</source>
+        <target>About the Journal</target>
+    </trans-unit>
+    <trans-unit id="about.history">
+      <source>about.history</source>
+        <target>Journal History</target>
+    </trans-unit>
+    <trans-unit id="about.editorialTeam">
+      <source>about.editorialTeam</source>
+        <target>Editorial Team</target>
+    </trans-unit>
+    <trans-unit id="about.editorialTeam.biography">
+      <source>about.editorialTeam.biography</source>
+        <target>Biography</target>
+    </trans-unit>
+    <trans-unit id="about.editorialPolicies">
+      <source>about.editorialPolicies</source>
+        <target>Editorial Policies</target>
+    </trans-unit>
+    <trans-unit id="about.focusAndScope">
+      <source>about.focusAndScope</source>
+        <target>Focus and Scope</target>
+    </trans-unit>
+    <trans-unit id="about.sectionPolicies">
+      <source>about.sectionPolicies</source>
+        <target>Section Policies</target>
+    </trans-unit>
+    <trans-unit id="about.submissions">
+      <source>about.submissions</source>
+        <target>Submissions</target>
+    </trans-unit>
+    <trans-unit id="about.onlineSubmissions.login">
+      <source>about.onlineSubmissions.login</source>
+        <target>Login</target>
+    </trans-unit>
+    <trans-unit id="about.onlineSubmissions.register">
+      <source>about.onlineSubmissions.register</source>
+        <target>Register</target>
+    </trans-unit>
+    <trans-unit id="about.onlineSubmissions.registrationRequired">
+      <source>about.onlineSubmissions.registrationRequired</source>
+        <target>{$login} or {$register} to make a submission.</target>
+    </trans-unit>
+    <trans-unit id="about.onlineSubmissions.submissionActions">
+      <source>about.onlineSubmissions.submissionActions</source>
+        <target>{$newSubmission} or {$viewSubmissions}.</target>
+    </trans-unit>
+    <trans-unit id="about.onlineSubmissions.newSubmission">
+      <source>about.onlineSubmissions.newSubmission</source>
+        <target>Make a new submission</target>
+    </trans-unit>
+    <trans-unit id="about.onlineSubmissions.viewSubmissions">
+      <source>about.onlineSubmissions.viewSubmissions</source>
+        <target>view your pending submissions</target>
+    </trans-unit>
+    <trans-unit id="about.authorGuidelines">
+      <source>about.authorGuidelines</source>
+        <target>Author Guidelines</target>
+    </trans-unit>
+    <trans-unit id="about.submissionPreparationChecklist">
+      <source>about.submissionPreparationChecklist</source>
+        <target>Submission Preparation Checklist</target>
+    </trans-unit>
+    <trans-unit id="about.submissionPreparationChecklist.description">
+      <source>about.submissionPreparationChecklist.description</source>
+        <target>As part of the submission process, authors are required to check off their submission's compliance with all of the following items, and submissions may be returned to authors that do not adhere to these guidelines.</target>
+    </trans-unit>
+    <trans-unit id="about.copyrightNotice">
+      <source>about.copyrightNotice</source>
+        <target>Copyright Notice</target>
+    </trans-unit>
+    <trans-unit id="about.privacyStatement">
+      <source>about.privacyStatement</source>
+        <target>Privacy Statement</target>
+    </trans-unit>
+    <trans-unit id="about.authorFees">
+      <source>about.authorFees</source>
+        <target>Author Fees</target>
+    </trans-unit>
+    <trans-unit id="about.authorFeesMessage">
+      <source>about.authorFeesMessage</source>
+        <target>This journal charges the following author fees.</target>
+    </trans-unit>
+    <trans-unit id="about.peerReviewProcess">
+      <source>about.peerReviewProcess</source>
+        <target>Peer Review Process</target>
+    </trans-unit>
+    <trans-unit id="about.publicationFrequency">
+      <source>about.publicationFrequency</source>
+        <target>Publication Frequency</target>
+    </trans-unit>
+    <trans-unit id="about.openAccessPolicy">
+      <source>about.openAccessPolicy</source>
+        <target>Open Access Policy</target>
+    </trans-unit>
+    <trans-unit id="about.delayedOpenAccess">
+      <source>about.delayedOpenAccess</source>
+        <target>Delayed Open Access</target>
+    </trans-unit>
+    <trans-unit id="about.delayedOpenAccessDescription1">
+      <source>about.delayedOpenAccessDescription1</source>
+        <target>The contents of this journal will be available in an open access format</target>
+    </trans-unit>
+    <trans-unit id="about.delayedOpenAccessDescription2">
+      <source>about.delayedOpenAccessDescription2</source>
+        <target>month(s) after an issue is published.</target>
+    </trans-unit>
+    <trans-unit id="about.authorSelfArchive">
+      <source>about.authorSelfArchive</source>
+        <target>Author Self-Archiving</target>
+    </trans-unit>
+    <trans-unit id="about.archiving">
+      <source>about.archiving</source>
+        <target>Archiving</target>
+    </trans-unit>
+    <trans-unit id="about.subscriptions">
+      <source>about.subscriptions</source>
+        <target>Subscriptions</target>
+    </trans-unit>
+    <trans-unit id="about.subscriptions.individual">
+      <source>about.subscriptions.individual</source>
+        <target>Individual Subscriptions</target>
+    </trans-unit>
+    <trans-unit id="about.subscriptions.institutional">
+      <source>about.subscriptions.institutional</source>
+        <target>Institutional Subscriptions</target>
+    </trans-unit>
+    <trans-unit id="about.subscriptionsContact">
+      <source>about.subscriptionsContact</source>
+        <target>Subscriptions Contact</target>
+    </trans-unit>
+    <trans-unit id="about.subscriptionTypes.name">
+      <source>about.subscriptionTypes.name</source>
+        <target>Name</target>
+    </trans-unit>
+    <trans-unit id="about.subscriptionTypes.format">
+      <source>about.subscriptionTypes.format</source>
+        <target>Format</target>
+    </trans-unit>
+    <trans-unit id="about.subscriptionTypes.duration">
+      <source>about.subscriptionTypes.duration</source>
+        <target>Duration</target>
+    </trans-unit>
+    <trans-unit id="about.subscriptionTypes.cost">
+      <source>about.subscriptionTypes.cost</source>
+        <target>Cost</target>
+    </trans-unit>
+    <trans-unit id="about.availableSubscriptionTypes">
+      <source>about.availableSubscriptionTypes</source>
+        <target>Subscription Types</target>
+    </trans-unit>
+    <trans-unit id="about.memberships">
+      <source>about.memberships</source>
+        <target>Memberships</target>
+    </trans-unit>
+    <trans-unit id="about.aboutThisPublishingSystem">
+      <source>about.aboutThisPublishingSystem</source>
+        <target>About this Publishing System</target>
+    </trans-unit>
+    <trans-unit id="about.aboutThisPublishingSystem.altText">
+      <source>about.aboutThisPublishingSystem.altText</source>
+        <target>OJS Editorial and Publishing Process</target>
+    </trans-unit>
+    <trans-unit id="about.aboutOJSJournal">
+      <source>about.aboutOJSJournal</source>
+        <target>This journal uses Open Journal Systems {$ojsVersion}, which is open source journal management and publishing software developed, supported, and freely distributed by the <a href="http://pkp.sfu.ca/">Public Knowledge Project</a> under the GNU General Public License.</target>
+    </trans-unit>
+    <trans-unit id="about.aboutOJSSite">
+      <source>about.aboutOJSSite</source>
+        <target>This site uses Open Journal Systems {$ojsVersion}, which is open source journal management and publishing software developed, supported, and freely distributed by the <a href="http://pkp.sfu.ca/">Public Knowledge Project</a> under the GNU General Public License.</target>
+    </trans-unit>
+    <trans-unit id="help.ojsHelp">
+      <source>help.ojsHelp</source>
+        <target>Open Journal Systems Help</target>
+    </trans-unit>
+    <trans-unit id="help.ojsHelpAbbrev">
+      <source>help.ojsHelpAbbrev</source>
+        <target>OJS Help</target>
+    </trans-unit>
+    <trans-unit id="help.searchReturnResults">
+      <source>help.searchReturnResults</source>
+        <target>Return to Search Results</target>
+    </trans-unit>
+    <trans-unit id="help.goToEditPage">
+      <source>help.goToEditPage</source>
+        <target>Edit {$sectionTitle}</target>
+    </trans-unit>
+    <trans-unit id="donations.thankYou">
+      <source>donations.thankYou</source>
+        <target>Thank You</target>
+    </trans-unit>
+    <trans-unit id="donations.thankYouMessage">
+      <source>donations.thankYouMessage</source>
+        <target>Thank you for making a contribution.  Your contribution is much appreciated.</target>
+    </trans-unit>
+    <trans-unit id="payment.loginRequired">
+      <source>payment.loginRequired</source>
+        <target>You must be logged in to make a payment.</target>
+    </trans-unit>
+    <trans-unit id="payment.loginRequired.forArticle">
+      <source>payment.loginRequired.forArticle</source>
+        <target>Subscription or article purchase required to access item. To verify subscription, access previous purchase, or purchase article, log in to journal.</target>
+    </trans-unit>
+    <trans-unit id="payment.loginRequired.forIssue">
+      <source>payment.loginRequired.forIssue</source>
+        <target>Subscription or issue purchase required to access item. To verify subscription, access previous purchase, or purchase issue, log in to journal.</target>
+    </trans-unit>
+    <trans-unit id="payment.loginRequired.forDonation">
+      <source>payment.loginRequired.forDonation</source>
+        <target>You must be logged in to make a donation.</target>
+    </trans-unit>
+    <trans-unit id="payment.paid">
+      <source>payment.paid</source>
+        <target>Paid</target>
+    </trans-unit>
+    <trans-unit id="payment.payNow">
+      <source>payment.payNow</source>
+        <target>Pay Now</target>
+    </trans-unit>
+    <trans-unit id="payment.waive">
+      <source>payment.waive</source>
+        <target>Waive</target>
+    </trans-unit>
+    <trans-unit id="payment.alreadyPaid">
+      <source>payment.alreadyPaid</source>
+        <target>Already Paid</target>
+    </trans-unit>
+    <trans-unit id="payment.alreadyPaidMessage">
+      <source>payment.alreadyPaidMessage</source>
+        <target>Select this box if you've already sent your payment to the journal in order to finish the submission process.  The submission will not be reviewed until the payment arrives.  Click PAY NOW above to see the payment instructions.</target>
+    </trans-unit>
+    <trans-unit id="payment.paymentReceived">
+      <source>payment.paymentReceived</source>
+        <target>Payment Received</target>
+    </trans-unit>
+    <trans-unit id="payment.paymentSent">
+      <source>payment.paymentSent</source>
+        <target>Payment has already been sent</target>
+    </trans-unit>
+    <trans-unit id="payment.authorFees">
+      <source>payment.authorFees</source>
+        <target>Author Fees</target>
+    </trans-unit>
+    <trans-unit id="payment.type.submission">
+      <source>payment.type.submission</source>
+        <target>Submission Fee</target>
+    </trans-unit>
+    <trans-unit id="payment.type.publication">
+      <source>payment.type.publication</source>
+        <target>Publication Fee</target>
+    </trans-unit>
+    <trans-unit id="payment.type.publication.required">
+      <source>payment.type.publication.required</source>
+        <target>The publication fee is due for payment.</target>
+    </trans-unit>
+    <trans-unit id="payment.type.fastTrack">
+      <source>payment.type.fastTrack</source>
+        <target>Fast Track Review Fee</target>
+    </trans-unit>
+    <trans-unit id="payment.type.membership">
+      <source>payment.type.membership</source>
+        <target>Individual Membership Fee</target>
+    </trans-unit>
+    <trans-unit id="payment.type.purchaseArticle">
+      <source>payment.type.purchaseArticle</source>
+        <target>Purchase Article Fee</target>
+    </trans-unit>
+    <trans-unit id="payment.type.purchaseIssue">
+      <source>payment.type.purchaseIssue</source>
+        <target>Purchase Issue Fee</target>
+    </trans-unit>
+    <trans-unit id="payment.type.subscription">
+      <source>payment.type.subscription</source>
+        <target>Subscription Fee</target>
+    </trans-unit>
+    <trans-unit id="payment.type.donation">
+      <source>payment.type.donation</source>
+        <target>Donations</target>
+    </trans-unit>
+    <trans-unit id="payment.requestPublicationFee">
+      <source>payment.requestPublicationFee</source>
+        <target>Request publication fee ({$feeAmount})</target>
+    </trans-unit>
+    <trans-unit id="payment.notFound">
+      <source>payment.notFound</source>
+        <target>A payment has been requested, but the request has expired. Contact the Journal Manager for details.</target>
+    </trans-unit>
+    <trans-unit id="payment.donation.makeDonation">
+      <source>payment.donation.makeDonation</source>
+        <target>Make a donation</target>
+    </trans-unit>
+    <trans-unit id="payment.submission.paySubmission">
+      <source>payment.submission.paySubmission</source>
+        <target>Pay Submission Fee</target>
+    </trans-unit>
+    <trans-unit id="payment.publication.payPublication">
+      <source>payment.publication.payPublication</source>
+        <target>Pay to Publish</target>
+    </trans-unit>
+    <trans-unit id="payment.publication.publicationPaid">
+      <source>payment.publication.publicationPaid</source>
+        <target>Publication Fee Paid</target>
+    </trans-unit>
+    <trans-unit id="payment.membership.buyMembership">
+      <source>payment.membership.buyMembership</source>
+        <target>Buy Individual Membership</target>
+    </trans-unit>
+    <trans-unit id="payment.membership.renewMembership">
+      <source>payment.membership.renewMembership</source>
+        <target>Renew Individual Membership</target>
+    </trans-unit>
+    <trans-unit id="payment.membership.ends">
+      <source>payment.membership.ends</source>
+        <target>Ends</target>
+    </trans-unit>
+    <trans-unit id="payment.subscription.purchase">
+      <source>payment.subscription.purchase</source>
+        <target>Purchase Subscription</target>
+    </trans-unit>
+    <trans-unit id="payment.subscription.renew">
+      <source>payment.subscription.renew</source>
+        <target>Renew Subscription</target>
+    </trans-unit>
+    <trans-unit id="payment.subscription.expires">
+      <source>payment.subscription.expires</source>
+        <target>Expires</target>
+    </trans-unit>
+    <trans-unit id="installer.appInstallation">
+      <source>installer.appInstallation</source>
+        <target>OJS Installation</target>
+    </trans-unit>
+    <trans-unit id="installer.ojsUpgrade">
+      <source>installer.ojsUpgrade</source>
+        <target>OJS Upgrade</target>
+    </trans-unit>
+    <trans-unit id="installer.installationInstructions">
+      <source>installer.installationInstructions</source>
+        <target><h4>OJS Version {$version}</h4>
+
+<p>Thank you for downloading the Public Knowledge Project's <strong>Open Journal Systems</strong>. Before proceeding, please read the <a href="{$baseUrl}/docs/README.md">README</a> file included with this software. For more information about the Public Knowledge Project and its software projects, please visit the <a href="http://pkp.sfu.ca/" target="_blank">PKP web site</a>. If you have bug reports or technical support inquiries about Open Journal Systems, see the <a href="http://forum.pkp.sfu.ca" target="_blank">support forum</a> or visit PKP's online <a href="https://github.com/pkp/pkp-lib#issues" target="_blank">bug reporting system</a>. Although the support forum is the preferred method of contact, you can also email the team at <a href="mailto:pkp.contact@gmail.com">pkp.contact@gmail.com</a>.</p>
+
+<h4>Upgrade</h4>
+
+<p>If you are upgrading an existing installation of OJS, <a href="{$upgradeUrl}">click here</a> to proceed.</p>
+
+<h4>Recommended system requirements</h4>
+
+<ul>
+	<li><a href="http://www.php.net/" target="_blank">PHP</a> >= {$phpRequiredVersion}; you are currently using PHP {$phpVersion}{$wrongPhpText}</li>
+	<li><a href="http://www.mysql.com/" target="_blank">MySQL</a> >= 4.1 or <a href="http://www.postgresql.org/" target="_blank">PostgreSQL</a> >= 9.1.5</li>
+	<li><a href="http://httpd.apache.org/" target="_blank">Apache</a> >= 1.3.2x or >= 2.0.4x or Microsoft IIS 6</li>
+	<li>Operating system: Any OS that supports the above software, including <a href="http://www.linux.org/" target="_blank">Linux</a>, <a href="http://www.bsd.org/" target="_blank">BSD</a>, <a href="http://www.oracle.com/sun/" target="_blank">Solaris</a>, <a href="http://www.apple.com/" target="_blank">Mac OS X</a>, <a href="http://www.microsoft.com/">Windows</a></li>
+</ul>
+
+<p>As PKP does not have the resources to test every possible combination of software versions and platforms, no guarantee of correct operation or support is implied.</p>
+
+<p>Changes to these settings can be made after installation by editing the file <tt>config.inc.php</tt> in the base OJS directory, or using the site administration web interface.</p>
+
+<h4>Supported database systems</h4>
+
+<p>OJS has currently only been tested on MySQL and PostgreSQL, although other database management systems supported by <a href="http://adodb.sourceforge.net/" target="_blank">ADOdb</a> may work (in full or partially). Compatibility reports and/or code patches for alternative DBMSs can be sent to the OJS team.</p>
+</target>
+    </trans-unit>
+    <trans-unit id="installer.preInstallationInstructions">
+      <source>installer.preInstallationInstructions</source>
+        <target>
+<h4>Pre-Installation Steps</h4>
+
+
+<p>1. The following files and directories (and their contents) must be made writable:</p>
+<ul>
+	<li><tt>config.inc.php</tt> is writable (optional): {$writable_config}</li>
+	<li><tt>public/</tt> is writable: {$writable_public}</li>
+	<li><tt>cache/</tt> is writable: {$writable_cache}</li>
+	<li><tt>cache/t_cache/</tt> is writable: {$writable_templates_cache}</li>
+	<li><tt>cache/t_compile/</tt> is writable: {$writable_templates_compile}</li>
+	<li><tt>cache/_db</tt> is writable: {$writable_db_cache}</li>
+</ul>
+
+<p>2. A directory to store uploaded files must be created and made writable (see "File Settings" below).</p></target>
+    </trans-unit>
+    <trans-unit id="installer.upgradeInstructions">
+      <source>installer.upgradeInstructions</source>
+        <target><h4>OJS Version {$version}</h4>
+
+<p>Thank you for downloading the Public Knowledge Project's <strong>Open Journal Systems</strong>. Before proceeding, please read the <a href="{$baseUrl}/docs/README.md">README</a> and <a href="{$baseUrl}/docs/UPGRADE.md">UPGRADE</a> files included with this software. For more information about the Public Knowledge Project and its software projects, please visit the <a href="http://pkp.sfu.ca/" target="_blank">PKP web site</a>. If you have bug reports or technical support inquiries about Open Journal Systems, see the <a href="http://forum.pkp.sfu.ca" target="_blank">support forum</a> or visit PKP's online <a href="https://github.com/pkp/pkp-lib#issues" target="_blank">bug reporting system</a>. Although the support forum is the preferred method of contact, you can also email the team at <a href="mailto:pkp.contact@gmail.com">pkp.contact@gmail.com</a>.</p>
+<p>It is <strong>strongly recommended</strong> that you back up your database, files directory, and OJS installation directory before proceeding.</p>
+<p>If you are running in <a href="http://www.php.net/features.safe-mode" target="_blank">PHP Safe Mode</a>, please ensure that the max_execution_time directive in your php.ini configuration file is set to a high limit. If this or any other time limit (e.g. Apache's "Timeout" directive) is reached and the upgrade process is interrupted, manual intervention will be required.</p></target>
+    </trans-unit>
+    <trans-unit id="installer.localeSettingsInstructions">
+      <source>installer.localeSettingsInstructions</source>
+        <target>For complete Unicode (UTF-8) support, select UTF-8 for all character set settings. Please note that full Unicode support requires PHP to be compiled with support for the <a href="http://www.php.net/mbstring" target="_blank">mbstring</a> library (enabled by default in most recent PHP installations). You may experience problems using extended character sets if your server does not meet these requirements.
+<br /><br />
+Your server currently supports mbstring: <strong>{$supportsMBString}</strong></target>
+    </trans-unit>
+    <trans-unit id="installer.allowFileUploads">
+      <source>installer.allowFileUploads</source>
+        <target>Your server currently allows file uploads: <strong>{$allowFileUploads}</strong></target>
+    </trans-unit>
+    <trans-unit id="installer.maxFileUploadSize">
+      <source>installer.maxFileUploadSize</source>
+        <target>Your server currently allows a maximum file upload size of: <strong>{$maxFileUploadSize}</strong></target>
+    </trans-unit>
+    <trans-unit id="installer.localeInstructions">
+      <source>installer.localeInstructions</source>
+        <target>The primary language to use for this system. Please consult the OJS documentation if you are interested in support for languages not listed here.</target>
+    </trans-unit>
+    <trans-unit id="installer.additionalLocalesInstructions">
+      <source>installer.additionalLocalesInstructions</source>
+        <target>Select any additional languages to support in this system. These languages will be available for use by journals hosted on the site. Additional languages can also be installed at any time from the site administration interface.</target>
+    </trans-unit>
+    <trans-unit id="installer.filesDirInstructions">
+      <source>installer.filesDirInstructions</source>
+        <target>Enter full pathname to an existing directory where uploaded files are to be kept. This directory should not be directly web-accessible. <strong>Please ensure that this directory exists and is writable prior to installation.</strong> Windows path names should use forward slashes, e.g. "C:/myjournal/files".</target>
+    </trans-unit>
+    <trans-unit id="installer.databaseSettingsInstructions">
+      <source>installer.databaseSettingsInstructions</source>
+        <target>OJS requires access to a SQL database to store its data. See the system requirements above for a list of supported databases. In the fields below, provide the settings to be used to connect to the database.</target>
+    </trans-unit>
+    <trans-unit id="installer.installApplication">
+      <source>installer.installApplication</source>
+        <target>Install Open Journal Systems</target>
+    </trans-unit>
+    <trans-unit id="installer.upgradeApplication">
+      <source>installer.upgradeApplication</source>
+        <target>Upgrade Open Journal Systems</target>
+    </trans-unit>
+    <trans-unit id="installer.reinstallAfterDatabaseError">
+      <source>installer.reinstallAfterDatabaseError</source>
+        <target><strong>Warning:</strong> If installation failed part way through database installation you may need to drop your OJS database or database tables before attempting to reinstall the database.</target>
+    </trans-unit>
+    <trans-unit id="installer.overwriteConfigFileInstructions">
+      <source>installer.overwriteConfigFileInstructions</source>
+        <target><h4>IMPORTANT!</h4>
+<p>The installer could not automatically overwrite the configuration file. Before attempting to use the system, please open <tt>config.inc.php</tt> in a suitable text editor and replace its contents with the contents of the text field below.</p></target>
+    </trans-unit>
+    <trans-unit id="installer.installationComplete">
+      <source>installer.installationComplete</source>
+        <target><p>Installation of OJS has completed successfully.</p>
+<p>To begin using the system, <a href="{$loginUrl}">login</a> with the username and password entered on the previous page.</p>
+<p>If you wish to be part of the PKP community, you can:</p>
+<ol>
+	<li>Read the <a href="http://pkp.sfu.ca/blog" target="_new">PKP blog</a> and follow the <a href="http://pkp.sfu.ca/blog/feed" target="_new">RSS feed</a> for news and updates.</li>
+	<li>Visit the <a href="http://forum.pkp.sfu.ca" target="_new">support forum</a> if you have questions or comments.</li>
+</ol></target>
+    </trans-unit>
+    <trans-unit id="installer.upgradeComplete">
+      <source>installer.upgradeComplete</source>
+        <target><p>Upgrade of OJS to version {$version} has completed successfully.</p>
+<p>Don't forget to set the "installed" setting in your config.inc.php configuration file back to <em>On</em>.</p>
+<p>If you haven't already registered and wish to receive news and updates, <strong>please register at <a href="http://pkp.sfu.ca/ojs/register" target="_new">http://pkp.sfu.ca/ojs/register</a>.</strong> If you have questions or comments, please visit the <a href="http://forum.pkp.sfu.ca" target="_new">support forum</a>.</p></target>
+    </trans-unit>
+    <trans-unit id="site.upgradeAvailable.admin">
+      <source>site.upgradeAvailable.admin</source>
+        <target>There is a new version of OJS available! You are currently using OJS {$currentVersion}. The most recent version is OJS {$latestVersion}. Please visit <a href="http://pkp.sfu.ca/ojs_download" target="_new">this page</a> to download the most recent version and find upgrade instructions.</target>
+    </trans-unit>
+    <trans-unit id="site.upgradeAvailable.manager">
+      <source>site.upgradeAvailable.manager</source>
+        <target>There is a new version of OJS available! You are currently using OJS {$currentVersion}. The most recent version is OJS {$latestVersion}. Please contact your Site Administrator ({$siteAdminName}, <a href="mailto:{$siteAdminEmail}">{$siteAdminEmail}</a>) to notify them of this new release. More information can be found <a href="http://pkp.sfu.ca/ojs_download" target="_new">here</a>.</target>
+    </trans-unit>
+    <trans-unit id="log.author.documentRevised">
+      <source>log.author.documentRevised</source>
+        <target>{$authorName} has revised article {$submissionId}. The new file ID is {$fileId}.</target>
+    </trans-unit>
+    <trans-unit id="log.review.reviewerUnassigned">
+      <source>log.review.reviewerUnassigned</source>
+        <target>{$reviewerName} has been unassigned from reviewing submission {$submissionId} for review round {$round}.</target>
+    </trans-unit>
+    <trans-unit id="log.review.reviewInitiated">
+      <source>log.review.reviewInitiated</source>
+        <target>The round {$round} review by {$reviewerName} for submission {$submissionId} has been initiated.</target>
+    </trans-unit>
+    <trans-unit id="log.review.reviewReinitiated">
+      <source>log.review.reviewReinitiated</source>
+        <target>The round {$round} review by {$reviewerName} for submission {$submissionId} has been reinitiated.</target>
+    </trans-unit>
+    <trans-unit id="log.review.reviewCleared">
+      <source>log.review.reviewCleared</source>
+        <target>The round {$round} review by {$reviewerName} for submission {$submissionId} has been cleared.</target>
+    </trans-unit>
+    <trans-unit id="log.review.reviewerRated">
+      <source>log.review.reviewerRated</source>
+        <target>{$reviewerName} has been rated for the round {$round} review of submission {$submissionId}.</target>
+    </trans-unit>
+    <trans-unit id="log.review.reviewDueDateSet">
+      <source>log.review.reviewDueDateSet</source>
+        <target>The due date for the round {$round} review of submission {$submissionId} by {$reviewerName} has been set to {$dueDate}.</target>
+    </trans-unit>
+    <trans-unit id="log.review.reviewRecommendationSet">
+      <source>log.review.reviewRecommendationSet</source>
+        <target>The recommendation for the round {$round} review of submission {$submissionId} by {$reviewerName} has been set.</target>
+    </trans-unit>
+    <trans-unit id="log.review.reviewRecommendationSetByProxy">
+      <source>log.review.reviewRecommendationSetByProxy</source>
+        <target>The recommendation for the round {$round} review of submission {$submissionId} has been set by the editor, {$editorName}, on behalf of the reviewer, {$reviewerName}.</target>
+    </trans-unit>
+    <trans-unit id="log.review.resubmit">
+      <source>log.review.resubmit</source>
+        <target>The submission {$submissionId} has been resubmitted for review.</target>
+    </trans-unit>
+    <trans-unit id="log.review.reviewDeclined">
+      <source>log.review.reviewDeclined</source>
+        <target>{$reviewerName} has declined the round {$round} review for submission {$submissionId}.</target>
+    </trans-unit>
+    <trans-unit id="log.review.reviewAccepted">
+      <source>log.review.reviewAccepted</source>
+        <target>{$reviewerName} has accepted the round {$round} review for submission {$submissionId}.</target>
+    </trans-unit>
+    <trans-unit id="log.review.reviewDeclinedByProxy">
+      <source>log.review.reviewDeclinedByProxy</source>
+        <target>{$userName} has declined the round {$round} review for submission {$submissionId} on behalf of {$reviewerName}.</target>
+    </trans-unit>
+    <trans-unit id="log.review.reviewAcceptedByProxy">
+      <source>log.review.reviewAcceptedByProxy</source>
+        <target>{$userName} has accepted the round {$round} review for submission {$submissionId} on behalf of {$reviewerName}.</target>
+    </trans-unit>
+    <trans-unit id="log.review.reviewFileByProxy">
+      <source>log.review.reviewFileByProxy</source>
+        <target>The Editor, {$userName}, has uploaded a review file for round {$round} of submission {$submissionId} on behalf of the reviewer, {$reviewerName}.</target>
+    </trans-unit>
+    <trans-unit id="log.review.reviewerFile">
+      <source>log.review.reviewerFile</source>
+        <target>A reviewer file has been uploaded.</target>
+    </trans-unit>
+    <trans-unit id="log.editor.decision">
+      <source>log.editor.decision</source>
+        <target>An editor decision ({$decision}) for article {$submissionId} was recorded by {$editorName}.</target>
+    </trans-unit>
+    <trans-unit id="log.editor.recommendation">
+      <source>log.editor.recommendation</source>
+        <target>An editor recommendation ({$decision}) for article {$submissionId} was recorded by {$editorName}.</target>
+    </trans-unit>
+    <trans-unit id="log.copyedit.initiate">
+      <source>log.copyedit.initiate</source>
+        <target>Copyediting on submission {$submissionId} has been commenced by {$copyeditorName}.</target>
+    </trans-unit>
+    <trans-unit id="log.copyedit.copyeditFileSet">
+      <source>log.copyedit.copyeditFileSet</source>
+        <target>The default copyedit file has been chosen.</target>
+    </trans-unit>
+    <trans-unit id="log.copyedit.initialEditComplete">
+      <source>log.copyedit.initialEditComplete</source>
+        <target>{$copyeditorName} has completed the initial copy edit of submission {$submissionId}.</target>
+    </trans-unit>
+    <trans-unit id="log.copyedit.finalEditComplete">
+      <source>log.copyedit.finalEditComplete</source>
+        <target>{$copyeditorName} has completed the final copy edit of submission {$submissionId}.</target>
+    </trans-unit>
+    <trans-unit id="log.copyedit.copyeditorAssigned">
+      <source>log.copyedit.copyeditorAssigned</source>
+        <target>{$copyeditorName} has been assigned to copyedit submission {$submissionId}.</target>
+    </trans-unit>
+    <trans-unit id="log.copyedit.copyeditorFile">
+      <source>log.copyedit.copyeditorFile</source>
+        <target>A copyeditor version of the submission file has been uploaded.</target>
+    </trans-unit>
+    <trans-unit id="log.copyedit.authorFile">
+      <source>log.copyedit.authorFile</source>
+        <target>A version of the submission file copyedited by the author has been uploaded.</target>
+    </trans-unit>
+    <trans-unit id="log.layout.layoutEditorAssigned">
+      <source>log.layout.layoutEditorAssigned</source>
+        <target>{$editorName} has been assigned as layout editor for submission {$submissionId}.</target>
+    </trans-unit>
+    <trans-unit id="log.layout.layoutEditorUnassigned">
+      <source>log.layout.layoutEditorUnassigned</source>
+        <target>{$editorName} has been unassigned as layout editor for submission {$submissionId}.</target>
+    </trans-unit>
+    <trans-unit id="log.layout.layoutEditComplete">
+      <source>log.layout.layoutEditComplete</source>
+        <target>{$editorName} has completed layout editing for submission {$submissionId}.</target>
+    </trans-unit>
+    <trans-unit id="log.editor.metadataModified">
+      <source>log.editor.metadataModified</source>
+        <target>The metadata for this article was modified by {$editorName}.</target>
+    </trans-unit>
+    <trans-unit id="log.editor.editorFile">
+      <source>log.editor.editorFile</source>
+        <target>An editor version of the submission file has been uploaded.</target>
+    </trans-unit>
+    <trans-unit id="log.editor.archived">
+      <source>log.editor.archived</source>
+        <target>The submission {$submissionId} has been archived.</target>
+    </trans-unit>
+    <trans-unit id="log.editor.restored">
+      <source>log.editor.restored</source>
+        <target>The submission {$submissionId} has been restored to the queue.</target>
+    </trans-unit>
+    <trans-unit id="log.editor.editorAssigned">
+      <source>log.editor.editorAssigned</source>
+        <target>{$editorName} has been assigned as editor to submission {$submissionId}.</target>
+    </trans-unit>
+    <trans-unit id="log.proofread.assign">
+      <source>log.proofread.assign</source>
+        <target>{$assignerName} has assigned {$proofreaderName} to proofread submission {$submissionId}.</target>
+    </trans-unit>
+    <trans-unit id="log.proofread.complete">
+      <source>log.proofread.complete</source>
+        <target>{$proofreaderName} has submitted {$submissionId} for scheduling.</target>
+    </trans-unit>
+    <trans-unit id="log.imported">
+      <source>log.imported</source>
+        <target>{$userName} has imported article {$submissionId}.</target>
+    </trans-unit>
+    <trans-unit id="rt.admin.settings">
+      <source>rt.admin.settings</source>
+        <target>Reading Tool Options</target>
+    </trans-unit>
+    <trans-unit id="rt.admin.settings.description">
+      <source>rt.admin.settings.description</source>
+        <target>The reading tools appear in a frame beside published items in the sections of the journal that have been designated for indexing. The reading tools consist of a set of optional tools related to the published item, listed below, and a set of tools that provide access to related items, organized by field and discipline.</target>
+    </trans-unit>
+    <trans-unit id="rt.admin.settings.enableReadingTools">
+      <source>rt.admin.settings.enableReadingTools</source>
+        <target>Enable Reading Tools for designated sections of journal.</target>
+    </trans-unit>
+    <trans-unit id="rt.admin.settings.relatedItems">
+      <source>rt.admin.settings.relatedItems</source>
+        <target>Field</target>
+    </trans-unit>
+    <trans-unit id="rt.admin.settings.relatedItemsLink">
+      <source>rt.admin.settings.relatedItemsLink</source>
+        <target>See <a href="{$relatedItemsLink}" class="action">Related Items Sets</a> to view, add, correct, or delete related items for each field.</target>
+    </trans-unit>
+    <trans-unit id="rt.admin.options">
+      <source>rt.admin.options</source>
+        <target>Journal Item Tools</target>
+    </trans-unit>
+    <trans-unit id="rt.admin.relatedItems">
+      <source>rt.admin.relatedItems</source>
+        <target>Related Item Tools</target>
+    </trans-unit>
+    <trans-unit id="rt.admin.settings.addComment">
+      <source>rt.admin.settings.addComment</source>
+        <target>Add comment (enables readers to post comments, with Journal Manager able to delete).</target>
+    </trans-unit>
+    <trans-unit id="rt.admin.settings.addComment.authenticated">
+      <source>rt.admin.settings.addComment.authenticated</source>
+        <target>Users must be registered and logged in to post, with anonymity not permitted.</target>
+    </trans-unit>
+    <trans-unit id="rt.admin.settings.addComment.anonymous">
+      <source>rt.admin.settings.addComment.anonymous</source>
+        <target>Users must be registered and logged in to post, with anonymity permitted.</target>
+    </trans-unit>
+    <trans-unit id="rt.admin.settings.addComment.unauthenticated">
+      <source>rt.admin.settings.addComment.unauthenticated</source>
+        <target>Users do not need to be registered to post, with anonymity permitted.</target>
+    </trans-unit>
+    <trans-unit id="rt.admin.validateUrls.description">
+      <source>rt.admin.validateUrls.description</source>
+        <target>Possibly invalid URLs for search sites are displayed below.<br/>
+You should manually verify any URLs marked as invalid, as this test is not 100% accurate.<br/>
+Validation may fail on search URLs that require posted form data.</target>
+    </trans-unit>
+    <trans-unit id="rt.metadata.dublinCore.primaryAuthor">
+      <source>rt.metadata.dublinCore.primaryAuthor</source>
+        <target>Creator</target>
+    </trans-unit>
+    <trans-unit id="rt.metadata.pkp.primaryAuthor">
+      <source>rt.metadata.pkp.primaryAuthor</source>
+        <target>Author's name, affiliation, country</target>
+    </trans-unit>
+    <trans-unit id="rt.metadata.pkp.peerReviewed">
+      <source>rt.metadata.pkp.peerReviewed</source>
+        <target>Peer-reviewed Article</target>
+    </trans-unit>
+    <trans-unit id="rt.beNotifiedWhen">
+      <source>rt.beNotifiedWhen</source>
+        <target>Be notified when...</target>
+    </trans-unit>
+    <trans-unit id="rt.thisJournal">
+      <source>rt.thisJournal</source>
+        <target>Search journal</target>
+    </trans-unit>
+    <trans-unit id="rt.context.authorTermsDescription">
+      <source>rt.context.authorTermsDescription</source>
+        <target>For items with more than one author, leave all names checked to search for similarly co-authored work, or search one at a time by checking only a single name. To learn more about the resource searched, click on ABOUT. These resources have been selected because of their relevance and their open (free) access to all or part of their contents.</target>
+    </trans-unit>
+    <trans-unit id="notification.type.articleSubmitted">
+      <source>notification.type.articleSubmitted</source>
+        <target>A new article, "{$title}", has been submitted.</target>
+    </trans-unit>
+    <trans-unit id="notification.type.editing">
+      <source>notification.type.editing</source>
+        <target>Editing Events</target>
+    </trans-unit>
+    <trans-unit id="notification.type.submissionSubmitted">
+      <source>notification.type.submissionSubmitted</source>
+        <target>A new article, "{$title}," has been submitted.</target>
+    </trans-unit>
+    <trans-unit id="notification.type.editorDecisionComment">
+      <source>notification.type.editorDecisionComment</source>
+        <target>A comment has been left on the editor decision for "{$title}."</target>
+    </trans-unit>
+    <trans-unit id="notification.type.galleyModified">
+      <source>notification.type.galleyModified</source>
+        <target>A galley has been modified for "{$title}."</target>
+    </trans-unit>
+    <trans-unit id="notification.type.issuePublished">
+      <source>notification.type.issuePublished</source>
+        <target>An issue has been published.</target>
+    </trans-unit>
+    <trans-unit id="notification.type.newAnnouncement">
+      <source>notification.type.newAnnouncement</source>
+        <target>A new announcement has been created.</target>
+    </trans-unit>
+    <trans-unit id="notification.type.reviewerFormComment">
+      <source>notification.type.reviewerFormComment</source>
+        <target>A review form review has been submitted for "{$title}."</target>
+    </trans-unit>
+    <trans-unit id="notification.type.reviewing">
+      <source>notification.type.reviewing</source>
+        <target>Reviewing Events</target>
+    </trans-unit>
+    <trans-unit id="notification.type.site">
+      <source>notification.type.site</source>
+        <target>Site Events</target>
+    </trans-unit>
+    <trans-unit id="notification.type.submissionComment">
+      <source>notification.type.submissionComment</source>
+        <target>An editor has made a comment on "{$title}."</target>
+    </trans-unit>
+    <trans-unit id="notification.type.submissions">
+      <source>notification.type.submissions</source>
+        <target>Submission Events</target>
+    </trans-unit>
+    <trans-unit id="notification.type.userComment">
+      <source>notification.type.userComment</source>
+        <target>A reader has made a comment on "{$title}"</target>
+    </trans-unit>
+    <trans-unit id="notification.type.public">
+      <source>notification.type.public</source>
+        <target>Public Announcements</target>
+    </trans-unit>
+    <trans-unit id="notification.savedIssueMetadata">
+      <source>notification.savedIssueMetadata</source>
+        <target>Issue publication metadata saved.</target>
+    </trans-unit>
+    <trans-unit id="notification.type.editorAssignmentTask">
+      <source>notification.type.editorAssignmentTask</source>
+        <target>A new article has been submitted to which an editor needs to be assigned.</target>
+    </trans-unit>
+    <trans-unit id="notification.type.assignProductionUser">
+      <source>notification.type.assignProductionUser</source>
+        <target>Assign a user to create galleys using the Assign link in the Participants list.</target>
+    </trans-unit>
+    <trans-unit id="notification.type.awaitingRepresentations">
+      <source>notification.type.awaitingRepresentations</source>
+        <target>Awaiting Galleys.</target>
+    </trans-unit>
+    <trans-unit id="notification.type.publicationScheduled">
+      <source>notification.type.publicationScheduled</source>
+        <target>This submission has been scheduled for publication.</target>
+    </trans-unit>
+    <trans-unit id="user.authorization.copyeditorAssignmentMissing">
+      <source>user.authorization.copyeditorAssignmentMissing</source>
+        <target>Access denied! You have not been assigned as a copyeditor to this article.</target>
+    </trans-unit>
+    <trans-unit id="user.authorization.noContext">
+      <source>user.authorization.noContext</source>
+        <target>No journal in context!</target>
+    </trans-unit>
+    <trans-unit id="user.authorization.sectionAssignment">
+      <source>user.authorization.sectionAssignment</source>
+        <target>You are trying to access an article that is not part of your section.</target>
+    </trans-unit>
+    <trans-unit id="user.authorization.invalidIssue">
+      <source>user.authorization.invalidIssue</source>
+        <target>Invalid issue requested!</target>
+    </trans-unit>
+    <trans-unit id="user.authorization.invalidCopyditorSubmission">
+      <source>user.authorization.invalidCopyditorSubmission</source>
+        <target>Invalid copyeditor submission or no copyeditor submission requested!</target>
+    </trans-unit>
+    <trans-unit id="debug.notes.currencyListLoad">
+      <source>debug.notes.currencyListLoad</source>
+        <target>Loaded currency list "{$filename}" from XML</target>
+    </trans-unit>
+    <trans-unit id="grid.action.createContext">
+      <source>grid.action.createContext</source>
+        <target>Create a New Journal</target>
+    </trans-unit>
+    <trans-unit id="editor.navigation.issues">
+      <source>editor.navigation.issues</source>
+        <target>Issues</target>
+    </trans-unit>
+    <trans-unit id="notification.type.approveSubmission">
+      <source>notification.type.approveSubmission</source>
+        <target>This submission is currently awaiting approval before it will appear in the issue.</target>
+    </trans-unit>
+    <trans-unit id="notification.type.approveSubmissionTitle">
+      <source>notification.type.approveSubmissionTitle</source>
+        <target>Awaiting approval.</target>
+    </trans-unit>
+    <trans-unit id="user.profile.form.showOtherContexts">
+      <source>user.profile.form.showOtherContexts</source>
+        <target>Register with other journals</target>
+    </trans-unit>
+    <trans-unit id="user.profile.form.hideOtherContexts">
+      <source>user.profile.form.hideOtherContexts</source>
+        <target>Hide other journals</target>
+    </trans-unit>
+    <trans-unit id="article.view.interstitial">
+      <source>article.view.interstitial</source>
+        <target>Please choose an article file to download.</target>
+    </trans-unit>
+    <trans-unit id="grid.catalogEntry.availableRepresentation.approved">
+      <source>grid.catalogEntry.availableRepresentation.approved</source>
+        <target>Approved</target>
+    </trans-unit>
+    <trans-unit id="grid.catalogEntry.availableRepresentation.notApproved">
+      <source>grid.catalogEntry.availableRepresentation.notApproved</source>
+        <target>Awaiting Approval</target>
+    </trans-unit>
+    <trans-unit id="grid.catalogEntry.approvedRepresentation.title">
+      <source>grid.catalogEntry.approvedRepresentation.title</source>
+        <target>Galley Approval</target>
+    </trans-unit>
+    <trans-unit id="grid.catalogEntry.approvedRepresentation.message">
+      <source>grid.catalogEntry.approvedRepresentation.message</source>
+        <target><p>Approve this galley for publication.</p></target>
+    </trans-unit>
+    <trans-unit id="grid.catalogEntry.approvedRepresentation.removeMessage">
+      <source>grid.catalogEntry.approvedRepresentation.removeMessage</source>
+        <target><p>Remove approval of this galley.</p></target>
+    </trans-unit>
+    <trans-unit id="search.cli.rebuildIndex.indexing">
+      <source>search.cli.rebuildIndex.indexing</source>
+        <target>Indexing "{$journalName}"</target>
+    </trans-unit>
+    <trans-unit id="search.cli.rebuildIndex.indexingByJournalNotSupported">
+      <source>search.cli.rebuildIndex.indexingByJournalNotSupported</source>
+        <target>This search implementation does not allow per-journal re-indexing.</target>
+    </trans-unit>
+    <trans-unit id="search.cli.rebuildIndex.unknownJournal">
+      <source>search.cli.rebuildIndex.unknownJournal</source>
+        <target>The given journal path "{$journalPath}" could not be resolved to a journal.</target>
+    </trans-unit>
+    <trans-unit id="editor.issues.backIssues">
+      <source>editor.issues.backIssues</source>
+        <target>Back Issues</target>
+    </trans-unit>
+    <trans-unit id="editor.issues.futureIssues">
+      <source>editor.issues.futureIssues</source>
+        <target>Future Issues</target>
+    </trans-unit>
+    <trans-unit id="navigation.subscriptions">
+      <source>navigation.subscriptions</source>
+        <target>Subscriptions</target>
+    </trans-unit>
+    <trans-unit id="log.editor.submissionExpedited">
+      <source>log.editor.submissionExpedited</source>
+        <target>{$editorName} has taken the edit process for the article {$submissionId}.</target>
+    </trans-unit>
+  </body>
+</file>
+</xliff>
+ 
