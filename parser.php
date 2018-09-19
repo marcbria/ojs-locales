@@ -32,8 +32,8 @@ $trans.="  <body>\n";
 
 foreach($xml->children() as $message) {
 	$trans.="    <trans-unit id=\"".$message['key']."\">\n";
-	$trans.="      <source>".$message['key']."</source>\n";
-	$trans.="        <target>".$message."</target>\n";
+	$trans.="      <source>".$message."</source>\n";
+//	$trans.="      <target>".$message."</target>\n";
 	$trans.="    </trans-unit>\n";
 }
 
