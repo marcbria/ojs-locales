@@ -1,0 +1,1737 @@
+<?xml version="1.0"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+<file source-language="en" target-language="en" datatype="plaintext" original="admin.xml">
+  <body>
+    <trans-unit id="manager.website.archiving">
+      <source>Archiving</source>
+    </trans-unit>
+    <trans-unit id="manager.emails.confirmResetAll">
+      <source>Are you sure you want to reset all email templates in this journal? You will lose any customizations you have made.</source>
+    </trans-unit>
+    <trans-unit id="manager.files.note">
+      <source>Note: The Files Browser is an advanced feature that allows the files and directories associated with a journal to be viewed and manipulated directly.</source>
+    </trans-unit>
+    <trans-unit id="manager.journalManagement">
+      <source>Journal Management</source>
+    </trans-unit>
+    <trans-unit id="manager.language.ui">
+      <source>UI</source>
+    </trans-unit>
+    <trans-unit id="manager.language.submissions">
+      <source>Submissions</source>
+    </trans-unit>
+    <trans-unit id="manager.language.forms">
+      <source>Forms</source>
+    </trans-unit>
+    <trans-unit id="manager.language.confirmDefaultSettingsOverwrite">
+      <source>This will replace any locale-specific journal settings you had for this locale</source>
+    </trans-unit>
+    <trans-unit id="manager.languages.languageInstructions">
+      <source>OJS can be made available to users in any of several supported languages. As well, OJS can operate as a multilingual system, providing users with an ability to toggle between languages on each page, and allowing certain data to be entered in several additional languages.<br /><br/>If a language supported by OJS is not listed below, ask your site administrator to install the language from the site administration interface. For instructions on adding support for new languages, please consult the OJS documentation.</source>
+    </trans-unit>
+    <trans-unit id="manager.languages.noneAvailable">
+      <source>Sorry, no additional languages are available. Contact your site administrator if you wish to use additional languages with this journal.</source>
+    </trans-unit>
+    <trans-unit id="manager.languages.primaryLocaleInstructions">
+      <source>This will be the default language for the journal site.</source>
+    </trans-unit>
+    <trans-unit id="manager.managementPages">
+      <source>Management Pages</source>
+    </trans-unit>
+    <trans-unit id="manager.payment.action">
+      <source>Action</source>
+    </trans-unit>
+    <trans-unit id="manager.payment.addPayment">
+      <source>Add Payment</source>
+    </trans-unit>
+    <trans-unit id="manager.payment.amount">
+      <source>Amount</source>
+    </trans-unit>
+    <trans-unit id="manager.payment.authorFees">
+      <source>Author Fees</source>
+    </trans-unit>
+    <trans-unit id="manager.payment.authorFeesDescription">
+      <source>Enter fee amounts below in order to enable author processing charges.</source>
+    </trans-unit>
+    <trans-unit id="manager.payment.currency">
+      <source>Currency</source>
+    </trans-unit>
+    <trans-unit id="manager.payment.currencymessage">
+      <source>OJS does not perform any currency conversions.  If accepting payments for subscriptions, you must ensure that the subscription currency matches the one specified here.</source>
+    </trans-unit>
+    <trans-unit id="manager.payment.description">
+      <source>Description</source>
+    </trans-unit>
+    <trans-unit id="manager.payment.details">
+      <source>Details</source>
+    </trans-unit>
+    <trans-unit id="manager.payment.editSubscription">
+      <source>Edit Subscription</source>
+    </trans-unit>
+    <trans-unit id="manager.payment.enable">
+      <source>Enable</source>
+    </trans-unit>
+    <trans-unit id="manager.payment.feePaymentOptions">
+      <source>Fee Payment Options</source>
+    </trans-unit>
+    <trans-unit id="manager.payment.form.numeric">
+      <source>All costs must be positive numeric values (decimal points are allowed)</source>
+    </trans-unit>
+    <trans-unit id="manager.payment.generalFees">
+      <source>General Fees</source>
+    </trans-unit>
+    <trans-unit id="manager.payment.generalFeesDescription">
+      <source>The Association Membership will appear in About the Journal under Policies, and the donations link will appear above the search function in the right-hand frame.</source>
+    </trans-unit>
+    <trans-unit id="manager.payment.generalOptions">
+      <source>General Options</source>
+    </trans-unit>
+    <trans-unit id="manager.payment.noPayments">
+      <source>No Payments</source>
+    </trans-unit>
+    <trans-unit id="manager.payment.notFound">
+      <source>Not Found</source>
+    </trans-unit>
+    <trans-unit id="manager.payment.options">
+      <source>Options</source>
+    </trans-unit>
+    <trans-unit id="manager.payment.options.acceptSubscriptionPayments">
+      <source>This will activate payments for Subscriptions, where types, cost, duration and subscriptions are managed by the Journal (Subscription) Manager.</source>
+    </trans-unit>
+    <trans-unit id="subscriptionManager.subscription.confirmRemove">
+      <source>Are you sure you wish to delete this subscription?</source>
+    </trans-unit>
+    <trans-unit id="manager.payment.options.enablePayments">
+      <source>Payments will be enabled for this journal. Note that users will be required to log in to make payments.</source>
+    </trans-unit>
+    <trans-unit id="manager.payment.options.fee">
+      <source>Fee</source>
+    </trans-unit>
+    <trans-unit id="manager.payment.options.feeDescription">
+      <source>Fee Description</source>
+    </trans-unit>
+    <trans-unit id="manager.payment.options.feeName">
+      <source>Fee Name</source>
+    </trans-unit>
+    <trans-unit id="manager.payment.options.membershipFee">
+      <source>Association Membership</source>
+    </trans-unit>
+    <trans-unit id="manager.payment.options.onlypdf">
+      <source>Only Restrict Access to PDF version of issues and articles</source>
+    </trans-unit>
+    <trans-unit id="manager.payment.options.publicationFee">
+      <source>Article Processing Charge</source>
+    </trans-unit>
+    <trans-unit id="manager.payment.options.purchaseArticleFee">
+      <source>Purchase Article</source>
+    </trans-unit>
+    <trans-unit id="manager.payment.options.purchaseIssueFee">
+      <source>Purchase Issue</source>
+    </trans-unit>
+    <trans-unit id="manager.payment.options.text">
+      <source>Description of Payment Method</source>
+    </trans-unit>
+    <trans-unit id="manager.payment.paymentId">
+      <source>Payment ID</source>
+    </trans-unit>
+    <trans-unit id="manager.payment.paymentMethod">
+      <source>Payment Method</source>
+    </trans-unit>
+    <trans-unit id="manager.payment.paymentMethod.description">
+      <source>You may configure any of the following Payment Method Plugins from this screen.</source>
+    </trans-unit>
+    <trans-unit id="manager.payment.paymentMethods">
+      <source>Fee Payment Methods</source>
+    </trans-unit>
+    <trans-unit id="manager.payment.paymentType">
+      <source>Payment Type</source>
+    </trans-unit>
+    <trans-unit id="manager.payment.readerFees">
+      <source>Reader Fees</source>
+    </trans-unit>
+    <trans-unit id="manager.payment.readerFeesDescription">
+      <source>Selected options, along with their descriptions and fees (which can be edited below), will appear in About the Journal under Policies, as well as at points where payment is required.</source>
+    </trans-unit>
+    <trans-unit id="manager.payment.records">
+      <source>Records</source>
+    </trans-unit>
+    <trans-unit id="manager.payments">
+      <source>Payments</source>
+    </trans-unit>
+    <trans-unit id="manager.paymentTypes">
+      <source>Payment Types</source>
+    </trans-unit>
+    <trans-unit id="manager.payment.userName">
+      <source>Payment ID</source>
+    </trans-unit>
+    <trans-unit id="manager.people.allEnrolledUsers">
+      <source>Users Enrolled in this Journal</source>
+    </trans-unit>
+    <trans-unit id="manager.people.allJournals">
+      <source>All Journals</source>
+    </trans-unit>
+    <trans-unit id="manager.people.allSiteUsers">
+      <source>Enroll a User from this Site in this Journal</source>
+    </trans-unit>
+    <trans-unit id="manager.people.showNoRole">
+      <source>Show users with no role</source>
+    </trans-unit>
+    <trans-unit id="manager.people.allUsers">
+      <source>All Enrolled Users</source>
+    </trans-unit>
+    <trans-unit id="manager.people.confirmRemove">
+      <source>Remove this user from this journal? This action will unenroll the user from all roles within this journal.</source>
+    </trans-unit>
+    <trans-unit id="manager.people.emailUsers.selectTemplate">
+      <source>Select a template</source>
+    </trans-unit>
+    <trans-unit id="manager.people.enrollExistingUser">
+      <source>Enroll an Existing User</source>
+    </trans-unit>
+    <trans-unit id="manager.people.enrollSyncJournal">
+      <source>With journal</source>
+    </trans-unit>
+    <trans-unit id="manager.people.mergeUsers.from.description">
+      <source>Select a user (or several) to merge into another user account (e.g., when someone has two user accounts). The account(s) selected first will be deleted and any submissions, assignments, etc. will be attributed to the second account.</source>
+    </trans-unit>
+    <trans-unit id="manager.people.mergeUsers.into.description">
+      <source>Select a user to whom to attribute the previous users' authorships, editing assignments, etc.</source>
+    </trans-unit>
+    <trans-unit id="manager.people.roleEnrollment">
+      <source>{$role} Enrollment</source>
+    </trans-unit>
+    <trans-unit id="manager.people.syncUserDescription">
+      <source>Enrollment synchronization will enroll all users enrolled in the specified role in the specified journal into the same role in this journal. This function allows a common set of users (e.g., Reviewers) to be synchronized between journals.</source>
+    </trans-unit>
+    <trans-unit id="manager.sections.abstractsNotRequired">
+      <source>Do not require abstracts</source>
+    </trans-unit>
+    <trans-unit id="manager.section.noSectionEditors">
+      <source>There are no section editors yet.  Add this role to at least one user via Management > Settings > Users &amp; Roles first.</source>
+    </trans-unit>
+    <trans-unit id="manager.sections.assigned">
+      <source>This Section's Editors</source>
+    </trans-unit>
+    <trans-unit id="manager.sections.confirmDelete">
+      <source>Are you sure you want to permanently delete this section?</source>
+    </trans-unit>
+    <trans-unit id="manager.sections.alertDelete">
+      <source>Before this section can be deleted, you must move articles published within it into other sections.</source>
+    </trans-unit>
+    <trans-unit id="manager.sections.create">
+      <source>Create Section</source>
+    </trans-unit>
+    <trans-unit id="manager.section.sectionEditorInstructions">
+      <source>Add a Section Editor to this section to have submissions automatically assigned to the Section Editor. (Otherwise, Section Editors can be assigned manually, after a submission comes in.) If added, a Section Editor can be automatically assigned to oversee the REVIEW (peer review) and/or the EDITING (copyediting, layout and proofreading) of submissions to this section. Section Editors are created by clicking Section Editors under Roles in Journal Management.</source>
+    </trans-unit>
+    <trans-unit id="manager.sections.editorRestriction">
+      <source>Items can only be submitted by Editors and Section Editors.</source>
+    </trans-unit>
+    <trans-unit id="manager.sections.editors">
+      <source>Section editors</source>
+    </trans-unit>
+    <trans-unit id="manager.sections.form.abbrevRequired">
+      <source>An abbreviated title is required for the section</source>
+    </trans-unit>
+    <trans-unit id="manager.sections.form.mustAllowPermission">
+      <source>Please ensure that at least one checkbox is checked for each Section Editor assignment.</source>
+    </trans-unit>
+    <trans-unit id="manager.sections.form.reviewFormId">
+      <source>Please ensure that you have chosen a valid review form.</source>
+    </trans-unit>
+    <trans-unit id="manager.sections.form.titleRequired">
+      <source>A title is required for the section.</source>
+    </trans-unit>
+    <trans-unit id="manager.sections.hideTocAuthor">
+      <source>Omit author names for section items from issues' table of contents.</source>
+    </trans-unit>
+    <trans-unit id="manager.sections.hideTocTitle">
+      <source>Omit the title of this section from issues' table of contents.</source>
+    </trans-unit>
+    <trans-unit id="manager.sections.identifyType">
+      <source>Identify items published in this section as a(n)</source>
+    </trans-unit>
+    <trans-unit id="manager.sections.identifyTypeExamples">
+      <source>(For example, "Peer-reviewed Article", "Non-refereed Book Review", "Invited Commentary", etc.)</source>
+    </trans-unit>
+    <trans-unit id="manager.sections.indexed">
+      <source>Indexed</source>
+    </trans-unit>
+    <trans-unit id="manager.sections.noneCreated">
+      <source>No sections have been created.</source>
+    </trans-unit>
+    <trans-unit id="manager.sections.open">
+      <source>Open Submissions</source>
+    </trans-unit>
+    <trans-unit id="manager.sections.policy">
+      <source>Section Policy</source>
+    </trans-unit>
+    <trans-unit id="manager.sections.readingTools">
+      <source>Reading Tools</source>
+    </trans-unit>
+    <trans-unit id="manager.sections.reviewed">
+      <source>Peer Reviewed</source>
+    </trans-unit>
+    <trans-unit id="manager.sections.submissionIndexing">
+      <source>Will not be included in the indexing of the journal</source>
+    </trans-unit>
+    <trans-unit id="manager.sections.submissionReview">
+      <source>Will not be peer-reviewed</source>
+    </trans-unit>
+    <trans-unit id="manager.section.submissionsToThisSection">
+      <source>Submissions made to this section of the journal</source>
+    </trans-unit>
+    <trans-unit id="manager.sections.unassigned">
+      <source>Available Section Editors</source>
+    </trans-unit>
+    <trans-unit id="manager.sections.wordCount">
+      <source>Word Count</source>
+    </trans-unit>
+    <trans-unit id="manager.sections.wordCountInstructions">
+      <source>Limit abstract word counts for this section (0 for no limit)</source>
+    </trans-unit>
+    <trans-unit id="manager.setup">
+      <source>Journal Settings</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.masthead">
+      <source>Masthead</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.editorialTeam">
+      <source>Editorial Team</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.editorialTeam.description">
+      <source>List editors, managing directors, and other individuals associated with the journal.</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.homepageContent">
+      <source>Journal Homepage Content</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.homepageContentDescription">
+      <source>The journal homepage consists of navigation links by default. Additional homepage content can be appended by using one or all of the following options, which will appear in the order shown.</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.layout">
+      <source>Journal Layout</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.useStyleSheet">
+      <source>Journal style sheet</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.contextName">
+      <source>Journal Name</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.pageHeader">
+      <source>Journal Page Header</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.aboutItemContent">
+      <source>Content</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.addAboutItem">
+      <source>Add About Item</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.addChecklistItem">
+      <source>Add Checklist Item</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.addItem">
+      <source>Add Item</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.addItemtoAboutJournal">
+      <source>Add Item to Appear in "About the Journal"</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.addNavItem">
+      <source>Add Item</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.addReviewerDatabaseLink">
+      <source>Add New Database Link</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.addSponsor">
+      <source>Add Sponsoring Organization</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.alternateHeader">
+      <source>Alternate Header</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.alternateHeaderDescription">
+      <source>Alternately, instead of title and logo, an HTML version of the header can be inserted into the text box below. Leave textbox blank if not required.</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.announcements">
+      <source>Announcements</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.announcementsDescription">
+      <source>Announcements may be published to inform readers of journal news and events. Published announcements will appear on the Announcements page.</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.announcementsIntroduction">
+      <source>Additional Information</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.announcementsIntroductionDescription">
+      <source>Enter any additional information that should be displayed to readers on the Announcements page.</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.appearInAboutJournal">
+      <source>(To appear in About the Journal) </source>
+    </trans-unit>
+    <trans-unit id="manager.setup.competingInterests.requireAuthors">
+      <source>Require submitting Authors to file a Competing Interest (CI) statement with their submission.</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.competingInterests.requireReviewers">
+      <source>Require Reviewers to file a CI statement with each peer review they submit.</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.history">
+      <source>Journal History</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.historyDescription">
+      <source>This text will appear in the "About" section of the journal website and can be used to describe changes in titles, editorial board, and other items of relevance to the journal's publication history.</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.copyeditInstructions">
+      <source>Copyedit Instructions</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.copyeditInstructionsDescription">
+      <source>The Copyedit Instructions will be made available to Copyeditors, Authors, and Section Editors in the Submission Editing stage. Below is a default set of instructions in HTML, which can be modified or replaced by the Journal Manager at any point (in HTML or plain text).</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.copyrightNotice">
+      <source>Copyright notice</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.coverage">
+      <source>Coverage</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.coverageDescription">
+      <source>Refers to geo-spatial location, chronological or historical coverage, and/or characteristics of research sample.</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.currentIssue">
+      <source>Current issue</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.customizingTheLook">
+      <source>Step 5. Customizing the Look</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.customTags">
+      <source>Custom tags</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.customTagsDescription">
+      <source>Custom HTML header tags to be inserted in the header of every page (e.g., META tags).</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.details">
+      <source>Details</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.details.description">
+      <source>Name of journal, ISSN, contacts, sponsors, and search engines.</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.disableUserRegistration">
+      <source>The Journal Manager will register all user accounts. Editors or Section Editors may register user accounts for reviewers.</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.discipline">
+      <source>Academic Discipline and Sub-Disciplines</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.disciplineDescription">
+      <source>Useful when journal crosses disciplinary boundaries and/or authors submit multidisciplinary items.</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.disciplineExamples">
+      <source>(E.g., History; Education; Sociology; Psychology; Cultural Studies; Law)</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.disciplineProvideExamples">
+      <source>Provide examples of relevant academic disciplines for this journal</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.displayCurrentIssue">
+      <source>Add the table of contents for the current issue (if available).</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.editorDecision">
+      <source>Editor Decision</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.emailBounceAddress">
+      <source>Bounce Address</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.emailBounceAddressDescription">
+      <source>Any undeliverable emails will result in an error message to this address.</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.emailBounceAddressDisabled">
+      <source><strong>Note:</strong> To activate this option, the site administrator must enable the <tt>allow_envelope_sender</tt> option in the OJS configuration file. Additional server configuration may be required to support this functionality (which may not be possible on all servers), as indicated in the OJS documentation.</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.emails">
+      <source>Email Identification</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.emailSignature">
+      <source>Signature</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.emailSignatureDescription">
+      <source>The prepared emails that are sent by the system on behalf of the journal will have the following signature added to the end.</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.enableAnnouncements">
+      <source>Enable Journal Managers to add journal announcements.</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.enableAnnouncementsHomepage1">
+      <source>Display</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.enableAnnouncementsHomepage2">
+      <source>of the most recent announcements on the journal homepage.</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.enableUserRegistration">
+      <source>Visitors can register a user account with the journal.</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.focusAndScope">
+      <source>Focus and scope</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.focusAndScope.description">
+      <source>Describe to authors, readers, and librarians the range of articles and other items the journal will publish.</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.forAuthorsToIndexTheirWork">
+      <source>For Authors to Index Their Work</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.forAuthorsToIndexTheirWorkDescription">
+      <source>OJS adheres to the <a href="http://www.openarchives.org/" target="_blank">Open Archives Initiative</a> Protocol for Metadata Harvesting, which is the emerging standard for providing well-indexed access to electronic research resources on a global scale. The authors will use a similar template to provide metadata for their submission. The Journal Manager should select the categories for indexing and present authors with relevant examples to assist them in indexing their work.</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.form.issnInvalid">
+      <source>The specified ISSN is not valid.</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.form.contactEmailRequired">
+      <source>The primary contact email is required.</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.form.contactNameRequired">
+      <source>The primary contact name is required.</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.form.journalInitialsRequired">
+      <source>The journal initials are required.</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.form.journalTitleRequired">
+      <source>The journal title is required.</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.form.numReviewersPerSubmission">
+      <source>The number of reviewers per submission is required.</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.form.supportEmailRequired">
+      <source>The support email is required.</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.form.supportNameRequired">
+      <source>The support name is required.</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.generalInformation">
+      <source>General Information</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.gettingDownTheDetails">
+      <source>Step 1. Getting Down the Details</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.guidelines">
+      <source>Guidelines</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.guidingSubmissions">
+      <source>Step 3. Guiding Submissions</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.includeCreativeCommons">
+      <source>For journals that offer immediate or delayed open access, include a Creative Commons license with all published work at the appropriate time.</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.information">
+      <source>Information</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.information.description">
+      <source>Brief descriptions of the journal for librarians and prospective authors and readers. These are made available in the site's sidebar when the Information block has been added.</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.information.forAuthors">
+      <source>For Authors</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.information.forLibrarians">
+      <source>For Librarians</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.information.forReaders">
+      <source>For Readers</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.initialIssue">
+      <source>Initial issue</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.initialIssueDescription">
+      <source>Depending on the format selected, identify the issue, volume, and/or year of the first issue to be published with OJS:</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.institution">
+      <source>Institution</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.itemsDescription">
+      <source>Navigation bar items can be added to the current set (Home, About, User Home, etc.) that appear at the top of the page.</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.itemsPerPage">
+      <source>Items per page</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.journalAbbreviation">
+      <source>Journal Abbreviation</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.journalArchiving">
+      <source>Journal Archiving</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.journalSummary">
+      <source>Journal Summary</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.journalSummary.description">
+      <source>A brief description of your journal that can be displayed in lists of journals.</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.journalAbout">
+      <source>About the Journal</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.journalAbout.description">
+      <source>Include any information about your journal which may be of interest to readers, authors or reviewers. This could include your open access policy, the focus and scope of the journal, copyright notice, sponsorship disclosure, history of the journal, a privacy statement, and inclusion in any LOCKSS or CLOCKSS archival system.</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.favicon">
+      <source>Journal Favicon</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.faviconDescription">
+      <source>Add a favicon for this journal to display alongside the navigation bar when users are visiting your site.</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.faviconInvalid">
+      <source>Invalid favicon format. Accepted formats are .ico, .png, and .gif.</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.journalHomepageContent">
+      <source>Journal Homepage Content</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.journalHomepageContentDescription">
+      <source>By default, the homepage consists of navigation links. Additional homepage content can be appended by using one or all of the following options, which will appear in the order shown. Note that the current issue is always accessible through the Current link in the navigation bar.</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.journalHomepageHeader">
+      <source>Journal Homepage Header</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.journalHomepageHeader.altText">
+      <source>Journal Homepage Header</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.journalHomepageHeaderDescription">
+      <source>A graphic version of the journal's title and logo (as a .gif, .jpg, or .png file) can be uploaded for the homepage, which will replace the text version that otherwise appears.</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.journalInitials">
+      <source>Journal initials</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.journalLayout">
+      <source>Journal Layout</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.journalLayoutDescription">
+      <source>Choose a journal theme and select layout components here. A journal stylesheet may also be uploaded, which can be used to override style data in the system-wide stylesheets and theme stylesheet (if a theme is chosen).</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.journalLogo">
+      <source>Journal Logo</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.journalLogo.altText">
+      <source>Journal Logo</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.journalPageFooter">
+      <source>Journal Page Footer</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.journalPageFooterDescription">
+      <source>This is the footer of your journal. To change or update the footer, paste the HTML code in the textbox below. Examples could be another navigation bar, a counter, etc. This footer will appear on every page.</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.journalPolicies">
+      <source>Step 2. Journal Policies</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.journalSetup">
+      <source>Journal Setup</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.journalSetupUpdated">
+      <source>Your journal setup has been updated.</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.journalStyleSheetInvalid">
+      <source>Invalid journal stylesheet format. Accepted format is .css.</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.journalTheme">
+      <source>Journal Theme</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.journalThumbnail">
+      <source>Journal thumbnail</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.journalThumbnail.description">
+      <source>A small logo or representation of the journal that can be used in lists of journals.</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.journalThumbnail.altText">
+      <source>Alternate text for thumbnail</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.journalTitle">
+      <source>Journal title</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.labelName">
+      <source>Label name</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.layoutInstructions">
+      <source>Layout Instructions</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.layoutInstructionsDescription">
+      <source>Layout Instructions can be prepared for the formatting of publishing items in the journal and be entered below in HTML or plain text. They will be made available to  the Layout Editor and Section Editor on the Editing page of each submission. (As each journal may employ its own file formats, bibliographic standards, style sheets, etc., a default set of instructions is not provided.)</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.layoutTemplates">
+      <source>Layout Templates</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.layoutTemplatesDescription">
+      <source>Templates can be uploaded to appear in Layout for each of the standard formats published in the journal (e.g., article, book review, etc.) using any file format (e.g., pdf, doc, etc.) with annotations added specifying font, size, margins, etc. to serve as a guide for Layout Editors and Proofreaders.</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.layoutTemplates.file">
+      <source>Template File</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.layoutTemplates.title">
+      <source>Title</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.lists">
+      <source>Lists</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.listsDescription">
+      <source>Limit the number of items (for example, submissions, users, or editing assignments) to show in a list before showing subsequent items in another page. Also, limit the number of links to display to subsequent pages of the list.</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.enableArchive">
+      <source>Enable Archiving</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.plnPluginEnable">
+      <source>PKP PN plugin enabled</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.plnDescription">
+      <source>The PKP Preservation Network (PN) provides free preservation services for any OJS journal that meets a few basic criteria.</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.plnSettingsDescription">
+      <source>Click on the Settings link to accept the terms of use for the PKP PN.</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.plnPluginArchiving">
+      <source>PKP Preservation Network (PN)</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.plnPluginNotInstalled">
+      <source>The PKP Preservation Network (PN) provides free preservation services for any OJS journal that meets a few basic criteria. The PKP PN plugin for OJS 3 is currently in development and will be available in the plugin gallery soon.</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.otherLockss">
+      <source>Alternate Archiving Options</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.lockssEnable">
+      <source>Enable LOCKSS to store and distribute journal content at participating libraries via a LOCKSS <a href="{$lockssUrl}" target="_blank">Publisher Manifest</a> page.</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.lockssLicenseDescription">
+      <source>A LOCKSS license will appear in About the Journal under Archiving: <a href="http://www.lockss.org/community/publishers-titles-gln/" target="_blank">LOCKSS License</a></source>
+    </trans-unit>
+    <trans-unit id="manager.setup.lockssLicenseLabel">
+      <source>LOCKSS License Description</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.lockssRegister">
+      <source>Identify 6-10 libraries that will register and cache the journal. For example, turn to institutions where editors or Board members work and/or institutions already participating in LOCKSS. See <a href="http://www.lockss.org/community/" target="_blank">the LOCKSS community</a>.</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.lockssTitle">
+      <source>LOCKSS</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.clockssEnable">
+      <source>Enable CLOCKSS to store and distribute journal content at participating libraries via a CLOCKSS <a href="{$clockssUrl}" target="_blank">Publisher Manifest</a> page.</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.clockssLicenseDescription">
+      <source>A CLOCKSS license will appear in About the Journal under Archiving: <a href="http://clockss.org/" target="_blank">CLOCKSS License</a></source>
+    </trans-unit>
+    <trans-unit id="manager.setup.clockssLicenseLabel">
+      <source>CLOCKSS License Description</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.clockssRegister">
+      <source>Sign up for the CLOCKSS service by visiting <a href="http://clockss.org/" target="_blank">the CLOCKSS website</a>.</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.clockssTitle">
+      <source>CLOCKSS</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.porticoEnable">
+      <source>Enable Portico to store and distribute journal content to libraries participating in Portico.</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.porticoTitle">
+      <source>Portico</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.Issn">
+      <source>ISSN</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.look">
+      <source>The Look</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.look.description">
+      <source>Homepage header, content, journal header, footer, navigation bar, and style sheet.</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.management">
+      <source>Management</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.management.description">
+      <source>Access and security, scheduling, announcements, copyediting, layout, and proofreading.</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.managementOfBasicEditorialSteps">
+      <source>Management of Basic Editorial Steps</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.managingPublishingSetup">
+      <source>Management and Publishing Setup</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.managingTheJournal">
+      <source>Step 4. Managing the Journal</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.navigationBar">
+      <source>Navigation Bar</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.navigationBarDescription">
+      <source>Add or remove additional navigation bar items.</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.navItemIsAbsolute">
+      <source>URL is an absolute URL (e.g., "http://www.example.com") rather than a path relative to the site (e.g., "/manager/setup")</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.navItemIsLiteral">
+      <source>The label value is a literal string (e.g., "Journal Setup") rather than a localization message key (e.g., "manager.setup")</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.noImageFileUploaded">
+      <source>No image file uploaded.</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.noStyleSheetUploaded">
+      <source>No style sheet uploaded.</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.note">
+      <source>Note</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.notifications.submissionAckDisabled">
+      <source><strong>Note:</strong> The submission acknowledgement email is currently disabled. To use this feature, enable the "Submission Ack" email in Emails.</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.numPageLinks">
+      <source>Page links</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.onlineAccessManagement">
+      <source>Access to Journal Content</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.onlineIssn">
+      <source>Online ISSN</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.openAccess">
+      <source>The journal will provide open access to its contents.</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.pageNumberIdentifier">
+      <source>Page Number Option</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.policies">
+      <source>Policies</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.policies.description">
+      <source>Focus, peer review, sections, privacy, security, and additional about items.</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.printIssn">
+      <source>Print ISSN</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.proofingInstructions">
+      <source>Proofing Instructions</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.proofingInstructionsDescription">
+      <source>The Proofreading Instructions will be made available to Proofreaders, Authors, Layout Editors, and Section Editors in the Submission Editing stage. Below is a default set of instructions in HTML, which can be edited or replaced by the Journal Manager at any point (in HTML or plain text).</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.provideRefLinkInstructions">
+      <source>Provide Layout Editors with instructions.</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.publicationSchedule">
+      <source>Publication Schedule</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.publicationScheduleDescription">
+      <source>Journal items can be published collectively, as part of an issue with its own Table of Contents. Alternatively, individual items can be published as soon as they are ready, by adding them to the "current" volume's Table of Contents. Provide readers, in About the Journal, with a statement about the system this journal will use and its expected frequency of publication.</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.publicationScheduling">
+      <source>Publication Scheduling</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.publicIdentifier">
+      <source>Identification of Journal Content</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.publisher">
+      <source>Publisher</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.publisherDescription">
+      <source>The name of the organization publishing the journal may be included in metadata provided to third-party archival bodies.</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.referenceLinking">
+      <source>Reference Linking</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.refLinkInstructions.description">
+      <source>Layout Instructions for Reference Linking</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.restrictArticleAccess">
+      <source>Users must be registered and log in to view open access content.</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.restrictSiteAccess">
+      <source>Users must be registered and log in to view the journal site.</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.reviewGuidelines">
+      <source>Review Guidelines</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.reviewGuidelinesDescription">
+      <source>Provide reviewers with criteria for judging a submission's suitability for publication in the journal, which may include instructions for preparing an effective and helpful review. Reviewers will have an opportunity to provide comments intended for the author and editor, as well as separate comments only for the editor.</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.reviewOptions">
+      <source>Review Options</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.reviewOptions.automatedReminders">
+      <source>Automated Email Reminders</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.reviewOptions.automatedRemindersDisabled">
+      <source>To activate these options, the site administrator must enable the <tt>scheduled_tasks</tt> option in the OJS configuration file. Additional server configuration may be required to support this functionality (which may not be possible on all servers), as indicated in the OJS documentation.</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.reviewOptions.blindReview">
+      <source>Blind Review</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.reviewOptions.numWeeksPerReview">
+      <source>Weeks allowed to complete the review</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.reviewOptions.onQuality">
+      <source>Editors will rate reviewers on a five-point quality scale after each review.</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.reviewOptions.restrictReviewerFileAccess">
+      <source>Reviewers will have access to the submission file only after agreeing to review it.</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.reviewOptions.reviewerAccess">
+      <source>Reviewer Access</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.reviewOptions.reviewerAccessKeysEnabled">
+      <source>Enable one-click reviewer access.</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.reviewOptions.reviewerAccessKeysEnabled.description">
+      <source><strong>Note:</strong> The email invitation to reviewers will contain a special URL that takes invited reviewers directly to the Review page for the submission (with access to any other pages requiring them to log in). For security reasons with this option, editors are not able to modify email addresses or add CCs or BCCs prior to sending invitations to reviewers.</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.reviewOptions.reviewerRatings">
+      <source>Reviewer Ratings</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.reviewOptions.reviewerReminders">
+      <source>Reviewer Reminders</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.reviewPolicy">
+      <source>Review Policy</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.searchEngineIndexing">
+      <source>Search Engine Indexing</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.searchEngineIndexingDescription">
+      <source>Provide a brief description of the journal which search engines can display when listing the journal in search results.</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.sectionsAndSectionEditors">
+      <source>Sections and Section Editors</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.sectionsDefaultSectionDescription">
+      <source>(If sections are not added, then items are submitted to the Articles section by default.)</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.sectionsDescription">
+      <source>To create or modify sections for the journal (e.g., Articles, Book Reviews, etc.), go to Section Management.<br /><br />Authors on submitting items to the journal will designate...</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.securitySettings">
+      <source>Access and Security Settings</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.securitySettingsDescription">
+      <source>OJS provides a number of security-related options that can be used to restrict the journal's contents, and maintain additional information about submissions for auditing purposes.</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.selectEditorDescription">
+      <source>The journal editor who will see it through the editorial process.</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.selectSectionDescription">
+      <source>The journal section for which the item will be considered.</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.showGalleyLinksDescription">
+      <source>Always show galley links and indicate restricted access.</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.siteAccess">
+      <source>Additional Site and Article Access Restrictions</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.stepsToJournalSite">
+      <source>Five Steps to a Journal Web Site</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.subjectExamples">
+      <source>(E.g., Photosynthesis; Black Holes; Four-Color Map Problem; Bayesian Theory)</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.subjectKeywordTopic">
+      <source>Keywords</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.subjectProvideExamples">
+      <source>Provide examples of keywords or topics as a guide for authors</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.submissionGuidelines">
+      <source>Submission guidelines</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.submissionPreparationChecklist">
+      <source>Submission Preparation Checklist</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.submissionPreparationChecklistDescription">
+      <source>On making a submission to the journal, authors are first asked to check each item on the Submission Preparation Checklist as completed, before proceeding. The checklist also appears in the Author Guidelines, under About the Journal. The list can be edited below, but all items on the list will require a checkmark before authors can proceed with their submission.</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.submissions">
+      <source>Submissions</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.submissions.description">
+      <source>Author guidelines, copyright, and indexing (including registration).</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.subscription">
+      <source>The journal will require subscriptions to access some or all of its contents.</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.subscriptionDescription">
+      <source>This requires the assignment of a Subscription Manager who has access to the subscription module, which includes additional open access, self-archiving, and email notification options.</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.noPublishing">
+      <source>OJS will not be used to publish the journal's contents online.</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.typeExamples">
+      <source>(E.g., Historical Inquiry; Quasi-Experimental; Literary Analysis; Survey/Interview)</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.typeMethodApproach">
+      <source>Type (Method/Approach)</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.typeProvideExamples">
+      <source>Provide examples of relevant research types, methods, and approaches for this field</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.uniqueIdentifier">
+      <source>Unique Identifier</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.uniqueIdentifierDescription">
+      <source>Articles and issues can be tagged with an identification number or string, employing a registration system such as the Digital Object Identifier System (DOI).</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.useEditorialReviewBoard">
+      <source>An editorial/review board will be used by the journal.</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.useThumbnail">
+      <source>Thumbnail</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.useImageTitle">
+      <source>Title image</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.useJournalStyleSheet">
+      <source>Journal style sheet</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.userRegistration">
+      <source>User Registration</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.useTextTitle">
+      <source>Title text</source>
+    </trans-unit>
+    <trans-unit id="manager.statistics.defaultMetricDescription">
+      <source>
+		Your journal is configured to record more than one usage metric. Usage statistics will be displayed in several contexts.
+		There are cases where a single usage statistic must be used, e.g. to display an ordered list of most-used articles or to rank
+		search results. Please select one of the configured metrics as a default.
+	</source>
+    </trans-unit>
+    <trans-unit id="manager.statistics.statistics">
+      <source>Journal Statistics</source>
+    </trans-unit>
+    <trans-unit id="manager.statistics.statistics.articleViews">
+      <source>Article View Counts (for Authors only)</source>
+    </trans-unit>
+    <trans-unit id="manager.statistics.statistics.count.accept">
+      <source>Accept</source>
+    </trans-unit>
+    <trans-unit id="manager.statistics.statistics.count.decline">
+      <source>Decline</source>
+    </trans-unit>
+    <trans-unit id="manager.statistics.statistics.count.revise">
+      <source>Resubmit</source>
+    </trans-unit>
+    <trans-unit id="manager.statistics.statistics.daysPerReview">
+      <source>Days to review</source>
+    </trans-unit>
+    <trans-unit id="manager.statistics.statistics.daysToPublication">
+      <source>Days to publication</source>
+    </trans-unit>
+    <trans-unit id="manager.statistics.statistics.description">
+      <source>OJS calculates the following statistics for each journal. The "days to review" is calculated from date of submission (or designation of Review Version) to the initial Editor Decision, while the "days to publish" is measured for accepted submissions from its original uploading to its publication.</source>
+    </trans-unit>
+    <trans-unit id="manager.statistics.statistics.itemsPublished">
+      <source>Items published</source>
+    </trans-unit>
+    <trans-unit id="manager.statistics.statistics.makePublic">
+      <source>Check items to be made available to readers in About the Journal.</source>
+    </trans-unit>
+    <trans-unit id="manager.statistics.statistics.note">
+      <source>Note: Percentages for peer reviewed submissions may not add up to 100%, as items resubmitted are either accepted, declined, or still in process.</source>
+    </trans-unit>
+    <trans-unit id="manager.statistics.statistics.numIssues">
+      <source>Issues published</source>
+    </trans-unit>
+    <trans-unit id="manager.statistics.statistics.numSubmissions">
+      <source>Total submissions</source>
+    </trans-unit>
+    <trans-unit id="manager.statistics.statistics.peerReviewed">
+      <source>Peer reviewed</source>
+    </trans-unit>
+    <trans-unit id="manager.statistics.statistics.registeredReaders">
+      <source>Registered readers</source>
+    </trans-unit>
+    <trans-unit id="manager.statistics.statistics.registeredUsers">
+      <source>Registered users</source>
+    </trans-unit>
+    <trans-unit id="manager.statistics.statistics.reviewerCount">
+      <source>No. assigned</source>
+    </trans-unit>
+    <trans-unit id="manager.statistics.statistics.reviewers">
+      <source>Reviewers</source>
+    </trans-unit>
+    <trans-unit id="manager.statistics.statistics.reviewerScore">
+      <source>Editor score</source>
+    </trans-unit>
+    <trans-unit id="manager.statistics.statistics.reviewsPerReviewer">
+      <source>No. of reviews</source>
+    </trans-unit>
+    <trans-unit id="manager.statistics.statistics.selectSections">
+      <source>Select the sections for calculating this journal's peer-reviewed statistics.</source>
+    </trans-unit>
+    <trans-unit id="manager.statistics.statistics.subscriptions">
+      <source>Subscriptions</source>
+    </trans-unit>
+    <trans-unit id="manager.statistics.reports.defaultReport.articleDownloads">
+      <source>Article file downloads</source>
+    </trans-unit>
+    <trans-unit id="manager.statistics.reports.defaultReport.articleAbstract">
+      <source>Article abstract page views</source>
+    </trans-unit>
+    <trans-unit id="manager.statistics.reports.defaultReport.articleAbstractAndDownloads">
+      <source>Article abstract page views and downloads</source>
+    </trans-unit>
+    <trans-unit id="manager.statistics.reports.defaultReport.journalIndexPageViews">
+      <source>Journal main page views</source>
+    </trans-unit>
+    <trans-unit id="manager.statistics.reports.defaultReport.issuePageViews">
+      <source>Issue table of contents page views</source>
+    </trans-unit>
+    <trans-unit id="manager.statistics.reports.filters.byContext.description">
+      <source>Narrow results by context (issues and/or article).</source>
+    </trans-unit>
+    <trans-unit id="manager.statistics.reports.filters.byObject.description">
+      <source>Narrow results by object type (journal, issue, article, file types) and/or by one or more object id(s).</source>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionPolicies">
+      <source>Subscription Policies</source>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionPolicies.authorSelfArchive">
+      <source>Author Self-Archiving Policy</source>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionPolicies.authorSelfArchiveDescription">
+      <source>The following Author Self-Archiving Policy will be included in About the Journal under Policies.</source>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionPolicies.delayedOpenAccess">
+      <source>Delayed Open Access</source>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionPolicies.delayedOpenAccessDescription">
+      <source>With delayed open access, editors are still able to designate specific articles within an issue for immediate open access.</source>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionPolicies.delayedOpenAccessDescription1">
+      <source>The back issues of this journal will be available in an open access format</source>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionPolicies.delayedOpenAccessDescription2">
+      <source>month(s) after an issue is published.</source>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionPolicies.delayedOpenAccessDurationValid">
+      <source>Please select a valid duration length.</source>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionPolicies.delayedOpenAccessPolicyDescription">
+      <source>The following Delayed Open Access Policy will be posted in About the Journal under Policies.</source>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionPolicies.enableSubscriptionExpiryReminderBeforeMonthsValid">
+      <source>Please use the checkbox provided.</source>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionPolicies.expiry">
+      <source>Subscription Expiry</source>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionPolicies.expiryDescription">
+      <source>Upon subscription expiry, readers may be denied access to all subscription content or may continue to retain access to subscription content published prior to the subscription expiry date.</source>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionPolicies.expiryFull">
+      <source>Full expiry</source>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionPolicies.expiryFullDescription">
+      <source>Readers are denied access to all subscription content upon subscription expiry.</source>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionPolicies.expiryPartial">
+      <source>Partial expiry</source>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionPolicies.expiryPartialDescription">
+      <source>Readers are denied access to recently published subscription content, but retain access to subscription content published prior to the subscription expiry date.</source>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionPolicies.xMonths">
+      <source>{$x} Months</source>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionPolicies.xWeeks">
+      <source>{$x} Weeks</source>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionPolicies.expiryReminderAfterMonths">
+      <source>Notify subscribers by email after subscription expiry</source>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionPolicies.expiryReminderAfterWeeks">
+      <source>Notify subscribers by email after subscription expiry.</source>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionPolicies.expiryReminderBeforeMonths">
+      <source>Notify subscribers by email before subscription expiry.</source>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionPolicies.expiryReminderBeforeWeeks">
+      <source>Notify subscribers by email before subscription expiry.</source>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionPolicies.expiryReminders">
+      <source>Subscription Expiry Reminders</source>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionPolicies.expiryRemindersDescription">
+      <source>Automated email reminders (available for editing by Journal Managers in OJS's Emails) can be sent to subscribers both before and after a subscription has expired.</source>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionPolicies.expiryRemindersDisabled">
+      <source><strong>Note:</strong> To activate these options, the site administrator must enable the <tt>scheduled_tasks</tt> option in the OJS configuration file. Additional server configuration may be required to support this functionality (which may not be possible on all servers), as indicated in the OJS documentation.</source>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionPolicies.expirySelectOne">
+      <source>Select one of the following:</source>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionPolicies.htmlInstructions">
+      <source>HTML can be used in textarea (for font size, color, etc.), with "returns" treated as <tt>&lt;br&gt;</tt>; HTML editor works with Firefox browsers.</source>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionPolicies.numMonthsAfterSubscriptionExpiryReminderValid">
+      <source>Please select a valid value for the number of months after subscription expiry.</source>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionPolicies.numMonthsBeforeSubscriptionExpiryReminderValid">
+      <source>Please select a valid value for the number of months before subscription expiry.</source>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionPolicies.numWeeksAfterSubscriptionExpiryReminderValid">
+      <source>Please select a valid value for the number of weeks after subscription expiry.</source>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionPolicies.numWeeksBeforeSubscriptionExpiryReminderValid">
+      <source>Please select a valid value for the number of weeks before subscription expiry.</source>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionPolicies.openAccessNotificationDescription">
+      <source>Registered readers will have the option of receiving the table of contents by email when an issue becomes open access.</source>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionPolicies.openAccessNotificationDisabled">
+      <source><strong>Note:</strong> To activate this option, the site administrator must enable the <tt>scheduled_tasks</tt> option in the OJS configuration file. Additional server configuration may be required to support this functionality (which may not be possible on all servers), as indicated in the OJS documentation.</source>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionPolicies.onlinePaymentNotifications">
+      <source>Online Payment Notifications</source>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionPolicies.onlinePaymentNotificationsDescription">
+      <source>Automated email notifications (available for editing by Journal Managers in OJS's Emails) can be sent to the Subscription Manager upon the completion of subscription online payments.</source>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionPolicies.enableSubscriptionOnlinePaymentNotificationPurchaseIndividual">
+      <source>Notify Subscription Manager by email upon online purchase of an Individual subscription.</source>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionPolicies.enableSubscriptionOnlinePaymentNotificationPurchaseInstitutional">
+      <source>Notify Subscription Manager by email upon online purchase of an Institutional subscription (recommended).</source>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionPolicies.enableSubscriptionOnlinePaymentNotificationRenewIndividual">
+      <source>Notify Subscription Manager by email upon online renewal of an Individual subscription.</source>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionPolicies.enableSubscriptionOnlinePaymentNotificationRenewInstitutional">
+      <source>Notify Subscription Manager by email upon online renewal of an Institutional subscription.</source>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionPolicies.onlinePaymentPurchaseInstitutionalDescription">
+      <source><strong>Note:</strong> Institutional subscriptions purchased online require approval of the provided domain and IP ranges and activation of the subscription by the Subscription Manager.</source>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionPolicies.onlinePaymentDisabled">
+      <source><strong>Note:</strong> To enable these options, the Journal Manager must enable the online payments module, including online payments for subscriptions, under Reader Fees.</source>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionPolicies.openAccessOptions">
+      <source>Open Access Options For Subscription Journals</source>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionPolicies.openAccessOptionsDescription">
+      <source>Subscription journals can provide "delayed open access" to their published content, as well as permit "author self-archiving" (both of which increase readership and citation of content).</source>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionPolicies.subscriptionAdditionalInformation">
+      <source>Subscription Information</source>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionPolicies.subscriptionAdditionalInformationDescription">
+      <source>The Subscription Types and fee structure will be displayed on the subscriptions page, along with the name and contact information for the Subscription Manager. Additional information about subscriptions, such as methods of payment or support for subscribers in developing countries, can be added here.</source>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionPolicies.subscriptionContact">
+      <source>Subscription Manager</source>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionPolicies.subscriptionContactDescription">
+      <source>These contact details will be listed on the subscription page for customers with enquiries related to subscriptions.</source>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionPolicies.subscriptionContactEmailValid">
+      <source>Please enter a valid email.</source>
+    </trans-unit>
+    <trans-unit id="manager.subscriptions">
+      <source>Subscriptions</source>
+    </trans-unit>
+    <trans-unit id="manager.individualSubscriptions">
+      <source>Individual Subscriptions</source>
+    </trans-unit>
+    <trans-unit id="manager.institutionalSubscriptions">
+      <source>Institutional Subscriptions</source>
+    </trans-unit>
+    <trans-unit id="manager.subscriptions.confirmRenew">
+      <source>Are you sure you want to renew this subscription?</source>
+    </trans-unit>
+    <trans-unit id="manager.subscriptions.confirmDelete">
+      <source>Are you sure you want to delete this subscription?</source>
+    </trans-unit>
+    <trans-unit id="manager.subscriptions.summary">
+      <source>Subscriptions Summary</source>
+    </trans-unit>
+    <trans-unit id="manager.subscriptions.create">
+      <source>Create New Subscription</source>
+    </trans-unit>
+    <trans-unit id="manager.subscriptions.createTitle">
+      <source>Create</source>
+    </trans-unit>
+    <trans-unit id="manager.subscriptions.renew">
+      <source>Renew</source>
+    </trans-unit>
+    <trans-unit id="manager.subscriptions.dateEnd">
+      <source>End</source>
+    </trans-unit>
+    <trans-unit id="manager.subscriptions.dateEndSearch">
+      <source>End Date</source>
+    </trans-unit>
+    <trans-unit id="manager.subscriptions.dateStart">
+      <source>Start</source>
+    </trans-unit>
+    <trans-unit id="manager.subscriptions.dateStartSearch">
+      <source>Start Date</source>
+    </trans-unit>
+    <trans-unit id="manager.subscriptions.domain">
+      <source>Domain</source>
+    </trans-unit>
+    <trans-unit id="manager.subscriptions.edit">
+      <source>Edit Subscription</source>
+    </trans-unit>
+    <trans-unit id="manager.subscriptions.editTitle">
+      <source>Edit</source>
+    </trans-unit>
+    <trans-unit id="manager.subscriptions.withStatus">
+      <source>With Status</source>
+    </trans-unit>
+    <trans-unit id="manager.subscriptions.allStatus">
+      <source>All</source>
+    </trans-unit>
+    <trans-unit id="manager.subscriptions.form.status">
+      <source>Status</source>
+    </trans-unit>
+    <trans-unit id="manager.subscriptions.form.statusRequired">
+      <source>A subscription status is required.</source>
+    </trans-unit>
+    <trans-unit id="manager.subscriptions.form.statusValid">
+      <source>Please select a valid subscription status.</source>
+    </trans-unit>
+    <trans-unit id="manager.subscriptions.form.typeId">
+      <source>Subscription type</source>
+    </trans-unit>
+    <trans-unit id="manager.subscriptions.form.typeIdRequired">
+      <source>A subscription type is required.</source>
+    </trans-unit>
+    <trans-unit id="manager.subscriptions.form.typeIdValid">
+      <source>Please select a valid subscription type.</source>
+    </trans-unit>
+    <trans-unit id="manager.subscriptions.form.dateStart">
+      <source>Start date</source>
+    </trans-unit>
+    <trans-unit id="manager.subscriptions.form.dateStartRequired">
+      <source>A subscription start date is required.</source>
+    </trans-unit>
+    <trans-unit id="manager.subscriptions.form.dateStartValid">
+      <source>Please select a valid subscription start date.</source>
+    </trans-unit>
+    <trans-unit id="manager.subscriptions.form.dateEnd">
+      <source>End date</source>
+    </trans-unit>
+    <trans-unit id="manager.subscriptions.form.dateEndRequired">
+      <source>A subscription end date is required.</source>
+    </trans-unit>
+    <trans-unit id="manager.subscriptions.form.dateEndValid">
+      <source>Please select a valid subscription end date.</source>
+    </trans-unit>
+    <trans-unit id="manager.subscriptions.form.userProfileInstructions">
+      <source>Note: All changes below are to user's system-wide profile.</source>
+    </trans-unit>
+    <trans-unit id="manager.subscriptions.form.userId">
+      <source>User</source>
+    </trans-unit>
+    <trans-unit id="manager.subscriptions.form.userContact">
+      <source>Contact</source>
+    </trans-unit>
+    <trans-unit id="manager.subscriptions.form.userIdRequired">
+      <source>A user is required.</source>
+    </trans-unit>
+    <trans-unit id="manager.subscriptions.form.userIdValid">
+      <source>Please select a valid user.</source>
+    </trans-unit>
+    <trans-unit id="manager.subscriptions.form.userCountryValid">
+      <source>Please select a valid country.</source>
+    </trans-unit>
+    <trans-unit id="manager.subscriptions.form.notifyEmail">
+      <source>Send the user an email with their username and subscription details.</source>
+    </trans-unit>
+    <trans-unit id="manager.subscriptions.form.notifyEmailValid">
+      <source>Please use the checkbox provided.</source>
+    </trans-unit>
+    <trans-unit id="manager.subscriptions.form.membership">
+      <source>Membership</source>
+    </trans-unit>
+    <trans-unit id="manager.subscriptions.form.referenceNumber">
+      <source>Reference Number</source>
+    </trans-unit>
+    <trans-unit id="manager.subscriptions.form.membershipInstructions">
+      <source>Enter membership information if the subscription type requires that subscribers belong to an association or organization.</source>
+    </trans-unit>
+    <trans-unit id="manager.subscriptions.form.membershipRequired">
+      <source>The selected subscription type requires membership information.</source>
+    </trans-unit>
+    <trans-unit id="manager.subscriptions.form.notes">
+      <source>Notes</source>
+    </trans-unit>
+    <trans-unit id="manager.subscriptions.form.domain">
+      <source>Domain</source>
+    </trans-unit>
+    <trans-unit id="manager.subscriptions.form.institutionName">
+      <source>Institution name</source>
+    </trans-unit>
+    <trans-unit id="manager.subscriptions.form.institutionNameRequired">
+      <source>An institution name is required.</source>
+    </trans-unit>
+    <trans-unit id="manager.subscriptions.form.institutionMailingAddress">
+      <source>Mailing address</source>
+    </trans-unit>
+    <trans-unit id="manager.subscriptions.form.domainInstructions">
+      <source>If a domain is entered here, IP ranges are optional.<br />Valid values are domain names (e.g. lib.sfu.ca).</source>
+    </trans-unit>
+    <trans-unit id="manager.subscriptions.form.domainIPRangeRequired">
+      <source>The selected subscription type requires a domain and/or an IP range for subscription authentication.</source>
+    </trans-unit>
+    <trans-unit id="manager.subscriptions.form.domainValid">
+      <source>Please enter a valid domain.</source>
+    </trans-unit>
+    <trans-unit id="manager.subscriptions.form.ipRange">
+      <source>IP ranges</source>
+    </trans-unit>
+    <trans-unit id="manager.subscriptions.form.ipRangeItem">
+      <source>&#8226;</source>
+    </trans-unit>
+    <trans-unit id="manager.subscriptions.form.ipRangeInstructions">
+      <source>If IP ranges are entered here, the domain is optional.<br />Valid values include an IP address (e.g. 142.58.103.1), IP range (e.g. 142.58.103.1 - 142.58.103.4), IP range with wildcard '*' (e.g. 142.58.*.*), and an IP range with CIDR (e.g. 142.58.100.0/24).</source>
+    </trans-unit>
+    <trans-unit id="manager.subscriptions.form.ipRangeValid">
+      <source>Please enter a valid IP range.</source>
+    </trans-unit>
+    <trans-unit id="manager.subscriptions.form.deleteIpRange">
+      <source>Delete</source>
+    </trans-unit>
+    <trans-unit id="manager.subscriptions.form.addIpRange">
+      <source>Add</source>
+    </trans-unit>
+    <trans-unit id="manager.subscriptions.form.saveAndCreateAnother">
+      <source>Save and Create Another</source>
+    </trans-unit>
+    <trans-unit id="manager.subscriptions.form.subscriptionContactRequired">
+      <source>In order to send the user a notification email, the subscription contact name and email address must be specified in the journal Setup.</source>
+    </trans-unit>
+    <trans-unit id="manager.subscriptions.form.subscriptionExists">
+      <source>This user already has a subscription for this journal.</source>
+    </trans-unit>
+    <trans-unit id="manager.subscriptions.form.typeRequired">
+      <source>A subscription type must be created before new subscriptions can be made.</source>
+    </trans-unit>
+    <trans-unit id="manager.subscriptions.ipRange">
+      <source>IP Range</source>
+    </trans-unit>
+    <trans-unit id="manager.subscriptions.membership">
+      <source>Membership</source>
+    </trans-unit>
+    <trans-unit id="manager.subscriptions.referenceNumber">
+      <source>Reference Number</source>
+    </trans-unit>
+    <trans-unit id="manager.subscriptions.notes">
+      <source>Notes</source>
+    </trans-unit>
+    <trans-unit id="manager.subscriptions.noneCreated">
+      <source>No subscriptions</source>
+    </trans-unit>
+    <trans-unit id="manager.subscriptions.selectContact">
+      <source>Select Subscription Contact</source>
+    </trans-unit>
+    <trans-unit id="manager.subscriptions.selectUser">
+      <source>Select User</source>
+    </trans-unit>
+    <trans-unit id="manager.subscriptions.selectSubscriber.desc">
+      <source>Subscription access privileges are automatically granted to the journal's Journal Managers, Editors, Section Editors, Layout Editors, Copyeditors, and Proofreaders.</source>
+    </trans-unit>
+    <trans-unit id="manager.subscriptions.select">
+      <source>Select</source>
+    </trans-unit>
+    <trans-unit id="manager.subscriptions.subscriptionCreatedSuccessfully">
+      <source>Subscription created successfully.</source>
+    </trans-unit>
+    <trans-unit id="manager.subscriptions.subscriptionType">
+      <source>Subscription Type</source>
+    </trans-unit>
+    <trans-unit id="manager.subscriptions.user">
+      <source>User</source>
+    </trans-unit>
+    <trans-unit id="manager.subscriptions.contact">
+      <source>Contact Name</source>
+    </trans-unit>
+    <trans-unit id="manager.subscriptions.institutionName">
+      <source>Institution Name</source>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionTypes">
+      <source>Subscription Types</source>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionTypes.confirmDelete">
+      <source>Warning! All subscriptions with this subscription type will also be deleted. Are you sure you want to continue and delete this subscription type?</source>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionTypes.cost">
+      <source>Cost</source>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionTypes.subscriptions">
+      <source>Subscriptions</source>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionTypes.individual">
+      <source>Individual</source>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionTypes.institutional">
+      <source>Institutional</source>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionTypes.create">
+      <source>Create New Subscription Type</source>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionTypes.createTitle">
+      <source>Create</source>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionTypes.duration">
+      <source>Duration</source>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionTypes.edit">
+      <source>Edit Subscription Type</source>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionTypes.editTitle">
+      <source>Edit</source>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionTypes.form.cost">
+      <source>Cost</source>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionTypes.form.costInstructions">
+      <source>Enter a numeric value (e.g. 40 or 40.00) without symbol (e.g., $).</source>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionTypes.form.costNumeric">
+      <source>The cost must be a positive, numeric value.</source>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionTypes.form.costRequired">
+      <source>A cost is required.</source>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionTypes.form.currency">
+      <source>Currency</source>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionTypes.form.currencyRequired">
+      <source>A currency is required.</source>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionTypes.form.currencyValid">
+      <source>Please select a valid currency.</source>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionTypes.form.description">
+      <source>Description</source>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionTypes.form.nonExpiring.expiresAfter">
+      <source>Expires after</source>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionTypes.form.nonExpiring.months">
+      <source>months (e.g. 12)</source>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionTypes.form.nonExpiring.neverExpires">
+      <source>Never expires</source>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionTypes.form.nonExpiringValid">
+      <source>Please use the provided options.</source>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionTypes.form.duration">
+      <source>Duration</source>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionTypes.form.durationInstructions">
+      <source>The number of months the subscription lasts (e.g. 12).</source>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionTypes.form.durationNumeric">
+      <source>The duration must be a positive, numeric value.</source>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionTypes.form.durationRequired">
+      <source>A duration is required.</source>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionTypes.form.format">
+      <source>Format</source>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionTypes.form.formatRequired">
+      <source>A subscription type format is required.</source>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionTypes.form.formatValid">
+      <source>Please select a valid subscription type format.</source>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionTypes.form.subscriptions">
+      <source>Subscriptions</source>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionTypes.form.individual">
+      <source>Individual (users are validated via login)</source>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionTypes.form.institutional">
+      <source>Institutional (users are validated via domain or IP address)</source>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionTypes.form.institutionalValid">
+      <source>Please use the provided options.</source>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionTypes.form.membership">
+      <source>Subscriptions require membership information (e.g. of an association, organization, consortium, etc.)</source>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionTypes.form.membershipValid">
+      <source>Please use the checkbox provided.</source>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionTypes.form.options">
+      <source>Options</source>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionTypes.form.public">
+      <source>Do not make this subscription type publicly available or visible on the website.</source>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionTypes.form.publicValid">
+      <source>Please use the checkbox provided.</source>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionTypes.form.saveAndCreateAnotherType">
+      <source>Save and Create Another</source>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionTypes.form.typeName">
+      <source>Name of Type</source>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionTypes.form.typeNameExists">
+      <source>A subscription type with this name already exists.</source>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionTypes.form.typeNameRequired">
+      <source>A subscription type name is required.</source>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionTypes.name">
+      <source>Subscription type</source>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionTypes.noneCreated">
+      <source>No subscription types have been created.</source>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionTypes.subscriptionTypeCreatedSuccessfully">
+      <source>Subscription type created successfully.</source>
+    </trans-unit>
+    <trans-unit id="manager.distribution.access">
+      <source>Access</source>
+    </trans-unit>
+    <trans-unit id="manager.navigationMenus.subscriptions.description">
+      <source>Link to a page describing the subscriptions you offer.</source>
+    </trans-unit>
+    <trans-unit id="manager.navigationMenus.mySubscriptions.description">
+      <source>Link to a page describing the visitor's current and past subscriptions.</source>
+    </trans-unit>
+    <trans-unit id="manager.navigationMenus.mySubscriptions.conditionalWarning">
+      <source>This link will only be displayed when a visitor is logged in.</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.categories">
+      <source>Categories</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.categories.description">
+      <source>Choose the most appropriate categories from the set listed above. Readers will be able to browse by category from the complete journal set.</source>
+    </trans-unit>
+    <trans-unit id="grid.category.path">
+      <source>Path</source>
+    </trans-unit>
+    <trans-unit id="grid.action.addSection">
+      <source>Add Section</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.section.description">
+      <source>Articles within published issues of a journal are organized in Sections, typically by theme or content type (e.g. Review Articles, Research, etc).</source>
+    </trans-unit>
+    <trans-unit id="settings.roles.gridDescription">
+      <source>Roles are groups of users in the journal who are given access to different permission levels and associated workflows within the journal. There are five different permission levels: Journal Managers have access to everything in the journal (all content and settings); Section Editors have complete access to all assigned content; Journal Assistants have limited access to all submissions that have been explicitly assigned to them by an editor; Reviewers can see and perform the submissions they have been assigned to review; and Authors can see and interact with a limited amount of information on their own submissions. Additionally, there are five different stage assignments that roles may be given access to: Submission, Internal Review, Review, Editorial, and Production.</source>
+    </trans-unit>
+    <trans-unit id="manager.publication.library">
+      <source>Publisher Library</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.copyrightYearBasis">
+      <source>Base new article's copyright year on</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.copyrightYearBasis.article">
+      <source>Article: default year will be drawn from the article's publication date, as in "publish-as-you-go".</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.copyrightYearBasis.issue">
+      <source>Issue: default year will be drawn from the issue's publication date.</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.resetPermissions">
+      <source>Reset Article Permissions</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.resetPermissions.confirm">
+      <source>Are you sure you wish to reset permissions data already attached to articles?</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.resetPermissions.description">
+      <source>Copyright statement and license information will be permanently attached to published content, ensuring that this data will not change in the case of a journal changing policies for new submissions. To reset stored permissions information already attached to published content, use the button below.</source>
+    </trans-unit>
+    <trans-unit id="grid.genres.title.short">
+      <source>Components</source>
+    </trans-unit>
+    <trans-unit id="grid.genres.title">
+      <source>Article Components</source>
+    </trans-unit>
+    <trans-unit id="grid.genres.description">
+      <source>These components are used for file-naming purposes and are presented in a pull-down menu on uploading files. The genres designated ## allow the user to associate the file with either the whole submission 99Z or a particular component by number (e.g., 02).</source>
+    </trans-unit>
+    <trans-unit id="plugins.importexport.common.settings">
+      <source>Settings</source>
+    </trans-unit>
+    <trans-unit id="plugins.importexport.common.settings.DOIPluginSettings">
+      <source>DOI Plugin Settings</source>
+    </trans-unit>
+    <trans-unit id="plugins.importexport.common.export.articles">
+      <source>Articles</source>
+    </trans-unit>
+    <trans-unit id="plugins.importexport.common.export.issues">
+      <source>Issues</source>
+    </trans-unit>
+    <trans-unit id="plugins.importexport.common.export.representations">
+      <source>Galleys</source>
+    </trans-unit>
+    <trans-unit id="plugins.importexport.common.missingRequirements">
+      <source>Plugin requirements not met</source>
+    </trans-unit>
+    <trans-unit id="plugins.importexport.common.error.DOIsNotAvailable">
+      <source>In order to use this plugin please go to the "Public Identifier" plugin category, enable and configure the DOI plugin and specify a valid DOI prefix there.</source>
+    </trans-unit>
+    <trans-unit id="plugins.importexport.common.error.pluginNotConfigured">
+      <source>The plugin is not fully set up.</source>
+    </trans-unit>
+    <trans-unit id="plugins.importexport.common.error.noDOIContentObjects">
+      <source>No publishing objects are selected for DOI assignment in the DOI public identifier plugin, so there is no deposit or export possibility in this plugin.</source>
+    </trans-unit>
+    <trans-unit id="plugins.importexport.common.settings.form.password">
+      <source>Password</source>
+    </trans-unit>
+    <trans-unit id="plugins.importexport.common.settings.form.password.description">
+      <source>Please note that the password will be saved as plain text, i.e. not encrypted.</source>
+    </trans-unit>
+    <trans-unit id="plugins.importexport.common.filter.issue">
+      <source>Any Issue</source>
+    </trans-unit>
+    <trans-unit id="plugins.importexport.common.status.any">
+      <source>Any Status</source>
+    </trans-unit>
+    <trans-unit id="plugins.importexport.common.status.notDeposited">
+      <source>Not Deposited</source>
+    </trans-unit>
+    <trans-unit id="plugins.importexport.common.status.markedRegistered">
+      <source>Marked registered</source>
+    </trans-unit>
+    <trans-unit id="plugins.importexport.common.status.registered">
+      <source>Registered</source>
+    </trans-unit>
+    <trans-unit id="plugins.importexport.common.action">
+      <source>Action</source>
+    </trans-unit>
+    <trans-unit id="plugins.importexport.common.action.export">
+      <source>Export</source>
+    </trans-unit>
+    <trans-unit id="plugins.importexport.common.action.markRegistered">
+      <source>Mark registered</source>
+    </trans-unit>
+    <trans-unit id="plugins.importexport.common.action.register">
+      <source>Register</source>
+    </trans-unit>
+    <trans-unit id="plugins.importexport.common.validation">
+      <source>Validate XML before the export and registration.</source>
+    </trans-unit>
+    <trans-unit id="plugins.importexport.common.error.noObjectsSelected">
+      <source>No objects selected.</source>
+    </trans-unit>
+    <trans-unit id="plugins.importexport.common.error.validation">
+      <source>Could not convert selected objects.</source>
+    </trans-unit>
+    <trans-unit id="plugins.importexport.common.invalidXML">
+      <source>Invalid XML:</source>
+    </trans-unit>
+    <trans-unit id="plugins.importexport.common.export.error.outputFileNotWritable">
+      <source>The output file {$param} is not writable.</source>
+    </trans-unit>
+    <trans-unit id="plugins.importexport.common.export.error.inputFileNotReadable">
+      <source>The input file {$param} is not readable.</source>
+    </trans-unit>
+    <trans-unit id="plugins.importexport.common.register.error.mdsError">
+      <source>Registration was not successful! The DOI registration server returned an error: '{$param}'.</source>
+    </trans-unit>
+    <trans-unit id="plugins.importexport.common.register.success">
+      <source>Registration successful!</source>
+    </trans-unit>
+    <trans-unit id="plugins.importexport.common.senderTask.warning.noDOIprefix">
+      <source>DOI prefix is missing for the journal with the path {$path}.</source>
+    </trans-unit>
+    <trans-unit id="plugins.importexport.common.cliError">
+      <source>ERROR:</source>
+    </trans-unit>
+    <trans-unit id="plugins.importexport.common.error.unknownJournal">
+      <source>The specified journal path, "{$journalPath}", does not exist.</source>
+    </trans-unit>
+    <trans-unit id="plugins.importexport.common.error.unknownObjects">
+      <source>The specified objects could not be found.</source>
+    </trans-unit>
+    <trans-unit id="manager.setup.notifications.copyPrimaryContact">
+      <source>Send a copy to the primary contact, identified in the Journal Settings.</source>
+    </trans-unit>
+  </body>
+</file>
+</xliff>
+ 

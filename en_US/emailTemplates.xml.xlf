@@ -1,0 +1,372 @@
+<?xml version="1.0"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+<file source-language="en" target-language="en" datatype="plaintext" original="admin.xml">
+  <body>
+    <trans-unit id="NOTIFICATION">
+      <source>
+		
+		
+		
+	</source>
+    </trans-unit>
+    <trans-unit id="PASSWORD_RESET_CONFIRM">
+      <source>
+		
+		
+		
+	</source>
+    </trans-unit>
+    <trans-unit id="PASSWORD_RESET">
+      <source>
+		
+		
+		
+	</source>
+    </trans-unit>
+    <trans-unit id="USER_REGISTER">
+      <source>
+		
+		
+		
+	</source>
+    </trans-unit>
+    <trans-unit id="USER_VALIDATE">
+      <source>
+		
+		
+		
+	</source>
+    </trans-unit>
+    <trans-unit id="REVIEWER_REGISTER">
+      <source>
+		
+		
+		
+	</source>
+    </trans-unit>
+    <trans-unit id="PUBLISH_NOTIFY">
+      <source>
+		
+		
+		
+	</source>
+    </trans-unit>
+    <trans-unit id="LOCKSS_EXISTING_ARCHIVE">
+      <source>
+		
+		
+		
+	</source>
+    </trans-unit>
+    <trans-unit id="LOCKSS_NEW_ARCHIVE">
+      <source>
+		
+		
+		
+	</source>
+    </trans-unit>
+    <trans-unit id="SUBMISSION_ACK">
+      <source>
+		
+		
+		
+	</source>
+    </trans-unit>
+    <trans-unit id="SUBMISSION_ACK_NOT_USER">
+      <source>
+		
+		
+		
+	</source>
+    </trans-unit>
+    <trans-unit id="EDITOR_ASSIGN">
+      <source>
+		
+		
+		
+	</source>
+    </trans-unit>
+    <trans-unit id="REVIEW_REQUEST">
+      <source>
+		
+		
+		
+	</source>
+    </trans-unit>
+    <trans-unit id="REVIEW_REQUEST_REMIND_AUTO">
+      <source>
+		
+		
+		
+	</source>
+    </trans-unit>
+    <trans-unit id="REVIEW_REQUEST_ONECLICK">
+      <source>
+		
+		
+		
+	</source>
+    </trans-unit>
+    <trans-unit id="REVIEW_REQUEST_REMIND_AUTO_ONECLICK">
+      <source>
+		
+		
+		
+	</source>
+    </trans-unit>
+    <trans-unit id="REVIEW_REQUEST_ATTACHED">
+      <source>
+		
+		
+		
+	</source>
+    </trans-unit>
+    <trans-unit id="REVIEW_REQUEST_SUBSEQUENT">
+      <source>
+		
+		
+		
+	</source>
+    </trans-unit>
+    <trans-unit id="REVIEW_REQUEST_ONECLICK_SUBSEQUENT">
+      <source>
+		
+		
+		
+	</source>
+    </trans-unit>
+    <trans-unit id="REVIEW_REQUEST_ATTACHED_SUBSEQUENT">
+      <source>
+		
+		
+		
+	</source>
+    </trans-unit>
+    <trans-unit id="REVIEW_CANCEL">
+      <source>
+		
+		
+		
+	</source>
+    </trans-unit>
+    <trans-unit id="REVIEW_CONFIRM">
+      <source>
+		
+		
+		
+	</source>
+    </trans-unit>
+    <trans-unit id="REVIEW_DECLINE">
+      <source>
+		
+		
+		
+	</source>
+    </trans-unit>
+    <trans-unit id="REVIEW_ACK">
+      <source>
+		
+		
+		
+	</source>
+    </trans-unit>
+    <trans-unit id="REVIEW_REMIND">
+      <source>
+		
+		
+		
+	</source>
+    </trans-unit>
+    <trans-unit id="REVIEW_REMIND_ONECLICK">
+      <source>
+		
+		
+		
+	</source>
+    </trans-unit>
+    <trans-unit id="REVIEW_REMIND_AUTO">
+      <source>
+		
+		
+		
+	</source>
+    </trans-unit>
+    <trans-unit id="REVIEW_REMIND_AUTO_ONECLICK">
+      <source>
+		
+		
+		
+	</source>
+    </trans-unit>
+    <trans-unit id="EDITOR_DECISION_ACCEPT">
+      <source>
+		
+		
+		
+	</source>
+    </trans-unit>
+    <trans-unit id="EDITOR_DECISION_SEND_TO_EXTERNAL">
+      <source>
+		
+		
+		
+	</source>
+    </trans-unit>
+    <trans-unit id="EDITOR_DECISION_SEND_TO_PRODUCTION">
+      <source>
+		
+		
+		
+	</source>
+    </trans-unit>
+    <trans-unit id="EDITOR_DECISION_REVISIONS">
+      <source>
+		
+		
+		
+	</source>
+    </trans-unit>
+    <trans-unit id="EDITOR_DECISION_RESUBMIT">
+      <source>
+		
+		
+		
+	</source>
+    </trans-unit>
+    <trans-unit id="EDITOR_DECISION_DECLINE">
+      <source>
+		
+		
+		
+	</source>
+    </trans-unit>
+    <trans-unit id="EDITOR_RECOMMENDATION">
+      <source>
+		
+		
+		
+	</source>
+    </trans-unit>
+    <trans-unit id="COPYEDIT_REQUEST">
+      <source>
+		
+		
+		
+	</source>
+    </trans-unit>
+    <trans-unit id="LAYOUT_REQUEST">
+      <source>
+		
+		
+		
+	</source>
+    </trans-unit>
+    <trans-unit id="LAYOUT_COMPLETE">
+      <source>
+		
+		
+		
+	</source>
+    </trans-unit>
+    <trans-unit id="EMAIL_LINK">
+      <source>
+		
+		
+		
+	</source>
+    </trans-unit>
+    <trans-unit id="SUBSCRIPTION_NOTIFY">
+      <source>
+		
+		
+		
+	</source>
+    </trans-unit>
+    <trans-unit id="OPEN_ACCESS_NOTIFY">
+      <source>
+		
+		
+		
+	</source>
+    </trans-unit>
+    <trans-unit id="SUBSCRIPTION_BEFORE_EXPIRY">
+      <source>
+		
+		
+		
+	</source>
+    </trans-unit>
+    <trans-unit id="SUBSCRIPTION_AFTER_EXPIRY">
+      <source>
+		
+		
+		
+	</source>
+    </trans-unit>
+    <trans-unit id="SUBSCRIPTION_AFTER_EXPIRY_LAST">
+      <source>
+		
+		
+		
+	</source>
+    </trans-unit>
+    <trans-unit id="SUBSCRIPTION_PURCHASE_INDL">
+      <source>
+		
+		
+		
+	</source>
+    </trans-unit>
+    <trans-unit id="SUBSCRIPTION_PURCHASE_INSTL">
+      <source>
+		
+		
+		
+	</source>
+    </trans-unit>
+    <trans-unit id="SUBSCRIPTION_RENEW_INDL">
+      <source>
+		
+		
+		
+	</source>
+    </trans-unit>
+    <trans-unit id="SUBSCRIPTION_RENEW_INSTL">
+      <source>
+		
+		
+		
+	</source>
+    </trans-unit>
+    <trans-unit id="CITATION_EDITOR_AUTHOR_QUERY">
+      <source>
+		
+		
+		
+	</source>
+    </trans-unit>
+    <trans-unit id="REVISED_VERSION_NOTIFY">
+      <source>
+		
+		
+		
+	</source>
+    </trans-unit>
+    <trans-unit id="NOTIFICATION_CENTER_DEFAULT">
+      <source>
+		
+		
+		
+	</source>
+    </trans-unit>
+    <trans-unit id="EDITOR_DECISION_INITIAL_DECLINE">
+      <source>
+		
+		
+		
+	</source>
+    </trans-unit>
+  </body>
+</file>
+</xliff>
+ 

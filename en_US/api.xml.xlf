@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+<file source-language="en" target-language="en" datatype="plaintext" original="admin.xml">
+  <body>
+    <trans-unit id="api.submissions.403.unpublishedIssues">
+      <source>You do not have permission to view unpublished issues.</source>
+    </trans-unit>
+  </body>
+</file>
+</xliff>
+ 
