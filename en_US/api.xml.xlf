@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
-  <file original="en_US/api.xml" datatype="plaintext" xml:space="preserve" source-language="en_US" target-language="en_US">
+  <file original="en_US/api.xml" datatype="xml" xml:space="preserve" source-language="en_US" target-language="en_US">
     <body>
     <trans-unit id="api.submissions.403.unpublishedIssues">
       <source>You do not have permission to view unpublished issues.</source>
