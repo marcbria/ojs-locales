@@ -1,9 +1,9 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
-<file source-language="en" target-language="en" datatype="plaintext" original="admin.xml">
-  <body>
-    <trans-unit id="api.submissions.403.unpublishedIssues">
+  <file original="SoyMsgBundle" datatype="x-soy-msg-bundle" xml:space="preserve" source-language="en" target-language="en">
+    <body>    <trans-unit id="api.submissions.403.unpublishedIssues">
       <source>You do not have permission to view unpublished issues.</source>
+      <target>You do not have permission to view unpublished issues.</target>
     </trans-unit>
   </body>
 </file>

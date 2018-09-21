@@ -1,414 +1,549 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
-<file source-language="en" target-language="en" datatype="plaintext" original="admin.xml">
-  <body>
-    <trans-unit id="editor.home">
+  <file original="SoyMsgBundle" datatype="x-soy-msg-bundle" xml:space="preserve" source-language="en" target-language="en">
+    <body>    <trans-unit id="editor.home">
       <source>Editor Home</source>
+      <target>Editor Home</target>
     </trans-unit>
     <trans-unit id="editor.reassign">
       <source>Reassign</source>
+      <target>Reassign</target>
     </trans-unit>
     <trans-unit id="editor.submissionsAndPublishing">
       <source>Submissions and Publishing</source>
+      <target>Submissions and Publishing</target>
     </trans-unit>
     <trans-unit id="editor.submissionQueue">
       <source>Submission Queue</source>
+      <target>Submission Queue</target>
     </trans-unit>
     <trans-unit id="editor.submissionArchive">
       <source>Submission Archive</source>
+      <target>Submission Archive</target>
     </trans-unit>
     <trans-unit id="editor.publishing">
       <source>Publishing</source>
+      <target>Publishing</target>
     </trans-unit>
     <trans-unit id="editor.publishedIssues">
       <source>Published Issues</source>
+      <target>Published Issues</target>
     </trans-unit>
     <trans-unit id="editor.allSections">
       <source>All Sections</source>
+      <target>All Sections</target>
     </trans-unit>
     <trans-unit id="editor.allEditors">
       <source>All Editors</source>
+      <target>All Editors</target>
     </trans-unit>
     <trans-unit id="editor.me">
       <source>Me</source>
+      <target>Me</target>
     </trans-unit>
     <trans-unit id="editor.publicIdentificationExists">
       <source>The public identifier '{$publicIdentifier}' already exists for another object (issue, article, galley or file). Please choose unique identifiers within your journal.</source>
+      <target>The public identifier '{$publicIdentifier}' already exists for another object (issue, article, galley or file). Please choose unique identifiers within your journal.</target>
     </trans-unit>
     <trans-unit id="editor.submissionArchive.noSubmissions">
       <source>No submissions in the archive.</source>
+      <target>No submissions in the archive.</target>
     </trans-unit>
     <trans-unit id="editor.submissionArchive.saveChanges">
       <source>Save changes to archived submissions? Submissions marked for deletion will be permanently deleted from the system.</source>
+      <target>Save changes to archived submissions? Submissions marked for deletion will be permanently deleted from the system.</target>
     </trans-unit>
     <trans-unit id="editor.submissionArchive.confirmDelete">
       <source>Are you sure you want to permanently delete this submission?</source>
+      <target>Are you sure you want to permanently delete this submission?</target>
     </trans-unit>
     <trans-unit id="editor.submissionReview.confirmDecision">
       <source>Are you sure you wish to record this decision?</source>
+      <target>Are you sure you wish to record this decision?</target>
     </trans-unit>
     <trans-unit id="editor.submissionReview.emailWillArchive">
       <source>This submission will be archived after the Notify Author email is either sent or its Skip Email button is pressed.</source>
+      <target>This submission will be archived after the Notify Author email is either sent or its Skip Email button is pressed.</target>
     </trans-unit>
     <trans-unit id="editor.submissionReview.cannotSendToCopyediting">
       <source>Before sending a submission to Copyediting, use Notify Author link to inform author of decision and select the version to be sent.</source>
+      <target>Before sending a submission to Copyediting, use Notify Author link to inform author of decision and select the version to be sent.</target>
     </trans-unit>
     <trans-unit id="editor.notifyUsers">
       <source>Notify Users</source>
+      <target>Notify Users</target>
     </trans-unit>
     <trans-unit id="editor.notifyUsers.allReaders">
       <source>All readers ({$count} users)</source>
+      <target>All readers ({$count} users)</target>
     </trans-unit>
     <trans-unit id="editor.notifyUsers.allAuthors">
       <source>All published authors ({$count} users)</source>
+      <target>All published authors ({$count} users)</target>
     </trans-unit>
     <trans-unit id="editor.notifyUsers.allIndividualSubscribers">
       <source>All individual subscribers ({$count} users)</source>
+      <target>All individual subscribers ({$count} users)</target>
     </trans-unit>
     <trans-unit id="editor.notifyUsers.allInstitutionalSubscribers">
       <source>All institutional subscribers ({$count} users)</source>
+      <target>All institutional subscribers ({$count} users)</target>
     </trans-unit>
     <trans-unit id="editor.notifyUsers.inProgress">
       <source>Notifying users...</source>
+      <target>Notifying users...</target>
     </trans-unit>
     <trans-unit id="editor.usersNotified">
       <source>Users Notified</source>
+      <target>Users Notified</target>
     </trans-unit>
     <trans-unit id="editor.notifyUsers.allUsers">
       <source>Send this message to all users associated with this journal ({$count} users)</source>
+      <target>Send this message to all users associated with this journal ({$count} users)</target>
     </trans-unit>
     <trans-unit id="editor.notifyUsers.interestedUsers">
       <source>Send this message to the users associated with this journal who have indicated that they wish to receive updates ({$count} users)</source>
+      <target>Send this message to the users associated with this journal who have indicated that they wish to receive updates ({$count} users)</target>
     </trans-unit>
     <trans-unit id="editor.notifyUsers.includeToc">
       <source>Include the table of contents from this issue:</source>
+      <target>Include the table of contents from this issue:</target>
     </trans-unit>
     <trans-unit id="editor.editorAdministration">
       <source>Editor Administration</source>
+      <target>Editor Administration</target>
     </trans-unit>
     <trans-unit id="editor.issues.createIssue">
       <source>Create Issue</source>
+      <target>Create Issue</target>
     </trans-unit>
     <trans-unit id="editor.issues.editIssue">
       <source>Issue Management: {$issueIdentification}</source>
+      <target>Issue Management: {$issueIdentification}</target>
     </trans-unit>
     <trans-unit id="editor.issues.currentIssue">
       <source>Current Issue</source>
+      <target>Current Issue</target>
     </trans-unit>
     <trans-unit id="editor.issues.numArticles">
       <source>Items</source>
+      <target>Items</target>
     </trans-unit>
     <trans-unit id="editor.issues.noArticles">
       <source>No items are currently scheduled for this issue.</source>
+      <target>No items are currently scheduled for this issue.</target>
     </trans-unit>
     <trans-unit id="editor.issues.confirmDelete">
       <source>Are you sure you want to permanently delete this issue?</source>
+      <target>Are you sure you want to permanently delete this issue?</target>
     </trans-unit>
     <trans-unit id="editor.issues.published">
       <source>Published</source>
+      <target>Published</target>
     </trans-unit>
     <trans-unit id="editor.issues.unpublished">
       <source>Unpublished</source>
+      <target>Unpublished</target>
     </trans-unit>
     <trans-unit id="editor.issues.datePublished">
       <source>Date Published</source>
+      <target>Date Published</target>
     </trans-unit>
     <trans-unit id="editor.issues.volumeRequired">
       <source>Volume is required and must be a positive, numeric value.</source>
+      <target>Volume is required and must be a positive, numeric value.</target>
     </trans-unit>
     <trans-unit id="editor.issues.numberRequired">
       <source>Number is required and must be a positive, numeric value.</source>
+      <target>Number is required and must be a positive, numeric value.</target>
     </trans-unit>
     <trans-unit id="editor.issues.yearRequired">
       <source>Year is required and must be a positive, numeric value.</source>
+      <target>Year is required and must be a positive, numeric value.</target>
     </trans-unit>
     <trans-unit id="editor.issues.titleRequired">
       <source>Title is required for the issue.</source>
+      <target>Title is required for the issue.</target>
     </trans-unit>
     <trans-unit id="editor.issues.issueIdentificationRequired">
       <source>Issue identification is required. Please select at least one of the issue identification options.</source>
+      <target>Issue identification is required. Please select at least one of the issue identification options.</target>
     </trans-unit>
     <trans-unit id="editor.issues.issueIdentification">
       <source>Issue identification</source>
+      <target>Issue identification</target>
     </trans-unit>
     <trans-unit id="editor.issues.publicIssueIdentifier">
       <source>Public issue identifier</source>
+      <target>Public issue identifier</target>
     </trans-unit>
     <trans-unit id="editor.issues.description">
       <source>Description</source>
+      <target>Description</target>
     </trans-unit>
     <trans-unit id="editor.issues.accessStatus">
       <source>Access status</source>
+      <target>Access status</target>
     </trans-unit>
     <trans-unit id="editor.issues.accessDate">
       <source>Open access date</source>
+      <target>Open access date</target>
     </trans-unit>
     <trans-unit id="editor.issues.enableOpenAccessDate">
       <source>Enable delayed open access</source>
+      <target>Enable delayed open access</target>
     </trans-unit>
     <trans-unit id="editor.issues.coverPage">
       <source>Cover image</source>
+      <target>Cover image</target>
     </trans-unit>
     <trans-unit id="editor.issues.coverPageInstructions">
       <source>(Allowed formats: .gif, .jpg, or .png)</source>
+      <target>(Allowed formats: .gif, .jpg, or .png)</target>
     </trans-unit>
     <trans-unit id="editor.issues.uploaded">
       <source>Uploaded</source>
+      <target>Uploaded</target>
     </trans-unit>
     <trans-unit id="editor.issues.remove">
       <source>Remove</source>
+      <target>Remove</target>
     </trans-unit>
     <trans-unit id="editor.issues.proofed">
       <source>Proofed</source>
+      <target>Proofed</target>
     </trans-unit>
     <trans-unit id="editor.issues.removeCoverPage">
       <source>Remove cover page image?</source>
+      <target>Remove cover page image?</target>
     </trans-unit>
     <trans-unit id="editor.issues.removeCoverImageFileNameMismatch">
       <source>The cover image you requested to delete did not match the cover image for this issue. Please reload the page and try again.</source>
+      <target>The cover image you requested to delete did not match the cover image for this issue. Please reload the page and try again.</target>
     </trans-unit>
     <trans-unit id="editor.issues.removeCoverImageFileNotFound">
       <source>The cover image you requested to delete could not be found. It may have already been deleted. Try reloading the page.</source>
+      <target>The cover image you requested to delete could not be found. It may have already been deleted. Try reloading the page.</target>
     </trans-unit>
     <trans-unit id="editor.issues.invalidCoverImageFormat">
       <source>Invalid cover page format. Accepted formats are .gif, .jpg, or .png.</source>
+      <target>Invalid cover page format. Accepted formats are .gif, .jpg, or .png.</target>
     </trans-unit>
     <trans-unit id="editor.issues.styleFile">
       <source>Stylesheet</source>
+      <target>Stylesheet</target>
     </trans-unit>
     <trans-unit id="editor.issues.invalidStyleFormat">
       <source>Invalid stylesheet format. Ensure that the submitted file is a valid CSS. (Note that stylesheets with comments at the beginning may be rejected.)</source>
+      <target>Invalid stylesheet format. Ensure that the submitted file is a valid CSS. (Note that stylesheets with comments at the beginning may be rejected.)</target>
     </trans-unit>
     <trans-unit id="editor.issues.removeStyleFile">
       <source>Remove stylesheet?</source>
+      <target>Remove stylesheet?</target>
     </trans-unit>
     <trans-unit id="editor.issues.coverPageCaption">
       <source>Cover caption</source>
+      <target>Cover caption</target>
     </trans-unit>
     <trans-unit id="editor.issues.showCoverPage">
       <source>Create a cover for this issue with the following elements.</source>
+      <target>Create a cover for this issue with the following elements.</target>
     </trans-unit>
     <trans-unit id="editor.issues.coverPageDisplay">
       <source>Display</source>
+      <target>Display</target>
     </trans-unit>
     <trans-unit id="editor.issues.openAccess">
       <source>Open access</source>
+      <target>Open access</target>
     </trans-unit>
     <trans-unit id="editor.issues.subscription">
       <source>Subscription</source>
+      <target>Subscription</target>
     </trans-unit>
     <trans-unit id="editor.issues.identification">
       <source>Identification</source>
+      <target>Identification</target>
     </trans-unit>
     <trans-unit id="editor.issues.access">
       <source>Access</source>
+      <target>Access</target>
     </trans-unit>
     <trans-unit id="editor.issues.cover">
       <source>Cover</source>
+      <target>Cover</target>
     </trans-unit>
     <trans-unit id="editor.issues.confirmIssueDelete">
       <source>All articles will be returned to the editing queue and all associated files will be permanently removed.  Are you sure you want to remove this issue?</source>
+      <target>All articles will be returned to the editing queue and all associated files will be permanently removed.  Are you sure you want to remove this issue?</target>
     </trans-unit>
     <trans-unit id="editor.issues.resetIssueOrder">
       <source>This journal uses custom issue ordering. <a href="{$url}" class="action">Reset to defaults</a></source>
+      <target>This journal uses custom issue ordering. <a href="{$url}" class="action">Reset to defaults</a></target>
     </trans-unit>
     <trans-unit id="editor.issues.resetSectionOrder">
       <source>This issue uses custom section ordering. <a href="{$url}" class="action">Reset to defaults</a></source>
+      <target>This issue uses custom section ordering. <a href="{$url}" class="action">Reset to defaults</a></target>
     </trans-unit>
     <trans-unit id="editor.issues.issueData">
       <source>Issue Data</source>
+      <target>Issue Data</target>
     </trans-unit>
     <trans-unit id="editor.issues.saveChanges">
       <source>Save changes to table of contents?</source>
+      <target>Save changes to table of contents?</target>
     </trans-unit>
     <trans-unit id="editor.issues.default">
       <source>Default</source>
+      <target>Default</target>
     </trans-unit>
     <trans-unit id="editor.issues.order">
       <source>Order</source>
+      <target>Order</target>
     </trans-unit>
     <trans-unit id="editor.issues.publicId">
       <source>Public Id</source>
+      <target>Public Id</target>
     </trans-unit>
     <trans-unit id="editor.issues.publishIssue">
       <source>Publish Issue</source>
+      <target>Publish Issue</target>
     </trans-unit>
     <trans-unit id="editor.issues.unpublishIssue">
       <source>Unpublish Issue</source>
+      <target>Unpublish Issue</target>
     </trans-unit>
     <trans-unit id="editor.issues.previewIssue">
       <source>Preview Issue</source>
+      <target>Preview Issue</target>
     </trans-unit>
     <trans-unit id="editor.issues.preview">
       <source>Preview</source>
+      <target>Preview</target>
     </trans-unit>
     <trans-unit id="editor.issues.confirmPublish">
       <source>Are you sure you want to publish the new issue?</source>
+      <target>Are you sure you want to publish the new issue?</target>
     </trans-unit>
     <trans-unit id="editor.issues.confirmUnpublish">
       <source>Are you sure you want to unpublish this published issue?</source>
+      <target>Are you sure you want to unpublish this published issue?</target>
     </trans-unit>
     <trans-unit id="editor.issues.confirmSetCurrentIssue">
       <source>Are you sure you want to set this issue as current?</source>
+      <target>Are you sure you want to set this issue as current?</target>
     </trans-unit>
     <trans-unit id="editor.issues.publicArticleIdExists">
       <source>Unable to save public id for article:</source>
+      <target>Unable to save public id for article:</target>
     </trans-unit>
     <trans-unit id="editor.issues.noLiveIssues">
       <source>No Live Issues</source>
+      <target>No Live Issues</target>
     </trans-unit>
     <trans-unit id="editor.issues.open">
       <source>Open</source>
+      <target>Open</target>
     </trans-unit>
     <trans-unit id="editor.issues.pages">
       <source>Pages</source>
+      <target>Pages</target>
     </trans-unit>
     <trans-unit id="editor.issues.galleys">
       <source>Issue Galleys</source>
+      <target>Issue Galleys</target>
     </trans-unit>
     <trans-unit id="editor.issues.galley">
       <source>Issue Galley</source>
+      <target>Issue Galley</target>
     </trans-unit>
     <trans-unit id="editor.issues.viewingGalley">
       <source>Viewing Issue Galley</source>
+      <target>Viewing Issue Galley</target>
     </trans-unit>
     <trans-unit id="editor.issues.issueGalleysDescription">
       <source>Publish galleys with entire issue contents.</source>
+      <target>Publish galleys with entire issue contents.</target>
     </trans-unit>
     <trans-unit id="editor.issues.noneIssueGalleys">
       <source>No issue galleys have been published.</source>
+      <target>No issue galleys have been published.</target>
     </trans-unit>
     <trans-unit id="editor.issues.galleyLabelRequired">
       <source>An issue galley label is required.</source>
+      <target>An issue galley label is required.</target>
     </trans-unit>
     <trans-unit id="editor.issues.galleyLocaleRequired">
       <source>An issue galley locale is required.</source>
+      <target>An issue galley locale is required.</target>
     </trans-unit>
     <trans-unit id="editor.issues.galleyPublicIdentificationExists">
       <source>Public issue galley identification already exists.</source>
+      <target>Public issue galley identification already exists.</target>
     </trans-unit>
     <trans-unit id="editor.issues.backToIssueGalleys">
       <source>Back to issue galleys</source>
+      <target>Back to issue galleys</target>
     </trans-unit>
     <trans-unit id="editor.issues.confirmDeleteGalley">
       <source>Are you sure you want to delete this issue galley?</source>
+      <target>Are you sure you want to delete this issue galley?</target>
     </trans-unit>
     <trans-unit id="editor.issues.identifiers">
       <source>Identifiers</source>
+      <target>Identifiers</target>
     </trans-unit>
     <trans-unit id="editor.navigation.futureIssues">
       <source>Future Issues</source>
+      <target>Future Issues</target>
     </trans-unit>
     <trans-unit id="grid.action.addGalley">
       <source>Add galley</source>
+      <target>Add galley</target>
     </trans-unit>
     <trans-unit id="grid.action.publish">
       <source>Publish Issue</source>
+      <target>Publish Issue</target>
     </trans-unit>
     <trans-unit id="grid.action.addIssue">
       <source>Create Issue</source>
+      <target>Create Issue</target>
     </trans-unit>
     <trans-unit id="grid.action.viewIssue">
       <source>View</source>
+      <target>View</target>
     </trans-unit>
     <trans-unit id="grid.action.previewIssue">
       <source>Preview</source>
+      <target>Preview</target>
     </trans-unit>
     <trans-unit id="grid.action.addIssueGalley">
       <source>Create Issue Galley</source>
+      <target>Create Issue Galley</target>
     </trans-unit>
     <trans-unit id="grid.action.setCurrentIssue">
       <source>Set Current Issue</source>
+      <target>Set Current Issue</target>
     </trans-unit>
     <trans-unit id="editor.navigation.issueArchive">
       <source>Back Issues</source>
+      <target>Back Issues</target>
     </trans-unit>
     <trans-unit id="editor.article.designateReviewVersion">
       <source>Designate the original file as the Review Version</source>
+      <target>Designate the original file as the Review Version</target>
     </trans-unit>
     <trans-unit id="editor.article.decision">
       <source>Decision</source>
+      <target>Decision</target>
     </trans-unit>
     <trans-unit id="editor.submissions.showBy">
       <source>Show By</source>
+      <target>Show By</target>
     </trans-unit>
     <trans-unit id="editor.submissions.submitMMDD">
       <source>Submit MM-DD</source>
+      <target>Submit MM-DD</target>
     </trans-unit>
     <trans-unit id="editor.submissions.activeAssignments">
       <source>Active Assignments</source>
+      <target>Active Assignments</target>
     </trans-unit>
     <trans-unit id="editor.submissions.invite">
       <source>Invite</source>
+      <target>Invite</target>
     </trans-unit>
     <trans-unit id="editor.submissions.accept">
       <source>Accept</source>
+      <target>Accept</target>
     </trans-unit>
     <trans-unit id="editor.submissions.noSubmissions">
       <source>No Submissions</source>
+      <target>No Submissions</target>
     </trans-unit>
     <trans-unit id="editor.submissions.lastAssigned">
       <source>Latest</source>
+      <target>Latest</target>
     </trans-unit>
     <trans-unit id="editor.submissions.averageTime">
       <source>Weeks</source>
+      <target>Weeks</target>
     </trans-unit>
     <trans-unit id="editor.submissions.lastCompleted">
       <source>Last Complete</source>
+      <target>Last Complete</target>
     </trans-unit>
     <trans-unit id="editor.submissions.assignedTo">
       <source>Assigned To</source>
+      <target>Assigned To</target>
     </trans-unit>
     <trans-unit id="editor.submissions.inSection">
       <source>In Section</source>
+      <target>In Section</target>
     </trans-unit>
     <trans-unit id="editor.article.schedulePublication">
       <source>Schedule For Publication</source>
+      <target>Schedule For Publication</target>
     </trans-unit>
     <trans-unit id="editor.article.scheduleForPublication">
       <source>Schedule for publication in</source>
+      <target>Schedule for publication in</target>
     </trans-unit>
     <trans-unit id="editor.article.scheduleForPublication.toBeAssigned">
       <source>To Be Assigned</source>
+      <target>To Be Assigned</target>
     </trans-unit>
     <trans-unit id="editor.article.payment.publicationFeeNotPaid">
       <source>Publication Fee not paid. To schedule item for publication notify author to pay fee or waive fee.</source>
+      <target>Publication Fee not paid. To schedule item for publication notify author to pay fee or waive fee.</target>
     </trans-unit>
     <trans-unit id="editor.article.removeCoverImageFileNotFound">
       <source>The cover image you requested to delete could not be found. It may have already been deleted. Try reloading the page.</source>
+      <target>The cover image you requested to delete could not be found. It may have already been deleted. Try reloading the page.</target>
     </trans-unit>
     <trans-unit id="grid.action.removeArticle">
       <source>Remove Article From Issue</source>
+      <target>Remove Article From Issue</target>
     </trans-unit>
     <trans-unit id="editor.article.remove">
       <source>Remove</source>
+      <target>Remove</target>
     </trans-unit>
     <trans-unit id="editor.article.remove.confirm">
       <source>Are you sure you wish to remove this article from the issue? The article will be available for scheduling in another issue.</source>
+      <target>Are you sure you wish to remove this article from the issue? The article will be available for scheduling in another issue.</target>
     </trans-unit>
     <trans-unit id="editor.issues.invalidAccessDate">
       <source>Access date is not valid.</source>
+      <target>Access date is not valid.</target>
     </trans-unit>
     <trans-unit id="editor.issues.editIssueGalley">
       <source>Edit Issue Galley</source>
+      <target>Edit Issue Galley</target>
     </trans-unit>
     <trans-unit id="editor.submission.production.productionReadyFilesDescription">
       <source>The layout editor prepares these files for each galley and then uploads to the appropriate <span class="pkp_help_title">Proofs</span> for proofreading.</source>
+      <target>The layout editor prepares these files for each galley and then uploads to the appropriate <span class="pkp_help_title">Proofs</span> for proofreading.</target>
     </trans-unit>
     <trans-unit id="editor.submission.selectGalleyFiles">
       <source>Select Galley Files</source>
+      <target>Select Galley Files</target>
     </trans-unit>
     <trans-unit id="editor.submission.editorial.finalDraftDescription">
       <source>Final draft files in this list are transformed by a Copyeditor into copyedited versions, uploaded below under <span class="pkp_help_title">Copyediting</span>.</source>
+      <target>Final draft files in this list are transformed by a Copyeditor into copyedited versions, uploaded below under <span class="pkp_help_title">Copyediting</span>.</target>
     </trans-unit>
     <trans-unit id="editor.submission.proof.manageProofFilesDescription">
       <source>Any files that have already been uploaded to any submission stage can be added to the Proofreading listing by checking the Include checkbox below and clicking Search: all available files will be listed and can be chosen for inclusion.</source>
+      <target>Any files that have already been uploaded to any submission stage can be added to the Proofreading listing by checking the Include checkbox below and clicking Search: all available files will be listed and can be chosen for inclusion.</target>
     </trans-unit>
     <trans-unit id="editor.publicIdentificationExistsForTheSameType">
       <source>The public identifier '{$publicIdentifier}' already exists for another object of the same type. Please choose unique identifiers for the objects of the same type within your journal.</source>
+      <target>The public identifier '{$publicIdentifier}' already exists for another object of the same type. Please choose unique identifiers for the objects of the same type within your journal.</target>
     </trans-unit>
     <trans-unit id="editor.article.coverImage">
       <source>Cover Image</source>
+      <target>Cover Image</target>
     </trans-unit>
   </body>
 </file>

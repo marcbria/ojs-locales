@@ -1,21 +1,25 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
-<file source-language="en" target-language="en" datatype="plaintext" original="admin.xml">
-  <body>
-    <trans-unit id="admin.hostedJournals">
+  <file original="SoyMsgBundle" datatype="x-soy-msg-bundle" xml:space="preserve" source-language="en" target-language="en">
+    <body>    <trans-unit id="admin.hostedJournals">
       <source>Hosted Journals</source>
+      <target>Hosted Journals</target>
     </trans-unit>
     <trans-unit id="admin.settings.journalRedirect">
       <source>Journal redirect</source>
+      <target>Journal redirect</target>
     </trans-unit>
     <trans-unit id="admin.settings.options">
       <source>Options</source>
+      <target>Options</target>
     </trans-unit>
     <trans-unit id="admin.settings.journalRedirectInstructions">
       <source>Requests to the main site will be redirected to this journal. This may be useful if the site is hosting only a single journal, for example.</source>
+      <target>Requests to the main site will be redirected to this journal. This may be useful if the site is hosting only a single journal, for example.</target>
     </trans-unit>
     <trans-unit id="admin.settings.noJournalRedirect">
       <source>Do not redirect</source>
+      <target>Do not redirect</target>
     </trans-unit>
     <trans-unit id="admin.settings.defaultMetricDescription">
       <source>
@@ -23,9 +27,15 @@
 		There are cases where a single usage statistic must be used, e.g. to display an ordered list of most-used articles or to rank
 		search results. Please select one of the configured metrics as a default.
 	</source>
+      <target>
+		Your OJS installation is configured to record more than one usage metric. Usage statistics will be displayed in several contexts.
+		There are cases where a single usage statistic must be used, e.g. to display an ordered list of most-used articles or to rank
+		search results. Please select one of the configured metrics as a default.
+	</target>
     </trans-unit>
     <trans-unit id="admin.languages.confirmDisable">
       <source>Are you sure you want to disable this locale? This may affect any hosted journals currently using the locale.</source>
+      <target>Are you sure you want to disable this locale? This may affect any hosted journals currently using the locale.</target>
     </trans-unit>
     <trans-unit id="admin.languages.downloadUnavailable">
       <source><p>Downloading language packs from the Public Knowledge Project web server is not currently available because:</p>
@@ -34,174 +44,236 @@
 		<li>OJS is unable to modify the locale registry file, typically "registry/locales.xml".</li>
 	</ul>
 <p>Language packs can be manually downloaded from the <a href="http://pkp.sfu.ca">PKP web site</a>.</p></source>
+      <target><p>Downloading language packs from the Public Knowledge Project web server is not currently available because:</p>
+	<ul>
+		<li>Your server does not have or allow execution of the GNU "tar" utility.</li>
+		<li>OJS is unable to modify the locale registry file, typically "registry/locales.xml".</li>
+	</ul>
+<p>Language packs can be manually downloaded from the <a href="http://pkp.sfu.ca">PKP web site</a>.</p></target>
     </trans-unit>
     <trans-unit id="admin.languages.primaryLocaleInstructions">
       <source>This will be the default language for the site and any hosted journals.</source>
+      <target>This will be the default language for the site and any hosted journals.</target>
     </trans-unit>
     <trans-unit id="admin.languages.supportedLocalesInstructions">
       <source>Select all locales to support on the site. The selected locales will be available for use by all journals hosted on the site, and also appear in a language select menu to appear on each site page (which can be overridden on journal-specific pages). If multiple locales are not selected, the language toggle menu will not appear and extended language settings will not be available to journals.</source>
+      <target>Select all locales to support on the site. The selected locales will be available for use by all journals hosted on the site, and also appear in a language select menu to appear on each site page (which can be overridden on journal-specific pages). If multiple locales are not selected, the language toggle menu will not appear and extended language settings will not be available to journals.</target>
     </trans-unit>
     <trans-unit id="admin.locale.maybeIncomplete">
       <source>Marked locales may be incomplete.</source>
+      <target>Marked locales may be incomplete.</target>
     </trans-unit>
     <trans-unit id="admin.languages.confirmUninstall">
       <source>Are you sure you want to uninstall this locale? This may affect any hosted journals currently using the locale.</source>
+      <target>Are you sure you want to uninstall this locale? This may affect any hosted journals currently using the locale.</target>
     </trans-unit>
     <trans-unit id="admin.languages.installNewLocalesInstructions">
       <source>Select any additional locales to install support for in this system. Locales must be installed before they can be used by hosted journals. See the OJS documentation for information on adding support for new languages.</source>
+      <target>Select any additional locales to install support for in this system. Locales must be installed before they can be used by hosted journals. See the OJS documentation for information on adding support for new languages.</target>
     </trans-unit>
     <trans-unit id="admin.languages.downloadFailed">
       <source>The locale download failed. The error message(s) below describe the failure.</source>
+      <target>The locale download failed. The error message(s) below describe the failure.</target>
     </trans-unit>
     <trans-unit id="admin.languages.localeInstalled">
       <source>The "{$locale}" locale has been installed.</source>
+      <target>The "{$locale}" locale has been installed.</target>
     </trans-unit>
     <trans-unit id="admin.languages.download">
       <source>Download Locale</source>
+      <target>Download Locale</target>
     </trans-unit>
     <trans-unit id="admin.languages.download.cannotOpen">
       <source>Cannot open language descriptor from PKP web site.</source>
+      <target>Cannot open language descriptor from PKP web site.</target>
     </trans-unit>
     <trans-unit id="admin.languages.download.cannotModifyRegistry">
       <source>Cannot add the new locale to the locale registry file, typically "registry/locales.xml".</source>
+      <target>Cannot add the new locale to the locale registry file, typically "registry/locales.xml".</target>
     </trans-unit>
     <trans-unit id="admin.auth.ojs">
       <source>OJS User Database</source>
+      <target>OJS User Database</target>
     </trans-unit>
     <trans-unit id="admin.auth.enableSyncProfiles">
       <source>Enable user profile synchronization (if supported by this authentication plugin). User profile information will be automatically updated from the remote source when a user logs in, and profile changes (including password changes) made within OJS will be automatically updated on the remote source. If this option is not enabled OJS profile information will be kept separate from remote source profile information.</source>
+      <target>Enable user profile synchronization (if supported by this authentication plugin). User profile information will be automatically updated from the remote source when a user logs in, and profile changes (including password changes) made within OJS will be automatically updated on the remote source. If this option is not enabled OJS profile information will be kept separate from remote source profile information.</target>
     </trans-unit>
     <trans-unit id="admin.auth.enableSyncPasswords">
       <source>Enable user password modification (if supported by this authentication plugin). Enabling this option allows users to modify their password from within OJS and to use the OJS "lost password" feature to reset a forgotten password. These functions will be unavailable to users with this authentication source if this option is not enabled.</source>
+      <target>Enable user password modification (if supported by this authentication plugin). Enabling this option allows users to modify their password from within OJS and to use the OJS "lost password" feature to reset a forgotten password. These functions will be unavailable to users with this authentication source if this option is not enabled.</target>
     </trans-unit>
     <trans-unit id="admin.auth.enableCreateUsers">
       <source>Enable user creation (if supported by this authentication plugin). Users created within OJS with this authentication source will be automatically added to the remote authentication source if they do not already exist. Additionally, if this source is the default authentication source, OJS accounts created through user registration will also be added to the remote authentication source.</source>
+      <target>Enable user creation (if supported by this authentication plugin). Users created within OJS with this authentication source will be automatically added to the remote authentication source if they do not already exist. Additionally, if this source is the default authentication source, OJS accounts created through user registration will also be added to the remote authentication source.</target>
     </trans-unit>
     <trans-unit id="admin.systemVersion">
       <source>OJS Version</source>
+      <target>OJS Version</target>
     </trans-unit>
     <trans-unit id="admin.systemConfiguration">
       <source>OJS Configuration</source>
+      <target>OJS Configuration</target>
     </trans-unit>
     <trans-unit id="admin.systemConfigurationDescription">
       <source>OJS configuration settings from <tt>config.inc.php</tt>.</source>
+      <target>OJS configuration settings from <tt>config.inc.php</tt>.</target>
     </trans-unit>
     <trans-unit id="admin.journals.createInstructions">
       <source>You will automatically be enrolled as the manager of this journal. After creating a new journal, you will be redirected to its settings wizard, to complete the initial journal setup.</source>
+      <target>You will automatically be enrolled as the manager of this journal. After creating a new journal, you will be redirected to its settings wizard, to complete the initial journal setup.</target>
     </trans-unit>
     <trans-unit id="admin.journals.journalSettings">
       <source>Journal Settings</source>
+      <target>Journal Settings</target>
     </trans-unit>
     <trans-unit id="admin.journals.noneCreated">
       <source>No journals have been created.</source>
+      <target>No journals have been created.</target>
     </trans-unit>
     <trans-unit id="admin.contexts.create">
       <source>Create Journal</source>
+      <target>Create Journal</target>
     </trans-unit>
     <trans-unit id="admin.journals.urlWillBe">
       <source>This should be a single short word or acronym that identifies the journal. The journal's URL will be {$sampleUrl}.</source>
+      <target>This should be a single short word or acronym that identifies the journal. The journal's URL will be {$sampleUrl}.</target>
     </trans-unit>
     <trans-unit id="admin.contexts.form.titleRequired">
       <source>A title is required.</source>
+      <target>A title is required.</target>
     </trans-unit>
     <trans-unit id="admin.contexts.form.pathRequired">
       <source>A path is required.</source>
+      <target>A path is required.</target>
     </trans-unit>
     <trans-unit id="admin.contexts.form.pathAlphaNumeric">
       <source>The path can contain only alphanumeric characters, underscores, and hyphens, and must begin and end with an alphanumeric character.</source>
+      <target>The path can contain only alphanumeric characters, underscores, and hyphens, and must begin and end with an alphanumeric character.</target>
     </trans-unit>
     <trans-unit id="admin.contexts.form.pathExists">
       <source>The selected path is already in use by another journal.</source>
+      <target>The selected path is already in use by another journal.</target>
     </trans-unit>
     <trans-unit id="admin.journals.enableJournalInstructions">
       <source>Enable this journal to appear publicly on the site</source>
+      <target>Enable this journal to appear publicly on the site</target>
     </trans-unit>
     <trans-unit id="admin.journals.journalDescription">
       <source>Journal description</source>
+      <target>Journal description</target>
     </trans-unit>
     <trans-unit id="admin.journal.pathImportInstructions">
       <source>Existing journal path or path to create (e.g., "ojs").</source>
+      <target>Existing journal path or path to create (e.g., "ojs").</target>
     </trans-unit>
     <trans-unit id="admin.journals.importSubscriptions">
       <source>Import subscriptions</source>
+      <target>Import subscriptions</target>
     </trans-unit>
     <trans-unit id="admin.journals.transcode">
       <source>Transcode article metadata from ISO8859-1</source>
+      <target>Transcode article metadata from ISO8859-1</target>
     </trans-unit>
     <trans-unit id="admin.journals.redirect">
       <source>Generate code to map OJS 1 URLs to OJS 2 URLs</source>
+      <target>Generate code to map OJS 1 URLs to OJS 2 URLs</target>
     </trans-unit>
     <trans-unit id="admin.journals.form.importPathRequired">
       <source>The import path is required.</source>
+      <target>The import path is required.</target>
     </trans-unit>
     <trans-unit id="admin.journals.importErrors">
       <source>Importing failed to complete successfully</source>
+      <target>Importing failed to complete successfully</target>
     </trans-unit>
     <trans-unit id="admin.mergeUsers">
       <source>Merge Users</source>
+      <target>Merge Users</target>
     </trans-unit>
     <trans-unit id="admin.mergeUsers.mergeUser">
       <source>Merge User</source>
+      <target>Merge User</target>
     </trans-unit>
     <trans-unit id="admin.mergeUsers.into.description">
       <source>Select a user to whom to attribute the previous user's authorships, editing assignments, etc.</source>
+      <target>Select a user to whom to attribute the previous user's authorships, editing assignments, etc.</target>
     </trans-unit>
     <trans-unit id="admin.mergeUsers.from.description">
       <source>Select a user (or several) to merge into another user account (e.g., when someone has two user accounts). The account(s) selected first will be deleted and any submissions, assignments, etc. will be attributed to the second account.</source>
+      <target>Select a user (or several) to merge into another user account (e.g., when someone has two user accounts). The account(s) selected first will be deleted and any submissions, assignments, etc. will be attributed to the second account.</target>
     </trans-unit>
     <trans-unit id="admin.mergeUsers.allUsers">
       <source>All Enrolled Users</source>
+      <target>All Enrolled Users</target>
     </trans-unit>
     <trans-unit id="admin.mergeUsers.confirm">
       <source>Are you sure you wish to merge the selected {$oldAccountCount} account(s) into the account with the username "{$newUsername}"? The selected {$oldAccountCount} accounts will not exist afterwards. This action is not reversible.</source>
+      <target>Are you sure you wish to merge the selected {$oldAccountCount} account(s) into the account with the username "{$newUsername}"? The selected {$oldAccountCount} accounts will not exist afterwards. This action is not reversible.</target>
     </trans-unit>
     <trans-unit id="admin.mergeUsers.noneEnrolled">
       <source>No enrolled users.</source>
+      <target>No enrolled users.</target>
     </trans-unit>
     <trans-unit id="admin.categories">
       <source>Categories</source>
+      <target>Categories</target>
     </trans-unit>
     <trans-unit id="admin.categories.enable.description">
       <source>The Site Administrator may choose to define a set of categories here to help organize large sets of journals. Journal Managers may then choose several of these categories for each journal, and readers can browse journal collections by category.</source>
+      <target>The Site Administrator may choose to define a set of categories here to help organize large sets of journals. Journal Managers may then choose several of these categories for each journal, and readers can browse journal collections by category.</target>
     </trans-unit>
     <trans-unit id="admin.categories.disableCategories">
       <source>Do not organise journals into categories.</source>
+      <target>Do not organise journals into categories.</target>
     </trans-unit>
     <trans-unit id="admin.categories.enableCategories">
       <source>Permit Journal Managers to organize journals into categories.</source>
+      <target>Permit Journal Managers to organize journals into categories.</target>
     </trans-unit>
     <trans-unit id="admin.categories.editTitle">
       <source>Edit Category</source>
+      <target>Edit Category</target>
     </trans-unit>
     <trans-unit id="admin.categories.createTitle">
       <source>Create Category</source>
+      <target>Create Category</target>
     </trans-unit>
     <trans-unit id="admin.categories.create">
       <source>Create a new Category</source>
+      <target>Create a new Category</target>
     </trans-unit>
     <trans-unit id="admin.categories.noneCreated">
       <source>No categories have been created.</source>
+      <target>No categories have been created.</target>
     </trans-unit>
     <trans-unit id="admin.categories.confirmDelete">
       <source>Are you sure you wish to delete this category?</source>
+      <target>Are you sure you wish to delete this category?</target>
     </trans-unit>
     <trans-unit id="admin.categories.name">
       <source>Name</source>
+      <target>Name</target>
     </trans-unit>
     <trans-unit id="admin.categories.nameRequired">
       <source>A category name is required.</source>
+      <target>A category name is required.</target>
     </trans-unit>
     <trans-unit id="admin.presses.createInstructions">
       <source>You will automatically be enrolled as the manager of this journal. After creating a new journal, you will be redirected to its settings wizard, to complete the initial journal setup.</source>
+      <target>You will automatically be enrolled as the manager of this journal. After creating a new journal, you will be redirected to its settings wizard, to complete the initial journal setup.</target>
     </trans-unit>
     <trans-unit id="admin.scheduledTask.subscriptionExpiryReminder">
       <source>Subscription Expiry Reminder</source>
+      <target>Subscription Expiry Reminder</target>
     </trans-unit>
     <trans-unit id="admin.scheduledTask.openAccessNotification">
       <source>Open Access Notification</source>
+      <target>Open Access Notification</target>
     </trans-unit>
     <trans-unit id="admin.scheduledTask.reviewReminder">
       <source>Review Reminder</source>
+      <target>Review Reminder</target>
     </trans-unit>
   </body>
 </file>

@@ -21,19 +21,37 @@
 </xliff>
  */
 
+/* <?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file original="SoyMsgBundle" datatype="x-soy-msg-bundle" xml:space="preserve" source-language="en" target-language="x-zz">
+    <body>
+      <trans-unit id="135956960462609535" datatype="html">
+        <source>The set of <x id="SET_NAME"/> is {<x id="XXX"/>, ...}.</source>
+        <target>Zthe zset zof <x id="SET_NAME"/> zis {<x id="XXX"/>, ...}.</target>
+        <note priority="1" from="description">Example: The set of prime numbers is {2, 3, 5, 7, 11, 13, ...}.</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
+*/
+
+
+
 /* Usage: php parser.php path/file.xml */
 
 $xml=simplexml_load_file("$argv[1]") or die("Error: Cannot create object");
 
-$trans="<?xml version=\"1.0\"?>\n";
-$trans.="<xliff version=\"1.2\" xmlns=\"urn:oasis:names:tc:xliff:document:1.2\">\n";
-$trans.="<file source-language=\"en\" target-language=\"en\" datatype=\"plaintext\" original=\"admin.xml\">\n";
-$trans.="  <body>\n";
+$trans = <<<'EOT'
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file original="SoyMsgBundle" datatype="x-soy-msg-bundle" xml:space="preserve" source-language="en" target-language="en">
+    <body>
+EOT;
 
 foreach($xml->children() as $message) {
 	$trans.="    <trans-unit id=\"".$message['key']."\">\n";
 	$trans.="      <source>".$message."</source>\n";
-//	$trans.="      <target>".$message."</target>\n";
+	$trans.="      <target>".$message."</target>\n";
 	$trans.="    </trans-unit>\n";
 }
 
