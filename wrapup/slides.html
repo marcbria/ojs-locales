@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="generator" content="pandoc">
+  <meta name="author" content="Marc">
+  <meta name="author" content="Marco">
+  <meta name="author" content="Radek">
+  <meta name="dcterms.date" content="2018-09-21">
+  <title>Suggested use of Weblate</title>
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
+  <link rel="stylesheet" href="./reveal.js/css/reveal.css">
+  <style type="text/css">code{white-space: pre;}</style>
+  <link rel="stylesheet" href="./reveal.js/css/theme/white.css" id="theme">
+  <!-- Printing and PDF exports -->
+  <script>
+    var link = document.createElement( 'link' );
+    link.rel = 'stylesheet';
+    link.type = 'text/css';
+    link.href = window.location.search.match( /print-pdf/gi ) ? './reveal.js/css/print/pdf.css' : './reveal.js/css/print/paper.css';
+    document.getElementsByTagName( 'head' )[0].appendChild( link );
+  </script>
+  <!--[if lt IE 9]>
+  <script src="./reveal.js/lib/js/html5shiv.js"></script>
+  <![endif]-->
+</head>
+<body>
+  <div class="reveal">
+    <div class="slides">
+
+<section>
+  <h1 class="title">Suggested use of Weblate</h1>
+  <h2 class="author">Marc</h2>
+  <h2 class="author">Marco</h2>
+  <h2 class="author">Radek</h2>
+  <h3 class="date">21 Sep 2018</h3>
+</section>
+
+<section id="goal" class="slide level1">
+<h1>Goal</h1>
+<p>Explore use of a web-based, professional translation tool to better support localization of PKP software. Come up with a plan to further test and eventually implement this.</p>
+</section>
+<section id="suggestions" class="slide level1">
+<h1>Suggestions</h1>
+<ul>
+<li>explore use of weblate</li>
+<li>weblate: web-based translation tool</li>
+</ul>
+</section>
+<section id="key-features" class="slide level1">
+<h1>key features:</h1>
+<ul>
+<li>OSS</li>
+<li>integration with GitHub</li>
+<li>translation management: missing translations, percentage of completeness, suggested translations, glossary</li>
+<li>extras: translation memory, computer-based suggestions, notifications for translators, context (even screenshots)</li>
+<li>file templates</li>
+</ul>
+</section>
+<section id="requirements" class="slide level1">
+<h1>Requirements</h1>
+<ul>
+<li>keep human-readable format in PKP code</li>
+<li>continuous translation</li>
+<li>OSS</li>
+<li>GitHub and GitLab integration possible</li>
+<li>support of all languages including RTL languages</li>
+</ul>
+</section>
+<section id="what-did-we-do" class="slide level1">
+<h1>What did we do?</h1>
+<ul>
+<li>make quick decision about format (XLIFF) and software (Weblate) (see also https://docs.google.com/spreadsheets/d/1rSp350oJEEb6PYOfjpMzQnlTNGOH_UiJDpZU2GbXWbE/edit# gid=0)</li>
+<li>write XML-XLIFF converter</li>
+<li>test requirements</li>
+<li>explore Weblate</li>
+<li>talk to CAT expert about software</li>
+<li>prepare for wrap-up</li>
+</ul>
+</section>
+<section id="configuration" class="slide level1">
+<h1>Configuration</h1>
+<ul>
+<li>configure project (= OJS)</li>
+<li>configure components (= files)</li>
+<li>(optional) configure base file (= list of keys)</li>
+<li>configure access control (= web access)</li>
+<li>configure users (= users, reviewers, admins)</li>
+<li>configure languages to match PKP software languages</li>
+</ul>
+</section>
+<section id="component-list" class="slide level1">
+<h1>component list</h1>
+<figure>
+<img src="1.png" title="Logo Title Text 1" alt="screenshot" /><figcaption>screenshot</figcaption>
+</figure>
+</section>
+<section id="component" class="slide level1">
+<h1>component</h1>
+<figure>
+<img src="2.png" title="Logo Title Text 1" alt="screenshot" /><figcaption>screenshot</figcaption>
+</figure>
+</section>
+<section id="languages" class="slide level1">
+<h1>languages</h1>
+<figure>
+<img src="3.png" title="Logo Title Text 1" alt="screenshot" /><figcaption>screenshot</figcaption>
+</figure>
+</section>
+<section id="translating" class="slide level1">
+<h1>translating</h1>
+<figure>
+<img src="4.png" title="Logo Title Text 1" alt="screenshot" /><figcaption>screenshot</figcaption>
+</figure>
+</section>
+<section id="changes" class="slide level1">
+<h1>Changes</h1>
+<ul>
+<li>lose comments in XML files</li>
+<li>optional: add notes (= descriptions) to some keys</li>
+</ul>
+</section>
+<section id="next-actions-1" class="slide level1">
+<h1>Next actions (1)</h1>
+<ul>
+<li>form group/task force etc. working on this</li>
+<li>put this on PKP's agenda and talk about support</li>
+<li>optimize XLIFF converter (escaping, CDATA…)</li>
+<li>test monolingual feature to imitate what we have today</li>
+</ul>
+</section>
+<section id="next-actions-2" class="slide level1">
+<h1>Next actions (2)</h1>
+<ul>
+<li>test GitHub integration</li>
+<li>related: which branch to commit to (do sign-offs completely within Weblate or commit to translation branch and cherry-pick/merge from there into master branch (or pull from Weblate git repository))</li>
+<li>test PHP way of working directly with XLIFF files (or decide on another live format to be converted to from XLIFF)</li>
+<li>consequences for adding new keys/strings to English while adding new code - what will change?</li>
+</ul>
+</section>
+    </div>
+  </div>
+
+  <script src="./reveal.js/lib/js/head.min.js"></script>
+  <script src="./reveal.js/js/reveal.js"></script>
+
+  <script>
+
+      // Full list of configuration options available at:
+      // https://github.com/hakimel/reveal.js#configuration
+      Reveal.initialize({
+
+        // Optional reveal.js plugins
+        dependencies: [
+          { src: './reveal.js/lib/js/classList.js', condition: function() { return !document.body.classList; } },
+          { src: './reveal.js/plugin/zoom-js/zoom.js', async: true },
+          { src: './reveal.js/plugin/notes/notes.js', async: true }
+        ]
+      });
+    </script>
+    </body>
+</html>
