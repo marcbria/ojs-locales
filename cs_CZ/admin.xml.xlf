@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file original="SoyMsgBundle" datatype="x-soy-msg-bundle" xml:space="preserve" source-language="$lang" target-language="$lang">
+    <body>
+    <trans-unit id="admin.hostedJournals">
+      <source>Hostované časopisy</source>
+      <target>Hostované časopisy</target>
+    </trans-unit>
+    <trans-unit id="admin.settings.journalRedirect">
+      <source>Přesměrování časopisu</source>
+      <target>Přesměrování časopisu</target>
+    </trans-unit>
+    <trans-unit id="admin.settings.journalRedirectInstructions">
+      <source>Požadavky na hlavní stránku budou přeměrovány na tento časopis. To může být užitečné například pokud stránka hostuje pouze jeden časopis.</source>
+      <target>Požadavky na hlavní stránku budou přeměrovány na tento časopis. To může být užitečné například pokud stránka hostuje pouze jeden časopis.</target>
+    </trans-unit>
+    <trans-unit id="admin.settings.noJournalRedirect">
+      <source>Nepřesměrovávat</source>
+      <target>Nepřesměrovávat</target>
+    </trans-unit>
+    <trans-unit id="admin.languages.primaryLocaleInstructions">
+      <source>Toto bude výchozí jazyk pro stránku a všechny hostované časopisy.</source>
+      <target>Toto bude výchozí jazyk pro stránku a všechny hostované časopisy.</target>
+    </trans-unit>
+    <trans-unit id="admin.languages.supportedLocalesInstructions">
+      <source>Vyberte všechny jazykové lokalizace, které mají být podporovány na této stránce. Vybrané lokalizace budou dostupné pro použití ve všech časopisech hostovaných na této stránce a objeví se také v menu pro výběr jazyka na všech stránkách (toto nastavení může být přepsáno na stránkách specifických stránkách daného časopisu). Pokud není vybráno více jazykových lokalizací, menu pro výběr jazyka se na stránkách neobjeví a rozšířené jazykové nastavení nebude pro časopisy dostupné.</source>
+      <target>Vyberte všechny jazykové lokalizace, které mají být podporovány na této stránce. Vybrané lokalizace budou dostupné pro použití ve všech časopisech hostovaných na této stránce a objeví se také v menu pro výběr jazyka na všech stránkách (toto nastavení může být přepsáno na stránkách specifických stránkách daného časopisu). Pokud není vybráno více jazykových lokalizací, menu pro výběr jazyka se na stránkách neobjeví a rozšířené jazykové nastavení nebude pro časopisy dostupné.</target>
+    </trans-unit>
+    <trans-unit id="admin.languages.confirmUninstall">
+      <source>Jste si jistý, že chcete odinstalovat tuto jazykovou lokalizaci? Může to ovlivnit všechny časopisy zde hostované, které aktuálně tuto jazykovou lokalizaci používají.</source>
+      <target>Jste si jistý, že chcete odinstalovat tuto jazykovou lokalizaci? Může to ovlivnit všechny časopisy zde hostované, které aktuálně tuto jazykovou lokalizaci používají.</target>
+    </trans-unit>
+    <trans-unit id="admin.languages.installNewLocalesInstructions">
+      <source>Vyberte další jazykové lokalizace, pro které má být do systému nainstalována podpora. Aby mohly být lokalizace využity hostovanými časopisy, musí být nejprve nainstalovány. Pro informace o přidání nových jazyků viz dokumentaci k OJS.</source>
+      <target>Vyberte další jazykové lokalizace, pro které má být do systému nainstalována podpora. Aby mohly být lokalizace využity hostovanými časopisy, musí být nejprve nainstalovány. Pro informace o přidání nových jazyků viz dokumentaci k OJS.</target>
+    </trans-unit>
+    <trans-unit id="admin.languages.downloadFailed">
+      <source>Stahování jazykové lokalizace selhalo. Níže uvedené chybové hlášení popisuje selhání.</source>
+      <target>Stahování jazykové lokalizace selhalo. Níže uvedené chybové hlášení popisuje selhání.</target>
+    </trans-unit>
+    <trans-unit id="admin.languages.localeInstalled">
+      <source>Tato "{$locale}" lokalizace byla nainstalována.</source>
+      <target>Tato "{$locale}" lokalizace byla nainstalována.</target>
+    </trans-unit>
+    <trans-unit id="admin.languages.download">
+      <source>Stáhnout jazykovou lokalizaci</source>
+      <target>Stáhnout jazykovou lokalizaci</target>
+    </trans-unit>
+    <trans-unit id="admin.languages.download.cannotOpen">
+      <source>Nelze otevřít popisovač jazyka z webové stránky PKP.</source>
+      <target>Nelze otevřít popisovač jazyka z webové stránky PKP.</target>
+    </trans-unit>
+    <trans-unit id="admin.languages.download.cannotModifyRegistry">
+      <source>Nelze přidat novou jazykovou lokalizaci do registračního souboru lokalizací - typicky "registry/locales.xml".</source>
+      <target>Nelze přidat novou jazykovou lokalizaci do registračního souboru lokalizací - typicky "registry/locales.xml".</target>
+    </trans-unit>
+    <trans-unit id="admin.auth.ojs">
+      <source>Databáze OJS uživatelů</source>
+      <target>Databáze OJS uživatelů</target>
+    </trans-unit>
+    <trans-unit id="admin.auth.enableSyncProfiles">
+      <source>Umožnit synchronizaci uživatelských profilů (pokud je podporována tímto ověřovacím pluginem). Informace v profilu uživatele budou automaticky aktualizovány ze vzdáleného zdroje, jakmile se uživatel přihlásí a změní se jeho profil (včetně změn hesla) v rámci OJS. Pokud není tato možnost povolena, informace v OJS profilu budou uchovávány odděleně od informací vzdáleného zdroje.</source>
+      <target>Umožnit synchronizaci uživatelských profilů (pokud je podporována tímto ověřovacím pluginem). Informace v profilu uživatele budou automaticky aktualizovány ze vzdáleného zdroje, jakmile se uživatel přihlásí a změní se jeho profil (včetně změn hesla) v rámci OJS. Pokud není tato možnost povolena, informace v OJS profilu budou uchovávány odděleně od informací vzdáleného zdroje.</target>
+    </trans-unit>
+    <trans-unit id="admin.auth.enableSyncPasswords">
+      <source>Umožnit změnu hesla uživatele (pokud je podporována tímto ověřovacím pluginem). Povolení této možnosti umožní uživatelům změnit své heslo v rámci OJS a využít funkci "ztracené heslo" pro obnovení zapomenutého hesla. Tyto funkce nebudou dostupné uživatelům s tímto zdrojem ověření pokud není povolena tato možnost.</source>
+      <target>Umožnit změnu hesla uživatele (pokud je podporována tímto ověřovacím pluginem). Povolení této možnosti umožní uživatelům změnit své heslo v rámci OJS a využít funkci "ztracené heslo" pro obnovení zapomenutého hesla. Tyto funkce nebudou dostupné uživatelům s tímto zdrojem ověření pokud není povolena tato možnost.</target>
+    </trans-unit>
+    <trans-unit id="admin.auth.enableCreateUsers">
+      <source>Umožnit vytvoření uživatele (pokud je podporováno tímto ověřovacím pluginem). Uživatelé vytvoření v rámci OJS tímto zdrojem ověření budou, pokud již neexistují, automaticky přidáni do vzdáleného zdroje ověření. Navíc, pokud je tento zdroj výchozím zdrojem ověření, OJS účty vytvořené v průběhu registrace uživatele budou přidány do vzdáleného zdroje ověření.</source>
+      <target>Umožnit vytvoření uživatele (pokud je podporováno tímto ověřovacím pluginem). Uživatelé vytvoření v rámci OJS tímto zdrojem ověření budou, pokud již neexistují, automaticky přidáni do vzdáleného zdroje ověření. Navíc, pokud je tento zdroj výchozím zdrojem ověření, OJS účty vytvořené v průběhu registrace uživatele budou přidány do vzdáleného zdroje ověření.</target>
+    </trans-unit>
+    <trans-unit id="admin.systemVersion">
+      <source>Verze OJS</source>
+      <target>Verze OJS</target>
+    </trans-unit>
+    <trans-unit id="admin.systemConfiguration">
+      <source>Konfigurace OJS</source>
+      <target>Konfigurace OJS</target>
+    </trans-unit>
+    <trans-unit id="admin.systemConfigurationDescription">
+      <source>Nastavení konfigurace OJS z <tt>config.inc.php</tt>.</source>
+      <target>Nastavení konfigurace OJS z <tt>config.inc.php</tt>.</target>
+    </trans-unit>
+    <trans-unit id="admin.journals.journalSettings">
+      <source>Nastavení časopisu</source>
+      <target>Nastavení časopisu</target>
+    </trans-unit>
+    <trans-unit id="admin.journals.noneCreated">
+      <source>Žádné časopisy nebyly vytvořeny.</source>
+      <target>Žádné časopisy nebyly vytvořeny.</target>
+    </trans-unit>
+    <trans-unit id="admin.contexts.create">
+      <source>Vytvořit časopis</source>
+      <target>Vytvořit časopis</target>
+    </trans-unit>
+    <trans-unit id="admin.journals.createInstructions">
+      <source>Budete automaticky zaregistrován jako manažer tohoto časopisu. Poté, co vytvoříte nový časopis, vstupte do něj jako manažer a pokračujte v jeho nastavení a zápisu uživatelů.</source>
+      <target>Budete automaticky zaregistrován jako manažer tohoto časopisu. Poté, co vytvoříte nový časopis, vstupte do něj jako manažer a pokračujte v jeho nastavení a zápisu uživatelů.</target>
+    </trans-unit>
+    <trans-unit id="admin.journals.urlWillBe">
+      <source>Toto má být krátké slovo nebo akronym, které identifikuje časopis. URL časopisu bude {$sampleUrl}</source>
+      <target>Toto má být krátké slovo nebo akronym, které identifikuje časopis. URL časopisu bude {$sampleUrl}</target>
+    </trans-unit>
+    <trans-unit id="admin.contexts.form.pathRequired">
+      <source>Je vyžadována cesta.</source>
+      <target>Je vyžadována cesta.</target>
+    </trans-unit>
+    <trans-unit id="admin.contexts.form.pathAlphaNumeric">
+      <source>Cesta může obsahovat pouze alfanumerické znaky, podtržítka a pomlčky a musí začínat a končit alfanumerickým znakem.</source>
+      <target>Cesta může obsahovat pouze alfanumerické znaky, podtržítka a pomlčky a musí začínat a končit alfanumerickým znakem.</target>
+    </trans-unit>
+    <trans-unit id="admin.contexts.form.pathExists">
+      <source>Zvolená cesta již je využívána jiným časopisem.</source>
+      <target>Zvolená cesta již je využívána jiným časopisem.</target>
+    </trans-unit>
+    <trans-unit id="admin.journals.enableJournalInstructions">
+      <source>Povolte pro tento časopis, aby byl na těchto stránkách veřejně zobrazen</source>
+      <target>Povolte pro tento časopis, aby byl na těchto stránkách veřejně zobrazen</target>
+    </trans-unit>
+    <trans-unit id="admin.journals.journalDescription">
+      <source>Popis časopisu</source>
+      <target>Popis časopisu</target>
+    </trans-unit>
+    <trans-unit id="admin.journal.pathImportInstructions">
+      <source>Existující cesta k časopisu nebo cesta, která má být vytvořena (např. "ojs").</source>
+      <target>Existující cesta k časopisu nebo cesta, která má být vytvořena (např. "ojs").</target>
+    </trans-unit>
+    <trans-unit id="admin.journals.importSubscriptions">
+      <source>Importovat předplatné</source>
+      <target>Importovat předplatné</target>
+    </trans-unit>
+    <trans-unit id="admin.journals.transcode">
+      <source>Překódovat metadata článků z ISO8859-1</source>
+      <target>Překódovat metadata článků z ISO8859-1</target>
+    </trans-unit>
+    <trans-unit id="admin.journals.redirect">
+      <source>Generovat kód pro přesměrování adres URL OJS 1 na adresy URL OJS 2</source>
+      <target>Generovat kód pro přesměrování adres URL OJS 1 na adresy URL OJS 2</target>
+    </trans-unit>
+    <trans-unit id="admin.journals.form.importPathRequired">
+      <source>Je vyžadována cesta importu.</source>
+      <target>Je vyžadována cesta importu.</target>
+    </trans-unit>
+    <trans-unit id="admin.journals.importErrors">
+      <source>Úspěšné dokončení importu selhalo</source>
+      <target>Úspěšné dokončení importu selhalo</target>
+    </trans-unit>
+    <trans-unit id="admin.mergeUsers">
+      <source>Sloučit uživatele</source>
+      <target>Sloučit uživatele</target>
+    </trans-unit>
+    <trans-unit id="admin.mergeUsers.mergeUser">
+      <source>Sloučit uživatele</source>
+      <target>Sloučit uživatele</target>
+    </trans-unit>
+    <trans-unit id="admin.mergeUsers.into.description">
+      <source>Vyberte uživatele, kterému mají být přiřazena autorství, přidělené úlohy atd. předchozího uživatele.</source>
+      <target>Vyberte uživatele, kterému mají být přiřazena autorství, přidělené úlohy atd. předchozího uživatele.</target>
+    </trans-unit>
+    <trans-unit id="admin.mergeUsers.from.description">
+      <source>Vyberte uživatele, který má být sloučen s jiným uživatelským účtem (např., pokud má někdo dva uživatelské účty). Prvně zvolený účet bude vymazán a jeho příspěvky, úlohy atd. budou přiřazeny ke druhému účtu.</source>
+      <target>Vyberte uživatele, který má být sloučen s jiným uživatelským účtem (např., pokud má někdo dva uživatelské účty). Prvně zvolený účet bude vymazán a jeho příspěvky, úlohy atd. budou přiřazeny ke druhému účtu.</target>
+    </trans-unit>
+    <trans-unit id="admin.mergeUsers.allUsers">
+      <source>Všichni zaregistrovaní uživatelé</source>
+      <target>Všichni zaregistrovaní uživatelé</target>
+    </trans-unit>
+    <trans-unit id="admin.mergeUsers.confirm">
+      <source>Jste si jistý, že chcete sloučit vybraný účet/účty   "{$oldAccountCount}" do účtu s uživatelským jménem "{$newUsername}"? Vybraný účet/účty  "{$oldAccounCount}" poté přestane/přestanou existovat. Tato akce je nevratná.</source>
+      <target>Jste si jistý, že chcete sloučit vybraný účet/účty   "{$oldAccountCount}" do účtu s uživatelským jménem "{$newUsername}"? Vybraný účet/účty  "{$oldAccounCount}" poté přestane/přestanou existovat. Tato akce je nevratná.</target>
+    </trans-unit>
+    <trans-unit id="admin.mergeUsers.noneEnrolled">
+      <source>Žádní zapsaní uživatelé.</source>
+      <target>Žádní zapsaní uživatelé.</target>
+    </trans-unit>
+    <trans-unit id="admin.locale.maybeIncomplete">
+      <source>Označené soubory lokalizace mohou být nekompletní.</source>
+      <target>Označené soubory lokalizace mohou být nekompletní.</target>
+    </trans-unit>
+    <trans-unit id="admin.settings.options">
+      <source>Volby</source>
+      <target>Volby</target>
+    </trans-unit>
+    <trans-unit id="admin.categories">
+      <source>Kategorie</source>
+      <target>Kategorie</target>
+    </trans-unit>
+    <trans-unit id="admin.categories.disableCategories">
+      <source>Neorganizovat časopisy do kategorií.</source>
+      <target>Neorganizovat časopisy do kategorií.</target>
+    </trans-unit>
+    <trans-unit id="admin.categories.enableCategories">
+      <source>Dovolit manažerům organizovat časopisy do kategorií.</source>
+      <target>Dovolit manažerům organizovat časopisy do kategorií.</target>
+    </trans-unit>
+    <trans-unit id="admin.categories.editTitle">
+      <source>Editovat kategorii</source>
+      <target>Editovat kategorii</target>
+    </trans-unit>
+    <trans-unit id="admin.categories.createTitle">
+      <source>Vytvořit kategorii</source>
+      <target>Vytvořit kategorii</target>
+    </trans-unit>
+    <trans-unit id="admin.categories.create">
+      <source>Vytvořit novou kategorii</source>
+      <target>Vytvořit novou kategorii</target>
+    </trans-unit>
+    <trans-unit id="admin.categories.noneCreated">
+      <source>Nebyla vytvořena žádná kategorie</source>
+      <target>Nebyla vytvořena žádná kategorie</target>
+    </trans-unit>
+    <trans-unit id="admin.categories.name">
+      <source>Jméno</source>
+      <target>Jméno</target>
+    </trans-unit>
+    <trans-unit id="admin.settings.journalsList.showThumbnail">
+      <source>Náhled časopisu</source>
+      <target>Náhled časopisu</target>
+    </trans-unit>
+    <trans-unit id="admin.settings.journalsList.showTitle">
+      <source>Název časopisu</source>
+      <target>Název časopisu</target>
+    </trans-unit>
+    <trans-unit id="admin.settings.journalsList.showDescription">
+      <source>Popis časopisu</source>
+      <target>Popis časopisu</target>
+    </trans-unit>
+    <trans-unit id="admin.categories.nameRequired">
+      <source>Je požadováno jméno kategorie.</source>
+      <target>Je požadováno jméno kategorie.</target>
+    </trans-unit>
+    <trans-unit id="admin.settings.usePaging">
+      <source>Pro stránky s mnoha časopisy je vhodné rozdělit seznam časopisů na několik stránek.</source>
+      <target>Pro stránky s mnoha časopisy je vhodné rozdělit seznam časopisů na několik stránek.</target>
+    </trans-unit>
+    <trans-unit id="admin.settings.journalsList">
+      <source>Prvky časopisu</source>
+      <target>Prvky časopisu</target>
+    </trans-unit>
+    <trans-unit id="admin.settings.journalsList.description">
+      <source>Zvolte prvky časopisu, které budou zobrazeny pro každý časopis na úvodní stránce.</source>
+      <target>Zvolte prvky časopisu, které budou zobrazeny pro každý časopis na úvodní stránce.</target>
+    </trans-unit>
+    <trans-unit id="admin.settings.defaultMetricDescription">
+      <source>Vaše instalace OJS je konfigurována k zaznamenávání více metrik. Statistiky čtenosti budou zobrazeny ve více kontextech. V některých případech musí být použita jedna statistika čtenosti, např. při zobrazování seznamu nejčtenějších článků, nebo při zobrazení rozsahu hledání. Vyberte si, prosím, jednu z následujících metrik jako standardní.</source>
+      <target>Vaše instalace OJS je konfigurována k zaznamenávání více metrik. Statistiky čtenosti budou zobrazeny ve více kontextech. V některých případech musí být použita jedna statistika čtenosti, např. při zobrazování seznamu nejčtenějších článků, nebo při zobrazení rozsahu hledání. Vyberte si, prosím, jednu z následujících metrik jako standardní.</target>
+    </trans-unit>
+    <trans-unit id="admin.categories.enable.description">
+      <source>Administrátor webu se může rozhodnout definovat sadu kategorií, aby mohlo být zorganizováno více časopisů. Manažer časopisu se pak může rozhodnou pro jednu či více kategorií, do kterých časopis spadá.</source>
+      <target>Administrátor webu se může rozhodnout definovat sadu kategorií, aby mohlo být zorganizováno více časopisů. Manažer časopisu se pak může rozhodnou pro jednu či více kategorií, do kterých časopis spadá.</target>
+    </trans-unit>
+    <trans-unit id="admin.categories.confirmDelete">
+      <source>Přejete si smazat tuto kategorii?</source>
+      <target>Přejete si smazat tuto kategorii?</target>
+    </trans-unit>
+    <trans-unit id="admin.languages.confirmDisable">
+      <source>Jste si jisti, že chcete zakázat tuto lokalizaci? Bude to mít vliv na všechny časopisy, které tuto lokalizaci využívají.</source>
+      <target>Jste si jisti, že chcete zakázat tuto lokalizaci? Bude to mít vliv na všechny časopisy, které tuto lokalizaci využívají.</target>
+    </trans-unit>
+    <trans-unit id="admin.languages.downloadUnavailable">
+      <source><p>Stahování jazykových balíčků z webu Public Knowledge Project je momentálně nedostupné protože:</p>
+	<ul>
+		<li>Váš server nemá, nebo nepovoluje využití GNU utility "tar".</li>
+		<li>OJS nemůže změnit lokální soubor registrace lokalizace, typicky "registry/locales.xml".</li>
+	</ul>
+<p>Jazykové balíčky lze stáhnout manuálně z <a href="http://pkp.sfu.ca">webu PKP</a>.</p></source>
+      <target><p>Stahování jazykových balíčků z webu Public Knowledge Project je momentálně nedostupné protože:</p>
+	<ul>
+		<li>Váš server nemá, nebo nepovoluje využití GNU utility "tar".</li>
+		<li>OJS nemůže změnit lokální soubor registrace lokalizace, typicky "registry/locales.xml".</li>
+	</ul>
+<p>Jazykové balíčky lze stáhnout manuálně z <a href="http://pkp.sfu.ca">webu PKP</a>.</p></target>
+    </trans-unit>
+    <trans-unit id="admin.contexts.form.titleRequired">
+      <source>Je třeba zadat název.</source>
+      <target>Je třeba zadat název.</target>
+    </trans-unit>
+    <trans-unit id="admin.presses.createInstructions">
+      <source>Automaticky vám bude přidělena role správce tohoto časopisu. Poté, co vytvoříte nový časopis, budete přesměrováni na průvodce nastavením, abyste dokončili počáteční nastavení tohoto časopisu.</source>
+      <target>Automaticky vám bude přidělena role správce tohoto časopisu. Poté, co vytvoříte nový časopis, budete přesměrováni na průvodce nastavením, abyste dokončili počáteční nastavení tohoto časopisu.</target>
+    </trans-unit>
+    <trans-unit id="admin.scheduledTask.subscriptionExpiryReminder">
+      <source>Připomenutí vypršení předplatného</source>
+      <target>Připomenutí vypršení předplatného</target>
+    </trans-unit>
+    <trans-unit id="admin.scheduledTask.openAccessNotification">
+      <source>Upozornění na otevřený přístup (Open Access)</source>
+      <target>Upozornění na otevřený přístup (Open Access)</target>
+    </trans-unit>
+    <trans-unit id="admin.scheduledTask.reviewReminder">
+      <source>Připomínka recenze</source>
+      <target>Připomínka recenze</target>
+    </trans-unit>
+  </body>
+</file>
+</xliff>
+ 

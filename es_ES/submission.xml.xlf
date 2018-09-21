@@ -1,0 +1,440 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file original="SoyMsgBundle" datatype="x-soy-msg-bundle" xml:space="preserve" source-language="$lang" target-language="$lang">
+    <body>
+    <trans-unit id="submission.submit.title">
+      <source>Enviar un artículo</source>
+      <target>Enviar un artículo</target>
+    </trans-unit>
+    <trans-unit id="submission.submit.userGroup">
+      <source>Enviar en mi rol como...</source>
+      <target>Enviar en mi rol como...</target>
+    </trans-unit>
+    <trans-unit id="submission.submit.userGroupDescription">
+      <source>Elija el rol bajo el cual envía este artículo.</source>
+      <target>Elija el rol bajo el cual envía este artículo.</target>
+    </trans-unit>
+    <trans-unit id="submission.upload.selectComponent">
+      <source>Seleccionar el componente del artículo</source>
+      <target>Seleccionar el componente del artículo</target>
+    </trans-unit>
+    <trans-unit id="submission.title">
+      <source>Título del artículo</source>
+      <target>Título del artículo</target>
+    </trans-unit>
+    <trans-unit id="submission.title.tip">
+      <source>La tipología de envíos normalmente consiste en una imagen, texto u otros contenidos multimedia, como software o elementos interactivos. Por favor, elija el que sea más representativo para su envío. Puede encontrar ejemplos en <a target="_blank" href="http://dublincore.org/documents/2001/04/12/usageguide/generic.shtml#type">http://dublincore.org/documents/2001/04/12/usageguide/generic.shtml#type</a>.</source>
+      <target>La tipología de envíos normalmente consiste en una imagen, texto u otros contenidos multimedia, como software o elementos interactivos. Por favor, elija el que sea más representativo para su envío. Puede encontrar ejemplos en <a target="_blank" href="http://dublincore.org/documents/2001/04/12/usageguide/generic.shtml#type">http://dublincore.org/documents/2001/04/12/usageguide/generic.shtml#type</a>.</target>
+    </trans-unit>
+    <trans-unit id="submission.submit.newSubmissionMultiple">
+      <source>Empezar un nuevo envío en</source>
+      <target>Empezar un nuevo envío en</target>
+    </trans-unit>
+    <trans-unit id="submission.submit.newSubmissionSingle">
+      <source>Nuevo envío</source>
+      <target>Nuevo envío</target>
+    </trans-unit>
+    <trans-unit id="grid.action.workflow">
+      <source>Flujo de trabajo del envío</source>
+      <target>Flujo de trabajo del envío</target>
+    </trans-unit>
+    <trans-unit id="submission.issueEntry">
+      <source>Metadatos</source>
+      <target>Metadatos</target>
+    </trans-unit>
+    <trans-unit id="submission.submit.whatNext.description">
+      <source>La revista ha sido notificada acerca de su envío y a usted se le enviará un correo electrónico de confirmación para sus registros. Cuando el editor haya revisado el envío contactará con usted.</source>
+      <target>La revista ha sido notificada acerca de su envío y a usted se le enviará un correo electrónico de confirmación para sus registros. Cuando el editor haya revisado el envío contactará con usted.</target>
+    </trans-unit>
+    <trans-unit id="grid.action.galleyInIssueEntry">
+      <source>La galerada aparece en la entrada del número</source>
+      <target>La galerada aparece en la entrada del número</target>
+    </trans-unit>
+    <trans-unit id="grid.action.issueEntry">
+      <source>Ver los metadatos de este envío</source>
+      <target>Ver los metadatos de este envío</target>
+    </trans-unit>
+    <trans-unit id="submission.issueEntry.modalTitle">
+      <source>Metadatos de envío y publicación</source>
+      <target>Metadatos de envío y publicación</target>
+    </trans-unit>
+    <trans-unit id="submission.issueEntry.submissionMetadata">
+      <source>Envío</source>
+      <target>Envío</target>
+    </trans-unit>
+    <trans-unit id="submission.issueEntry.publicationMetadata">
+      <source>Publicación</source>
+      <target>Publicación</target>
+    </trans-unit>
+    <trans-unit id="submission.issueEntry.confirm">
+      <source>Crear una entrada de número para este artículo basada en los metadatos siguientes.</source>
+      <target>Crear una entrada de número para este artículo basada en los metadatos siguientes.</target>
+    </trans-unit>
+    <trans-unit id="submission.event.articleGalleyMadeAvailable">
+      <source>La galerada del artículo "{$galleyFormatName}" ya está disponible.</source>
+      <target>La galerada del artículo "{$galleyFormatName}" ya está disponible.</target>
+    </trans-unit>
+    <trans-unit id="submission.event.articleGalleyMadeUnavailable">
+      <source>La galerada del artículo "{$galleyFormatName}" ya no está disponible.</source>
+      <target>La galerada del artículo "{$galleyFormatName}" ya no está disponible.</target>
+    </trans-unit>
+    <trans-unit id="submission.event.publicIdentifiers">
+      <source>Identificadores públicos del envío actualizados.</source>
+      <target>Identificadores públicos del envío actualizados.</target>
+    </trans-unit>
+    <trans-unit id="grid.issueEntry.availableGalley.title">
+      <source>Aceptación de formato</source>
+      <target>Aceptación de formato</target>
+    </trans-unit>
+    <trans-unit id="grid.issueEntry.availableGalley.removeMessage">
+      <source><p>Esta galerada <em>ya no estará disponible</em> para los lectores.</source>
+      <target><p>Esta galerada <em>ya no estará disponible</em> para los lectores.</target>
+    </trans-unit>
+    <trans-unit id="grid.issueEntry.availableGalley.message">
+      <source><p>Esta galerada <em>estará disponible</em> para los lectores.</source>
+      <target><p>Esta galerada <em>estará disponible</em> para los lectores.</target>
+    </trans-unit>
+    <trans-unit id="grid.action.availableArticleGalley">
+      <source>Hacer disponible esta galerada</source>
+      <target>Hacer disponible esta galerada</target>
+    </trans-unit>
+    <trans-unit id="submission.galleyFiles">
+      <source>Archivos de galerada</source>
+      <target>Archivos de galerada</target>
+    </trans-unit>
+    <trans-unit id="submission.proofReadingDescription">
+      <source>El maquetador/a carga aquí los archivos de producción listos que ha preparado para la publicación. Utilice <em>Asignar auditor</em> para designar autores/as u otros para corregir las galeradas con los archivos corregidos cargados para la aceptación previa a la publicación.</source>
+      <target>El maquetador/a carga aquí los archivos de producción listos que ha preparado para la publicación. Utilice <em>Asignar auditor</em> para designar autores/as u otros para corregir las galeradas con los archivos corregidos cargados para la aceptación previa a la publicación.</target>
+    </trans-unit>
+    <trans-unit id="grid.action.approveProof">
+      <source>Aceptar esta prueba para incluirla en la galerada.</source>
+      <target>Aceptar esta prueba para incluirla en la galerada.</target>
+    </trans-unit>
+    <trans-unit id="grid.action.pageProofApproved">
+      <source>Esta prueba ha sido aceptada para su inclusión en la galerada.</source>
+      <target>Esta prueba ha sido aceptada para su inclusión en la galerada.</target>
+    </trans-unit>
+    <trans-unit id="submission.submit.titleAndSummary">
+      <source>Título y resumen</source>
+      <target>Título y resumen</target>
+    </trans-unit>
+    <trans-unit id="submission.submit.upload.description">
+      <source>Cargue los archivos asociados con este envío, incluyendo artículo, multimedia, conjuntos de datos, material gráfico, etc.</source>
+      <target>Cargue los archivos asociados con este envío, incluyendo artículo, multimedia, conjuntos de datos, material gráfico, etc.</target>
+    </trans-unit>
+    <trans-unit id="submission.pageProofs">
+      <source>Corrección de pruebas</source>
+      <target>Corrección de pruebas</target>
+    </trans-unit>
+    <trans-unit id="submission.confirmSubmit">
+      <source>¿Está seguro de que desea enviar este artículo a la revista?</source>
+      <target>¿Está seguro de que desea enviar este artículo a la revista?</target>
+    </trans-unit>
+    <trans-unit id="workflow.review.externalReview">
+      <source>Revisión</source>
+      <target>Revisión</target>
+    </trans-unit>
+    <trans-unit id="editor.submission.decision.sendExternalReview">
+      <source>Enviar a revisión</source>
+      <target>Enviar a revisión</target>
+    </trans-unit>
+    <trans-unit id="submission.event.issueMetadataUpdated">
+      <source>Los metadatos del envío han sido actualizados.</source>
+      <target>Los metadatos del envío han sido actualizados.</target>
+    </trans-unit>
+    <trans-unit id="submission.upload.fileContents">
+      <source>Componente del artículo</source>
+      <target>Componente del artículo</target>
+    </trans-unit>
+    <trans-unit id="submission.complete">
+      <source>Aceptado</source>
+      <target>Aceptado</target>
+    </trans-unit>
+    <trans-unit id="submission.incomplete">
+      <source>Esperando aceptación</source>
+      <target>Esperando aceptación</target>
+    </trans-unit>
+    <trans-unit id="submission.submit.form.localeRequired">
+      <source>Por favor, seleccione una lengua de envío.</source>
+      <target>Por favor, seleccione una lengua de envío.</target>
+    </trans-unit>
+    <trans-unit id="submission.submit.submissionChecklist">
+      <source>Lista de verificación del envío</source>
+      <target>Lista de verificación del envío</target>
+    </trans-unit>
+    <trans-unit id="submission.submit.submissionChecklistDescription">
+      <source>Debe leer y verificar que ha completado los requisitos siguientes antes de continuar.</source>
+      <target>Debe leer y verificar que ha completado los requisitos siguientes antes de continuar.</target>
+    </trans-unit>
+    <trans-unit id="submission.submit.privacyStatement">
+      <source>Declaración de privacidad</source>
+      <target>Declaración de privacidad</target>
+    </trans-unit>
+    <trans-unit id="submission.submit.contributorRole">
+      <source>Rol del colaborador</source>
+      <target>Rol del colaborador</target>
+    </trans-unit>
+    <trans-unit id="submission.submit.form.authorRequired">
+      <source>Se requiere por lo menos un autor.</source>
+      <target>Se requiere por lo menos un autor.</target>
+    </trans-unit>
+    <trans-unit id="submission.submit.form.authorRequiredFields">
+      <source>El nombre, los apellidos y el correo electrónico de cada autor son obligatorios.</source>
+      <target>El nombre, los apellidos y el correo electrónico de cada autor son obligatorios.</target>
+    </trans-unit>
+    <trans-unit id="submission.submit.form.titleRequired">
+      <source>Por favor, introduzca el título de su artículo.</source>
+      <target>Por favor, introduzca el título de su artículo.</target>
+    </trans-unit>
+    <trans-unit id="submission.submit.form.abstractRequired">
+      <source>Por favor, introduzca el resumen de su artículo.</source>
+      <target>Por favor, introduzca el resumen de su artículo.</target>
+    </trans-unit>
+    <trans-unit id="submission.submit.form.contributorRoleRequired">
+      <source>Seleccione el rol del colaborador/a.</source>
+      <target>Seleccione el rol del colaborador/a.</target>
+    </trans-unit>
+    <trans-unit id="submission.citationFormat.notFound">
+      <source>El formato de cita solicitado no puede recuperarse.</source>
+      <target>El formato de cita solicitado no puede recuperarse.</target>
+    </trans-unit>
+    <trans-unit id="submission.metadataDescription">
+      <source>Estas especificaciones se basan en el conjunto de metadatos Dublin Core, un estándar internacional utilizado para describir el contenido de una revista.</source>
+      <target>Estas especificaciones se basan en el conjunto de metadatos Dublin Core, un estándar internacional utilizado para describir el contenido de una revista.</target>
+    </trans-unit>
+    <trans-unit id="section.any">
+      <source>Cualquier sección</source>
+      <target>Cualquier sección</target>
+    </trans-unit>
+    <trans-unit id="submission.abstract.wordCount.description">
+      <source>El resumen debe tener {$wordCount} palabras o menos.</source>
+      <target>El resumen debe tener {$wordCount} palabras o menos.</target>
+    </trans-unit>
+    <trans-unit id="submission.submit.form.wordCountAlert">
+      <source>El resumen es demasiado largo, debería acortarlo para que se ajuste al límite marcado para esta sección.</source>
+      <target>El resumen es demasiado largo, debería acortarlo para que se ajuste al límite marcado para esta sección.</target>
+    </trans-unit>
+  </body>
+</file>
+</xliff>
+ 
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file original="SoyMsgBundle" datatype="x-soy-msg-bundle" xml:space="preserve" source-language="$lang" target-language="$lang">
+    <body>
+    <trans-unit id="submission.submit.title">
+      <source>Enviar un artículo</source>
+      <target>Enviar un artículo</target>
+    </trans-unit>
+    <trans-unit id="submission.submit.userGroup">
+      <source>Enviar en mi rol como...</source>
+      <target>Enviar en mi rol como...</target>
+    </trans-unit>
+    <trans-unit id="submission.submit.userGroupDescription">
+      <source>Elija el rol bajo el cual envía este artículo.</source>
+      <target>Elija el rol bajo el cual envía este artículo.</target>
+    </trans-unit>
+    <trans-unit id="submission.upload.selectComponent">
+      <source>Seleccionar el componente del artículo</source>
+      <target>Seleccionar el componente del artículo</target>
+    </trans-unit>
+    <trans-unit id="submission.title">
+      <source>Título del artículo</source>
+      <target>Título del artículo</target>
+    </trans-unit>
+    <trans-unit id="submission.title.tip">
+      <source>La tipología de envíos normalmente consiste en una imagen, texto u otros contenidos multimedia, como software o elementos interactivos. Por favor, elija el que sea más representativo para su envío. Puede encontrar ejemplos en <a target="_blank" href="http://dublincore.org/documents/2001/04/12/usageguide/generic.shtml#type">http://dublincore.org/documents/2001/04/12/usageguide/generic.shtml#type</a>.</source>
+      <target>La tipología de envíos normalmente consiste en una imagen, texto u otros contenidos multimedia, como software o elementos interactivos. Por favor, elija el que sea más representativo para su envío. Puede encontrar ejemplos en <a target="_blank" href="http://dublincore.org/documents/2001/04/12/usageguide/generic.shtml#type">http://dublincore.org/documents/2001/04/12/usageguide/generic.shtml#type</a>.</target>
+    </trans-unit>
+    <trans-unit id="submission.submit.newSubmissionMultiple">
+      <source>Empezar un nuevo envío en</source>
+      <target>Empezar un nuevo envío en</target>
+    </trans-unit>
+    <trans-unit id="submission.submit.newSubmissionSingle">
+      <source>Nuevo envío</source>
+      <target>Nuevo envío</target>
+    </trans-unit>
+    <trans-unit id="grid.action.workflow">
+      <source>Flujo de trabajo del envío</source>
+      <target>Flujo de trabajo del envío</target>
+    </trans-unit>
+    <trans-unit id="submission.issueEntry">
+      <source>Metadatos</source>
+      <target>Metadatos</target>
+    </trans-unit>
+    <trans-unit id="submission.submit.whatNext.description">
+      <source>La revista ha sido notificada acerca de su envío y a usted se le enviará un correo electrónico de confirmación para sus registros. Cuando el editor haya revisado el envío contactará con usted.</source>
+      <target>La revista ha sido notificada acerca de su envío y a usted se le enviará un correo electrónico de confirmación para sus registros. Cuando el editor haya revisado el envío contactará con usted.</target>
+    </trans-unit>
+    <trans-unit id="grid.action.galleyInIssueEntry">
+      <source>La galerada aparece en la entrada del número</source>
+      <target>La galerada aparece en la entrada del número</target>
+    </trans-unit>
+    <trans-unit id="grid.action.issueEntry">
+      <source>Ver los metadatos de este envío</source>
+      <target>Ver los metadatos de este envío</target>
+    </trans-unit>
+    <trans-unit id="submission.issueEntry.modalTitle">
+      <source>Metadatos de envío y publicación</source>
+      <target>Metadatos de envío y publicación</target>
+    </trans-unit>
+    <trans-unit id="submission.issueEntry.submissionMetadata">
+      <source>Envío</source>
+      <target>Envío</target>
+    </trans-unit>
+    <trans-unit id="submission.issueEntry.publicationMetadata">
+      <source>Publicación</source>
+      <target>Publicación</target>
+    </trans-unit>
+    <trans-unit id="submission.issueEntry.confirm">
+      <source>Crear una entrada de número para este artículo basada en los metadatos siguientes.</source>
+      <target>Crear una entrada de número para este artículo basada en los metadatos siguientes.</target>
+    </trans-unit>
+    <trans-unit id="submission.event.articleGalleyMadeAvailable">
+      <source>La galerada del artículo "{$galleyFormatName}" ya está disponible.</source>
+      <target>La galerada del artículo "{$galleyFormatName}" ya está disponible.</target>
+    </trans-unit>
+    <trans-unit id="submission.event.articleGalleyMadeUnavailable">
+      <source>La galerada del artículo "{$galleyFormatName}" ya no está disponible.</source>
+      <target>La galerada del artículo "{$galleyFormatName}" ya no está disponible.</target>
+    </trans-unit>
+    <trans-unit id="submission.event.publicIdentifiers">
+      <source>Identificadores públicos del envío actualizados.</source>
+      <target>Identificadores públicos del envío actualizados.</target>
+    </trans-unit>
+    <trans-unit id="grid.issueEntry.availableGalley.title">
+      <source>Aceptación de formato</source>
+      <target>Aceptación de formato</target>
+    </trans-unit>
+    <trans-unit id="grid.issueEntry.availableGalley.removeMessage">
+      <source><p>Esta galerada <em>ya no estará disponible</em> para los lectores.</source>
+      <target><p>Esta galerada <em>ya no estará disponible</em> para los lectores.</target>
+    </trans-unit>
+    <trans-unit id="grid.issueEntry.availableGalley.message">
+      <source><p>Esta galerada <em>estará disponible</em> para los lectores.</source>
+      <target><p>Esta galerada <em>estará disponible</em> para los lectores.</target>
+    </trans-unit>
+    <trans-unit id="grid.action.availableArticleGalley">
+      <source>Hacer disponible esta galerada</source>
+      <target>Hacer disponible esta galerada</target>
+    </trans-unit>
+    <trans-unit id="submission.galleyFiles">
+      <source>Archivos de galerada</source>
+      <target>Archivos de galerada</target>
+    </trans-unit>
+    <trans-unit id="submission.proofReadingDescription">
+      <source>El maquetador/a carga aquí los archivos de producción listos que ha preparado para la publicación. Utilice <em>Asignar auditor</em> para designar autores/as u otros para corregir las galeradas con los archivos corregidos cargados para la aceptación previa a la publicación.</source>
+      <target>El maquetador/a carga aquí los archivos de producción listos que ha preparado para la publicación. Utilice <em>Asignar auditor</em> para designar autores/as u otros para corregir las galeradas con los archivos corregidos cargados para la aceptación previa a la publicación.</target>
+    </trans-unit>
+    <trans-unit id="grid.action.approveProof">
+      <source>Aceptar esta prueba para incluirla en la galerada.</source>
+      <target>Aceptar esta prueba para incluirla en la galerada.</target>
+    </trans-unit>
+    <trans-unit id="grid.action.pageProofApproved">
+      <source>Esta prueba ha sido aceptada para su inclusión en la galerada.</source>
+      <target>Esta prueba ha sido aceptada para su inclusión en la galerada.</target>
+    </trans-unit>
+    <trans-unit id="submission.submit.titleAndSummary">
+      <source>Título y resumen</source>
+      <target>Título y resumen</target>
+    </trans-unit>
+    <trans-unit id="submission.submit.upload.description">
+      <source>Cargue los archivos asociados con este envío, incluyendo artículo, multimedia, conjuntos de datos, material gráfico, etc.</source>
+      <target>Cargue los archivos asociados con este envío, incluyendo artículo, multimedia, conjuntos de datos, material gráfico, etc.</target>
+    </trans-unit>
+    <trans-unit id="submission.pageProofs">
+      <source>Corrección de pruebas</source>
+      <target>Corrección de pruebas</target>
+    </trans-unit>
+    <trans-unit id="submission.confirmSubmit">
+      <source>¿Está seguro de que desea enviar este artículo a la revista?</source>
+      <target>¿Está seguro de que desea enviar este artículo a la revista?</target>
+    </trans-unit>
+    <trans-unit id="workflow.review.externalReview">
+      <source>Revisión</source>
+      <target>Revisión</target>
+    </trans-unit>
+    <trans-unit id="editor.submission.decision.sendExternalReview">
+      <source>Enviar a revisión</source>
+      <target>Enviar a revisión</target>
+    </trans-unit>
+    <trans-unit id="submission.event.issueMetadataUpdated">
+      <source>Los metadatos del envío han sido actualizados.</source>
+      <target>Los metadatos del envío han sido actualizados.</target>
+    </trans-unit>
+    <trans-unit id="submission.upload.fileContents">
+      <source>Componente del artículo</source>
+      <target>Componente del artículo</target>
+    </trans-unit>
+    <trans-unit id="submission.complete">
+      <source>Aceptado</source>
+      <target>Aceptado</target>
+    </trans-unit>
+    <trans-unit id="submission.incomplete">
+      <source>Esperando aceptación</source>
+      <target>Esperando aceptación</target>
+    </trans-unit>
+    <trans-unit id="submission.submit.form.localeRequired">
+      <source>Por favor, seleccione una lengua de envío.</source>
+      <target>Por favor, seleccione una lengua de envío.</target>
+    </trans-unit>
+    <trans-unit id="submission.submit.submissionChecklist">
+      <source>Lista de verificación del envío</source>
+      <target>Lista de verificación del envío</target>
+    </trans-unit>
+    <trans-unit id="submission.submit.submissionChecklistDescription">
+      <source>Debe leer y verificar que ha completado los requisitos siguientes antes de continuar.</source>
+      <target>Debe leer y verificar que ha completado los requisitos siguientes antes de continuar.</target>
+    </trans-unit>
+    <trans-unit id="submission.submit.privacyStatement">
+      <source>Declaración de privacidad</source>
+      <target>Declaración de privacidad</target>
+    </trans-unit>
+    <trans-unit id="submission.submit.contributorRole">
+      <source>Rol del colaborador</source>
+      <target>Rol del colaborador</target>
+    </trans-unit>
+    <trans-unit id="submission.submit.form.authorRequired">
+      <source>Se requiere por lo menos un autor.</source>
+      <target>Se requiere por lo menos un autor.</target>
+    </trans-unit>
+    <trans-unit id="submission.submit.form.authorRequiredFields">
+      <source>El nombre, los apellidos y el correo electrónico de cada autor son obligatorios.</source>
+      <target>El nombre, los apellidos y el correo electrónico de cada autor son obligatorios.</target>
+    </trans-unit>
+    <trans-unit id="submission.submit.form.titleRequired">
+      <source>Por favor, introduzca el título de su artículo.</source>
+      <target>Por favor, introduzca el título de su artículo.</target>
+    </trans-unit>
+    <trans-unit id="submission.submit.form.abstractRequired">
+      <source>Por favor, introduzca el resumen de su artículo.</source>
+      <target>Por favor, introduzca el resumen de su artículo.</target>
+    </trans-unit>
+    <trans-unit id="submission.submit.form.contributorRoleRequired">
+      <source>Seleccione el rol del colaborador/a.</source>
+      <target>Seleccione el rol del colaborador/a.</target>
+    </trans-unit>
+    <trans-unit id="submission.citationFormat.notFound">
+      <source>El formato de cita solicitado no puede recuperarse.</source>
+      <target>El formato de cita solicitado no puede recuperarse.</target>
+    </trans-unit>
+    <trans-unit id="submission.metadataDescription">
+      <source>Estas especificaciones se basan en el conjunto de metadatos Dublin Core, un estándar internacional utilizado para describir el contenido de una revista.</source>
+      <target>Estas especificaciones se basan en el conjunto de metadatos Dublin Core, un estándar internacional utilizado para describir el contenido de una revista.</target>
+    </trans-unit>
+    <trans-unit id="section.any">
+      <source>Cualquier sección</source>
+      <target>Cualquier sección</target>
+    </trans-unit>
+    <trans-unit id="submission.abstract.wordCount.description">
+      <source>El resumen debe tener {$wordCount} palabras o menos.</source>
+      <target>El resumen debe tener {$wordCount} palabras o menos.</target>
+    </trans-unit>
+    <trans-unit id="submission.submit.form.wordCountAlert">
+      <source>El resumen es demasiado largo, debería acortarlo para que se ajuste al límite marcado para esta sección.</source>
+      <target>El resumen es demasiado largo, debería acortarlo para que se ajuste al límite marcado para esta sección.</target>
+    </trans-unit>
+  </body>
+</file>
+</xliff>
+ 

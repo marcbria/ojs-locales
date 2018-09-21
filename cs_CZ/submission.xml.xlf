@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file original="SoyMsgBundle" datatype="x-soy-msg-bundle" xml:space="preserve" source-language="$lang" target-language="$lang">
+    <body>
+    <trans-unit id="submission.submit.title">
+      <source>Odeslat článek</source>
+      <target>Odeslat článek</target>
+    </trans-unit>
+    <trans-unit id="submission.submit.userGroup">
+      <source>Vložit v rámci mé následující role...</source>
+      <target>Vložit v rámci mé následující role...</target>
+    </trans-unit>
+    <trans-unit id="submission.submit.userGroupDescription">
+      <source>Zvolte roli, pod kterou odesíláte tento článek.</source>
+      <target>Zvolte roli, pod kterou odesíláte tento článek.</target>
+    </trans-unit>
+    <trans-unit id="submission.upload.selectComponent">
+      <source>Zvolte komponentu článku</source>
+      <target>Zvolte komponentu článku</target>
+    </trans-unit>
+    <trans-unit id="submission.title">
+      <source>Název článku</source>
+      <target>Název článku</target>
+    </trans-unit>
+    <trans-unit id="submission.title.tip">
+      <source>Typ odesílání je obvykle jeden z následujících 'obrázek', 'text' nebo některý jiný multimediální typ, včetně 'software' nebo 'interaktivní'. Zvolte prosím ten, který je pro váš příspěvek nejrelevantnější. Příklady lze nalézt na adrese <a target="_blank" href="http://dublincore.org/documents/2001/04/12/usageguide/generic.shtml#type">http://dublincore.org/documents/2001/04/12/usageguide/generic.shtml#type</a></source>
+      <target>Typ odesílání je obvykle jeden z následujících 'obrázek', 'text' nebo některý jiný multimediální typ, včetně 'software' nebo 'interaktivní'. Zvolte prosím ten, který je pro váš příspěvek nejrelevantnější. Příklady lze nalézt na adrese <a target="_blank" href="http://dublincore.org/documents/2001/04/12/usageguide/generic.shtml#type">http://dublincore.org/documents/2001/04/12/usageguide/generic.shtml#type</a></target>
+    </trans-unit>
+    <trans-unit id="submission.submit.newSubmissionMultiple">
+      <source>Začít nový příspěvek v</source>
+      <target>Začít nový příspěvek v</target>
+    </trans-unit>
+    <trans-unit id="submission.submit.newSubmissionSingle">
+      <source>Nový příspěvek</source>
+      <target>Nový příspěvek</target>
+    </trans-unit>
+    <trans-unit id="grid.action.workflow">
+      <source>Workflow příspěvku</source>
+      <target>Workflow příspěvku</target>
+    </trans-unit>
+    <trans-unit id="submission.issueEntry">
+      <source>Metadata</source>
+      <target>Metadata</target>
+    </trans-unit>
+    <trans-unit id="submission.submit.whatNext.description">
+      <source>Redakce časopisu byla informována o vašem příspěvku a byl vám zaslán email s potvrzením o vašem příspěvku. Jakmile redaktor zkontroluje příspěvek, bude vás kontaktovat.</source>
+      <target>Redakce časopisu byla informována o vašem příspěvku a byl vám zaslán email s potvrzením o vašem příspěvku. Jakmile redaktor zkontroluje příspěvek, bude vás kontaktovat.</target>
+    </trans-unit>
+    <trans-unit id="grid.action.galleyInIssueEntry">
+      <source>Ve vstupu do čísla je sazebnice</source>
+      <target>Ve vstupu do čísla je sazebnice</target>
+    </trans-unit>
+    <trans-unit id="grid.action.issueEntry">
+      <source>Prohlédněte si metadata příspěvku</source>
+      <target>Prohlédněte si metadata příspěvku</target>
+    </trans-unit>
+    <trans-unit id="submission.issueEntry.modalTitle">
+      <source>Metadata příspěvku a publikační metadata</source>
+      <target>Metadata příspěvku a publikační metadata</target>
+    </trans-unit>
+    <trans-unit id="submission.issueEntry.submissionMetadata">
+      <source>Příspěvek</source>
+      <target>Příspěvek</target>
+    </trans-unit>
+    <trans-unit id="submission.issueEntry.publicationMetadata">
+      <source>Publikace</source>
+      <target>Publikace</target>
+    </trans-unit>
+    <trans-unit id="submission.issueEntry.confirm">
+      <source>Vytvořte z tohoto článku s dále uvedenými metadaty příspěvek do čísla.</source>
+      <target>Vytvořte z tohoto článku s dále uvedenými metadaty příspěvek do čísla.</target>
+    </trans-unit>
+    <trans-unit id="submission.event.articleGalleyMadeAvailable">
+      <source>Sazebnice článku "{$galleyFormatName}" byla zpřístupněna.</source>
+      <target>Sazebnice článku "{$galleyFormatName}" byla zpřístupněna.</target>
+    </trans-unit>
+    <trans-unit id="submission.event.articleGalleyMadeUnavailable">
+      <source>Sazebnice článku "{$galleyFormatName}" byla znepřístupněna.</source>
+      <target>Sazebnice článku "{$galleyFormatName}" byla znepřístupněna.</target>
+    </trans-unit>
+    <trans-unit id="submission.event.publicIdentifiers">
+      <source>Veřejné identifikátory příspěvku byly aktualizovány.</source>
+      <target>Veřejné identifikátory příspěvku byly aktualizovány.</target>
+    </trans-unit>
+    <trans-unit id="grid.issueEntry.availableGalley.title">
+      <source>Schválen formátu</source>
+      <target>Schválen formátu</target>
+    </trans-unit>
+    <trans-unit id="grid.issueEntry.availableGalley.removeMessage">
+      <source><p>Tato sazebnice <em>již nebude dostupná čtenářům</em>.</p></source>
+      <target><p>Tato sazebnice <em>již nebude dostupná čtenářům</em>.</p></target>
+    </trans-unit>
+    <trans-unit id="grid.issueEntry.availableGalley.message">
+      <source><p>Tato sazebnice <em>bude dostupná čtenářům</em>.</p></source>
+      <target><p>Tato sazebnice <em>bude dostupná čtenářům</em>.</p></target>
+    </trans-unit>
+    <trans-unit id="grid.action.availableArticleGalley">
+      <source>Zpřístupnit tuto sazebnici</source>
+      <target>Zpřístupnit tuto sazebnici</target>
+    </trans-unit>
+    <trans-unit id="submission.galleyFiles">
+      <source>Soubory sazebnice</source>
+      <target>Soubory sazebnice</target>
+    </trans-unit>
+    <trans-unit id="submission.proofReadingDescription">
+      <source>Editor layoutu zde načte soubory připravené k publikování. Pomocí <em> Přiřadit auditora </ em> určíte autory a další, aby provedli korektur sazebnice, a opravené soubory nahráli ke schválení před publikací.</source>
+      <target>Editor layoutu zde načte soubory připravené k publikování. Pomocí <em> Přiřadit auditora </ em> určíte autory a další, aby provedli korektur sazebnice, a opravené soubory nahráli ke schválení před publikací.</target>
+    </trans-unit>
+    <trans-unit id="grid.action.approveProof">
+      <source>Schválit tuto korekturu k vložení do sazebnice.</source>
+      <target>Schválit tuto korekturu k vložení do sazebnice.</target>
+    </trans-unit>
+    <trans-unit id="grid.action.pageProofApproved">
+      <source>Korektura byla schválena k vložení do sazebnice.</source>
+      <target>Korektura byla schválena k vložení do sazebnice.</target>
+    </trans-unit>
+    <trans-unit id="submission.submit.titleAndSummary">
+      <source>Název a abstrakt</source>
+      <target>Název a abstrakt</target>
+    </trans-unit>
+    <trans-unit id="submission.submit.upload.description">
+      <source>Nahrajte soubory spojené s tímto příspěvkem, včetně článku, multimédií, datových sad, kreseb atd.</source>
+      <target>Nahrajte soubory spojené s tímto příspěvkem, včetně článku, multimédií, datových sad, kreseb atd.</target>
+    </trans-unit>
+    <trans-unit id="submission.pageProofs">
+      <source>Korektury</source>
+      <target>Korektury</target>
+    </trans-unit>
+    <trans-unit id="submission.confirmSubmit">
+      <source>Jste si jisti, že chcete odeslat tento článek do časopisu?</source>
+      <target>Jste si jisti, že chcete odeslat tento článek do časopisu?</target>
+    </trans-unit>
+    <trans-unit id="workflow.review.externalReview">
+      <source>Recenze</source>
+      <target>Recenze</target>
+    </trans-unit>
+    <trans-unit id="editor.submission.decision.sendExternalReview">
+      <source>Odeslat k recenzi</source>
+      <target>Odeslat k recenzi</target>
+    </trans-unit>
+    <trans-unit id="submission.event.issueMetadataUpdated">
+      <source>Metadata příspěvku byla aktualizována</source>
+      <target>Metadata příspěvku byla aktualizována</target>
+    </trans-unit>
+    <trans-unit id="submission.upload.fileContents">
+      <source>Komponenty článku</source>
+      <target>Komponenty článku</target>
+    </trans-unit>
+    <trans-unit id="submission.complete">
+      <source>Schváleno</source>
+      <target>Schváleno</target>
+    </trans-unit>
+    <trans-unit id="submission.incomplete">
+      <source>Čeká se na schválení</source>
+      <target>Čeká se na schválení</target>
+    </trans-unit>
+    <trans-unit id="submission.submit.form.localeRequired">
+      <source>Vyberte, prosím, jazyk příspěvku.</source>
+      <target>Vyberte, prosím, jazyk příspěvku.</target>
+    </trans-unit>
+    <trans-unit id="submission.submit.submissionChecklist">
+      <source>Kontrolní seznam pro příspěvek</source>
+      <target>Kontrolní seznam pro příspěvek</target>
+    </trans-unit>
+    <trans-unit id="submission.submit.submissionChecklistDescription">
+      <source>Před pokračováním musíte přečíst a potvrdit, že jste splnili níže uvedené požadavky.</source>
+      <target>Před pokračováním musíte přečíst a potvrdit, že jste splnili níže uvedené požadavky.</target>
+    </trans-unit>
+    <trans-unit id="submission.submit.privacyStatement">
+      <source>Prohlášení o ochraně soukromí</source>
+      <target>Prohlášení o ochraně soukromí</target>
+    </trans-unit>
+    <trans-unit id="submission.submit.contributorRole">
+      <source>Úloha přispěvatele</source>
+      <target>Úloha přispěvatele</target>
+    </trans-unit>
+    <trans-unit id="submission.submit.form.authorRequired">
+      <source>Je vyžadován minimálně jeden autor.</source>
+      <target>Je vyžadován minimálně jeden autor.</target>
+    </trans-unit>
+    <trans-unit id="submission.submit.form.authorRequiredFields">
+      <source>Křestní jméno, příjmení a emailová adresa jsou vyžadovány pro každého autora.</source>
+      <target>Křestní jméno, příjmení a emailová adresa jsou vyžadovány pro každého autora.</target>
+    </trans-unit>
+    <trans-unit id="submission.submit.form.titleRequired">
+      <source>Vložte, prosím, název vašeho článku.</source>
+      <target>Vložte, prosím, název vašeho článku.</target>
+    </trans-unit>
+    <trans-unit id="submission.submit.form.abstractRequired">
+      <source>Vložte, prosím, abstrakt vašeho článku.</source>
+      <target>Vložte, prosím, abstrakt vašeho článku.</target>
+    </trans-unit>
+    <trans-unit id="submission.submit.form.contributorRoleRequired">
+      <source>Zvolte, prosím, roli přispěvatele.</source>
+      <target>Zvolte, prosím, roli přispěvatele.</target>
+    </trans-unit>
+    <trans-unit id="submission.citationFormat.notFound">
+      <source>Požadovaný citační formát nelze načíst.</source>
+      <target>Požadovaný citační formát nelze načíst.</target>
+    </trans-unit>
+    <trans-unit id="submission.metadataDescription">
+      <source>Tyto specifikace vycházejí z množiny metadat Dublin Core, což je mezinárodní standard používaný k popisu obsahu časopisu.</source>
+      <target>Tyto specifikace vycházejí z množiny metadat Dublin Core, což je mezinárodní standard používaný k popisu obsahu časopisu.</target>
+    </trans-unit>
+    <trans-unit id="section.any">
+      <source>Libovolná sekce</source>
+      <target>Libovolná sekce</target>
+    </trans-unit>
+    <trans-unit id="submission.abstract.wordCount.description">
+      <source>Abstrakt musí obsahovat maximálně {$wordCount} slov.</source>
+      <target>Abstrakt musí obsahovat maximálně {$wordCount} slov.</target>
+    </trans-unit>
+    <trans-unit id="submission.submit.form.wordCountAlert">
+      <source>Váš abstrakt je příliš dlouhý. Zkraťte ho, prosím na počet slov podle limitu stanoveného pro tuto sekci.</source>
+      <target>Váš abstrakt je příliš dlouhý. Zkraťte ho, prosím na počet slov podle limitu stanoveného pro tuto sekci.</target>
+    </trans-unit>
+  </body>
+</file>
+</xliff>
+ 

@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file original="SoyMsgBundle" datatype="x-soy-msg-bundle" xml:space="preserve" source-language="$lang" target-language="$lang">
+    <body>
+    <trans-unit id="author.submit">
+      <source>Nový příspěvek</source>
+      <target>Nový příspěvek</target>
+    </trans-unit>
+    <trans-unit id="author.track">
+      <source>Aktivní příspěvky</source>
+      <target>Aktivní příspěvky</target>
+    </trans-unit>
+    <trans-unit id="author.competingInterests">
+      <source>Střet&nbsp;zájmů <a target="_new" class="action" href="{$competingInterestGuidelinesUrl}">Pravidla upravující střet zájmů</a></source>
+      <target>Střet&nbsp;zájmů <a target="_new" class="action" href="{$competingInterestGuidelinesUrl}">Pravidla upravující střet zájmů</a></target>
+    </trans-unit>
+    <trans-unit id="author.submit.submitArticle">
+      <source>Odeslat článek</source>
+      <target>Odeslat článek</target>
+    </trans-unit>
+    <trans-unit id="author.submit.stepsToSubmit">
+      <source>Pět kroků pro odeslání příspěvku</source>
+      <target>Pět kroků pro odeslání příspěvku</target>
+    </trans-unit>
+    <trans-unit id="author.submit.startHereTitle">
+      <source>Zahájit nový příspěvek</source>
+      <target>Zahájit nový příspěvek</target>
+    </trans-unit>
+    <trans-unit id="author.submit.startHereLink">
+      <source>Pro přechod k prvnímu z pěti kroků odesílání příspěvku <a href="{$submitUrl}" class="action">klikněte zde</a>.</source>
+      <target>Pro přechod k prvnímu z pěti kroků odesílání příspěvku <a href="{$submitUrl}" class="action">klikněte zde</a>.</target>
+    </trans-unit>
+    <trans-unit id="author.submit.step1">
+      <source>Krok 1. Zahájení příspěvku</source>
+      <target>Krok 1. Zahájení příspěvku</target>
+    </trans-unit>
+    <trans-unit id="author.submit.step4">
+      <source>Krok 4. Nahrání doplňkových souborů</source>
+      <target>Krok 4. Nahrání doplňkových souborů</target>
+    </trans-unit>
+    <trans-unit id="author.submit.step4a">
+      <source>Krok 4a. Přidat doplňkový soubor</source>
+      <target>Krok 4a. Přidat doplňkový soubor</target>
+    </trans-unit>
+    <trans-unit id="author.submit.step5">
+      <source>Krok 5. Potvrzení příspěvku</source>
+      <target>Krok 5. Potvrzení příspěvku</target>
+    </trans-unit>
+    <trans-unit id="author.submit.start">
+      <source>Zahájení</source>
+      <target>Zahájení</target>
+    </trans-unit>
+    <trans-unit id="author.submit.supplementaryFiles">
+      <source>Nahrát doplňkové soubory</source>
+      <target>Nahrát doplňkové soubory</target>
+    </trans-unit>
+    <trans-unit id="author.submit.confirmation">
+      <source>Potvrzení</source>
+      <target>Potvrzení</target>
+    </trans-unit>
+    <trans-unit id="submission.submit.cancelSubmission">
+      <source>Odeslání tohoto příspěvku můžete dokončit později tím, že na domácí sránce pro autora vyberete Aktivní příspěvky.</source>
+      <target>Odeslání tohoto příspěvku můžete dokončit později tím, že na domácí sránce pro autora vyberete Aktivní příspěvky.</target>
+    </trans-unit>
+    <trans-unit id="author.submit.notAccepting">
+      <source>Tento časopis aktuálně nepřijímá příspěvky.</source>
+      <target>Tento časopis aktuálně nepřijímá příspěvky.</target>
+    </trans-unit>
+    <trans-unit id="author.submit.requestWaiver">
+      <source>Požádat o prominutí</source>
+      <target>Požádat o prominutí</target>
+    </trans-unit>
+    <trans-unit id="author.submit.qualifyForWaiver">
+      <source>Zvažte, prosím, prominutí platby poplatku za zaslání příspěvku pro tento článek</source>
+      <target>Zvažte, prosím, prominutí platby poplatku za zaslání příspěvku pro tento článek</target>
+    </trans-unit>
+    <trans-unit id="author.submit.addReasonsForWaiver">
+      <source>Použijte, prosím, níže umístěné pole pro komentář a uveďte, proč by Vám měl být poplatek prominut.</source>
+      <target>Použijte, prosím, níže umístěné pole pro komentář a uveďte, proč by Vám měl být poplatek prominut.</target>
+    </trans-unit>
+    <trans-unit id="author.submissions.uploadCopyeditedVersion">
+      <source>Nahrát redigovanou verzi</source>
+      <target>Nahrát redigovanou verzi</target>
+    </trans-unit>
+    <trans-unit id="author.submissions.proofreadingCorrections">
+      <source>Korekturní opravy</source>
+      <target>Korekturní opravy</target>
+    </trans-unit>
+    <trans-unit id="author.submissions.confirmDelete">
+      <source>Jste si jistý, že chcete smazat tento nedokončený příspěvek?</source>
+      <target>Jste si jistý, že chcete smazat tento nedokončený příspěvek?</target>
+    </trans-unit>
+    <trans-unit id="author.submissions.viewStatus">
+      <source>Zobrazit stav</source>
+      <target>Zobrazit stav</target>
+    </trans-unit>
+    <trans-unit id="author.submissions.noSubmissions">
+      <source>Žádné příspěvky.</source>
+      <target>Žádné příspěvky.</target>
+    </trans-unit>
+    <trans-unit id="author.submit.journalSection">
+      <source>Sekce časopisu</source>
+      <target>Sekce časopisu</target>
+    </trans-unit>
+    <trans-unit id="author.submit.journalSectionDescription">
+      <source>Zvolte vhodnou sekci pro tento příspěvek (viz Sekce a Pravidla v části <a href="{$aboutUrl}" target="_new">O časopisu</a>).</source>
+      <target>Zvolte vhodnou sekci pro tento příspěvek (viz Sekce a Pravidla v části <a href="{$aboutUrl}" target="_new">O časopisu</a>).</target>
+    </trans-unit>
+    <trans-unit id="author.submit.verifyChecklist">
+      <source>Než budete pokračovat, musíte zajistit splnění všech položek zaškrtávacího seznamu.</source>
+      <target>Než budete pokračovat, musíte zajistit splnění všech položek zaškrtávacího seznamu.</target>
+    </trans-unit>
+    <trans-unit id="author.submit.copyrightNoticeAgree">
+      <source>Autoři souhlasí s podmínkami uvedenými v Oznámení o copyrightu, které budou aplikovány na tento příspěvek, jakmile bude publikován tímto časopisem (níže je možné přidat komentář pro editora).</source>
+      <target>Autoři souhlasí s podmínkami uvedenými v Oznámení o copyrightu, které budou aplikovány na tento příspěvek, jakmile bude publikován tímto časopisem (níže je možné přidat komentář pro editora).</target>
+    </trans-unit>
+    <trans-unit id="author.submit.copyrightNoticeAgreeRequired">
+      <source>Než budete pokračovat, musíte souhlasit s podmínkami uvedenými v Oznámení o copyrightu.</source>
+      <target>Než budete pokračovat, musíte souhlasit s podmínkami uvedenými v Oznámení o copyrightu.</target>
+    </trans-unit>
+    <trans-unit id="submission.submit.coverNote">
+      <source>Komentář pro editora</source>
+      <target>Komentář pro editora</target>
+    </trans-unit>
+    <trans-unit id="author.submit.comments">
+      <source>Vložte text (nepovinné)</source>
+      <target>Vložte text (nepovinné)</target>
+    </trans-unit>
+    <trans-unit id="author.submit.form.sectionRequired">
+      <source>Vyberte prosím vhodnou sekci časopisu pro tento příspěvek.</source>
+      <target>Vyberte prosím vhodnou sekci časopisu pro tento příspěvek.</target>
+    </trans-unit>
+    <trans-unit id="submission.submit.privacyStatement">
+      <source>Prohlášení o soukromí pro tento časopis</source>
+      <target>Prohlášení o soukromí pro tento časopis</target>
+    </trans-unit>
+    <trans-unit id="author.submit.reorderInstructions">
+      <source>Přeuspořádejte autory tak, aby byli zobrazeni ve stejném pořadí, v jakém mají být uvedeni v publikaci.</source>
+      <target>Přeuspořádejte autory tak, aby byli zobrazeni ve stejném pořadí, v jakém mají být uvedeni v publikaci.</target>
+    </trans-unit>
+    <trans-unit id="author.submit.selectPrincipalContact">
+      <source>Hlavní kontakt pro korespondenci s editory.</source>
+      <target>Hlavní kontakt pro korespondenci s editory.</target>
+    </trans-unit>
+    <trans-unit id="author.submit.addAuthor">
+      <source>Přidat autora</source>
+      <target>Přidat autora</target>
+    </trans-unit>
+    <trans-unit id="author.submit.deleteAuthor">
+      <source>Smazat autora</source>
+      <target>Smazat autora</target>
+    </trans-unit>
+    <trans-unit id="author.submit.coverageInstructions">
+      <source>Vztahuje se k zeměpisné oblasti, chronologickému nebo historickému záběru a/nebo charakteristikám výzkumného souboru.</source>
+      <target>Vztahuje se k zeměpisné oblasti, chronologickému nebo historickému záběru a/nebo charakteristikám výzkumného souboru.</target>
+    </trans-unit>
+    <trans-unit id="author.submit.languageInstructions">
+      <source>Čeština=cs; angličtina=en; francouzština=fr; španělština=es. <a href="http://www.loc.gov/standards/iso639-2/php/code_list.php" target="_blank">Další kódy</a>.</source>
+      <target>Čeština=cs; angličtina=en; francouzština=fr; španělština=es. <a href="http://www.loc.gov/standards/iso639-2/php/code_list.php" target="_blank">Další kódy</a>.</target>
+    </trans-unit>
+    <trans-unit id="author.submit.form.authorRequired">
+      <source>Je vyžadován alespoň jeden autor.</source>
+      <target>Je vyžadován alespoň jeden autor.</target>
+    </trans-unit>
+    <trans-unit id="author.submit.form.authorRequiredFields">
+      <source>Je vyžadováno jméno, příjmení a emailová adresa každého autora.</source>
+      <target>Je vyžadováno jméno, příjmení a emailová adresa každého autora.</target>
+    </trans-unit>
+    <trans-unit id="author.submit.form.titleRequired">
+      <source>Vložte, prosím, název vašeho článku.</source>
+      <target>Vložte, prosím, název vašeho článku.</target>
+    </trans-unit>
+    <trans-unit id="author.submit.form.abstractRequired">
+      <source>Vložte, prosím, abstrakt vašeho článku.</source>
+      <target>Vložte, prosím, abstrakt vašeho článku.</target>
+    </trans-unit>
+    <trans-unit id="author.submit.submissionFile">
+      <source>Soubor s příspěvkem</source>
+      <target>Soubor s příspěvkem</target>
+    </trans-unit>
+    <trans-unit id="author.submit.uploadSubmissionFile">
+      <source>Nahrát soubor příspěvku</source>
+      <target>Nahrát soubor příspěvku</target>
+    </trans-unit>
+    <trans-unit id="author.submit.replaceSubmissionFile">
+      <source>Nahradit soubor příspěvku</source>
+      <target>Nahradit soubor příspěvku</target>
+    </trans-unit>
+    <trans-unit id="author.submit.noSubmissionFile">
+      <source>Nebyl nahrán žádný soubor příspěvku.</source>
+      <target>Nebyl nahrán žádný soubor příspěvku.</target>
+    </trans-unit>
+    <trans-unit id="author.submit.noSubmissionConfirm">
+      <source>Jste si jistý, že chcete pokračovat bez nahrání souboru příspěvku?</source>
+      <target>Jste si jistý, že chcete pokračovat bez nahrání souboru příspěvku?</target>
+    </trans-unit>
+    <trans-unit id="author.submit.supplementaryFilesInstructions">
+      <source>Tento volitelný krok umožňuje přidat k příspěvku doplňkové soubory. Tyto souboury (jakéhokoli formátu) mohou zahrnovat (a) výzkumné instrumenty, (b) datové soubory, které jsou v souladu s podmínkami posudku etičnosti výzkumu této studie, (c) zdroje, které by jinak byly čtenářům nedostupné, (d) obrázky a tabulky, které nemohou být začleněny do samotného textu nebo další materiály, které navyšují přínos příspěvku.</source>
+      <target>Tento volitelný krok umožňuje přidat k příspěvku doplňkové soubory. Tyto souboury (jakéhokoli formátu) mohou zahrnovat (a) výzkumné instrumenty, (b) datové soubory, které jsou v souladu s podmínkami posudku etičnosti výzkumu této studie, (c) zdroje, které by jinak byly čtenářům nedostupné, (d) obrázky a tabulky, které nemohou být začleněny do samotného textu nebo další materiály, které navyšují přínos příspěvku.</target>
+    </trans-unit>
+    <trans-unit id="author.submit.supplementaryFiles.saveToUpload">
+      <source>Pro nahrání souboru klikněte na Uložit (poté je možné nahrát další soubory).</source>
+      <target>Pro nahrání souboru klikněte na Uložit (poté je možné nahrát další soubory).</target>
+    </trans-unit>
+    <trans-unit id="author.submit.forgottenSubmitSuppFile">
+      <source>Jste si jistý, že chcete pokračovat bez nahrání doplňkového souboru, který jste vybral?</source>
+      <target>Jste si jistý, že chcete pokračovat bez nahrání doplňkového souboru, který jste vybral?</target>
+    </trans-unit>
+    <trans-unit id="author.submit.noSupplementaryFiles">
+      <source>Žádné doplňkové soubory nebyly přidány k tomuto příspěvku.</source>
+      <target>Žádné doplňkové soubory nebyly přidány k tomuto příspěvku.</target>
+    </trans-unit>
+    <trans-unit id="author.submit.backToSupplementaryFiles">
+      <source>Zpět k doplňkovým souborům</source>
+      <target>Zpět k doplňkovým souborům</target>
+    </trans-unit>
+    <trans-unit id="author.submit.confirmDeleteSuppFile">
+      <source>Jste si jistý, že chcete vymazat tento doplňkový soubor?</source>
+      <target>Jste si jistý, že chcete vymazat tento doplňkový soubor?</target>
+    </trans-unit>
+    <trans-unit id="author.submit.uploadSuppFile">
+      <source>Nahrát doplňkový soubor</source>
+      <target>Nahrát doplňkový soubor</target>
+    </trans-unit>
+    <trans-unit id="author.submit.addSupplementaryFile">
+      <source>Přidat doplňkový soubor</source>
+      <target>Přidat doplňkový soubor</target>
+    </trans-unit>
+    <trans-unit id="author.submit.editSupplementaryFile">
+      <source>Upravit doplňkový soubor</source>
+      <target>Upravit doplňkový soubor</target>
+    </trans-unit>
+    <trans-unit id="author.submit.supplementaryFileData">
+      <source>Metadata doplňkového souboru</source>
+      <target>Metadata doplňkového souboru</target>
+    </trans-unit>
+    <trans-unit id="author.submit.supplementaryFileDataDescription">
+      <source>Pro indexaci dohoto doplňkového materiálu uveďte následující metadata pro nahraný doplňkový soubor.</source>
+      <target>Pro indexaci dohoto doplňkového materiálu uveďte následující metadata pro nahraný doplňkový soubor.</target>
+    </trans-unit>
+    <trans-unit id="author.submit.supplementaryFileUpload">
+      <source>Doplňkový soubor</source>
+      <target>Doplňkový soubor</target>
+    </trans-unit>
+    <trans-unit id="author.submit.suppFile.createrOrOwner">
+      <source>Tvůrce (nebo vlastník) souboru</source>
+      <target>Tvůrce (nebo vlastník) souboru</target>
+    </trans-unit>
+    <trans-unit id="author.submit.suppFile.researchInstrument">
+      <source>Výzkumný nástroj</source>
+      <target>Výzkumný nástroj</target>
+    </trans-unit>
+    <trans-unit id="author.submit.suppFile.researchMaterials">
+      <source>Výzkumné materiály</source>
+      <target>Výzkumné materiály</target>
+    </trans-unit>
+    <trans-unit id="author.submit.suppFile.researchResults">
+      <source>Výsledky výzkumu</source>
+      <target>Výsledky výzkumu</target>
+    </trans-unit>
+    <trans-unit id="author.submit.suppFile.transcripts">
+      <source>Transkripty</source>
+      <target>Transkripty</target>
+    </trans-unit>
+    <trans-unit id="author.submit.suppFile.dataAnalysis">
+      <source>Analýza dat</source>
+      <target>Analýza dat</target>
+    </trans-unit>
+    <trans-unit id="author.submit.suppFile.dataSet">
+      <source>Datový soubor</source>
+      <target>Datový soubor</target>
+    </trans-unit>
+    <trans-unit id="author.submit.suppFile.sourceText">
+      <source>Zdrojový text</source>
+      <target>Zdrojový text</target>
+    </trans-unit>
+    <trans-unit id="author.submit.suppFile.briefDescription">
+      <source>Stručný popis</source>
+      <target>Stručný popis</target>
+    </trans-unit>
+    <trans-unit id="author.submit.suppFile.availableToPeers">
+      <source>Poskytnout soubor recenzentům (bez metadat), aby nebyly narušeny anonymní recenze.</source>
+      <target>Poskytnout soubor recenzentům (bez metadat), aby nebyly narušeny anonymní recenze.</target>
+    </trans-unit>
+    <trans-unit id="author.submit.suppFile.publisherDescription">
+      <source>Použít pouze s formálně publikovanými materiály.</source>
+      <target>Použít pouze s formálně publikovanými materiály.</target>
+    </trans-unit>
+    <trans-unit id="author.submit.suppFile.dateDescription">
+      <source>Datum, kdy byla posbírána data nebo vytvořen nástroj.</source>
+      <target>Datum, kdy byla posbírána data nebo vytvořen nástroj.</target>
+    </trans-unit>
+    <trans-unit id="author.submit.suppFile.sourceDescription">
+      <source>Název studie nebo jiné určení původu.</source>
+      <target>Název studie nebo jiné určení původu.</target>
+    </trans-unit>
+    <trans-unit id="author.submit.suppFile.specifyOtherType">
+      <source>Specifikujte jiný</source>
+      <target>Specifikujte jiný</target>
+    </trans-unit>
+    <trans-unit id="author.submit.suppFile.noFile">
+      <source>Nebyl nahrán žádný soubor.</source>
+      <target>Nebyl nahrán žádný soubor.</target>
+    </trans-unit>
+    <trans-unit id="author.submit.suppFile.form.titleRequired">
+      <source>Vložte, prosím, název tohoto doplňkového souboru.</source>
+      <target>Vložte, prosím, název tohoto doplňkového souboru.</target>
+    </trans-unit>
+    <trans-unit id="author.submit.suppFile.form.subjectRequired">
+      <source>Vložte prosím předmět.</source>
+      <target>Vložte prosím předmět.</target>
+    </trans-unit>
+    <trans-unit id="author.submit.suppFile.form.descriptionRequired">
+      <source>Vložte, prosím, popis.</source>
+      <target>Vložte, prosím, popis.</target>
+    </trans-unit>
+    <trans-unit id="author.suppFile.suppFilePublicIdentificationExists">
+      <source>Veřejný identifikátor doplňkového souboru již existuje.</source>
+      <target>Veřejný identifikátor doplňkového souboru již existuje.</target>
+    </trans-unit>
+    <trans-unit id="author.suppFile.publicSuppFileIdentifier">
+      <source>Veřejný identifikátor doplňkového souboru</source>
+      <target>Veřejný identifikátor doplňkového souboru</target>
+    </trans-unit>
+    <trans-unit id="author.submit.confirmationDescription">
+      <source>Pro odeslání vašeho příspěvku do {$journalTitle} klikněte na Dokončit příspěvek. Hlavní kontakt příspěvku obdrží e-mailem oznámení a bude moci po příhlášení na stránky časopisu sledovat postup příspěvku redakčním řízením. Děkujeme za Váš zájem publikovat v {$journalTitle}.</source>
+      <target>Pro odeslání vašeho příspěvku do {$journalTitle} klikněte na Dokončit příspěvek. Hlavní kontakt příspěvku obdrží e-mailem oznámení a bude moci po příhlášení na stránky časopisu sledovat postup příspěvku redakčním řízením. Děkujeme za Váš zájem publikovat v {$journalTitle}.</target>
+    </trans-unit>
+    <trans-unit id="author.submit.noFiles">
+      <source>K příspěvku nebyly připojeny žádné soubory.</source>
+      <target>K příspěvku nebyly připojeny žádné soubory.</target>
+    </trans-unit>
+    <trans-unit id="author.submit.filesSummary">
+      <source>Přehled souborů</source>
+      <target>Přehled souborů</target>
+    </trans-unit>
+    <trans-unit id="author.submit.finishSubmission">
+      <source>Dokončit příspěvek</source>
+      <target>Dokončit příspěvek</target>
+    </trans-unit>
+    <trans-unit id="author.submit.submissionComplete">
+      <source>Odeslání příspěvku dokončeno. Děkujeme za Váš zájem publikovat v {$journalTitle}.</source>
+      <target>Odeslání příspěvku dokončeno. Děkujeme za Váš zájem publikovat v {$journalTitle}.</target>
+    </trans-unit>
+    <trans-unit id="author.article.uploadAuthorVersion">
+      <source>Nahrát verzi od autora</source>
+      <target>Nahrát verzi od autora</target>
+    </trans-unit>
+    <trans-unit id="author.article.copyeditedFile">
+      <source>Redigovaný soubor</source>
+      <target>Redigovaný soubor</target>
+    </trans-unit>
+    <trans-unit id="author.article.authorRevisedFile">
+      <source>Soubor od autora</source>
+      <target>Soubor od autora</target>
+    </trans-unit>
+    <trans-unit id="author.submit.authorSubmitLoginMessage">
+      <source>Pro přispívání do tohoto časopisu je vyžadován uživatelský účet. To umožní našim editorům sledovat vaše příspěvky a kontaktovat Vás v případě, že se změní stav vašeho příspěvku nebo pokud od vás budou vyžadovány další informace.</source>
+      <target>Pro přispívání do tohoto časopisu je vyžadován uživatelský účet. To umožní našim editorům sledovat vaše příspěvky a kontaktovat Vás v případě, že se změní stav vašeho příspěvku nebo pokud od vás budou vyžadovány další informace.</target>
+    </trans-unit>
+    <trans-unit id="author.submissions.queuedReviewSubsequent">
+      <source>V recenzním kole {$round}</source>
+      <target>V recenzním kole {$round}</target>
+    </trans-unit>
+    <trans-unit id="author.submit.step2">
+      <source>Krok 2. Nahrání příspěvku</source>
+      <target>Krok 2. Nahrání příspěvku</target>
+    </trans-unit>
+    <trans-unit id="author.submit.step3">
+      <source>Krok 3. Vložení metadat příspěvku</source>
+      <target>Krok 3. Vložení metadat příspěvku</target>
+    </trans-unit>
+    <trans-unit id="author.submit.upload">
+      <source>Nahrát příspěvek</source>
+      <target>Nahrát příspěvek</target>
+    </trans-unit>
+    <trans-unit id="author.submit.metadata">
+      <source>Vložit metadata</source>
+      <target>Vložit metadata</target>
+    </trans-unit>
+    <trans-unit id="author.submit.mustEnterWaiverReason">
+      <source>Pokud žádáte o prominutí platby, musíte do příslušného místa uvést důvod.</source>
+      <target>Pokud žádáte o prominutí platby, musíte do příslušného místa uvést důvod.</target>
+    </trans-unit>
+    <trans-unit id="author.submissions.queuedReviewRevisions">
+      <source>V recenzním řízení: Vyžaduje přepracování</source>
+      <target>V recenzním řízení: Vyžaduje přepracování</target>
+    </trans-unit>
+    <trans-unit id="author.submissions.queuedEditingCopyedit">
+      <source>Redakční úravy: Vyžádáno redigování</source>
+      <target>Redakční úravy: Vyžádáno redigování</target>
+    </trans-unit>
+    <trans-unit id="author.submissions.queuedEditingProofread">
+      <source>Redakční úpravy: Vyžádána korektura</source>
+      <target>Redakční úpravy: Vyžádána korektura</target>
+    </trans-unit>
+    <trans-unit id="author.submit.reorder">
+      <source>Přeuspořádat jméno autora</source>
+      <target>Přeuspořádat jméno autora</target>
+    </trans-unit>
+    <trans-unit id="author.submit.form.wordCountAlert">
+      <source>Překročil jste maximální limit slov pro abstrakt v této sekci.</source>
+      <target>Překročil jste maximální limit slov pro abstrakt v této sekci.</target>
+    </trans-unit>
+    <trans-unit id="author.submit.form.localeRequired">
+      <source>Zvolte si, prosím, jazyk příspěvku.</source>
+      <target>Zvolte si, prosím, jazyk příspěvku.</target>
+    </trans-unit>
+    <trans-unit id="author.submit.submissionIndexingDescription">
+      <source>Doplňte, prosím, klíčová slova pro indexování příspěvku: oddělte jednotlivá klíčová slova středníkem (klíčové slovo1; klíčové slovo 2; klíčové slovo 3)</source>
+      <target>Doplňte, prosím, klíčová slova pro indexování příspěvku: oddělte jednotlivá klíčová slova středníkem (klíčové slovo1; klíčové slovo 2; klíčové slovo 3)</target>
+    </trans-unit>
+    <trans-unit id="author.submit.nextSteps">
+      <source>Další kroky</source>
+      <target>Další kroky</target>
+    </trans-unit>
+  </body>
+</file>
+</xliff>
+ 

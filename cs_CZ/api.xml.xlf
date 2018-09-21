@@ -3,8 +3,8 @@
   <file original="SoyMsgBundle" datatype="x-soy-msg-bundle" xml:space="preserve" source-language="$lang" target-language="$lang">
     <body>
     <trans-unit id="api.submissions.403.unpublishedIssues">
-      <source>You do not have permission to view unpublished issues.</source>
-      <target>You do not have permission to view unpublished issues.</target>
+      <source>Nemáte právo vidět nepublikovaná čísla.</source>
+      <target>Nemáte právo vidět nepublikovaná čísla.</target>
     </trans-unit>
   </body>
 </file>

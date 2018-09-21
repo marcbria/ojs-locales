@@ -1,0 +1,2874 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file original="SoyMsgBundle" datatype="x-soy-msg-bundle" xml:space="preserve" source-language="$lang" target-language="$lang">
+    <body>
+    <trans-unit id="navigation.categories">
+      <source>Kategorie</source>
+      <target>Kategorie</target>
+    </trans-unit>
+    <trans-unit id="navigation.categories.browse">
+      <source>Procházet</source>
+      <target>Procházet</target>
+    </trans-unit>
+    <trans-unit id="reviewer.article.enterReviewForm">
+      <source>Pro vyplnění formuláře recenze klikněte na ikonu.</source>
+      <target>Pro vyplnění formuláře recenze klikněte na ikonu.</target>
+    </trans-unit>
+    <trans-unit id="reviewer.submission.reviewFormResponse.form.responseRequired">
+      <source>Vyplňte prosím požadované položky.</source>
+      <target>Vyplňte prosím požadované položky.</target>
+    </trans-unit>
+    <trans-unit id="common.openJournalSystems">
+      <source>Open Journal Systems</source>
+      <target>Open Journal Systems</target>
+    </trans-unit>
+    <trans-unit id="common.confirmComplete">
+      <source>Jste si jisti, že chcete označit tento úkol jako dokončený? Poté nebudete mít možnost provést změny.</source>
+      <target>Jste si jisti, že chcete označit tento úkol jako dokončený? Poté nebudete mít možnost provést změny.</target>
+    </trans-unit>
+    <trans-unit id="common.payment">
+      <source>Platba</source>
+      <target>Platba</target>
+    </trans-unit>
+    <trans-unit id="common.payments">
+      <source>Platby</source>
+      <target>Platby</target>
+    </trans-unit>
+    <trans-unit id="common.homePageHeader.altText">
+      <source>Záhlaví domácí stránky</source>
+      <target>Záhlaví domácí stránky</target>
+    </trans-unit>
+    <trans-unit id="common.journalHomepageImage.altText">
+      <source>Obrázek domácí stránky časopisu</source>
+      <target>Obrázek domácí stránky časopisu</target>
+    </trans-unit>
+    <trans-unit id="navigation.journalHelp">
+      <source>Nápověda časopisu</source>
+      <target>Nápověda časopisu</target>
+    </trans-unit>
+    <trans-unit id="navigation.current">
+      <source>Aktuální</source>
+      <target>Aktuální</target>
+    </trans-unit>
+    <trans-unit id="navigation.otherJournals">
+      <source>Další časopisy</source>
+      <target>Další časopisy</target>
+    </trans-unit>
+    <trans-unit id="navigation.browseByIssue">
+      <source>Podle čísla</source>
+      <target>Podle čísla</target>
+    </trans-unit>
+    <trans-unit id="navigation.browseByAuthor">
+      <source>Podle autora</source>
+      <target>Podle autora</target>
+    </trans-unit>
+    <trans-unit id="navigation.infoForAuthors">
+      <source>Pro autory</source>
+      <target>Pro autory</target>
+    </trans-unit>
+    <trans-unit id="navigation.infoForLibrarians">
+      <source>Pro knihovníky</source>
+      <target>Pro knihovníky</target>
+    </trans-unit>
+    <trans-unit id="navigation.competingInterestGuidelines">
+      <source>Směrnice pro střet zájmů</source>
+      <target>Směrnice pro střet zájmů</target>
+    </trans-unit>
+    <trans-unit id="navigation.infoForAuthors.long">
+      <source>Informace pro autory</source>
+      <target>Informace pro autory</target>
+    </trans-unit>
+    <trans-unit id="navigation.infoForLibrarians.long">
+      <source>Informace pro knihovníky</source>
+      <target>Informace pro knihovníky</target>
+    </trans-unit>
+    <trans-unit id="common.queue.long.submissionsUnassigned">
+      <source>Nepřidělené</source>
+      <target>Nepřidělené</target>
+    </trans-unit>
+    <trans-unit id="common.queue.short.submissionsUnassigned">
+      <source>Nepřidělené</source>
+      <target>Nepřidělené</target>
+    </trans-unit>
+    <trans-unit id="common.queue.long.submissionsInEditing">
+      <source>Právě editované příspěvky</source>
+      <target>Právě editované příspěvky</target>
+    </trans-unit>
+    <trans-unit id="common.queue.short.submissionsInEditing">
+      <source>Editované</source>
+      <target>Editované</target>
+    </trans-unit>
+    <trans-unit id="common.queue.long.submissionsInReview">
+      <source>Příspěvky v recenzním řízení</source>
+      <target>Příspěvky v recenzním řízení</target>
+    </trans-unit>
+    <trans-unit id="common.queue.short.submissionsInReview">
+      <source>V recenzním řízení</source>
+      <target>V recenzním řízení</target>
+    </trans-unit>
+    <trans-unit id="common.queue.long.submissionsArchives">
+      <source>Archivy</source>
+      <target>Archivy</target>
+    </trans-unit>
+    <trans-unit id="common.queue.short.submissionsArchives">
+      <source>Archivy</source>
+      <target>Archivy</target>
+    </trans-unit>
+    <trans-unit id="common.queue.long.active">
+      <source>Aktivní příspěvky</source>
+      <target>Aktivní příspěvky</target>
+    </trans-unit>
+    <trans-unit id="common.queue.short.active">
+      <source>Aktivní</source>
+      <target>Aktivní</target>
+    </trans-unit>
+    <trans-unit id="common.queue.long.completed">
+      <source>Archiv</source>
+      <target>Archiv</target>
+    </trans-unit>
+    <trans-unit id="common.queue.short.completed">
+      <source>Archiv</source>
+      <target>Archiv</target>
+    </trans-unit>
+    <trans-unit id="section.section">
+      <source>Sekce</source>
+      <target>Sekce</target>
+    </trans-unit>
+    <trans-unit id="section.sections">
+      <source>Sekce časopisu</source>
+      <target>Sekce časopisu</target>
+    </trans-unit>
+    <trans-unit id="section.title">
+      <source>Název sekce</source>
+      <target>Název sekce</target>
+    </trans-unit>
+    <trans-unit id="section.abbreviation">
+      <source>Zkratka</source>
+      <target>Zkratka</target>
+    </trans-unit>
+    <trans-unit id="section.abbreviation.example">
+      <source>(Například články=ČL)</source>
+      <target>(Například články=ČL)</target>
+    </trans-unit>
+    <trans-unit id="article.article">
+      <source>Článek</source>
+      <target>Článek</target>
+    </trans-unit>
+    <trans-unit id="article.articles">
+      <source>Články</source>
+      <target>Články</target>
+    </trans-unit>
+    <trans-unit id="article.submissionId">
+      <source>ID příspěvku</source>
+      <target>ID příspěvku</target>
+    </trans-unit>
+    <trans-unit id="article.title">
+      <source>Název</source>
+      <target>Název</target>
+    </trans-unit>
+    <trans-unit id="article.authors">
+      <source>Autoři</source>
+      <target>Autoři</target>
+    </trans-unit>
+    <trans-unit id="article.indexingInformation">
+      <source>Informace pro indexaci</source>
+      <target>Informace pro indexaci</target>
+    </trans-unit>
+    <trans-unit id="article.metadata">
+      <source>Metadata</source>
+      <target>Metadata</target>
+    </trans-unit>
+    <trans-unit id="article.journalSection">
+      <source>Sekce časopisu</source>
+      <target>Sekce časopisu</target>
+    </trans-unit>
+    <trans-unit id="article.file">
+      <source>Soubor</source>
+      <target>Soubor</target>
+    </trans-unit>
+    <trans-unit id="article.suppFile">
+      <source>Doplňkový soubor</source>
+      <target>Doplňkový soubor</target>
+    </trans-unit>
+    <trans-unit id="article.suppFiles">
+      <source>Doplňkový/é soubor/y</source>
+      <target>Doplňkový/é soubor/y</target>
+    </trans-unit>
+    <trans-unit id="article.suppFilesAbbrev">
+      <source>Doplň. soubory</source>
+      <target>Doplň. soubory</target>
+    </trans-unit>
+    <trans-unit id="article.discipline">
+      <source>Akademická disciplína a subdisciplíny</source>
+      <target>Akademická disciplína a subdisciplíny</target>
+    </trans-unit>
+    <trans-unit id="article.subject">
+      <source>Klíčová slova</source>
+      <target>Klíčová slova</target>
+    </trans-unit>
+    <trans-unit id="article.coverage">
+      <source>Dosah</source>
+      <target>Dosah</target>
+    </trans-unit>
+    <trans-unit id="article.type">
+      <source>Typ, metoda nebo přístup</source>
+      <target>Typ, metoda nebo přístup</target>
+    </trans-unit>
+    <trans-unit id="article.language">
+      <source>Jazyk</source>
+      <target>Jazyk</target>
+    </trans-unit>
+    <trans-unit id="article.sectionEditor">
+      <source>ES</source>
+      <target>ES</target>
+    </trans-unit>
+    <trans-unit id="article.commentsToEditor">
+      <source>Komentář autora</source>
+      <target>Komentář autora</target>
+    </trans-unit>
+    <trans-unit id="article.submission">
+      <source>Příspěvek</source>
+      <target>Příspěvek</target>
+    </trans-unit>
+    <trans-unit id="article.submissions">
+      <source>Příspěvky</source>
+      <target>Příspěvky</target>
+    </trans-unit>
+    <trans-unit id="article.abstract">
+      <source>Abstrakt</source>
+      <target>Abstrakt</target>
+    </trans-unit>
+    <trans-unit id="article.details">
+      <source>Detaily</source>
+      <target>Detaily</target>
+    </trans-unit>
+    <trans-unit id="article.coverPage.altText">
+      <source>Obrázek obalu</source>
+      <target>Obrázek obalu</target>
+    </trans-unit>
+    <trans-unit id="article.accessLogoOpen.altText">
+      <source>Otevřený přístup</source>
+      <target>Otevřený přístup</target>
+    </trans-unit>
+    <trans-unit id="article.accessLogoRestricted.altText">
+      <source>Omezený přístup</source>
+      <target>Omezený přístup</target>
+    </trans-unit>
+    <trans-unit id="article.comments.sectionDefault">
+      <source>Výchozí</source>
+      <target>Výchozí</target>
+    </trans-unit>
+    <trans-unit id="article.comments.disable">
+      <source>Zakázat</source>
+      <target>Zakázat</target>
+    </trans-unit>
+    <trans-unit id="article.comments.enable">
+      <source>Povolit</source>
+      <target>Povolit</target>
+    </trans-unit>
+    <trans-unit id="article.fontSize">
+      <source>Velikost fontu</source>
+      <target>Velikost fontu</target>
+    </trans-unit>
+    <trans-unit id="article.fontSize.small.altText">
+      <source>Malý</source>
+      <target>Malý</target>
+    </trans-unit>
+    <trans-unit id="article.fontSize.medium.altText">
+      <source>Střední</source>
+      <target>Střední</target>
+    </trans-unit>
+    <trans-unit id="article.fontSize.large.altText">
+      <source>Velký</source>
+      <target>Velký</target>
+    </trans-unit>
+    <trans-unit id="submission.submissionEditing">
+      <source>Editování příspěvku</source>
+      <target>Editování příspěvku</target>
+    </trans-unit>
+    <trans-unit id="submission.changeSection">
+      <source>Změnit na</source>
+      <target>Změnit na</target>
+    </trans-unit>
+    <trans-unit id="submission.sent">
+      <source>Odesláno</source>
+      <target>Odesláno</target>
+    </trans-unit>
+    <trans-unit id="submission.editorDecision">
+      <source>Rozhodnutí editora</source>
+      <target>Rozhodnutí editora</target>
+    </trans-unit>
+    <trans-unit id="submission.round">
+      <source>Kolo&nbsp;{$round}</source>
+      <target>Kolo&nbsp;{$round}</target>
+    </trans-unit>
+    <trans-unit id="submission.editorReview">
+      <source>Posudek editora</source>
+      <target>Posudek editora</target>
+    </trans-unit>
+    <trans-unit id="submission.notifyAuthor">
+      <source>Informovat autora</source>
+      <target>Informovat autora</target>
+    </trans-unit>
+    <trans-unit id="submission.notifyEditor">
+      <source>Informovat editora</source>
+      <target>Informovat editora</target>
+    </trans-unit>
+    <trans-unit id="submission.editorAuthorRecord">
+      <source>Evidence e-mailů editora/autora</source>
+      <target>Evidence e-mailů editora/autora</target>
+    </trans-unit>
+    <trans-unit id="submission.reviewersVersion">
+      <source>Recenzentem okomentovaná verze souboru</source>
+      <target>Recenzentem okomentovaná verze souboru</target>
+    </trans-unit>
+    <trans-unit id="submission.postReviewVersion">
+      <source>Verze souboru po recenzi</source>
+      <target>Verze souboru po recenzi</target>
+    </trans-unit>
+    <trans-unit id="submission.editorVersion">
+      <source>Verze editora</source>
+      <target>Verze editora</target>
+    </trans-unit>
+    <trans-unit id="submission.authorsRevisedVersion">
+      <source>Autorem revidovaná verze souboru</source>
+      <target>Autorem revidovaná verze souboru</target>
+    </trans-unit>
+    <trans-unit id="submission.authorVersion">
+      <source>Verze autora</source>
+      <target>Verze autora</target>
+    </trans-unit>
+    <trans-unit id="submission.copyediting">
+      <source>Redigování</source>
+      <target>Redigování</target>
+    </trans-unit>
+    <trans-unit id="submission.copyedit">
+      <source>Redigovat</source>
+      <target>Redigovat</target>
+    </trans-unit>
+    <trans-unit id="submission.proofreading">
+      <source>Korektura</source>
+      <target>Korektura</target>
+    </trans-unit>
+    <trans-unit id="submission.scheduling">
+      <source>Plánování</source>
+      <target>Plánování</target>
+    </trans-unit>
+    <trans-unit id="submission.scheduledIn">
+      <source>Naplánována publikace v {$issueName}.</source>
+      <target>Naplánována publikace v {$issueName}.</target>
+    </trans-unit>
+    <trans-unit id="submission.scheduledIn.tba">
+      <source>(Bude oznámeno)</source>
+      <target>(Bude oznámeno)</target>
+    </trans-unit>
+    <trans-unit id="submissions.sec">
+      <source>Sec</source>
+      <target>Sec</target>
+    </trans-unit>
+    <trans-unit id="submissions.step1">
+      <source>Krok 1</source>
+      <target>Krok 1</target>
+    </trans-unit>
+    <trans-unit id="submissions.step3">
+      <source>Krok 3</source>
+      <target>Krok 3</target>
+    </trans-unit>
+    <trans-unit id="submissions.queuedReview">
+      <source>Ve frontě k recenzi</source>
+      <target>Ve frontě k recenzi</target>
+    </trans-unit>
+    <trans-unit id="submissions.scheduled">
+      <source>Naplánované</source>
+      <target>Naplánované</target>
+    </trans-unit>
+    <trans-unit id="submissions.published">
+      <source>Publikováno</source>
+      <target>Publikováno</target>
+    </trans-unit>
+    <trans-unit id="submissions.initial">
+      <source>Počáteční</source>
+      <target>Počáteční</target>
+    </trans-unit>
+    <trans-unit id="submissions.proofread">
+      <source>Korektura</source>
+      <target>Korektura</target>
+    </trans-unit>
+    <trans-unit id="submissions.initialProof">
+      <source>Počáteční kontrola</source>
+      <target>Počáteční kontrola</target>
+    </trans-unit>
+    <trans-unit id="submissions.postAuthor">
+      <source>Po autorovi</source>
+      <target>Po autorovi</target>
+    </trans-unit>
+    <trans-unit id="submissions.reviewRound">
+      <source>Kolo recenze</source>
+      <target>Kolo recenze</target>
+    </trans-unit>
+    <trans-unit id="submissions.proof">
+      <source>Kontrola</source>
+      <target>Kontrola</target>
+    </trans-unit>
+    <trans-unit id="submissions.editorDecision">
+      <source>Rozhodnutí editora</source>
+      <target>Rozhodnutí editora</target>
+    </trans-unit>
+    <trans-unit id="submissions.editorRuling">
+      <source>Pravidla editorování</source>
+      <target>Pravidla editorování</target>
+    </trans-unit>
+    <trans-unit id="submission.eventLog">
+      <source>Log událostí</source>
+      <target>Log událostí</target>
+    </trans-unit>
+    <trans-unit id="submissions.copyeditComplete">
+      <source>Zredigované</source>
+      <target>Zredigované</target>
+    </trans-unit>
+    <trans-unit id="submissions.layoutComplete">
+      <source>Po typografické úpravě</source>
+      <target>Po typografické úpravě</target>
+    </trans-unit>
+    <trans-unit id="submissions.proofreadingComplete">
+      <source>Po korektuře</source>
+      <target>Po korektuře</target>
+    </trans-unit>
+    <trans-unit id="journal.currentIssue">
+      <source>Aktuální číslo</source>
+      <target>Aktuální číslo</target>
+    </trans-unit>
+    <trans-unit id="journal.journals">
+      <source>Časopisy</source>
+      <target>Časopisy</target>
+    </trans-unit>
+    <trans-unit id="journal.path">
+      <source>Cesta</source>
+      <target>Cesta</target>
+    </trans-unit>
+    <trans-unit id="context.context">
+      <source>Časopis</source>
+      <target>Časopis</target>
+    </trans-unit>
+    <trans-unit id="journal.issn">
+      <source>ISSN</source>
+      <target>ISSN</target>
+    </trans-unit>
+    <trans-unit id="user.profile.profileImage">
+      <source>Profilový obrázek</source>
+      <target>Profilový obrázek</target>
+    </trans-unit>
+    <trans-unit id="user.showAllJournals">
+      <source>Zobrazit moje časopisy</source>
+      <target>Zobrazit moje časopisy</target>
+    </trans-unit>
+    <trans-unit id="user.registerForOtherJournals">
+      <source>Registrovat se do dalších časopisů</source>
+      <target>Registrovat se do dalších časopisů</target>
+    </trans-unit>
+    <trans-unit id="user.myJournals">
+      <source>Moje časopisy</source>
+      <target>Moje časopisy</target>
+    </trans-unit>
+    <trans-unit id="user.manageMySubscriptions">
+      <source>Ovládání mého předplatného</source>
+      <target>Ovládání mého předplatného</target>
+    </trans-unit>
+    <trans-unit id="user.noRoles.chooseJournal">
+      <source>Váš účet není aktuálně asociován s žádným časopisem. Prosím, vyberte si časopis:</source>
+      <target>Váš účet není aktuálně asociován s žádným časopisem. Prosím, vyberte si časopis:</target>
+    </trans-unit>
+    <trans-unit id="user.noRoles.noRolesForJournal">
+      <source>Váš účet nemá aktuálně v tomto časopisu žádné role. Vyberte prosím níže akci:</source>
+      <target>Váš účet nemá aktuálně v tomto časopisu žádné role. Vyberte prosím níže akci:</target>
+    </trans-unit>
+    <trans-unit id="user.noRoles.submitArticle">
+      <source>Poslat článek</source>
+      <target>Poslat článek</target>
+    </trans-unit>
+    <trans-unit id="user.noRoles.submitArticleRegClosed">
+      <source>Poslat článek: registrace autorů je aktuálně zakázána.</source>
+      <target>Poslat článek: registrace autorů je aktuálně zakázána.</target>
+    </trans-unit>
+    <trans-unit id="user.noRoles.regReviewer">
+      <source>Registrovat se jako recenzent</source>
+      <target>Registrovat se jako recenzent</target>
+    </trans-unit>
+    <trans-unit id="user.noRoles.regReviewerClosed">
+      <source>Registrovat se jako recenzent: registrace recenzentů je aktuálně zakázána.</source>
+      <target>Registrovat se jako recenzent: registrace recenzentů je aktuálně zakázána.</target>
+    </trans-unit>
+    <trans-unit id="user.role.manager">
+      <source>Manažer časopisu</source>
+      <target>Manažer časopisu</target>
+    </trans-unit>
+    <trans-unit id="user.role.subEditor">
+      <source>Editor sekce</source>
+      <target>Editor sekce</target>
+    </trans-unit>
+    <trans-unit id="user.role.subscriptionManager">
+      <source>Manažer předplatného</source>
+      <target>Manažer předplatného</target>
+    </trans-unit>
+    <trans-unit id="user.role.managers">
+      <source>Manažeři časopisu</source>
+      <target>Manažeři časopisu</target>
+    </trans-unit>
+    <trans-unit id="user.role.subscriptionManagers">
+      <source>Manažeři předplatného</source>
+      <target>Manažeři předplatného</target>
+    </trans-unit>
+    <trans-unit id="issue.issue">
+      <source>Číslo</source>
+      <target>Číslo</target>
+    </trans-unit>
+    <trans-unit id="issue.issues">
+      <source>Čísla</source>
+      <target>Čísla</target>
+    </trans-unit>
+    <trans-unit id="issue.title">
+      <source>Název</source>
+      <target>Název</target>
+    </trans-unit>
+    <trans-unit id="issue.volume">
+      <source>Ročník</source>
+      <target>Ročník</target>
+    </trans-unit>
+    <trans-unit id="issue.number">
+      <source>Číslo</source>
+      <target>Číslo</target>
+    </trans-unit>
+    <trans-unit id="issue.vol">
+      <source>Vol</source>
+      <target>Vol</target>
+    </trans-unit>
+    <trans-unit id="issue.no">
+      <source>No</source>
+      <target>No</target>
+    </trans-unit>
+    <trans-unit id="issue.year">
+      <source>Rok</source>
+      <target>Rok</target>
+    </trans-unit>
+    <trans-unit id="issue.noIssues">
+      <source>Žádná čísla</source>
+      <target>Žádná čísla</target>
+    </trans-unit>
+    <trans-unit id="issue.toc">
+      <source>Obsah</source>
+      <target>Obsah</target>
+    </trans-unit>
+    <trans-unit id="issue.abstract">
+      <source>Abstrakt</source>
+      <target>Abstrakt</target>
+    </trans-unit>
+    <trans-unit id="issue.coverPage.altText">
+      <source>Titulní stránka</source>
+      <target>Titulní stránka</target>
+    </trans-unit>
+    <trans-unit id="issue.fullIssue">
+      <source>Celé číslo</source>
+      <target>Celé číslo</target>
+    </trans-unit>
+    <trans-unit id="issue.nonpdf.title">
+      <source>Stažení čísla</source>
+      <target>Stažení čísla</target>
+    </trans-unit>
+    <trans-unit id="issue.viewIssue">
+      <source>Prohlédnout číslo</source>
+      <target>Prohlédnout číslo</target>
+    </trans-unit>
+    <trans-unit id="subscriptionTypes.currency">
+      <source>Měna</source>
+      <target>Měna</target>
+    </trans-unit>
+    <trans-unit id="subscriptionTypes.year">
+      <source>rok</source>
+      <target>rok</target>
+    </trans-unit>
+    <trans-unit id="subscriptionTypes.years">
+      <source>roky</source>
+      <target>roky</target>
+    </trans-unit>
+    <trans-unit id="subscriptionTypes.month">
+      <source>měsíc</source>
+      <target>měsíc</target>
+    </trans-unit>
+    <trans-unit id="subscriptionTypes.months">
+      <source>měsíce</source>
+      <target>měsíce</target>
+    </trans-unit>
+    <trans-unit id="subscriptionTypes.nonExpiring">
+      <source>Trvalé</source>
+      <target>Trvalé</target>
+    </trans-unit>
+    <trans-unit id="subscriptionTypes.format">
+      <source>Formát</source>
+      <target>Formát</target>
+    </trans-unit>
+    <trans-unit id="subscriptionTypes.format.online">
+      <source>Online</source>
+      <target>Online</target>
+    </trans-unit>
+    <trans-unit id="subscriptionTypes.format.print">
+      <source>Tisk</source>
+      <target>Tisk</target>
+    </trans-unit>
+    <trans-unit id="subscriptionTypes.format.printOnline">
+      <source>Tisk a online</source>
+      <target>Tisk a online</target>
+    </trans-unit>
+    <trans-unit id="subscriptions.inactive">
+      <source>Neaktivní</source>
+      <target>Neaktivní</target>
+    </trans-unit>
+    <trans-unit id="subscriptions.status">
+      <source>Status</source>
+      <target>Status</target>
+    </trans-unit>
+    <trans-unit id="subscriptions.status.active">
+      <source>Aktivní</source>
+      <target>Aktivní</target>
+    </trans-unit>
+    <trans-unit id="subscriptions.status.needsInformation">
+      <source>Potřebuje informace</source>
+      <target>Potřebuje informace</target>
+    </trans-unit>
+    <trans-unit id="subscriptions.status.needsApproval">
+      <source>Potřebuje schválení</source>
+      <target>Potřebuje schválení</target>
+    </trans-unit>
+    <trans-unit id="subscriptions.status.awaitingManualPayment">
+      <source>Je očekávána manuální platba</source>
+      <target>Je očekávána manuální platba</target>
+    </trans-unit>
+    <trans-unit id="subscriptions.status.awaitingOnlinePayment">
+      <source>Je očekávána on-line platba</source>
+      <target>Je očekávána on-line platba</target>
+    </trans-unit>
+    <trans-unit id="subscriptions.status.other">
+      <source>Jiné, viz poznámky</source>
+      <target>Jiné, viz poznámky</target>
+    </trans-unit>
+    <trans-unit id="subscriptions.individualDescription">
+      <source>Individuální předplatné vyžaduje přihlášení, aby byl umožněn k obsahu předplatného.</source>
+      <target>Individuální předplatné vyžaduje přihlášení, aby byl umožněn k obsahu předplatného.</target>
+    </trans-unit>
+    <trans-unit id="subscriptions.institutionalDescription">
+      <source>Institucionální předplatné nepožaduje login. Uživatelská doména a/nebo IP adresa slouží k umožnění přístupu k obsahu předplatného.</source>
+      <target>Institucionální předplatné nepožaduje login. Uživatelská doména a/nebo IP adresa slouží k umožnění přístupu k obsahu předplatného.</target>
+    </trans-unit>
+    <trans-unit id="subscriptions.institutionalOnlinePaymentDescription">
+      <source><strong>Poznámka:</strong> Institucionální předplatné placené online vyžaduje ověření domény a rozsahu IP adres, aby mohlo být aktivováno.</source>
+      <target><strong>Poznámka:</strong> Institucionální předplatné placené online vyžaduje ověření domény a rozsahu IP adres, aby mohlo být aktivováno.</target>
+    </trans-unit>
+    <trans-unit id="submission.event.general.defaultEvent">
+      <source>Událost příspěvku</source>
+      <target>Událost příspěvku</target>
+    </trans-unit>
+    <trans-unit id="submission.event.general.issueScheduled">
+      <source>Příspěvek odeslán do fronty pro naplánování publikace</source>
+      <target>Příspěvek odeslán do fronty pro naplánování publikace</target>
+    </trans-unit>
+    <trans-unit id="submission.event.general.issueAssigned">
+      <source>Příspěvek zařazen do čísla</source>
+      <target>Příspěvek zařazen do čísla</target>
+    </trans-unit>
+    <trans-unit id="submission.event.general.articlePublished">
+      <source>Článek publikován</source>
+      <target>Článek publikován</target>
+    </trans-unit>
+    <trans-unit id="submission.event.author.authorRevision">
+      <source>Autorova revize odeslána</source>
+      <target>Autorova revize odeslána</target>
+    </trans-unit>
+    <trans-unit id="submission.event.general.authorRevision">
+      <source>Autorův revidovaný soubor aktualizován</source>
+      <target>Autorův revidovaný soubor aktualizován</target>
+    </trans-unit>
+    <trans-unit id="submission.event.editor.editorAssigned">
+      <source>Editor přidělen k příspěvku</source>
+      <target>Editor přidělen k příspěvku</target>
+    </trans-unit>
+    <trans-unit id="submission.event.editor.editorUnassigned">
+      <source>Editor odebrán od příspěvku</source>
+      <target>Editor odebrán od příspěvku</target>
+    </trans-unit>
+    <trans-unit id="submission.event.editor.editorDecision">
+      <source>Editorovo rozhodnutí odesláno</source>
+      <target>Editorovo rozhodnutí odesláno</target>
+    </trans-unit>
+    <trans-unit id="submission.event.editor.editorFile">
+      <source>Editorův soubor aktualizován</source>
+      <target>Editorův soubor aktualizován</target>
+    </trans-unit>
+    <trans-unit id="submission.event.editor.submissionArchived">
+      <source>Příspěvek odeslán do archívu</source>
+      <target>Příspěvek odeslán do archívu</target>
+    </trans-unit>
+    <trans-unit id="submission.event.editor.submissionRestored">
+      <source>Příspěvek obnoven z archívu</source>
+      <target>Příspěvek obnoven z archívu</target>
+    </trans-unit>
+    <trans-unit id="submission.event.copyedit.copyeditorAssigned">
+      <source>Redaktor přidělen k příspěvku</source>
+      <target>Redaktor přidělen k příspěvku</target>
+    </trans-unit>
+    <trans-unit id="submission.event.copyedit.copyeditorUnassigned">
+      <source>Redaktor odebrán od příspěvku</source>
+      <target>Redaktor odebrán od příspěvku</target>
+    </trans-unit>
+    <trans-unit id="submission.event.copyedit.copyeditInitiated">
+      <source>Přidělené redigování zahájeno</source>
+      <target>Přidělené redigování zahájeno</target>
+    </trans-unit>
+    <trans-unit id="submission.event.copyedit.copyeditRevision">
+      <source>Soubor s revizemi redaktora aktualizován</source>
+      <target>Soubor s revizemi redaktora aktualizován</target>
+    </trans-unit>
+    <trans-unit id="submission.event.copyedit.copyeditInitialCompleted">
+      <source>Úvodní redigování dokončeno</source>
+      <target>Úvodní redigování dokončeno</target>
+    </trans-unit>
+    <trans-unit id="submission.event.copyedit.copyeditFinalCompleted">
+      <source>Finální redigování dokončeno</source>
+      <target>Finální redigování dokončeno</target>
+    </trans-unit>
+    <trans-unit id="submission.event.copyedit.copyeditSetFile">
+      <source>Redigovaný soubor aktualizován</source>
+      <target>Redigovaný soubor aktualizován</target>
+    </trans-unit>
+    <trans-unit id="submission.event.proofread.proofreaderAssigned">
+      <source>Korektor přidělen k příspěvku</source>
+      <target>Korektor přidělen k příspěvku</target>
+    </trans-unit>
+    <trans-unit id="submission.event.proofread.proofreaderUnassigned">
+      <source>Korektor odebrán od příspěvku</source>
+      <target>Korektor odebrán od příspěvku</target>
+    </trans-unit>
+    <trans-unit id="submission.event.proofread.proofreadInitiated">
+      <source>Přidělená korektura zahájena</source>
+      <target>Přidělená korektura zahájena</target>
+    </trans-unit>
+    <trans-unit id="submission.event.proofread.proofreadRevision">
+      <source>Soubor s korekturami aktualizován</source>
+      <target>Soubor s korekturami aktualizován</target>
+    </trans-unit>
+    <trans-unit id="submission.event.proofread.proofreadCompleted">
+      <source>Přidělená korektura dokončena</source>
+      <target>Přidělená korektura dokončena</target>
+    </trans-unit>
+    <trans-unit id="submission.event.layout.layoutEditorAssigned">
+      <source>Typograf přidělen k příspěvku</source>
+      <target>Typograf přidělen k příspěvku</target>
+    </trans-unit>
+    <trans-unit id="submission.event.layout.layoutEditorUnassigned">
+      <source>Typograf odebrán od příspěvku</source>
+      <target>Typograf odebrán od příspěvku</target>
+    </trans-unit>
+    <trans-unit id="submission.event.layout.layoutInitiated">
+      <source>Typografické úpravy zahájeny</source>
+      <target>Typografické úpravy zahájeny</target>
+    </trans-unit>
+    <trans-unit id="submission.event.layout.layoutGalleyCreated">
+      <source>Sazebnice aktualizována</source>
+      <target>Sazebnice aktualizována</target>
+    </trans-unit>
+    <trans-unit id="submission.event.layout.layoutComplete">
+      <source>Typografické úpravy dokončeny</source>
+      <target>Typografické úpravy dokončeny</target>
+    </trans-unit>
+    <trans-unit id="reader.subscribersOnly">
+      <source>Pouze pro předplatitele</source>
+      <target>Pouze pro předplatitele</target>
+    </trans-unit>
+    <trans-unit id="reader.subscriptionRequiredLoginText">
+      <source>Pro přístup k položce je vyžadováno předplatné. Přihlaste se do časopisu pro ověření předplatného.</source>
+      <target>Pro přístup k položce je vyžadováno předplatné. Přihlaste se do časopisu pro ověření předplatného.</target>
+    </trans-unit>
+    <trans-unit id="reader.openAccess">
+      <source>Volný přístup</source>
+      <target>Volný přístup</target>
+    </trans-unit>
+    <trans-unit id="reader.subscriptionAccess">
+      <source>Předplacený přístup</source>
+      <target>Předplacený přístup</target>
+    </trans-unit>
+    <trans-unit id="reader.subscriptionOrFeeAccess">
+      <source>Předplatné nebo placený přístup</source>
+      <target>Předplatné nebo placený přístup</target>
+    </trans-unit>
+    <trans-unit id="comments.commentsOnArticle">
+      <source>Komentáře k tomuto článku</source>
+      <target>Komentáře k tomuto článku</target>
+    </trans-unit>
+    <trans-unit id="comments.authenticated">
+      <source><a href="{$publicProfileUrl}" target="_parent">{$userName}</a></source>
+      <target><a href="{$publicProfileUrl}" target="_parent">{$userName}</a></target>
+    </trans-unit>
+    <trans-unit id="admin.auth.defaultSourceDescription">
+      <source><p>Specifikování jiného výchozího zdroje ověření než OJS má následující efekt:</p>
+<ul>
+	<li>Pokud se uživatel pokusí zaregistrovat nový účet na této stránce s uživatelským jménem, které existuje ve zdroji ověření (ale ne v OJS databázi), pokus o registraci je povolen pouze tehdy, pokud je zadané heslo platné pro tento uživatelský účet.</li>
+</ul></source>
+      <target><p>Specifikování jiného výchozího zdroje ověření než OJS má následující efekt:</p>
+<ul>
+	<li>Pokud se uživatel pokusí zaregistrovat nový účet na této stránce s uživatelským jménem, které existuje ve zdroji ověření (ale ne v OJS databázi), pokus o registraci je povolen pouze tehdy, pokud je zadané heslo platné pro tento uživatelský účet.</li>
+</ul></target>
+    </trans-unit>
+    <trans-unit id="admin.overwriteConfigFileInstructions">
+      <source><h4>POZNÁMKA!</h4>
+<p>Systém nemohl automaticky přepsat konfigurační soubor. K provedení změn konfigurace musíte otevřít <tt>config.inc.php</tt> ve vhodném textovém editoru a nahradit jeho obsah obsahem textového pole níže.</p></source>
+      <target><h4>POZNÁMKA!</h4>
+<p>Systém nemohl automaticky přepsat konfigurační soubor. K provedení změn konfigurace musíte otevřít <tt>config.inc.php</tt> ve vhodném textovém editoru a nahradit jeho obsah obsahem textového pole níže.</p></target>
+    </trans-unit>
+    <trans-unit id="subscriptionManager.subscriptionManagement">
+      <source>Správa předplatného</source>
+      <target>Správa předplatného</target>
+    </trans-unit>
+    <trans-unit id="subscriptionManager.individualSubscriptions">
+      <source>Individuální předplatné</source>
+      <target>Individuální předplatné</target>
+    </trans-unit>
+    <trans-unit id="subscriptionManager.institutionalSubscriptions">
+      <source>Institucionální předplatné</source>
+      <target>Institucionální předplatné</target>
+    </trans-unit>
+    <trans-unit id="subscriptionManager.subscriptionTypes">
+      <source>Typy předplatného</source>
+      <target>Typy předplatného</target>
+    </trans-unit>
+    <trans-unit id="plugins.categories.auth.description">
+      <source>Autorizační pluginy umožňují OJS delegovat ověření uživatelů na jiné systémy jako například LDAP servery.</source>
+      <target>Autorizační pluginy umožňují OJS delegovat ověření uživatelů na jiné systémy jako například LDAP servery.</target>
+    </trans-unit>
+    <trans-unit id="plugins.categories.generic.description">
+      <source>Obecné pluginy se používají k rozšíření OJS různými způsoby, které nejsou podporovány jinými kategoriemi pluginů.</source>
+      <target>Obecné pluginy se používají k rozšíření OJS různými způsoby, které nejsou podporovány jinými kategoriemi pluginů.</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.lockssDescription">
+      <source>OJS podporuje technologii <a href="http://lockss.stanford.edu/" target="_blank">LOCKSS</a> (Lots of Copies Keep Stuff Safe) systém, aby zajistil bezpečnou a stálou archivaci časopisu. LOCKSS je open source software vyvinutý v Stanford University Library, který umožňuje knihovnám zabezpečovat vybrané webové časopisy tím, že se pravidelně dotazuje webových stránek časopisu na nově publikovaný obsah a archivuje ho. Každý archív je neustále kontrolován porovnáváním oproti archívům dalších knihoven, a pokud je zjištěno jeho poškození nebo ztráta jsou tyto archívy použity k jeho obnovení.
+<br /><br />
+Nastavení podpory technologie LOCKSS pro OJS nemusí být provedeno, dokud není publikování časopisu zaběhané. Potom následujte tyto dva kroky:</source>
+      <target>OJS podporuje technologii <a href="http://lockss.stanford.edu/" target="_blank">LOCKSS</a> (Lots of Copies Keep Stuff Safe) systém, aby zajistil bezpečnou a stálou archivaci časopisu. LOCKSS je open source software vyvinutý v Stanford University Library, který umožňuje knihovnám zabezpečovat vybrané webové časopisy tím, že se pravidelně dotazuje webových stránek časopisu na nově publikovaný obsah a archivuje ho. Každý archív je neustále kontrolován porovnáváním oproti archívům dalších knihoven, a pokud je zjištěno jeho poškození nebo ztráta jsou tyto archívy použity k jeho obnovení.
+<br /><br />
+Nastavení podpory technologie LOCKSS pro OJS nemusí být provedeno, dokud není publikování časopisu zaběhané. Potom následujte tyto dva kroky:</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.authorCopyrightNotice.sample">
+      <source><h3>Navrhovaná oznámení o copyrightu Creative Commons</h3>
+<h4>1. Navrhovaná pravidla pro časopisy, které nabízejí otevřený přístup</h4>
+Autoři, kteří publikují v tomto časopise, souhlasí s následujícími body:
+<ol type="a">
+	<li>Autoři si ponechávají copyright a garantují časopisu právo prvního publikování, přitom je práce zároveň licencována pod <a target="_new" href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution licencí</a>, která umožňuje ostatním sdílet tuto práci s tím, že přiznají jejího autora a první publikování v tomto časopisu.</li>
+	<li>Autoři mohou vstupovat do dalších samostatných smluvních dohod pro neexkluzivní šíření práce ve verzi, ve které byla publikována v časopise (například publikovat ji v knize), avšak s tím, že přiznají její první publikování v tomto časopisu.</li>
+	<li>Autorům je dovoleno a doporučováno, aby zpřístupnili svou práci online (například na svých webových stránkách) před a v průběhu redakčního řízení jejich příspěvku, protože takový postup může vést k produktivním výměnám názorů a také dřívější a vyšší citovanosti publikované práce (Viz <a target="_new" href="http://opcit.eprints.org/oacitation-biblio.html">Efekt otevřeného přístupu</a>).</li>
+</ol>
+
+<h4> Navrhovaná pravidla pro časopisy, které nabízejí zpožděný otevřený přístup</h4>
+Autoři, kteří publikují v tomto časopise, souhlasí s následujícími body:
+<ol type="a">
+	<li>Autoři si ponechávají copyright a garantují časopisu právo prvního publikování, práce je po [SPECIFIKUJTE PO JAK DLOUHÉM ČASOVÉM OBDOBÍ] od publikování zároveň licencována pod <a target="_new" href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution licencí</a>, která umožňuje ostatním sdílet tuto práci s tím, že přiznají jejího autora a první publikování v tomto časopisu.</li>
+	<li>Autoři mohou vstupovat do dalších samostatných smluvních dohod pro neexkluzivní šíření práce ve verzi, ve které byla publikována v časopise (například publikovat ji v knize), avšak s tím, že přiznají její první publikování v tomto časopisu.</li>
+	<li>Autorům je dovoleno a doporučováno, aby zpřístupnili svou práci online (například na svých webových stránkách) před a v průběhu redakčního řízení jejich příspěvku, protože takový postup může vést k produktivním výměnám názorů a také dřívější a vyšší citovanosti publikované práce (Viz <a target="_new" href="http://opcit.eprints.org/oacitation-biblio.html">Efekt otevřeného přístupu</a>).</li>
+</ol></source>
+      <target><h3>Navrhovaná oznámení o copyrightu Creative Commons</h3>
+<h4>1. Navrhovaná pravidla pro časopisy, které nabízejí otevřený přístup</h4>
+Autoři, kteří publikují v tomto časopise, souhlasí s následujícími body:
+<ol type="a">
+	<li>Autoři si ponechávají copyright a garantují časopisu právo prvního publikování, přitom je práce zároveň licencována pod <a target="_new" href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution licencí</a>, která umožňuje ostatním sdílet tuto práci s tím, že přiznají jejího autora a první publikování v tomto časopisu.</li>
+	<li>Autoři mohou vstupovat do dalších samostatných smluvních dohod pro neexkluzivní šíření práce ve verzi, ve které byla publikována v časopise (například publikovat ji v knize), avšak s tím, že přiznají její první publikování v tomto časopisu.</li>
+	<li>Autorům je dovoleno a doporučováno, aby zpřístupnili svou práci online (například na svých webových stránkách) před a v průběhu redakčního řízení jejich příspěvku, protože takový postup může vést k produktivním výměnám názorů a také dřívější a vyšší citovanosti publikované práce (Viz <a target="_new" href="http://opcit.eprints.org/oacitation-biblio.html">Efekt otevřeného přístupu</a>).</li>
+</ol>
+
+<h4> Navrhovaná pravidla pro časopisy, které nabízejí zpožděný otevřený přístup</h4>
+Autoři, kteří publikují v tomto časopise, souhlasí s následujícími body:
+<ol type="a">
+	<li>Autoři si ponechávají copyright a garantují časopisu právo prvního publikování, práce je po [SPECIFIKUJTE PO JAK DLOUHÉM ČASOVÉM OBDOBÍ] od publikování zároveň licencována pod <a target="_new" href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution licencí</a>, která umožňuje ostatním sdílet tuto práci s tím, že přiznají jejího autora a první publikování v tomto časopisu.</li>
+	<li>Autoři mohou vstupovat do dalších samostatných smluvních dohod pro neexkluzivní šíření práce ve verzi, ve které byla publikována v časopise (například publikovat ji v knize), avšak s tím, že přiznají její první publikování v tomto časopisu.</li>
+	<li>Autorům je dovoleno a doporučováno, aby zpřístupnili svou práci online (například na svých webových stránkách) před a v průběhu redakčního řízení jejich příspěvku, protože takový postup může vést k produktivním výměnám názorů a také dřívější a vyšší citovanosti publikované práce (Viz <a target="_new" href="http://opcit.eprints.org/oacitation-biblio.html">Efekt otevřeného přístupu</a>).</li>
+</ol></target>
+    </trans-unit>
+    <trans-unit id="manager.setup.basicEditorialStepsDescription">
+      <source>Kroky: Fronta příspěvků &gt; Recenze příspěvku &gt; Editování příspěvku &gt; Obsah.<br /><br />
+Zvolte model, podle kterého bude s těmito aspekty procesu editace nakládáno. (Pro stanovení hlavního editora a editorů sekcí přejděte v části Správa časopisu na stránku Editoři.)</source>
+      <target>Kroky: Fronta příspěvků &gt; Recenze příspěvku &gt; Editování příspěvku &gt; Obsah.<br /><br />
+Zvolte model, podle kterého bude s těmito aspekty procesu editace nakládáno. (Pro stanovení hlavního editora a editorů sekcí přejděte v části Správa časopisu na stránku Editoři.)</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.referenceLinkingDescription">
+      <source><p>Aby mohli čtenáři nalézt online verze prací citovaných autory, jsou dostupné následující možnosti.</p>
+
+<ol>
+	<li><strong>Přidat čtenářský nástroj</strong><p>Manažer časopisu může do čtenářských nástrojů, které doprovází publikované položky, přidat funkci „Nalézt referenci“, což čtenářům umožní zkopírovat název reference a vyhledat tak v předvolených databázích citovanou práci.</p></li>
+	<li><strong>Vložit odkazy do referencí</strong><p>Typograf může přidat odkaz do referencí, které je možné vyhledat online. K tomu použije následující instrukce (lze je upravovat).</p></li>
+</ol></source>
+      <target><p>Aby mohli čtenáři nalézt online verze prací citovaných autory, jsou dostupné následující možnosti.</p>
+
+<ol>
+	<li><strong>Přidat čtenářský nástroj</strong><p>Manažer časopisu může do čtenářských nástrojů, které doprovází publikované položky, přidat funkci „Nalézt referenci“, což čtenářům umožní zkopírovat název reference a vyhledat tak v předvolených databázích citovanou práci.</p></li>
+	<li><strong>Vložit odkazy do referencí</strong><p>Typograf může přidat odkaz do referencí, které je možné vyhledat online. K tomu použije následující instrukce (lze je upravovat).</p></li>
+</ol></target>
+    </trans-unit>
+    <trans-unit id="manager.people.confirmDisable">
+      <source>Zablokovat tohoto uživatele? Tato akce zabrání uživateli, aby se přihlásil do systému.
+
+Volitelně můžete uživateli poskytnout zdůvodnění, proč byl jeho účet zablokován.</source>
+      <target>Zablokovat tohoto uživatele? Tato akce zabrání uživateli, aby se přihlásil do systému.
+
+Volitelně můžete uživateli poskytnout zdůvodnění, proč byl jeho účet zablokován.</target>
+    </trans-unit>
+    <trans-unit id="manager.people.noAdministrativeRights">
+      <source>Promiňte, nad tímto uživatelem nemáte administrátorská práva. Důvodem může být:
+		<ul>
+			<li>Uživatel je administrátorem stránek</li>
+			<li>Uživatel je aktivní v časopisech, které Vy nespravujete</li>
+		</ul>
+	Tento úkol musí provést administrátor stránek.
+	</source>
+      <target>Promiňte, nad tímto uživatelem nemáte administrátorská práva. Důvodem může být:
+		<ul>
+			<li>Uživatel je administrátorem stránek</li>
+			<li>Uživatel je aktivní v časopisech, které Vy nespravujete</li>
+		</ul>
+	Tento úkol musí provést administrátor stránek.
+	</target>
+    </trans-unit>
+    <trans-unit id="editor.submissionReview.notes">
+      <source>
+	<ol>
+	<li>Zvýrazněné položky indikují, že je vyžadována akce editora.</li>
+	<li>"Termín splnění" je vyplněn v okamžiku, kdy recenzent přijme žádost o recenzi; ukazuje počet týdnů do termínu splnění nebo (-) počet týdnů po termínu.</li>
+
+
+
+
+
+
+
+
+</ol></source>
+      <target>
+	<ol>
+	<li>Zvýrazněné položky indikují, že je vyžadována akce editora.</li>
+	<li>"Termín splnění" je vyplněn v okamžiku, kdy recenzent přijme žádost o recenzi; ukazuje počet týdnů do termínu splnění nebo (-) počet týdnů po termínu.</li>
+
+
+
+
+
+
+
+
+</ol></target>
+    </trans-unit>
+    <trans-unit id="editor.submissionEditing.notes">
+      <source>
+	<ol>
+	<li>Označené položky vyžadují zásah editora, jednotlivá označení znamenají:
+		<ul>
+			<li class="highlightCopyediting">Je požadován zásah ve fázi lektorování</li>
+			<li class="highlightLayoutEditing">Je požadován zásah ve fázi rozvržení textu</li>
+			<li class="higlightProofreading">Je požadován zásah ve fázi korektur textu</li>
+		</ul>
+	</li>
+</ol></source>
+      <target>
+	<ol>
+	<li>Označené položky vyžadují zásah editora, jednotlivá označení znamenají:
+		<ul>
+			<li class="highlightCopyediting">Je požadován zásah ve fázi lektorování</li>
+			<li class="highlightLayoutEditing">Je požadován zásah ve fázi rozvržení textu</li>
+			<li class="higlightProofreading">Je požadován zásah ve fázi korektur textu</li>
+		</ul>
+	</li>
+</ol></target>
+    </trans-unit>
+    <trans-unit id="sectionEditor.activeEditorialAssignments">
+      <source>Aktivní editorské úkoly</source>
+      <target>Aktivní editorské úkoly</target>
+    </trans-unit>
+    <trans-unit id="sectionEditor.completedEditorialAssignments">
+      <source>Dokončené editorské úkoly</source>
+      <target>Dokončené editorské úkoly</target>
+    </trans-unit>
+    <trans-unit id="sectionEditor.noneAssigned">
+      <source>Nebyly přiděleny žádné příspěvky.</source>
+      <target>Nebyly přiděleny žádné příspěvky.</target>
+    </trans-unit>
+    <trans-unit id="sectionEditor.copyedit.confirmRenotify">
+      <source>Opětovným informováním tohoto redaktora znovu zahájíte jeho úkoly. Určitě si přejete to udělat?</source>
+      <target>Opětovným informováním tohoto redaktora znovu zahájíte jeho úkoly. Určitě si přejete to udělat?</target>
+    </trans-unit>
+    <trans-unit id="sectionEditor.author.confirmRenotify">
+      <source>Opětovným informováním tohoto autora znovu zahájíte jeho úkoly. Určitě si přejete to udělat?</source>
+      <target>Opětovným informováním tohoto autora znovu zahájíte jeho úkoly. Určitě si přejete to udělat?</target>
+    </trans-unit>
+    <trans-unit id="sectionEditor.layout.confirmRenotify">
+      <source>Opětovným informováním tohoto typografa znovu zahájíte jeho úkoly. Určitě si přejete to udělat?</source>
+      <target>Opětovným informováním tohoto typografa znovu zahájíte jeho úkoly. Určitě si přejete to udělat?</target>
+    </trans-unit>
+    <trans-unit id="sectionEditor.proofreader.confirmRenotify">
+      <source>Opětovným informováním tohoto korektora znovu zahájíte jeho úkoly. Určitě si přejete to udělat?</source>
+      <target>Opětovným informováním tohoto korektora znovu zahájíte jeho úkoly. Určitě si přejete to udělat?</target>
+    </trans-unit>
+    <trans-unit id="sectionEditor.regrets.breadcrumb">
+      <source>Odmítnutí</source>
+      <target>Odmítnutí</target>
+    </trans-unit>
+    <trans-unit id="sectionEditor.regrets.title">
+      <source>#{$submissionId} Odmítnutí recenzenty, zrušení & předchozí kola</source>
+      <target>#{$submissionId} Odmítnutí recenzenty, zrušení & předchozí kola</target>
+    </trans-unit>
+    <trans-unit id="sectionEditor.regrets">
+      <source>Odmítnutí</source>
+      <target>Odmítnutí</target>
+    </trans-unit>
+    <trans-unit id="sectionEditor.regrets.link">
+      <source>Zobrazit odmítnutí, zrušení, předchozí kola</source>
+      <target>Zobrazit odmítnutí, zrušení, předchozí kola</target>
+    </trans-unit>
+    <trans-unit id="sectionEditor.regrets.reviewRound">
+      <source>Recenze, kolo {$round}</source>
+      <target>Recenze, kolo {$round}</target>
+    </trans-unit>
+    <trans-unit id="sectionEditor.regrets.decisionRound">
+      <source>Rozhodnutí editora, kolo {$round}</source>
+      <target>Rozhodnutí editora, kolo {$round}</target>
+    </trans-unit>
+    <trans-unit id="sectionEditor.regrets.regretsAndCancels">
+      <source>Odmítnutí recenzentem & zrušení</source>
+      <target>Odmítnutí recenzentem & zrušení</target>
+    </trans-unit>
+    <trans-unit id="sectionEditor.regrets.regret">
+      <source>Odmítnutí</source>
+      <target>Odmítnutí</target>
+    </trans-unit>
+    <trans-unit id="sectionEditor.regrets.result">
+      <source>Výsledek</source>
+      <target>Výsledek</target>
+    </trans-unit>
+    <trans-unit id="sectionEditor.review.enrollReviewer">
+      <source>Zapsat existujícího uživatele jako recenzenta</source>
+      <target>Zapsat existujícího uživatele jako recenzenta</target>
+    </trans-unit>
+    <trans-unit id="sectionEditor.review.createReviewer">
+      <source>Vytvořit nového recenzenta</source>
+      <target>Vytvořit nového recenzenta</target>
+    </trans-unit>
+    <trans-unit id="layoutEditor.activeEditorialAssignments">
+      <source>Aktivní editorské úkoly</source>
+      <target>Aktivní editorské úkoly</target>
+    </trans-unit>
+    <trans-unit id="layoutEditor.completedEditorialAssignments">
+      <source>Dokončené editorské úkoly</source>
+      <target>Dokončené editorské úkoly</target>
+    </trans-unit>
+    <trans-unit id="layoutEditor.noActiveAssignments">
+      <source>Žádné aktivní editorské úkoly.</source>
+      <target>Žádné aktivní editorské úkoly.</target>
+    </trans-unit>
+    <trans-unit id="layoutEditor.layoutEditingAssignments">
+      <source>Úkoly pro typografické úpravy</source>
+      <target>Úkoly pro typografické úpravy</target>
+    </trans-unit>
+    <trans-unit id="layoutEditor.galley.uploadGalleyFormat">
+      <source>Nahrát sazebnicový formát</source>
+      <target>Nahrát sazebnicový formát</target>
+    </trans-unit>
+    <trans-unit id="layoutEditor.galley.replaceGalley">
+      <source>Nahradit soubor</source>
+      <target>Nahradit soubor</target>
+    </trans-unit>
+    <trans-unit id="layoutEditor.galley.uploadSuppFile">
+      <source>Nahrát doplňkový soubor</source>
+      <target>Nahrát doplňkový soubor</target>
+    </trans-unit>
+    <trans-unit id="submission.layout.imageInvalid">
+      <source>Neplatný formát obrázku. Podporované formáty jsou .gif, .jpg a .png.</source>
+      <target>Neplatný formát obrázku. Podporované formáty jsou .gif, .jpg a .png.</target>
+    </trans-unit>
+    <trans-unit id="reviewer.pendingReviews">
+      <source>Články čekající na recenzi</source>
+      <target>Články čekající na recenzi</target>
+    </trans-unit>
+    <trans-unit id="reviewer.completedReviews">
+      <source>Hotové</source>
+      <target>Hotové</target>
+    </trans-unit>
+    <trans-unit id="reviewer.averageQuality">
+      <source>Hodnocení</source>
+      <target>Hodnocení</target>
+    </trans-unit>
+    <trans-unit id="reviewer.article.fileToBeReviewed">
+      <source>Soubor k recenzování</source>
+      <target>Soubor k recenzování</target>
+    </trans-unit>
+    <trans-unit id="reviewer.article.notifyTheEditor">
+      <source>Informovat editora</source>
+      <target>Informovat editora</target>
+    </trans-unit>
+    <trans-unit id="reviewer.article.canDoReview">
+      <source>Zpracuji recenzi</source>
+      <target>Zpracuji recenzi</target>
+    </trans-unit>
+    <trans-unit id="reviewer.article.cannotDoReview">
+      <source>Nemohu zpracovat recenzi</source>
+      <target>Nemohu zpracovat recenzi</target>
+    </trans-unit>
+    <trans-unit id="reviewer.article.restrictedFileAccess">
+      <source>Příspěvek bude zpřístupněn poté, co recenzent odsouhlasí, že zpracuje recenzi.</source>
+      <target>Příspěvek bude zpřístupněn poté, co recenzent odsouhlasí, že zpracuje recenzi.</target>
+    </trans-unit>
+    <trans-unit id="reviewer.article.submissionEditor">
+      <source>Editor příspěvku</source>
+      <target>Editor příspěvku</target>
+    </trans-unit>
+    <trans-unit id="reviewer.article.reviewerCommentsDescription">
+      <source>Zde napište nebo sem nakopírujte komentář recenzenta</source>
+      <target>Zde napište nebo sem nakopírujte komentář recenzenta</target>
+    </trans-unit>
+    <trans-unit id="reviewer.article.editorToEnter">
+      <source>Vyplní editor</source>
+      <target>Vyplní editor</target>
+    </trans-unit>
+    <trans-unit id="reviewer.article.sendReminder">
+      <source>Poslat připomínku</source>
+      <target>Poslat připomínku</target>
+    </trans-unit>
+    <trans-unit id="reviewer.article.automatic">
+      <source>(Automaticky)</source>
+      <target>(Automaticky)</target>
+    </trans-unit>
+    <trans-unit id="reviewer.article.recommendation">
+      <source>Doporučení</source>
+      <target>Doporučení</target>
+    </trans-unit>
+    <trans-unit id="reviewer.article.submitReview">
+      <source>Odeslat recenzi editorovi</source>
+      <target>Odeslat recenzi editorovi</target>
+    </trans-unit>
+    <trans-unit id="reviewer.article.reviewerComments">
+      <source>Komentáře</source>
+      <target>Komentáře</target>
+    </trans-unit>
+    <trans-unit id="reviewer.article.uploadedFile">
+      <source>Nahrané soubory</source>
+      <target>Nahrané soubory</target>
+    </trans-unit>
+    <trans-unit id="reviewer.article.reviewersAnnotatedVersion">
+      <source>Verze nahraná recenzentem</source>
+      <target>Verze nahraná recenzentem</target>
+    </trans-unit>
+    <trans-unit id="reviewer.article.reviewersAnnotatedVersionDescription">
+      <source>(Pokud chcete soubor pro editora opatřit poznámkami, uložte ho na Váš pevný disk a použijte Procházet/Nahrát.)</source>
+      <target>(Pokud chcete soubor pro editora opatřit poznámkami, uložte ho na Váš pevný disk a použijte Procházet/Nahrát.)</target>
+    </trans-unit>
+    <trans-unit id="reviewer.article.schedule.request">
+      <source>Požadavky editora</source>
+      <target>Požadavky editora</target>
+    </trans-unit>
+    <trans-unit id="reviewer.article.schedule.response">
+      <source>Vaše odpověď</source>
+      <target>Vaše odpověď</target>
+    </trans-unit>
+    <trans-unit id="reviewer.article.schedule.submitted">
+      <source>Recenze odeslána</source>
+      <target>Recenze odeslána</target>
+    </trans-unit>
+    <trans-unit id="reviewer.article.schedule.due">
+      <source>Termín pro recenzi</source>
+      <target>Termín pro recenzi</target>
+    </trans-unit>
+    <trans-unit id="reviewer.article.decision.accept">
+      <source>Přijmout příspěvek</source>
+      <target>Přijmout příspěvek</target>
+    </trans-unit>
+    <trans-unit id="reviewer.article.decision.pendingRevisions">
+      <source>Požadovat přepracování</source>
+      <target>Požadovat přepracování</target>
+    </trans-unit>
+    <trans-unit id="reviewer.article.decision.resubmitHere">
+      <source>Znovu předložit k recenzi</source>
+      <target>Znovu předložit k recenzi</target>
+    </trans-unit>
+    <trans-unit id="reviewer.article.decision.resubmitElsewhere">
+      <source>Podat někde jinde</source>
+      <target>Podat někde jinde</target>
+    </trans-unit>
+    <trans-unit id="reviewer.article.decision.decline">
+      <source>Odmítnout příspěvek</source>
+      <target>Odmítnout příspěvek</target>
+    </trans-unit>
+    <trans-unit id="reviewer.article.decision.seeComments">
+      <source>Viz komentáře</source>
+      <target>Viz komentáře</target>
+    </trans-unit>
+    <trans-unit id="reviewer.article.schedule">
+      <source>Plánování</source>
+      <target>Plánování</target>
+    </trans-unit>
+    <trans-unit id="reviewer.article.submissionToBeReviewed">
+      <source>Příspěvek k recenzování</source>
+      <target>Příspěvek k recenzování</target>
+    </trans-unit>
+    <trans-unit id="reviewer.article.reviewSchedule">
+      <source>Plán recenze</source>
+      <target>Plán recenze</target>
+    </trans-unit>
+    <trans-unit id="reviewer.article.reviewSteps">
+      <source>Kroky recenze</source>
+      <target>Kroky recenze</target>
+    </trans-unit>
+    <trans-unit id="reviewer.article.reviewerGuidelines">
+      <source>Instrukce pro recenzenta</source>
+      <target>Instrukce pro recenzenta</target>
+    </trans-unit>
+    <trans-unit id="reviewer.article.reviewGuidelinesDescription">
+      <source>Směrnice pro recenzenty poskytují recenzentům kritéria pro zhodnocení vhodnosti příspěvku pro publikaci v časopise a mohou zahrnovat zvláštní pokyny pro přípravu efektivní a užitečné recenze. Při vlastní recenzi mají recenzenti k dispozici dva rámečky pro volný text, jednak "pro autora a editora" a za druhé "pro editora". Případně může manažer časopisu vytvořit formulář pro recenze v sekci "Formuláře recenzí". Ve všech případech budou mít editoři možnost vložit recenzi do korespondence s autorem.</source>
+      <target>Směrnice pro recenzenty poskytují recenzentům kritéria pro zhodnocení vhodnosti příspěvku pro publikaci v časopise a mohou zahrnovat zvláštní pokyny pro přípravu efektivní a užitečné recenze. Při vlastní recenzi mají recenzenti k dispozici dva rámečky pro volný text, jednak "pro autora a editora" a za druhé "pro editora". Případně může manažer časopisu vytvořit formulář pro recenze v sekci "Formuláře recenzí". Ve všech případech budou mít editoři možnost vložit recenzi do korespondence s autorem.</target>
+    </trans-unit>
+    <trans-unit id="reviewer.article.notifyEditorA">
+      <source>Informovat editora příspěvku</source>
+      <target>Informovat editora příspěvku</target>
+    </trans-unit>
+    <trans-unit id="reviewer.article.notifyEditorB">
+      <source>zda zpracujete recenzi.</source>
+      <target>zda zpracujete recenzi.</target>
+    </trans-unit>
+    <trans-unit id="reviewer.article.consultGuidelines">
+      <source>Pokud budete zpracovávat recenzi, držte se níže uvedených Pokynů pro recenzenta.</source>
+      <target>Pokud budete zpracovávat recenzi, držte se níže uvedených Pokynů pro recenzenta.</target>
+    </trans-unit>
+    <trans-unit id="reviewer.article.downloadSubmission">
+      <source>Pro stažení a zpracování rezenze souborů spojených s tímto příspěvkem klikněte na názvy těchto souborů.</source>
+      <target>Pro stažení a zpracování rezenze souborů spojených s tímto příspěvkem klikněte na názvy těchto souborů.</target>
+    </trans-unit>
+    <trans-unit id="reviewer.article.enterCompetingInterests">
+      <source>Prohlašte, zda jste nebo nejste ve střetu zájmů ve vztahu k tomuto výzkumu (viz <a target="_new" class="action" href="{$competingInterestGuidelinesUrl}"> Pravidla upravující střet zájmů</a>).</source>
+      <target>Prohlašte, zda jste nebo nejste ve střetu zájmů ve vztahu k tomuto výzkumu (viz <a target="_new" class="action" href="{$competingInterestGuidelinesUrl}"> Pravidla upravující střet zájmů</a>).</target>
+    </trans-unit>
+    <trans-unit id="reviewer.competingInterests">
+      <source>Střet zájmů</source>
+      <target>Střet zájmů</target>
+    </trans-unit>
+    <trans-unit id="reviewer.article.enterReviewA">
+      <source>Pro vložení (nebo nakopírování) Vaší recenze tohoto příspěvku klikněte na ikonu.</source>
+      <target>Pro vložení (nebo nakopírování) Vaší recenze tohoto příspěvku klikněte na ikonu.</target>
+    </trans-unit>
+    <trans-unit id="reviewer.article.uploadFile">
+      <source>Navíc můžete nahrát soubory ke konzultaci pro editora a/nebo autora.</source>
+      <target>Navíc můžete nahrát soubory ke konzultaci pro editora a/nebo autora.</target>
+    </trans-unit>
+    <trans-unit id="reviewer.article.selectRecommendation">
+      <source>Pro dovršení celého procesu vyberte doporučení a odešlete recenzi. Než vyberete doporučení, musíte vložit recenzi nebo nahrát soubor.</source>
+      <target>Pro dovršení celého procesu vyberte doporučení a odešlete recenzi. Než vyberete doporučení, musíte vložit recenzi nebo nahrát soubor.</target>
+    </trans-unit>
+    <trans-unit id="reviewer.article.mustSelectDecision">
+      <source>Nebylo vybráno žádné doporučení. Před odesláním musíte vybrat doporučení.</source>
+      <target>Nebylo vybráno žádné doporučení. Před odesláním musíte vybrat doporučení.</target>
+    </trans-unit>
+    <trans-unit id="reviewer.article.confirmDecision">
+      <source>Jakmile zaznamenáte rozhodnutí, nebudete již moci v této recenzi provést žádné změny. Jste si jistý, že chcete pokračovat?</source>
+      <target>Jakmile zaznamenáte rozhodnutí, nebudete již moci v této recenzi provést žádné změny. Jste si jistý, že chcete pokračovat?</target>
+    </trans-unit>
+    <trans-unit id="copyeditor.article.fileToCopyedit">
+      <source>Soubor pro redaktora</source>
+      <target>Soubor pro redaktora</target>
+    </trans-unit>
+    <trans-unit id="copyeditor.article.copyeditorFile">
+      <source>Soubor od redaktora</source>
+      <target>Soubor od redaktora</target>
+    </trans-unit>
+    <trans-unit id="copyeditor.article.copyeditorFinalFile">
+      <source>Soubor od redaktora</source>
+      <target>Soubor od redaktora</target>
+    </trans-unit>
+    <trans-unit id="proofreader.noProofreadingAssignments">
+      <source>Žádné úkoly pro korektora</source>
+      <target>Žádné úkoly pro korektora</target>
+    </trans-unit>
+    <trans-unit id="author.submit.uploadInstructions">
+      <source>
+<p>Pro nahrání manuskriptu do tohoto časopisu dokončete následující kroky.</p>
+<ol>
+<li>Na této stránce klikněte na Prohlížet (nebo Vybrat soubor), čímž otevřete okno sloužící pro nalezení souboru na harddisku Vašeho počítače.</li>
+<li>Najděte soubor, který chcete odeslat a označte ho.</li>
+<li>V okně pro výběr souboru klikněte na Otevřít; tím dojde k umístění jména souboru na tuto stránku.</li>
+<li>Na této stránce klikněte na Nahrát; tím se soubor z Vašeho počítače nahraje do časopisu a bude přejmenován v souladu s pravidly časopisu.</li>
+<li>Jakmile byl příspěvek nahrán, klikněte na Uložit a pokračovat dole na této stránce.</li>
+</ol></source>
+      <target>
+<p>Pro nahrání manuskriptu do tohoto časopisu dokončete následující kroky.</p>
+<ol>
+<li>Na této stránce klikněte na Prohlížet (nebo Vybrat soubor), čímž otevřete okno sloužící pro nalezení souboru na harddisku Vašeho počítače.</li>
+<li>Najděte soubor, který chcete odeslat a označte ho.</li>
+<li>V okně pro výběr souboru klikněte na Otevřít; tím dojde k umístění jména souboru na tuto stránku.</li>
+<li>Na této stránce klikněte na Nahrát; tím se soubor z Vašeho počítače nahraje do časopisu a bude přejmenován v souladu s pravidly časopisu.</li>
+<li>Jakmile byl příspěvek nahrán, klikněte na Uložit a pokračovat dole na této stránce.</li>
+</ol></target>
+    </trans-unit>
+    <trans-unit id="submission.review.mustUploadFileForReview">
+      <source>E-mail se žádostí nemůže být odeslán dokud není vložena verze pro recenzi.</source>
+      <target>E-mail se žádostí nemůže být odeslán dokud není vložena verze pro recenzi.</target>
+    </trans-unit>
+    <trans-unit id="submission.copyedit.mustUploadFileForInitialCopyedit">
+      <source>E-mail se žádostí nemůže být odeslán dokud není vybrán soubor pro redigování v Rozhodnutí editora na stránce Recenze.</source>
+      <target>E-mail se žádostí nemůže být odeslán dokud není vybrán soubor pro redigování v Rozhodnutí editora na stránce Recenze.</target>
+    </trans-unit>
+    <trans-unit id="submission.copyedit.mustUploadFileForCopyedit">
+      <source>E-mail se žádostí nemůže být odeslán dokud není nahrán soubor pro redigování.</source>
+      <target>E-mail se žádostí nemůže být odeslán dokud není nahrán soubor pro redigování.</target>
+    </trans-unit>
+    <trans-unit id="submission.copyedit.initialCopyedit">
+      <source>Úvodní verze pro redigování</source>
+      <target>Úvodní verze pro redigování</target>
+    </trans-unit>
+    <trans-unit id="submission.copyedit.editorsCopyedit">
+      <source>Redigovaná verze editora</source>
+      <target>Redigovaná verze editora</target>
+    </trans-unit>
+    <trans-unit id="submission.copyedit.editorAuthorReview">
+      <source>Redigovaná verze autora</source>
+      <target>Redigovaná verze autora</target>
+    </trans-unit>
+    <trans-unit id="submission.copyedit.finalCopyedit">
+      <source>Finální redigovaná verze</source>
+      <target>Finální redigovaná verze</target>
+    </trans-unit>
+    <trans-unit id="submission.copyedit.copyeditVersion">
+      <source>Redaktorova verze</source>
+      <target>Redaktorova verze</target>
+    </trans-unit>
+    <trans-unit id="submission.copyedit.selectCopyeditor">
+      <source>Přidělit redaktora</source>
+      <target>Přidělit redaktora</target>
+    </trans-unit>
+    <trans-unit id="submission.copyedit.useFile">
+      <source>Použít soubor</source>
+      <target>Použít soubor</target>
+    </trans-unit>
+    <trans-unit id="submission.copyedit.copyeditComments">
+      <source>Komentář k redigování</source>
+      <target>Komentář k redigování</target>
+    </trans-unit>
+    <trans-unit id="submission.copyedit.instructions">
+      <source>Instrukce pro redigování</source>
+      <target>Instrukce pro redigování</target>
+    </trans-unit>
+    <trans-unit id="submission.layout.noLayoutFile">
+      <source>Žádný (Nahrajte finální redigovanou verzi jako verzi typografa před tím, než odešlete žádost)</source>
+      <target>Žádný (Nahrajte finální redigovanou verzi jako verzi typografa před tím, než odešlete žádost)</target>
+    </trans-unit>
+    <trans-unit id="submission.layout.publicGalleyId">
+      <source>Veřejný identifikátor sazebnice</source>
+      <target>Veřejný identifikátor sazebnice</target>
+    </trans-unit>
+    <trans-unit id="submission.layout.galleyPublicIdentificationExists">
+      <source>Identifikace veřejné sazebnice již existuje.</source>
+      <target>Identifikace veřejné sazebnice již existuje.</target>
+    </trans-unit>
+    <trans-unit id="submission.layout.assignLayoutEditor">
+      <source>Přidělit typografa</source>
+      <target>Přidělit typografa</target>
+    </trans-unit>
+    <trans-unit id="submission.layout.replaceLayoutEditor">
+      <source>Nahradit typografa</source>
+      <target>Nahradit typografa</target>
+    </trans-unit>
+    <trans-unit id="submission.layout.layoutComments">
+      <source>Komentář typografa</source>
+      <target>Komentář typografa</target>
+    </trans-unit>
+    <trans-unit id="submission.layout.instructions">
+      <source>Instrukce pro typografické úpravy</source>
+      <target>Instrukce pro typografické úpravy</target>
+    </trans-unit>
+    <trans-unit id="submission.layout.referenceLinking">
+      <source>Provázání referencí</source>
+      <target>Provázání referencí</target>
+    </trans-unit>
+    <trans-unit id="submission.proofreadingComments">
+      <source>Komentář korektora</source>
+      <target>Komentář korektora</target>
+    </trans-unit>
+    <trans-unit id="submission.proofread.corrections">
+      <source>Korekční opravy</source>
+      <target>Korekční opravy</target>
+    </trans-unit>
+    <trans-unit id="submission.proofread.instructions">
+      <source>Instrukce pro korektury</source>
+      <target>Instrukce pro korektury</target>
+    </trans-unit>
+    <trans-unit id="submission.logType.article">
+      <source>Článek</source>
+      <target>Článek</target>
+    </trans-unit>
+    <trans-unit id="submission.logType.author">
+      <source>Autor</source>
+      <target>Autor</target>
+    </trans-unit>
+    <trans-unit id="submission.logType.editor">
+      <source>Editor</source>
+      <target>Editor</target>
+    </trans-unit>
+    <trans-unit id="submission.logType.review">
+      <source>Recenze</source>
+      <target>Recenze</target>
+    </trans-unit>
+    <trans-unit id="submission.logType.copyedit">
+      <source>Redigování</source>
+      <target>Redigování</target>
+    </trans-unit>
+    <trans-unit id="submission.logType.layout">
+      <source>Typografie</source>
+      <target>Typografie</target>
+    </trans-unit>
+    <trans-unit id="submission.logType.proofread">
+      <source>Korektury</source>
+      <target>Korektury</target>
+    </trans-unit>
+    <trans-unit id="submission.comments.editorAuthorCorrespondence">
+      <source>Korespondence Editor/Autor</source>
+      <target>Korespondence Editor/Autor</target>
+    </trans-unit>
+    <trans-unit id="submission.comments.copyeditComments">
+      <source>Komentáře pro redigování</source>
+      <target>Komentáře pro redigování</target>
+    </trans-unit>
+    <trans-unit id="submission.comments.viewableDescription">
+      <source>Tyto komentáře mohou být sdíleny s autorem.<br />
+(Po uložení je možné přidat další komentáře.)</source>
+      <target>Tyto komentáře mohou být sdíleny s autorem.<br />
+(Po uložení je možné přidat další komentáře.)</target>
+    </trans-unit>
+    <trans-unit id="submission.comments.canShareWithAuthor">
+      <source>Pro autora a editora</source>
+      <target>Pro autora a editora</target>
+    </trans-unit>
+    <trans-unit id="submission.comments.cannotShareWithAuthor">
+      <source>Pro editora</source>
+      <target>Pro editora</target>
+    </trans-unit>
+    <trans-unit id="submission.comments.blindCcReviewers">
+      <source>Po odeslání poskytnout editovatelnou BCC (skrytou) kopii pro zaslání recenzentům.</source>
+      <target>Po odeslání poskytnout editovatelnou BCC (skrytou) kopii pro zaslání recenzentům.</target>
+    </trans-unit>
+    <trans-unit id="submission.comments.forAuthorEditor">
+      <source>Pro autora a editora</source>
+      <target>Pro autora a editora</target>
+    </trans-unit>
+    <trans-unit id="submission.comments.forEditor">
+      <source>Pro editora</source>
+      <target>Pro editora</target>
+    </trans-unit>
+    <trans-unit id="submission.comments.saveAndEmailAuthor">
+      <source>Uložit a zaslat e-mailem autorovi</source>
+      <target>Uložit a zaslat e-mailem autorovi</target>
+    </trans-unit>
+    <trans-unit id="submission.comments.saveAndEmailEditor">
+      <source>Uložit a zaslat e-mailem editorovi</source>
+      <target>Uložit a zaslat e-mailem editorovi</target>
+    </trans-unit>
+    <trans-unit id="user.register.noJournals">
+      <source>Na této stránce nejsou žádné časopisy, do kterých byste se mohl zaregistrovat.</source>
+      <target>Na této stránce nejsou žádné časopisy, do kterých byste se mohl zaregistrovat.</target>
+    </trans-unit>
+    <trans-unit id="user.register.privacyStatement">
+      <source>Prohlášení o soukromí</source>
+      <target>Prohlášení o soukromí</target>
+    </trans-unit>
+    <trans-unit id="user.register.registrationDisabled">
+      <source>Tento časopis v současnosti nepřijímá žádné registrace uživatelů.</source>
+      <target>Tento časopis v současnosti nepřijímá žádné registrace uživatelů.</target>
+    </trans-unit>
+    <trans-unit id="user.register.form.passwordLengthTooShort">
+      <source>Heslo, které jste vložil není dostatečně dlouhé.</source>
+      <target>Heslo, které jste vložil není dostatečně dlouhé.</target>
+    </trans-unit>
+    <trans-unit id="user.register.readerDescription">
+      <source>Informován e-mailem při vydání čísla časopisu.</source>
+      <target>Informován e-mailem při vydání čísla časopisu.</target>
+    </trans-unit>
+    <trans-unit id="user.register.openAccessNotificationDescription">
+      <source>Informován e-mailem v okamžiku udělení otevřeného přístupu číslu časopisu.</source>
+      <target>Informován e-mailem v okamžiku udělení otevřeného přístupu číslu časopisu.</target>
+    </trans-unit>
+    <trans-unit id="user.register.authorDescription">
+      <source>Schopen přispívat do časopisu.</source>
+      <target>Schopen přispívat do časopisu.</target>
+    </trans-unit>
+    <trans-unit id="user.register.reviewerDescriptionNoInterests">
+      <source>Ochotný zpracovávat recenze k příspěvkům do časopisu.</source>
+      <target>Ochotný zpracovávat recenze k příspěvkům do časopisu.</target>
+    </trans-unit>
+    <trans-unit id="user.register.reviewerDescription">
+      <source>Ochotný zpracovávat recenze k příspěvkům do časopisu. Určit oblast zájmu (významné oblasti a výzkumné metody).</source>
+      <target>Ochotný zpracovávat recenze k příspěvkům do časopisu. Určit oblast zájmu (významné oblasti a výzkumné metody).</target>
+    </trans-unit>
+    <trans-unit id="user.register.reviewerInterests">
+      <source>Napište vaše oblasti zájmu pro recenze (předměty zájmu a výzkumné metody):</source>
+      <target>Napište vaše oblasti zájmu pro recenze (předměty zájmu a výzkumné metody):</target>
+    </trans-unit>
+    <trans-unit id="user.subscriptions.mySubscriptions">
+      <source>Mé předplatné</source>
+      <target>Mé předplatné</target>
+    </trans-unit>
+    <trans-unit id="user.subscriptions.subscriptionStatus">
+      <source>Stav předplatného</source>
+      <target>Stav předplatného</target>
+    </trans-unit>
+    <trans-unit id="user.subscriptions.statusInformation">
+      <source>Níže jsou zobrazeny aktivní a vypršené předplatné spolu s dnem vypršení. Navíc, následující informace o stavu může být vložena ke každému předplatnému.</source>
+      <target>Níže jsou zobrazeny aktivní a vypršené předplatné spolu s dnem vypršení. Navíc, následující informace o stavu může být vložena ke každému předplatnému.</target>
+    </trans-unit>
+    <trans-unit id="user.subscriptions.status">
+      <source>Stav</source>
+      <target>Stav</target>
+    </trans-unit>
+    <trans-unit id="user.subscriptions.statusDescription">
+      <source>Popis</source>
+      <target>Popis</target>
+    </trans-unit>
+    <trans-unit id="user.subscriptions.status.needsInformationDescription">
+      <source>Je třeba zadat další informace před aktivováním předplatného</source>
+      <target>Je třeba zadat další informace před aktivováním předplatného</target>
+    </trans-unit>
+    <trans-unit id="user.subscriptions.status.needsApprovalDescription">
+      <source>Je třeba zkontrolovat předplatné před jeho aktivací</source>
+      <target>Je třeba zkontrolovat předplatné před jeho aktivací</target>
+    </trans-unit>
+    <trans-unit id="user.subscriptions.status.awaitingManualPaymentDescription">
+      <source>Manuální platba byla započata, ale doposud nebyla obdržena</source>
+      <target>Manuální platba byla započata, ale doposud nebyla obdržena</target>
+    </trans-unit>
+    <trans-unit id="user.subscriptions.status.awaitingOnlinePaymentDescription">
+      <source>On-line platba byla započata, ale buď byla zrušena, nebo nebyla dokončena</source>
+      <target>On-line platba byla započata, ale buď byla zrušena, nebo nebyla dokončena</target>
+    </trans-unit>
+    <trans-unit id="user.subscriptions.individualSubscriptions">
+      <source>Individuální předplatné</source>
+      <target>Individuální předplatné</target>
+    </trans-unit>
+    <trans-unit id="user.subscriptions.institutionalSubscriptions">
+      <source>Institucionální předplatné</source>
+      <target>Institucionální předplatné</target>
+    </trans-unit>
+    <trans-unit id="user.subscriptions.renew">
+      <source>Obnovit</source>
+      <target>Obnovit</target>
+    </trans-unit>
+    <trans-unit id="user.subscriptions.purchase">
+      <source>Koupit</source>
+      <target>Koupit</target>
+    </trans-unit>
+    <trans-unit id="user.subscriptions.purchaseNewSubscription">
+      <source>Zakoupit nové předplatné</source>
+      <target>Zakoupit nové předplatné</target>
+    </trans-unit>
+    <trans-unit id="user.subscriptions.purchaseIndividualSubscription">
+      <source>Zakoupit individuální předplatné</source>
+      <target>Zakoupit individuální předplatné</target>
+    </trans-unit>
+    <trans-unit id="user.subscriptions.purchaseInstitutionalSubscription">
+      <source>Zakoupit institucionální předplatné</source>
+      <target>Zakoupit institucionální předplatné</target>
+    </trans-unit>
+    <trans-unit id="user.subscriptions.expires">
+      <source>Vyprší dne {$date}</source>
+      <target>Vyprší dne {$date}</target>
+    </trans-unit>
+    <trans-unit id="user.subscriptions.expired">
+      <source>Vypršelo dne {$date}</source>
+      <target>Vypršelo dne {$date}</target>
+    </trans-unit>
+    <trans-unit id="user.subscriptions.viewSubscriptionTypes">
+      <source>Zobrazit dostupné typy předplatného</source>
+      <target>Zobrazit dostupné typy předplatného</target>
+    </trans-unit>
+    <trans-unit id="user.subscriptions.form.typeId">
+      <source>Typy předplatného</source>
+      <target>Typy předplatného</target>
+    </trans-unit>
+    <trans-unit id="user.subscriptions.form.membership">
+      <source>Členství</source>
+      <target>Členství</target>
+    </trans-unit>
+    <trans-unit id="user.subscriptions.form.membershipRequired">
+      <source>Zvolený typ předplatného vyžaduje informace o členství.</source>
+      <target>Zvolený typ předplatného vyžaduje informace o členství.</target>
+    </trans-unit>
+    <trans-unit id="user.subscriptions.form.typeIdValid">
+      <source>Zvolte, prosím, platný typ předplatného.</source>
+      <target>Zvolte, prosím, platný typ předplatného.</target>
+    </trans-unit>
+    <trans-unit id="user.subscriptions.form.subscriptionExists">
+      <source>Tento uživatelský účet má již individuální předplatné.</source>
+      <target>Tento uživatelský účet má již individuální předplatné.</target>
+    </trans-unit>
+    <trans-unit id="user.subscriptions.form.membershipInstructions">
+      <source>Je třeba zadat informace o členství pro vybraný typ předplatného.</source>
+      <target>Je třeba zadat informace o členství pro vybraný typ předplatného.</target>
+    </trans-unit>
+    <trans-unit id="user.subscriptions.form.institutionName">
+      <source>Jméno organizace</source>
+      <target>Jméno organizace</target>
+    </trans-unit>
+    <trans-unit id="user.subscriptions.form.institutionNameRequired">
+      <source>Je vyžadováno zadání jména organizace.</source>
+      <target>Je vyžadováno zadání jména organizace.</target>
+    </trans-unit>
+    <trans-unit id="user.subscriptions.form.institutionMailingAddress">
+      <source>Poštovní adresa</source>
+      <target>Poštovní adresa</target>
+    </trans-unit>
+    <trans-unit id="user.subscriptions.form.domain">
+      <source>Doména</source>
+      <target>Doména</target>
+    </trans-unit>
+    <trans-unit id="user.subscriptions.form.domainInstructions">
+      <source>Pokud zde vložíte jméno domény, rozsah IP je volitelný.<br />Platné hodnoty jsou jména domén (např. lib.sfu.ca).</source>
+      <target>Pokud zde vložíte jméno domény, rozsah IP je volitelný.<br />Platné hodnoty jsou jména domén (např. lib.sfu.ca).</target>
+    </trans-unit>
+    <trans-unit id="user.subscriptions.form.domainIPRangeRequired">
+      <source>Zvolený typ předplatného vyžaduje jméno domény a/nebo rozsah IP pro ověření předplatného.</source>
+      <target>Zvolený typ předplatného vyžaduje jméno domény a/nebo rozsah IP pro ověření předplatného.</target>
+    </trans-unit>
+    <trans-unit id="user.subscriptions.form.domainValid">
+      <source>Vložte, prosím, platný název domény.</source>
+      <target>Vložte, prosím, platný název domény.</target>
+    </trans-unit>
+    <trans-unit id="user.subscriptions.form.ipRange">
+      <source>Rozsah IP adres</source>
+      <target>Rozsah IP adres</target>
+    </trans-unit>
+    <trans-unit id="user.subscriptions.form.ipRangeItem">
+      <source>&#8226;</source>
+      <target>&#8226;</target>
+    </trans-unit>
+    <trans-unit id="user.subscriptions.form.ipRangeInstructions">
+      <source>Pokud je zde vložen rozsah IP adres, je jméno domény volitelné.<br />Platné hodnoty zahrnují jednotlivou IP adresu (např. 142.58.103.1), IP rozsah (např. 142.58.103.1 - 142.58.103.4), IP rozsah vyjádřený divokou kartou '*' (např. 142.58.*.*), a IP rozsah s CIDR (např. 142.58.100.0/24).</source>
+      <target>Pokud je zde vložen rozsah IP adres, je jméno domény volitelné.<br />Platné hodnoty zahrnují jednotlivou IP adresu (např. 142.58.103.1), IP rozsah (např. 142.58.103.1 - 142.58.103.4), IP rozsah vyjádřený divokou kartou '*' (např. 142.58.*.*), a IP rozsah s CIDR (např. 142.58.100.0/24).</target>
+    </trans-unit>
+    <trans-unit id="user.subscriptions.form.ipRangeValid">
+      <source>Vložte, prosím, platný rozsah IP adres.</source>
+      <target>Vložte, prosím, platný rozsah IP adres.</target>
+    </trans-unit>
+    <trans-unit id="user.subscriptions.form.deleteIpRange">
+      <source>Smazat</source>
+      <target>Smazat</target>
+    </trans-unit>
+    <trans-unit id="user.subscriptions.form.addIpRange">
+      <source>Přidat</source>
+      <target>Přidat</target>
+    </trans-unit>
+    <trans-unit id="search.browseAuthorIndex">
+      <source>Procházet index autorů</source>
+      <target>Procházet index autorů</target>
+    </trans-unit>
+    <trans-unit id="search.searchFor">
+      <source>Vyhledávat v článcích</source>
+      <target>Vyhledávat v článcích</target>
+    </trans-unit>
+    <trans-unit id="search.withinJournal">
+      <source>V rámci</source>
+      <target>V rámci</target>
+    </trans-unit>
+    <trans-unit id="search.allJournals">
+      <source>Všechny časopisy</source>
+      <target>Všechny časopisy</target>
+    </trans-unit>
+    <trans-unit id="search.authorIndex">
+      <source>Procházet index autorů</source>
+      <target>Procházet index autorů</target>
+    </trans-unit>
+    <trans-unit id="search.authorDetails">
+      <source>Detaily autora</source>
+      <target>Detaily autora</target>
+    </trans-unit>
+    <trans-unit id="search.syntaxInstructions">
+      <source>Tipy pro vyhledávání: <ul>
+<li>Nezáleží na velikosti písmen vyhledávaného výrazu</li>
+<li>Běžná slova jsou ignorována</li>
+<li>Ve výchozím nastavení jsou vraceny pouze články obsahující <em>všechny</em> termíny dotazu (tzn. <em>AND</em> je aplikováno)</li>
+<li>Kombinujte více slov pomocí <em>OR</em> pro nalezení článků obsahujících některý z termínů; např. <em>vzdělávání OR výzkum</em></li>
+<li>Pro vytvoření komplexnějších dotazů použijte závorky; např. <em>archiv ((časopis OR konference) NOT disertace)</em></li>
+<li>Vyhledejte přesnou frázi vložením hledaného výrazu do uvozovek; např. <em>"open access publikování"</em></li>
+<li>Vylučte slovo tím, že před něj vložíte <strong>-</strong> nebo <em>NOT</em>; např. <em>online -politika</em> nebo <em>online NOT politika</em></li>
+<li>Použijte <strong>*</strong> v termínu jako divokou kartu pro nalezení jakékoliv sekvence znaků; např. <em>soci* etika</em> by vrátilo dokumenty obsahující "sociologický" nebo "sociální"</li>
+</ul></source>
+      <target>Tipy pro vyhledávání: <ul>
+<li>Nezáleží na velikosti písmen vyhledávaného výrazu</li>
+<li>Běžná slova jsou ignorována</li>
+<li>Ve výchozím nastavení jsou vraceny pouze články obsahující <em>všechny</em> termíny dotazu (tzn. <em>AND</em> je aplikováno)</li>
+<li>Kombinujte více slov pomocí <em>OR</em> pro nalezení článků obsahujících některý z termínů; např. <em>vzdělávání OR výzkum</em></li>
+<li>Pro vytvoření komplexnějších dotazů použijte závorky; např. <em>archiv ((časopis OR konference) NOT disertace)</em></li>
+<li>Vyhledejte přesnou frázi vložením hledaného výrazu do uvozovek; např. <em>"open access publikování"</em></li>
+<li>Vylučte slovo tím, že před něj vložíte <strong>-</strong> nebo <em>NOT</em>; např. <em>online -politika</em> nebo <em>online NOT politika</em></li>
+<li>Použijte <strong>*</strong> v termínu jako divokou kartu pro nalezení jakékoliv sekvence znaků; např. <em>soci* etika</em> by vrátilo dokumenty obsahující "sociologický" nebo "sociální"</li>
+</ul></target>
+    </trans-unit>
+    <trans-unit id="article.pdf.title">
+      <source>Portable Document Format (PDF)</source>
+      <target>Portable Document Format (PDF)</target>
+    </trans-unit>
+    <trans-unit id="article.nonpdf.title">
+      <source>Stažení článku</source>
+      <target>Stažení článku</target>
+    </trans-unit>
+    <trans-unit id="article.nonpdf.note">
+      <source>Stahování vybraného souboru by mělo začít automaticky. Pokud nezačne, klikněte na odkaz níže. Vězte, že soubor může vyžadovat pro své zobrazení speciální prohlížeč nebo plugin.<br /><br />Pokud nezačalo stahování automaticky, <a href="{$url}">klikněte zde</a>.</source>
+      <target>Stahování vybraného souboru by mělo začít automaticky. Pokud nezačne, klikněte na odkaz níže. Vězte, že soubor může vyžadovat pro své zobrazení speciální prohlížeč nebo plugin.<br /><br />Pokud nezačalo stahování automaticky, <a href="{$url}">klikněte zde</a>.</target>
+    </trans-unit>
+    <trans-unit id="site.journalsHosted">
+      <source>Časopisy hostované na této stránce</source>
+      <target>Časopisy hostované na této stránce</target>
+    </trans-unit>
+    <trans-unit id="site.journalView">
+      <source>Zobrazit časopis</source>
+      <target>Zobrazit časopis</target>
+    </trans-unit>
+    <trans-unit id="site.journalRegister">
+      <source>Registrovat</source>
+      <target>Registrovat</target>
+    </trans-unit>
+    <trans-unit id="site.journalCurrent">
+      <source>Aktuální číslo</source>
+      <target>Aktuální číslo</target>
+    </trans-unit>
+    <trans-unit id="site.noJournals">
+      <source>Nejsou k dispozici žádné časopisy.</source>
+      <target>Nejsou k dispozici žádné časopisy.</target>
+    </trans-unit>
+    <trans-unit id="current.current">
+      <source>Aktuální</source>
+      <target>Aktuální</target>
+    </trans-unit>
+    <trans-unit id="current.noCurrentIssue">
+      <source>Žádné aktuální číslo</source>
+      <target>Žádné aktuální číslo</target>
+    </trans-unit>
+    <trans-unit id="current.noCurrentIssueDesc">
+      <source>Tento časopis dosud nepublikoval žádná čísla.</source>
+      <target>Tento časopis dosud nepublikoval žádná čísla.</target>
+    </trans-unit>
+    <trans-unit id="archive.archives">
+      <source>Archivy</source>
+      <target>Archivy</target>
+    </trans-unit>
+    <trans-unit id="archive.browse">
+      <source>Procházet starší čísla</source>
+      <target>Procházet starší čísla</target>
+    </trans-unit>
+    <trans-unit id="archive.issueUnavailable">
+      <source>Číslo nedostupné</source>
+      <target>Číslo nedostupné</target>
+    </trans-unit>
+    <trans-unit id="about.statistics">
+      <source>Statistiky</source>
+      <target>Statistiky</target>
+    </trans-unit>
+    <trans-unit id="about.history">
+      <source>Historie časopisu</source>
+      <target>Historie časopisu</target>
+    </trans-unit>
+    <trans-unit id="about.editorialTeam">
+      <source>Editorský tým</source>
+      <target>Editorský tým</target>
+    </trans-unit>
+    <trans-unit id="about.editorialTeam.biography">
+      <source>Biografie</source>
+      <target>Biografie</target>
+    </trans-unit>
+    <trans-unit id="about.editorialPolicies">
+      <source>Ediční pravidla</source>
+      <target>Ediční pravidla</target>
+    </trans-unit>
+    <trans-unit id="about.focusAndScope">
+      <source>Zaměření a záběr</source>
+      <target>Zaměření a záběr</target>
+    </trans-unit>
+    <trans-unit id="about.sectionPolicies">
+      <source>Pravidla sekcí</source>
+      <target>Pravidla sekcí</target>
+    </trans-unit>
+    <trans-unit id="about.submissions">
+      <source>Příspěvky</source>
+      <target>Příspěvky</target>
+    </trans-unit>
+    <trans-unit id="about.onlineSubmissions.login">
+      <source>Jít na přihlášení</source>
+      <target>Jít na přihlášení</target>
+    </trans-unit>
+    <trans-unit id="about.onlineSubmissions.registrationRequired">
+      <source>K podání příspěvku je třeba {$login} nebo {$register}</source>
+      <target>K podání příspěvku je třeba {$login} nebo {$register}</target>
+    </trans-unit>
+    <trans-unit id="about.authorGuidelines">
+      <source>Pokyny pro autory</source>
+      <target>Pokyny pro autory</target>
+    </trans-unit>
+    <trans-unit id="about.submissionPreparationChecklist">
+      <source>Kontrolní seznam pro přípravu příspěvku</source>
+      <target>Kontrolní seznam pro přípravu příspěvku</target>
+    </trans-unit>
+    <trans-unit id="about.submissionPreparationChecklist.description">
+      <source>Jako součást procesu odesílání příspěvku je požadováno, aby autoři zaškrnutím potvrdili, že jejich příspěvek je v souladu se všemi následujícími položkami. Příspěvky, které nebudou v souladu s těmito pravidly, mohou být autorům vráceny.</source>
+      <target>Jako součást procesu odesílání příspěvku je požadováno, aby autoři zaškrnutím potvrdili, že jejich příspěvek je v souladu se všemi následujícími položkami. Příspěvky, které nebudou v souladu s těmito pravidly, mohou být autorům vráceny.</target>
+    </trans-unit>
+    <trans-unit id="about.copyrightNotice">
+      <source>Oznámení o copyrightu</source>
+      <target>Oznámení o copyrightu</target>
+    </trans-unit>
+    <trans-unit id="about.privacyStatement">
+      <source>Prohlášení o soukromí</source>
+      <target>Prohlášení o soukromí</target>
+    </trans-unit>
+    <trans-unit id="about.authorFees">
+      <source>Autorské poplatky</source>
+      <target>Autorské poplatky</target>
+    </trans-unit>
+    <trans-unit id="about.authorFeesMessage">
+      <source>Tento časopis si účtuje následující autorské poplatky.</source>
+      <target>Tento časopis si účtuje následující autorské poplatky.</target>
+    </trans-unit>
+    <trans-unit id="about.peerReviewProcess">
+      <source>Recenzní řízení</source>
+      <target>Recenzní řízení</target>
+    </trans-unit>
+    <trans-unit id="about.publicationFrequency">
+      <source>Frekvence publikování</source>
+      <target>Frekvence publikování</target>
+    </trans-unit>
+    <trans-unit id="about.openAccessPolicy">
+      <source>Pravidla otevřeného přístupu</source>
+      <target>Pravidla otevřeného přístupu</target>
+    </trans-unit>
+    <trans-unit id="about.delayedOpenAccess">
+      <source>Zpožděný otevřený přístup</source>
+      <target>Zpožděný otevřený přístup</target>
+    </trans-unit>
+    <trans-unit id="about.delayedOpenAccessDescription1">
+      <source>Obsah tohoto čísla bude dostupný ve formátu otevřeného přístupu</source>
+      <target>Obsah tohoto čísla bude dostupný ve formátu otevřeného přístupu</target>
+    </trans-unit>
+    <trans-unit id="about.delayedOpenAccessDescription2">
+      <source>měsíc(e) poté, co bylo číslo publikováno.</source>
+      <target>měsíc(e) poté, co bylo číslo publikováno.</target>
+    </trans-unit>
+    <trans-unit id="about.authorSelfArchive">
+      <source>Vlastní archivování autora</source>
+      <target>Vlastní archivování autora</target>
+    </trans-unit>
+    <trans-unit id="about.archiving">
+      <source>Archivování</source>
+      <target>Archivování</target>
+    </trans-unit>
+    <trans-unit id="about.subscriptions">
+      <source>Předplatné</source>
+      <target>Předplatné</target>
+    </trans-unit>
+    <trans-unit id="about.subscriptions.individual">
+      <source>Předplatné pro jednotlivce</source>
+      <target>Předplatné pro jednotlivce</target>
+    </trans-unit>
+    <trans-unit id="about.subscriptions.institutional">
+      <source>Předplatné pro organizace</source>
+      <target>Předplatné pro organizace</target>
+    </trans-unit>
+    <trans-unit id="about.subscriptionsContact">
+      <source>Kontakt pro předplatné</source>
+      <target>Kontakt pro předplatné</target>
+    </trans-unit>
+    <trans-unit id="about.subscriptionTypes.name">
+      <source>Jméno</source>
+      <target>Jméno</target>
+    </trans-unit>
+    <trans-unit id="about.subscriptionTypes.format">
+      <source>Formát</source>
+      <target>Formát</target>
+    </trans-unit>
+    <trans-unit id="about.subscriptionTypes.duration">
+      <source>Trvání</source>
+      <target>Trvání</target>
+    </trans-unit>
+    <trans-unit id="about.subscriptionTypes.cost">
+      <source>Cena</source>
+      <target>Cena</target>
+    </trans-unit>
+    <trans-unit id="about.availableSubscriptionTypes">
+      <source>Typy předplatného</source>
+      <target>Typy předplatného</target>
+    </trans-unit>
+    <trans-unit id="about.memberships">
+      <source>Členství</source>
+      <target>Členství</target>
+    </trans-unit>
+    <trans-unit id="about.aboutThisPublishingSystem">
+      <source>O tomto publikačním systému</source>
+      <target>O tomto publikačním systému</target>
+    </trans-unit>
+    <trans-unit id="about.aboutThisPublishingSystem.altText">
+      <source>OJS ediční a vydavatelský proces</source>
+      <target>OJS ediční a vydavatelský proces</target>
+    </trans-unit>
+    <trans-unit id="about.aboutOJSJournal">
+      <source>Tento časopis používá Open Journal Systems {$ojsVersion}, což je open source software pro správu a publikování časopisů vyvinutý, podporovaný a volně šířený v rámci projektu <a href="http://pkp.sfu.ca/">Public Knowledge Project</a> pod GNU General Public licencí.</source>
+      <target>Tento časopis používá Open Journal Systems {$ojsVersion}, což je open source software pro správu a publikování časopisů vyvinutý, podporovaný a volně šířený v rámci projektu <a href="http://pkp.sfu.ca/">Public Knowledge Project</a> pod GNU General Public licencí.</target>
+    </trans-unit>
+    <trans-unit id="about.aboutOJSSite">
+      <source>Tato stránka používá Open Journal Systems {$ojsVersion}, což je open source software pro správu a publikování časopisů vyvinutý, podporovaný a volně šířený v rámci projektu <a href="http://pkp.sfu.ca/">Public Knowledge Project</a> pod GNU General Public licencí.</source>
+      <target>Tato stránka používá Open Journal Systems {$ojsVersion}, což je open source software pro správu a publikování časopisů vyvinutý, podporovaný a volně šířený v rámci projektu <a href="http://pkp.sfu.ca/">Public Knowledge Project</a> pod GNU General Public licencí.</target>
+    </trans-unit>
+    <trans-unit id="help.ojsHelp">
+      <source>Nápověda Open Journal Systems</source>
+      <target>Nápověda Open Journal Systems</target>
+    </trans-unit>
+    <trans-unit id="help.ojsHelpAbbrev">
+      <source>OJS Nápověda</source>
+      <target>OJS Nápověda</target>
+    </trans-unit>
+    <trans-unit id="help.searchReturnResults">
+      <source>Zpět k výsledkům vyhledávání</source>
+      <target>Zpět k výsledkům vyhledávání</target>
+    </trans-unit>
+    <trans-unit id="donations.thankYou">
+      <source>Děkujeme</source>
+      <target>Děkujeme</target>
+    </trans-unit>
+    <trans-unit id="donations.thankYouMessage">
+      <source>Děkujeme za Váš příspěvek. Velice si vážíme Vaší pomoci.</source>
+      <target>Děkujeme za Váš příspěvek. Velice si vážíme Vaší pomoci.</target>
+    </trans-unit>
+    <trans-unit id="payment.loginRequired">
+      <source>Pro provedení platby musíte být přihlášený.</source>
+      <target>Pro provedení platby musíte být přihlášený.</target>
+    </trans-unit>
+    <trans-unit id="payment.loginRequired.forArticle">
+      <source>Pro přístup k položce je vyžadováno předplatné nebo platba za shlédnutí. Přihlaste se do časopisu, aby mohlo být ověřeno předplatné nebo zaplacen polatek.</source>
+      <target>Pro přístup k položce je vyžadováno předplatné nebo platba za shlédnutí. Přihlaste se do časopisu, aby mohlo být ověřeno předplatné nebo zaplacen polatek.</target>
+    </trans-unit>
+    <trans-unit id="payment.loginRequired.forIssue">
+      <source>Předplatné, nebo placený přístup k číslu je požadováno pro tuto položku. K ověření předplatného, přístup k již zaplacené položce či zakoupení placeného přístupu je třeba se do časopisu přihlásit.</source>
+      <target>Předplatné, nebo placený přístup k číslu je požadováno pro tuto položku. K ověření předplatného, přístup k již zaplacené položce či zakoupení placeného přístupu je třeba se do časopisu přihlásit.</target>
+    </trans-unit>
+    <trans-unit id="payment.loginRequired.forDonation">
+      <source>Abyste mohl darovat dar, musíte být přihlášen.</source>
+      <target>Abyste mohl darovat dar, musíte být přihlášen.</target>
+    </trans-unit>
+    <trans-unit id="payment.paid">
+      <source>Zaplaceno</source>
+      <target>Zaplaceno</target>
+    </trans-unit>
+    <trans-unit id="payment.payNow">
+      <source>Zaplatit nyní</source>
+      <target>Zaplatit nyní</target>
+    </trans-unit>
+    <trans-unit id="payment.waive">
+      <source>Převést</source>
+      <target>Převést</target>
+    </trans-unit>
+    <trans-unit id="payment.alreadyPaid">
+      <source>Již zaplaceno</source>
+      <target>Již zaplaceno</target>
+    </trans-unit>
+    <trans-unit id="payment.alreadyPaidMessage">
+      <source>Zatrhněte toto políčko, pokud jste již odeslal platbu do časopisu, aby se dokončil proces odesílání příspěvku. Dokud nedorazí platba, nebude příspěvek recenzován. Pro zobrazení instrukcí k platbě klikněte na ZAPLATIT NYNÍ.</source>
+      <target>Zatrhněte toto políčko, pokud jste již odeslal platbu do časopisu, aby se dokončil proces odesílání příspěvku. Dokud nedorazí platba, nebude příspěvek recenzován. Pro zobrazení instrukcí k platbě klikněte na ZAPLATIT NYNÍ.</target>
+    </trans-unit>
+    <trans-unit id="payment.paymentReceived">
+      <source>Platba přijata</source>
+      <target>Platba přijata</target>
+    </trans-unit>
+    <trans-unit id="payment.paymentSent">
+      <source>Platba již byla odeslána</source>
+      <target>Platba již byla odeslána</target>
+    </trans-unit>
+    <trans-unit id="payment.authorFees">
+      <source>Autorské poplatky</source>
+      <target>Autorské poplatky</target>
+    </trans-unit>
+    <trans-unit id="payment.type.submission">
+      <source>Poplatek za příspěvek</source>
+      <target>Poplatek za příspěvek</target>
+    </trans-unit>
+    <trans-unit id="payment.type.publication">
+      <source>Poplatek za publikování</source>
+      <target>Poplatek za publikování</target>
+    </trans-unit>
+    <trans-unit id="payment.type.fastTrack">
+      <source>Poplatek za rychlé zpracování recenze</source>
+      <target>Poplatek za rychlé zpracování recenze</target>
+    </trans-unit>
+    <trans-unit id="payment.type.membership">
+      <source>Poplatek za individuální členství</source>
+      <target>Poplatek za individuální členství</target>
+    </trans-unit>
+    <trans-unit id="payment.type.purchaseArticle">
+      <source>Zaplatit poplatek za článek</source>
+      <target>Zaplatit poplatek za článek</target>
+    </trans-unit>
+    <trans-unit id="payment.type.purchaseIssue">
+      <source>Zakoupení přístupu k číslu</source>
+      <target>Zakoupení přístupu k číslu</target>
+    </trans-unit>
+    <trans-unit id="payment.type.subscription">
+      <source>Předplatné</source>
+      <target>Předplatné</target>
+    </trans-unit>
+    <trans-unit id="payment.type.donation">
+      <source>Dary</source>
+      <target>Dary</target>
+    </trans-unit>
+    <trans-unit id="payment.donation.makeDonation">
+      <source>Darovat</source>
+      <target>Darovat</target>
+    </trans-unit>
+    <trans-unit id="payment.submission.paySubmission">
+      <source>Zaplatit poplatek za příspěvek</source>
+      <target>Zaplatit poplatek za příspěvek</target>
+    </trans-unit>
+    <trans-unit id="payment.publication.payPublication">
+      <source>Zaplatit za publikování</source>
+      <target>Zaplatit za publikování</target>
+    </trans-unit>
+    <trans-unit id="payment.publication.publicationPaid">
+      <source>Poplatek za publikování zaplacen</source>
+      <target>Poplatek za publikování zaplacen</target>
+    </trans-unit>
+    <trans-unit id="payment.membership.buyMembership">
+      <source>Koupit individuální členství</source>
+      <target>Koupit individuální členství</target>
+    </trans-unit>
+    <trans-unit id="payment.membership.renewMembership">
+      <source>Obnovit individuální členství</source>
+      <target>Obnovit individuální členství</target>
+    </trans-unit>
+    <trans-unit id="payment.membership.ends">
+      <source>Končí</source>
+      <target>Končí</target>
+    </trans-unit>
+    <trans-unit id="payment.subscription.purchase">
+      <source>Zakoupit předplatné</source>
+      <target>Zakoupit předplatné</target>
+    </trans-unit>
+    <trans-unit id="payment.subscription.renew">
+      <source>Obnovit předplatné</source>
+      <target>Obnovit předplatné</target>
+    </trans-unit>
+    <trans-unit id="payment.subscription.expires">
+      <source>Vyprší</source>
+      <target>Vyprší</target>
+    </trans-unit>
+    <trans-unit id="installer.appInstallation">
+      <source>OJS instalace</source>
+      <target>OJS instalace</target>
+    </trans-unit>
+    <trans-unit id="installer.ojsUpgrade">
+      <source>OJS Upgrade</source>
+      <target>OJS Upgrade</target>
+    </trans-unit>
+    <trans-unit id="installer.installationInstructions">
+      <source><h4>Verze OJS {$version}</h4>
+
+<p>Děkujeme za stažení <strong>Open Journal Systému</strong> vytvořeného Public Knowledge Projectem. Než budete pokračovat, přečtěte si prosím <a href="{$baseUrl}/docs/README">README</a> soubor dodaný s tímto softwarem. Pro více informací o Public Knowledge Projectu a jeho softwarových projektech navštivte prosím <a href="http://pkp.sfu.ca/" target="_blank">PKP webové stránky</a>. Pokud máte bug reporty nebo dotazy na technickou podporu OJS, navštivte <a href="http://forum.pkp.sfu.ca">support forum</a> nebo navštivte PKP online <a href="http://pkp.sfu.ca/bugzilla/" target="_blank">bug reporting systém</a>. Přestože je support forum preferovaným způsobem kontaktování, můžete také týmu poslat email na <a href="mailto:pkp-support@sfu.ca">pkp-support@sfu.ca</a>.</p>
+
+<h4>Upgrade</h4>
+
+<p>Pokud provádíte upgrade existující instalace OJS 2.x, <a href="{$upgradeUrl}">Klikněte zde</a> pro pokračování.</p>
+
+<h4>Doporučované požadavky na systém</h4>
+
+<ul>
+	<li><a href="http://www.php.net/" target="_blank">PHP</a> >= {$phpRequiredVersion}; aktuálně používáte PHP {$phpVersion}{$wrongPhpText}</li>
+	<li><a href="http://www.mysql.com/" target="_blank">MySQL</a> >= 4.1 nebo <a href="http://www.postgresql.org/" target="_blank">PostgreSQL</a> >= 9.1.5</li>
+	<li><a href="http://httpd.apache.org/" target="_blank">Apache</a> >= 1.3.2x or >= 2.0.4x nebo Microsoft IIS 6</li>
+	<li>Operační systém: jakýkoliv OS, který podporuje výše uvedený software, včetně <a href="http://www.linux.org/" target="_blank">Linuxu</a>, <a href="http://www.bsd.org/" target="_blank">BSD</a>, <a href="http://www.sun.com/" target="_blank">Solarisu</a>, <a href="http://www.apple.com/" target="_blank">Mac OS X</a>, <a href="http://www.microsoft.com/">Windows</a></li>
+</ul>
+
+<p>Jelikož PKP nemá prostředky, aby otestoval každou možnou kombinaci verze softwaru a platforem, není předpokládána žádná garance plné funkčnosti nebo podpora.</p>
+
+<p>Tato nastavení mohou být po instalaci změněna úpravou souboru <tt>config.inc.php</tt> ve výchozím OJS adresáři nebo s využitím webového administračního rozhraní.</p>
+
+<h4>Podporované databázové systémy</h4>
+
+<p>OJS byl v současnosti testován pouze na MySQL a PostgreSQL, avšak jiné systémy pro správu databází podporované <a href="http://adodb.sourceforge.net/" target="_blank">ADOdb</a> mohou také fungovat (plně nebo částečně). Reporty o kompatibilitě a/nebo opravy kódu (code patches) pro alternativní DBMS lze zaslat OJS týmu.</p>
+
+<h4>Kroky předcházející instalaci</h4>
+
+<p>1. Následující soubory a adresáře (a jejich obsah) musí být nastaveny na zapsatelné (writable):</p>
+<ul>
+	<li><tt>config.inc.php</tt> je zapsatelný (volitelné): {$writable_config}</li>
+	<li><tt>public/</tt> je zapsatelný: {$writable_public}</li>
+	<li><tt>cache/</tt> je zapsatelný: {$writable_cache}</li>
+	<li><tt>cache/t_cache/</tt> je zapsatelný: {$writable_templates_cache}</li>
+	<li><tt>cache/t_compile/</tt> je zapsatelný: {$writable_templates_compile}</li>
+	<li><tt>cache/_db</tt> je zapsatelný: {$writable_db_cache}</li>
+</ul>
+
+<p>2. Musí být vytvořen adresář pro ukládání nahraných souborů a nastaven jako zapsatelný (viz "Nastavení souborů" níže).</p></source>
+      <target><h4>Verze OJS {$version}</h4>
+
+<p>Děkujeme za stažení <strong>Open Journal Systému</strong> vytvořeného Public Knowledge Projectem. Než budete pokračovat, přečtěte si prosím <a href="{$baseUrl}/docs/README">README</a> soubor dodaný s tímto softwarem. Pro více informací o Public Knowledge Projectu a jeho softwarových projektech navštivte prosím <a href="http://pkp.sfu.ca/" target="_blank">PKP webové stránky</a>. Pokud máte bug reporty nebo dotazy na technickou podporu OJS, navštivte <a href="http://forum.pkp.sfu.ca">support forum</a> nebo navštivte PKP online <a href="http://pkp.sfu.ca/bugzilla/" target="_blank">bug reporting systém</a>. Přestože je support forum preferovaným způsobem kontaktování, můžete také týmu poslat email na <a href="mailto:pkp-support@sfu.ca">pkp-support@sfu.ca</a>.</p>
+
+<h4>Upgrade</h4>
+
+<p>Pokud provádíte upgrade existující instalace OJS 2.x, <a href="{$upgradeUrl}">Klikněte zde</a> pro pokračování.</p>
+
+<h4>Doporučované požadavky na systém</h4>
+
+<ul>
+	<li><a href="http://www.php.net/" target="_blank">PHP</a> >= {$phpRequiredVersion}; aktuálně používáte PHP {$phpVersion}{$wrongPhpText}</li>
+	<li><a href="http://www.mysql.com/" target="_blank">MySQL</a> >= 4.1 nebo <a href="http://www.postgresql.org/" target="_blank">PostgreSQL</a> >= 9.1.5</li>
+	<li><a href="http://httpd.apache.org/" target="_blank">Apache</a> >= 1.3.2x or >= 2.0.4x nebo Microsoft IIS 6</li>
+	<li>Operační systém: jakýkoliv OS, který podporuje výše uvedený software, včetně <a href="http://www.linux.org/" target="_blank">Linuxu</a>, <a href="http://www.bsd.org/" target="_blank">BSD</a>, <a href="http://www.sun.com/" target="_blank">Solarisu</a>, <a href="http://www.apple.com/" target="_blank">Mac OS X</a>, <a href="http://www.microsoft.com/">Windows</a></li>
+</ul>
+
+<p>Jelikož PKP nemá prostředky, aby otestoval každou možnou kombinaci verze softwaru a platforem, není předpokládána žádná garance plné funkčnosti nebo podpora.</p>
+
+<p>Tato nastavení mohou být po instalaci změněna úpravou souboru <tt>config.inc.php</tt> ve výchozím OJS adresáři nebo s využitím webového administračního rozhraní.</p>
+
+<h4>Podporované databázové systémy</h4>
+
+<p>OJS byl v současnosti testován pouze na MySQL a PostgreSQL, avšak jiné systémy pro správu databází podporované <a href="http://adodb.sourceforge.net/" target="_blank">ADOdb</a> mohou také fungovat (plně nebo částečně). Reporty o kompatibilitě a/nebo opravy kódu (code patches) pro alternativní DBMS lze zaslat OJS týmu.</p>
+
+<h4>Kroky předcházející instalaci</h4>
+
+<p>1. Následující soubory a adresáře (a jejich obsah) musí být nastaveny na zapsatelné (writable):</p>
+<ul>
+	<li><tt>config.inc.php</tt> je zapsatelný (volitelné): {$writable_config}</li>
+	<li><tt>public/</tt> je zapsatelný: {$writable_public}</li>
+	<li><tt>cache/</tt> je zapsatelný: {$writable_cache}</li>
+	<li><tt>cache/t_cache/</tt> je zapsatelný: {$writable_templates_cache}</li>
+	<li><tt>cache/t_compile/</tt> je zapsatelný: {$writable_templates_compile}</li>
+	<li><tt>cache/_db</tt> je zapsatelný: {$writable_db_cache}</li>
+</ul>
+
+<p>2. Musí být vytvořen adresář pro ukládání nahraných souborů a nastaven jako zapsatelný (viz "Nastavení souborů" níže).</p></target>
+    </trans-unit>
+    <trans-unit id="installer.upgradeInstructions">
+      <source><h4>Verze OJS {$version}</h4>
+
+<p>Děkujeme za stažení <strong>Open Journal Systému</strong> vytvořeného Public Knowledge Projectem. Než budete pokračovat, přečtěte si prosím <a href="{$baseUrl}/docs/README">README</a> a <a href="{$baseUrl}/docs/UPGRADE">UPGRADE</a> soubory dodané s tímto softwarem. Pro více informací o Public Knowledge Projectu a jeho softwarových projektech navštivte prosím <a href="http://pkp.sfu.ca/" target="_blank">PKP webové stránky</a>. Pokud máte bug reporty nebo dotazy na technickou podporu OJS, navštivte <a href="http://forum.pkp.sfu.ca">support forum</a> nebo navštivte PKP online <a href="http://pkp.sfu.ca/bugzilla/" target="_blank">bug reporting systém</a>. Přestože je support forum preferovaným způsobem kontaktování, můžete také týmu poslat email na <a href="mailto:pkp-support@sfu.ca">pkp-support@sfu.ca</a>.</p>
+<p>Je <strong>důrazně doporučeno</strong>, abyste udělali zálohu vaší databáze, adresáře souborů a OJS instalace před tím, než budete pokračovat.</p>
+<p>Pokud máte zapnutý <a href="http://www.php.net/features.safe-mode" target="_blank">PHP Safe Mode</a>, ujistěte se prosím, že max_execution_time instrukce ve vašem php.ini konfiguračním souboru je nastaven na vysoký limit. Pokud bude tohoto nebo jakéhokoliv dalšího časového limitu (např. "Timeout" instrukce u Apache) dosaženo a bude přerušen proces upgradování, budou vyžadovány ruční zásahy.</p></source>
+      <target><h4>Verze OJS {$version}</h4>
+
+<p>Děkujeme za stažení <strong>Open Journal Systému</strong> vytvořeného Public Knowledge Projectem. Než budete pokračovat, přečtěte si prosím <a href="{$baseUrl}/docs/README">README</a> a <a href="{$baseUrl}/docs/UPGRADE">UPGRADE</a> soubory dodané s tímto softwarem. Pro více informací o Public Knowledge Projectu a jeho softwarových projektech navštivte prosím <a href="http://pkp.sfu.ca/" target="_blank">PKP webové stránky</a>. Pokud máte bug reporty nebo dotazy na technickou podporu OJS, navštivte <a href="http://forum.pkp.sfu.ca">support forum</a> nebo navštivte PKP online <a href="http://pkp.sfu.ca/bugzilla/" target="_blank">bug reporting systém</a>. Přestože je support forum preferovaným způsobem kontaktování, můžete také týmu poslat email na <a href="mailto:pkp-support@sfu.ca">pkp-support@sfu.ca</a>.</p>
+<p>Je <strong>důrazně doporučeno</strong>, abyste udělali zálohu vaší databáze, adresáře souborů a OJS instalace před tím, než budete pokračovat.</p>
+<p>Pokud máte zapnutý <a href="http://www.php.net/features.safe-mode" target="_blank">PHP Safe Mode</a>, ujistěte se prosím, že max_execution_time instrukce ve vašem php.ini konfiguračním souboru je nastaven na vysoký limit. Pokud bude tohoto nebo jakéhokoliv dalšího časového limitu (např. "Timeout" instrukce u Apache) dosaženo a bude přerušen proces upgradování, budou vyžadovány ruční zásahy.</p></target>
+    </trans-unit>
+    <trans-unit id="installer.localeSettingsInstructions">
+      <source>Pro kompletní podporu Unicode (UTF-8) zvolte UTF-8 pro nastavení všech znakových sad. Vězte, že tato podpora aktuálně vyžaduje MySQL >= 4.1.1 nebo PostgreSQL >= 7.1 databázový server. Vězte prosím také, že plná Unicode podpora vyžaduje PHP >= 4.3.0 kompilované s podporou pro <a href="http://www.php.net/mbstring" target="_blank">mbstring</a> knihovnu (ve výchozím nastavení povoleno ve většině nejnovějších instalací PHP). Pokud Váš server nesplňuje tyto požadavky, můžete se při používání rozšířených znakových sad střetnout s problémy.
+<br /><br />
+Váš server aktuálně podporuje mbstring: <strong>{$supportsMBString}</strong></source>
+      <target>Pro kompletní podporu Unicode (UTF-8) zvolte UTF-8 pro nastavení všech znakových sad. Vězte, že tato podpora aktuálně vyžaduje MySQL >= 4.1.1 nebo PostgreSQL >= 7.1 databázový server. Vězte prosím také, že plná Unicode podpora vyžaduje PHP >= 4.3.0 kompilované s podporou pro <a href="http://www.php.net/mbstring" target="_blank">mbstring</a> knihovnu (ve výchozím nastavení povoleno ve většině nejnovějších instalací PHP). Pokud Váš server nesplňuje tyto požadavky, můžete se při používání rozšířených znakových sad střetnout s problémy.
+<br /><br />
+Váš server aktuálně podporuje mbstring: <strong>{$supportsMBString}</strong></target>
+    </trans-unit>
+    <trans-unit id="installer.allowFileUploads">
+      <source>Váš server v současnosti umožňuje nahrávání souborů: <strong>{$allowFileUploads}</strong></source>
+      <target>Váš server v současnosti umožňuje nahrávání souborů: <strong>{$allowFileUploads}</strong></target>
+    </trans-unit>
+    <trans-unit id="installer.maxFileUploadSize">
+      <source>Váš server v současnosti dovoluje nahrávání souborů o maximální velikosti <strong>{$maxFileUploadSize}</strong></source>
+      <target>Váš server v současnosti dovoluje nahrávání souborů o maximální velikosti <strong>{$maxFileUploadSize}</strong></target>
+    </trans-unit>
+    <trans-unit id="installer.localeInstructions">
+      <source>Výchozí jazyk pro použití tohoto systému. Pokud Vás zajímá podpora jazyků zde neuvedených, prostudujte si dokumentaci k OJS.</source>
+      <target>Výchozí jazyk pro použití tohoto systému. Pokud Vás zajímá podpora jazyků zde neuvedených, prostudujte si dokumentaci k OJS.</target>
+    </trans-unit>
+    <trans-unit id="installer.additionalLocalesInstructions">
+      <source>Zvolte jakékoliv doplňkové jazyky, které mají být podorovány v tomto systému. Tyto jazyky budou dostupné pro použití v časopisech hostovaných na této stránce. Doplňkové jazyky mohou být také kdykoliv nainstalovány přes webové administrační rozhraní.</source>
+      <target>Zvolte jakékoliv doplňkové jazyky, které mají být podorovány v tomto systému. Tyto jazyky budou dostupné pro použití v časopisech hostovaných na této stránce. Doplňkové jazyky mohou být také kdykoliv nainstalovány přes webové administrační rozhraní.</target>
+    </trans-unit>
+    <trans-unit id="installer.filesDirInstructions">
+      <source>Zadejte celou cestu k existujícímu adresáři, ve kterém se mají uchovávat nahrané soubory. Tento adresář by neměl být přímo dostupný z webu. <strong>Prosím, před zahájením instalace se ujistěte, že tento adresář existuje a je zapsatelný.</strong> Ve Windows by měla cesta obsahovat dopředná lomítka, např.: "C:/myjournal/files".</source>
+      <target>Zadejte celou cestu k existujícímu adresáři, ve kterém se mají uchovávat nahrané soubory. Tento adresář by neměl být přímo dostupný z webu. <strong>Prosím, před zahájením instalace se ujistěte, že tento adresář existuje a je zapsatelný.</strong> Ve Windows by měla cesta obsahovat dopředná lomítka, např.: "C:/myjournal/files".</target>
+    </trans-unit>
+    <trans-unit id="installer.databaseSettingsInstructions">
+      <source>OJS vyžaduje přístup k SQL databázi, aby mohl uchovávat svoje data. Viz systémové požadavky výše pro seznam podporovaných databází. Do políček níže uveďte nastavení, které má být použito pro připojení do databáze.</source>
+      <target>OJS vyžaduje přístup k SQL databázi, aby mohl uchovávat svoje data. Viz systémové požadavky výše pro seznam podporovaných databází. Do políček níže uveďte nastavení, které má být použito pro připojení do databáze.</target>
+    </trans-unit>
+    <trans-unit id="installer.installApplication">
+      <source>Instalace Open Journal Systems</source>
+      <target>Instalace Open Journal Systems</target>
+    </trans-unit>
+    <trans-unit id="installer.upgradeApplication">
+      <source>Upgrade Open Journal Systems</source>
+      <target>Upgrade Open Journal Systems</target>
+    </trans-unit>
+    <trans-unit id="installer.reinstallAfterDatabaseError">
+      <source><strong>Varování:</strong> Pokud instalace selhala v průběhu instalace databáze, budete možná muset odstranit Vaši OJS databázy nebo databázové tabulky před tím, než se pokusíte databázy přeinstalovat.</source>
+      <target><strong>Varování:</strong> Pokud instalace selhala v průběhu instalace databáze, budete možná muset odstranit Vaši OJS databázy nebo databázové tabulky před tím, než se pokusíte databázy přeinstalovat.</target>
+    </trans-unit>
+    <trans-unit id="installer.overwriteConfigFileInstructions">
+      <source><h4>DŮLEŽITÉ!</h4>
+<p>Instalace nemohla automaticky přepsat konfigurační soubor. Než se pokusíte používat systém, otevřete prosím <tt>config.inc.php</tt> ve vhodném textovém editoru a nahraďte jeho obsah obsahem níže uvedeného textového pole.</p></source>
+      <target><h4>DŮLEŽITÉ!</h4>
+<p>Instalace nemohla automaticky přepsat konfigurační soubor. Než se pokusíte používat systém, otevřete prosím <tt>config.inc.php</tt> ve vhodném textovém editoru a nahraďte jeho obsah obsahem níže uvedeného textového pole.</p></target>
+    </trans-unit>
+    <trans-unit id="installer.installationComplete">
+      <source><p>Instalace OJS byla úspěšně dokončena.</p>
+<p>Abyste začali používat systém, <a href="{$loginUrl}">přihlaste se</a> pomocí uživatelského jména a hesla, které jste zadali na předchozí stránce.</p>
+<p>Pokud chcete dostávat informace o novinkách a aktualizacích, <strong>zaregistrujte se prosím na <a href="http://pkp.sfu.ca/ojs/register" target="_new">http://pkp.sfu.ca/ojs/register</a>.</strong> Pokud máte otázky nebo komentáře, navštivte prosím <a href="http://forum.pkp.sfu.ca" target="_new">support forum</a>.</p></source>
+      <target><p>Instalace OJS byla úspěšně dokončena.</p>
+<p>Abyste začali používat systém, <a href="{$loginUrl}">přihlaste se</a> pomocí uživatelského jména a hesla, které jste zadali na předchozí stránce.</p>
+<p>Pokud chcete dostávat informace o novinkách a aktualizacích, <strong>zaregistrujte se prosím na <a href="http://pkp.sfu.ca/ojs/register" target="_new">http://pkp.sfu.ca/ojs/register</a>.</strong> Pokud máte otázky nebo komentáře, navštivte prosím <a href="http://forum.pkp.sfu.ca" target="_new">support forum</a>.</p></target>
+    </trans-unit>
+    <trans-unit id="installer.upgradeComplete">
+      <source><p>Upgrade OJS na verzi {$version} byl úspěšně dokončen.</p>
+<p>Nezapomeňte upravit "installed" nastavení ve Vašem config.inc.php konfiguračním souboru zpět na <em>On</em>.</p>
+<p>Pokud jste se ještě nezaregistroval a přejete si dostávat informace o novinkách a aktualizacích, <strong>zaregistrujte se prosím na <a href="http://pkp.sfu.ca/ojs/register" target="_new">http://pkp.sfu.ca/ojs/register</a>.</strong> Pokud máte otázky nebo komentáře, navštivte prosím <a href="http://forum.pkp.sfu.ca" target="_new">support forum</a>.</p></source>
+      <target><p>Upgrade OJS na verzi {$version} byl úspěšně dokončen.</p>
+<p>Nezapomeňte upravit "installed" nastavení ve Vašem config.inc.php konfiguračním souboru zpět na <em>On</em>.</p>
+<p>Pokud jste se ještě nezaregistroval a přejete si dostávat informace o novinkách a aktualizacích, <strong>zaregistrujte se prosím na <a href="http://pkp.sfu.ca/ojs/register" target="_new">http://pkp.sfu.ca/ojs/register</a>.</strong> Pokud máte otázky nebo komentáře, navštivte prosím <a href="http://forum.pkp.sfu.ca" target="_new">support forum</a>.</p></target>
+    </trans-unit>
+    <trans-unit id="site.upgradeAvailable.admin">
+      <source>Nová verze OJS je dostupná! V současné době používáte verzi OJS {$currentVersion}. Nejnovější verze OJS je {$latestVersion}. Navštivte, prosím, <a href="http://php.sfu.ca/ojs_download" target="_new">tuto stránku</a> a stáhněte si nejnovější verzi OJS a přečtěte si pokyny pro upgrade.</source>
+      <target>Nová verze OJS je dostupná! V současné době používáte verzi OJS {$currentVersion}. Nejnovější verze OJS je {$latestVersion}. Navštivte, prosím, <a href="http://php.sfu.ca/ojs_download" target="_new">tuto stránku</a> a stáhněte si nejnovější verzi OJS a přečtěte si pokyny pro upgrade.</target>
+    </trans-unit>
+    <trans-unit id="site.upgradeAvailable.manager">
+      <source>Je dostupná nová verze OJS! Vy používáte následující verzi OJS: {$currentVersion}. Nejnovější verze OJS je: {$latestVersion}. Kontaktujte, prosím, administrátora webu ({$siteAdminName}, <a href="mailto:{$siteAdminEmail}">{$siteAdminEmail}</a>) a upozorněte ho na novou verzi OJS. Více informací lze nalézt <a href="http://pkp.sfu.ca/ojs_download" target="_new">zde</a>.</source>
+      <target>Je dostupná nová verze OJS! Vy používáte následující verzi OJS: {$currentVersion}. Nejnovější verze OJS je: {$latestVersion}. Kontaktujte, prosím, administrátora webu ({$siteAdminName}, <a href="mailto:{$siteAdminEmail}">{$siteAdminEmail}</a>) a upozorněte ho na novou verzi OJS. Více informací lze nalézt <a href="http://pkp.sfu.ca/ojs_download" target="_new">zde</a>.</target>
+    </trans-unit>
+    <trans-unit id="log.author.documentRevised">
+      <source>{$authorName} pozměnil článek {$submissionId}. Nové ID souboru je {$fileId}.</source>
+      <target>{$authorName} pozměnil článek {$submissionId}. Nové ID souboru je {$fileId}.</target>
+    </trans-unit>
+    <trans-unit id="log.review.reviewerUnassigned">
+      <source>{$reviewerName} byl odebrán z recenzování příspěvku {$submissionId} v recenzním kole {$round}.</source>
+      <target>{$reviewerName} byl odebrán z recenzování příspěvku {$submissionId} v recenzním kole {$round}.</target>
+    </trans-unit>
+    <trans-unit id="log.review.reviewInitiated">
+      <source>Recenzní kolo {$round} prováděné recenzentem {$reviewerName} pro příspěvek {$submissionId} bylo zahájeno.</source>
+      <target>Recenzní kolo {$round} prováděné recenzentem {$reviewerName} pro příspěvek {$submissionId} bylo zahájeno.</target>
+    </trans-unit>
+    <trans-unit id="log.review.reviewReinitiated">
+      <source>Recenzní kolo {$round} prováděné recenzentem {$reviewerName} pro příspěvek {$submissionId} bylo znovu zahájeno.</source>
+      <target>Recenzní kolo {$round} prováděné recenzentem {$reviewerName} pro příspěvek {$submissionId} bylo znovu zahájeno.</target>
+    </trans-unit>
+    <trans-unit id="log.review.reviewCleared">
+      <source>Recenzní kolo {$round} prováděné recenzentem {$reviewerName} pro příspěvek {$submissionId} bylo vyčíštěno.</source>
+      <target>Recenzní kolo {$round} prováděné recenzentem {$reviewerName} pro příspěvek {$submissionId} bylo vyčíštěno.</target>
+    </trans-unit>
+    <trans-unit id="log.review.reviewerRated">
+      <source>{$reviewerName} byl ohodnocen pro recenzní kolo {$round} příspěvku {$submissionId}.</source>
+      <target>{$reviewerName} byl ohodnocen pro recenzní kolo {$round} příspěvku {$submissionId}.</target>
+    </trans-unit>
+    <trans-unit id="log.review.reviewDueDateSet">
+      <source>Termín splnění recenzního kola {$round} příspěvku {$submissionId} recenzenta {$reviewerName} byl nastaven na {$dueDate}.</source>
+      <target>Termín splnění recenzního kola {$round} příspěvku {$submissionId} recenzenta {$reviewerName} byl nastaven na {$dueDate}.</target>
+    </trans-unit>
+    <trans-unit id="log.review.reviewRecommendationSet">
+      <source>Doporučení pro recenzní kolo {$round} příspěvku {$submissionId} od recenzenta {$reviewerName} bylo stanoveno.</source>
+      <target>Doporučení pro recenzní kolo {$round} příspěvku {$submissionId} od recenzenta {$reviewerName} bylo stanoveno.</target>
+    </trans-unit>
+    <trans-unit id="log.review.reviewRecommendationSetByProxy">
+      <source>Doporučení pro recenzní kolo {$round} příspěvku {$submissionId} bylo stanoveno editorem, {$editorName}, v zastoupení recenzenta {$reviewerName}.</source>
+      <target>Doporučení pro recenzní kolo {$round} příspěvku {$submissionId} bylo stanoveno editorem, {$editorName}, v zastoupení recenzenta {$reviewerName}.</target>
+    </trans-unit>
+    <trans-unit id="log.review.resubmit">
+      <source>Příspěvek {$submissionId} byl znovu odeslán k recenzi.</source>
+      <target>Příspěvek {$submissionId} byl znovu odeslán k recenzi.</target>
+    </trans-unit>
+    <trans-unit id="log.review.reviewDeclined">
+      <source>{$reviewerName} odmítl recenzní kolo {$round} pro příspěvek {$submissionId}.</source>
+      <target>{$reviewerName} odmítl recenzní kolo {$round} pro příspěvek {$submissionId}.</target>
+    </trans-unit>
+    <trans-unit id="log.review.reviewAccepted">
+      <source>{$reviewerName} přijal recenzní kolo {$round} pro příspěvek {$submissionId}.</source>
+      <target>{$reviewerName} přijal recenzní kolo {$round} pro příspěvek {$submissionId}.</target>
+    </trans-unit>
+    <trans-unit id="log.review.reviewDeclinedByProxy">
+      <source>{$userName} odmítl recenzní kolo {$round} pro příspěvek {$submissionId} v zastoupení recenzenta {$reviewerName}.</source>
+      <target>{$userName} odmítl recenzní kolo {$round} pro příspěvek {$submissionId} v zastoupení recenzenta {$reviewerName}.</target>
+    </trans-unit>
+    <trans-unit id="log.review.reviewAcceptedByProxy">
+      <source>{$userName} přijal recenzní kolo {$round} pro příspěvek {$submissionId} v zastoupení recenzenta {$reviewerName}.</source>
+      <target>{$userName} přijal recenzní kolo {$round} pro příspěvek {$submissionId} v zastoupení recenzenta {$reviewerName}.</target>
+    </trans-unit>
+    <trans-unit id="log.review.reviewFileByProxy">
+      <source>Editor, {$userName}, nahrál soubor s recenzí pro kolo {$round} příspěvku {$submissionId} v zastoupení recenzenta {$reviewerName}.</source>
+      <target>Editor, {$userName}, nahrál soubor s recenzí pro kolo {$round} příspěvku {$submissionId} v zastoupení recenzenta {$reviewerName}.</target>
+    </trans-unit>
+    <trans-unit id="log.review.reviewerFile">
+      <source>Soubor recenzenta byl nahrán.</source>
+      <target>Soubor recenzenta byl nahrán.</target>
+    </trans-unit>
+    <trans-unit id="log.editor.decision">
+      <source>Rozhodnutí editora ({$decision}) pro článek {$submissionId} zaznamenal {$editorName}.</source>
+      <target>Rozhodnutí editora ({$decision}) pro článek {$submissionId} zaznamenal {$editorName}.</target>
+    </trans-unit>
+    <trans-unit id="log.copyedit.initiate">
+      <source>Redigování příspěvku {$submissionId} zahájil {$copyeditorName}.</source>
+      <target>Redigování příspěvku {$submissionId} zahájil {$copyeditorName}.</target>
+    </trans-unit>
+    <trans-unit id="log.copyedit.copyeditFileSet">
+      <source>Byl vybrán výchozí soubor pro redigování.</source>
+      <target>Byl vybrán výchozí soubor pro redigování.</target>
+    </trans-unit>
+    <trans-unit id="log.copyedit.initialEditComplete">
+      <source>{$copyeditorName} dokončil úvodní redigování příspěvku {$submissionId}.</source>
+      <target>{$copyeditorName} dokončil úvodní redigování příspěvku {$submissionId}.</target>
+    </trans-unit>
+    <trans-unit id="log.copyedit.finalEditComplete">
+      <source>{$copyeditorName} dokončil závěrečné redigování příspěvku {$submissionId}.</source>
+      <target>{$copyeditorName} dokončil závěrečné redigování příspěvku {$submissionId}.</target>
+    </trans-unit>
+    <trans-unit id="log.copyedit.copyeditorAssigned">
+      <source>{$copyeditorName} byl přidělen pro redigování příspěvku {$submissionId}.</source>
+      <target>{$copyeditorName} byl přidělen pro redigování příspěvku {$submissionId}.</target>
+    </trans-unit>
+    <trans-unit id="log.copyedit.copyeditorFile">
+      <source>Redaktorova verze souboru s příspěvkem byla nahrána.</source>
+      <target>Redaktorova verze souboru s příspěvkem byla nahrána.</target>
+    </trans-unit>
+    <trans-unit id="log.copyedit.authorFile">
+      <source>Byla nahrána autorem redigovaná verze souboru s příspěvkem.</source>
+      <target>Byla nahrána autorem redigovaná verze souboru s příspěvkem.</target>
+    </trans-unit>
+    <trans-unit id="log.layout.layoutEditorAssigned">
+      <source>{$editorName} byl přidělen jako typograf pro příspěvek {$submissionId}.</source>
+      <target>{$editorName} byl přidělen jako typograf pro příspěvek {$submissionId}.</target>
+    </trans-unit>
+    <trans-unit id="log.layout.layoutEditorUnassigned">
+      <source>{$editorName} byl odebrán z pozice typografa pro příspěvek {$submissionId}.</source>
+      <target>{$editorName} byl odebrán z pozice typografa pro příspěvek {$submissionId}.</target>
+    </trans-unit>
+    <trans-unit id="log.layout.layoutEditComplete">
+      <source>{$editorName} dokončil typografické úpravy příspěvku {$submissionId}.</source>
+      <target>{$editorName} dokončil typografické úpravy příspěvku {$submissionId}.</target>
+    </trans-unit>
+    <trans-unit id="log.editor.metadataModified">
+      <source>Metadata tohoto článku pozměnil {$editorName}.</source>
+      <target>Metadata tohoto článku pozměnil {$editorName}.</target>
+    </trans-unit>
+    <trans-unit id="log.editor.editorFile">
+      <source>Editorova verze souboru s příspěvkem byla nahrána.</source>
+      <target>Editorova verze souboru s příspěvkem byla nahrána.</target>
+    </trans-unit>
+    <trans-unit id="log.editor.archived">
+      <source>Příspěvek {$submissionId} byl archivován.</source>
+      <target>Příspěvek {$submissionId} byl archivován.</target>
+    </trans-unit>
+    <trans-unit id="log.editor.restored">
+      <source>Příspěvek {$submissionId} byl obnoven do fronty.</source>
+      <target>Příspěvek {$submissionId} byl obnoven do fronty.</target>
+    </trans-unit>
+    <trans-unit id="log.editor.editorAssigned">
+      <source>{$editorName} byl přidělen jako editor příspěvku {$submissionId}.</source>
+      <target>{$editorName} byl přidělen jako editor příspěvku {$submissionId}.</target>
+    </trans-unit>
+    <trans-unit id="log.proofread.assign">
+      <source>{$assignerName} přidělil {$proofreaderName} pro zpracování korektur příspěvku {$submissionId}.</source>
+      <target>{$assignerName} přidělil {$proofreaderName} pro zpracování korektur příspěvku {$submissionId}.</target>
+    </trans-unit>
+    <trans-unit id="log.proofread.complete">
+      <source>{$proofreaderName} odeslal {$submissionId} do plánování.</source>
+      <target>{$proofreaderName} odeslal {$submissionId} do plánování.</target>
+    </trans-unit>
+    <trans-unit id="log.imported">
+      <source>{$userName} importoval článek {$submissionId}.</source>
+      <target>{$userName} importoval článek {$submissionId}.</target>
+    </trans-unit>
+    <trans-unit id="rt.admin.settings">
+      <source>Možnosti nástrojů pro čtení</source>
+      <target>Možnosti nástrojů pro čtení</target>
+    </trans-unit>
+    <trans-unit id="rt.admin.settings.description">
+      <source>Nástroje pro čtení se objeví v panelu vedle publikovaných položek v sekcích časopisu určených k indexování. Nástroje pro čtení sestávají ze sady volitelných nástrojů (uvedených níže) vztahujících se k publikované položce a ze sady nástrojů, které poskytují přístup k souvisejícím položkám uspořádaným podle oblasti a disciplíny.</source>
+      <target>Nástroje pro čtení se objeví v panelu vedle publikovaných položek v sekcích časopisu určených k indexování. Nástroje pro čtení sestávají ze sady volitelných nástrojů (uvedených níže) vztahujících se k publikované položce a ze sady nástrojů, které poskytují přístup k souvisejícím položkám uspořádaným podle oblasti a disciplíny.</target>
+    </trans-unit>
+    <trans-unit id="rt.admin.settings.enableReadingTools">
+      <source>Povolit nástroje pro čtení pro stanovené sekce časopisu.</source>
+      <target>Povolit nástroje pro čtení pro stanovené sekce časopisu.</target>
+    </trans-unit>
+    <trans-unit id="rt.admin.settings.relatedItems">
+      <source>Oblast</source>
+      <target>Oblast</target>
+    </trans-unit>
+    <trans-unit id="rt.admin.settings.relatedItemsLink">
+      <source>Viz <a href="{$relatedItemsLink}" class="action">Sady souvisejících položek</a> pro zobrazení, přidání, opravu nebo smazání souvisejících položek pro každou oblast.</source>
+      <target>Viz <a href="{$relatedItemsLink}" class="action">Sady souvisejících položek</a> pro zobrazení, přidání, opravu nebo smazání souvisejících položek pro každou oblast.</target>
+    </trans-unit>
+    <trans-unit id="rt.admin.options">
+      <source>Nástroje pro položku časopisu</source>
+      <target>Nástroje pro položku časopisu</target>
+    </trans-unit>
+    <trans-unit id="rt.admin.relatedItems">
+      <source>Nástroje pro související položku</source>
+      <target>Nástroje pro související položku</target>
+    </trans-unit>
+    <trans-unit id="rt.admin.settings.addComment">
+      <source>Přidat komentář (umožňuje čtenářům zaslat komentář, manažer časopisu ho může smazat).</source>
+      <target>Přidat komentář (umožňuje čtenářům zaslat komentář, manažer časopisu ho může smazat).</target>
+    </trans-unit>
+    <trans-unit id="rt.admin.settings.addComment.authenticated">
+      <source>Uživatelé musí být registrováni a přihlášeni, aby mohli zaslat komntář. Anonymní komentáře nejsou povoleny.</source>
+      <target>Uživatelé musí být registrováni a přihlášeni, aby mohli zaslat komntář. Anonymní komentáře nejsou povoleny.</target>
+    </trans-unit>
+    <trans-unit id="rt.admin.settings.addComment.anonymous">
+      <source>Uživatelé musí být registrováni a přihlášení, aby mohli poslat komentář. Anonymní komentáře jsou povoleny.</source>
+      <target>Uživatelé musí být registrováni a přihlášení, aby mohli poslat komentář. Anonymní komentáře jsou povoleny.</target>
+    </trans-unit>
+    <trans-unit id="rt.admin.settings.addComment.unauthenticated">
+      <source>Uživatelé nemusí být registrováni a přihlášeni, aby mohli poslat komentář. Anonymní komentáře jsou povoleny.</source>
+      <target>Uživatelé nemusí být registrováni a přihlášeni, aby mohli poslat komentář. Anonymní komentáře jsou povoleny.</target>
+    </trans-unit>
+    <trans-unit id="rt.admin.validateUrls.description">
+      <source>URL adresy, které jsou možná neplatné pro vyhledávací stránky, jsou zobrazeny níže.<br />
+Měli byste ručně ověřit každou adresu URL označenou jako neplatnou, protože tento test není 100% přesný.<br />
+Ověřování může selhat při vyhledávání URL, které vyžadují "posted form data".</source>
+      <target>URL adresy, které jsou možná neplatné pro vyhledávací stránky, jsou zobrazeny níže.<br />
+Měli byste ručně ověřit každou adresu URL označenou jako neplatnou, protože tento test není 100% přesný.<br />
+Ověřování může selhat při vyhledávání URL, které vyžadují "posted form data".</target>
+    </trans-unit>
+    <trans-unit id="rt.metadata.dublinCore.primaryAuthor">
+      <source>Tvůrce</source>
+      <target>Tvůrce</target>
+    </trans-unit>
+    <trans-unit id="rt.metadata.pkp.primaryAuthor">
+      <source>Autorovo jméno, pracoviště, stát</source>
+      <target>Autorovo jméno, pracoviště, stát</target>
+    </trans-unit>
+    <trans-unit id="rt.metadata.pkp.peerReviewed">
+      <source>Recenzovaný článek</source>
+      <target>Recenzovaný článek</target>
+    </trans-unit>
+    <trans-unit id="rt.beNotifiedWhen">
+      <source>Být informován pokud...</source>
+      <target>Být informován pokud...</target>
+    </trans-unit>
+    <trans-unit id="rt.thisJournal">
+      <source>Prohledat časopis</source>
+      <target>Prohledat časopis</target>
+    </trans-unit>
+    <trans-unit id="rt.context.authorTermsDescription">
+      <source>Pro vyhledání prací s podobným spoluautorstvím nechejte u položek s více než jedním autorem zaškrtnutá všechna jména. Zaškrtnutím jednoho jména můžete prohledávat autory postupně. Více o vyhledaných zdrojích se dozvíte klinutím na O ZDROJÍCH. Tyto zdroje byly vybrány pro svou relevantnost a otevřený (volný) přístup k části nebo k celému svému obsahu.</source>
+      <target>Pro vyhledání prací s podobným spoluautorstvím nechejte u položek s více než jedním autorem zaškrtnutá všechna jména. Zaškrtnutím jednoho jména můžete prohledávat autory postupně. Více o vyhledaných zdrojích se dozvíte klinutím na O ZDROJÍCH. Tyto zdroje byly vybrány pro svou relevantnost a otevřený (volný) přístup k části nebo k celému svému obsahu.</target>
+    </trans-unit>
+    <trans-unit id="notification.type.articleSubmitted">
+      <source>Byl vložen nový článek s názvem "{$title}".</source>
+      <target>Byl vložen nový článek s názvem "{$title}".</target>
+    </trans-unit>
+    <trans-unit id="notification.type.editing">
+      <source>Editace událostí</source>
+      <target>Editace událostí</target>
+    </trans-unit>
+    <trans-unit id="notification.type.editorDecisionComment">
+      <source>Byla vložena poznámka k rozhodnutí editora o článku "{$title}".</source>
+      <target>Byla vložena poznámka k rozhodnutí editora o článku "{$title}".</target>
+    </trans-unit>
+    <trans-unit id="notification.type.galleyModified">
+      <source>Byla změněna sazebnice článku "{$title}".</source>
+      <target>Byla změněna sazebnice článku "{$title}".</target>
+    </trans-unit>
+    <trans-unit id="notification.type.issuePublished">
+      <source>Bylo publikováno číslo.</source>
+      <target>Bylo publikováno číslo.</target>
+    </trans-unit>
+    <trans-unit id="notification.type.newAnnouncement">
+      <source>Bylo vytvořeno nové oznámení.</source>
+      <target>Bylo vytvořeno nové oznámení.</target>
+    </trans-unit>
+    <trans-unit id="notification.type.reviewerFormComment">
+      <source>Byl vyplněn recenzní formulář k článku "{$title}".</source>
+      <target>Byl vyplněn recenzní formulář k článku "{$title}".</target>
+    </trans-unit>
+    <trans-unit id="notification.type.reviewing">
+      <source>Události recenzního procesu</source>
+      <target>Události recenzního procesu</target>
+    </trans-unit>
+    <trans-unit id="notification.type.site">
+      <source>Události stránek</source>
+      <target>Události stránek</target>
+    </trans-unit>
+    <trans-unit id="notification.type.submissionComment">
+      <source>Editor vložil poznámku k článku "{$title}".</source>
+      <target>Editor vložil poznámku k článku "{$title}".</target>
+    </trans-unit>
+    <trans-unit id="notification.type.submissions">
+      <source>Události příspěvku</source>
+      <target>Události příspěvku</target>
+    </trans-unit>
+    <trans-unit id="notification.type.userComment">
+      <source>Čtenář vložil poznámku k článku "{$title}".</source>
+      <target>Čtenář vložil poznámku k článku "{$title}".</target>
+    </trans-unit>
+    <trans-unit id="user.authorization.copyeditorAssignmentMissing">
+      <source>Přístup není povolen! Nebyl/a vám přiřazena úloha lektora tohoto článku.</source>
+      <target>Přístup není povolen! Nebyl/a vám přiřazena úloha lektora tohoto článku.</target>
+    </trans-unit>
+    <trans-unit id="user.authorization.sectionAssignment">
+      <source>Snažíte se přistoupit k článku, který není součástí této sekce.</source>
+      <target>Snažíte se přistoupit k článku, který není součástí této sekce.</target>
+    </trans-unit>
+    <trans-unit id="user.authorization.invalidCopyditorSubmission">
+      <source>Špatný příspěvek redaktora, nebo příspěvek redaktora není vyžadován!</source>
+      <target>Špatný příspěvek redaktora, nebo příspěvek redaktora není vyžadován!</target>
+    </trans-unit>
+    <trans-unit id="debug.notes.currencyListLoad">
+      <source>Nahraný seznam měn "{$filename}" z XML</source>
+      <target>Nahraný seznam měn "{$filename}" z XML</target>
+    </trans-unit>
+    <trans-unit id="context.current">
+      <source>Aktuální časopis:</source>
+      <target>Aktuální časopis:</target>
+    </trans-unit>
+    <trans-unit id="context.select">
+      <source>Zvolit jiný časopis:</source>
+      <target>Zvolit jiný časopis:</target>
+    </trans-unit>
+    <trans-unit id="article.return">
+      <source>Návrat na podrobnosti článku</source>
+      <target>Návrat na podrobnosti článku</target>
+    </trans-unit>
+    <trans-unit id="journal.viewAllIssues">
+      <source>Zobrazit všechna čísla</source>
+      <target>Zobrazit všechna čísla</target>
+    </trans-unit>
+    <trans-unit id="user.noRoles.selectUsersWithoutRoles">
+      <source>Zahrnout i uživatele bez rolí v tomto časopise.</source>
+      <target>Zahrnout i uživatele bez rolí v tomto časopise.</target>
+    </trans-unit>
+    <trans-unit id="user.reviewerPrompt">
+      <source>Byl byste ochoten/na recenzovat příspěvek do tohoto časopisu?</source>
+      <target>Byl byste ochoten/na recenzovat příspěvek do tohoto časopisu?</target>
+    </trans-unit>
+    <trans-unit id="user.reviewerPrompt.userGroup">
+      <source>Ano, požadovat roli {$userGroup}.</source>
+      <target>Ano, požadovat roli {$userGroup}.</target>
+    </trans-unit>
+    <trans-unit id="user.register.contextsPrompt">
+      <source>Které časopisy na tomto webu byste si chtěli zaregistrovat?</source>
+      <target>Které časopisy na tomto webu byste si chtěli zaregistrovat?</target>
+    </trans-unit>
+    <trans-unit id="user.register.otherContextRoles">
+      <source>Požadovat následující role.</source>
+      <target>Požadovat následující role.</target>
+    </trans-unit>
+    <trans-unit id="user.register.noContextReviewerInterests">
+      <source>Pokud jste uvedli zájem o roli recenzenta v jakémkoli časopise, zadejte své zájmy.</source>
+      <target>Pokud jste uvedli zájem o roli recenzenta v jakémkoli časopise, zadejte své zájmy.</target>
+    </trans-unit>
+    <trans-unit id="user.role.subEditors">
+      <source>Editoři sekcí</source>
+      <target>Editoři sekcí</target>
+    </trans-unit>
+    <trans-unit id="user.role.journalAssistant">
+      <source>Sekretář časopisu</source>
+      <target>Sekretář časopisu</target>
+    </trans-unit>
+    <trans-unit id="user.role.journalAssistants">
+      <source>Sekretáři časopisů</source>
+      <target>Sekretáři časopisů</target>
+    </trans-unit>
+    <trans-unit id="issue.return">
+      <source>Vrátit se na podrobnosti čísla</source>
+      <target>Vrátit se na podrobnosti čísla</target>
+    </trans-unit>
+    <trans-unit id="submission.event.submissionSubmitted">
+      <source>Článek byl podán</source>
+      <target>Článek byl podán</target>
+    </trans-unit>
+    <trans-unit id="search.results.orderBy">
+      <source>Řadit výsledky podle</source>
+      <target>Řadit výsledky podle</target>
+    </trans-unit>
+    <trans-unit id="search.results.orderBy.article">
+      <source>Název článku</source>
+      <target>Název článku</target>
+    </trans-unit>
+    <trans-unit id="search.results.orderBy.author">
+      <source>Autor</source>
+      <target>Autor</target>
+    </trans-unit>
+    <trans-unit id="search.results.orderBy.date">
+      <source>Datum zveřejnění</source>
+      <target>Datum zveřejnění</target>
+    </trans-unit>
+    <trans-unit id="search.results.orderBy.issue">
+      <source>Číslo</source>
+      <target>Číslo</target>
+    </trans-unit>
+    <trans-unit id="search.results.orderBy.journal">
+      <source>Název časopisu</source>
+      <target>Název časopisu</target>
+    </trans-unit>
+    <trans-unit id="search.results.orderBy.popularityAll">
+      <source>Popularita (za celou dobu)</source>
+      <target>Popularita (za celou dobu)</target>
+    </trans-unit>
+    <trans-unit id="search.results.orderBy.popularityMonth">
+      <source>Popularita (za měsíc)</source>
+      <target>Popularita (za měsíc)</target>
+    </trans-unit>
+    <trans-unit id="search.results.orderBy.relevance">
+      <source>Relevantnost</source>
+      <target>Relevantnost</target>
+    </trans-unit>
+    <trans-unit id="search.results.orderDir.asc">
+      <source>Vzestupně</source>
+      <target>Vzestupně</target>
+    </trans-unit>
+    <trans-unit id="search.results.orderDir.desc">
+      <source>Sestupně</source>
+      <target>Sestupně</target>
+    </trans-unit>
+    <trans-unit id="search.results.similarDocuments">
+      <source>podobné dokumenty</source>
+      <target>podobné dokumenty</target>
+    </trans-unit>
+    <trans-unit id="plugins.categories.viewableFiles">
+      <source>Pluginy pro sazebnice článků</source>
+      <target>Pluginy pro sazebnice článků</target>
+    </trans-unit>
+    <trans-unit id="plugins.categories.viewableFiles.description">
+      <source>Pluginy sazebnic článků přidávají podporu pro různé typy sazebnic článků.</source>
+      <target>Pluginy sazebnic článků přidávají podporu pro různé typy sazebnic článků.</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.clockssDescription">
+      <source>Open Journal Systems také podporuje systém <a href="http://clockss.org/" target="_blank"> CLOCKSS </a>  (Controlled Lots of Copies Keep Stuff Safe), aby byl zajištěn bezpečný a trvalý archiv časopisu. Systém CLOCKSS je založen na softwaru open source LOCKSS vyvinutém ve Stanfordské univerzitní knihovně, který umožňuje knihovnám uchovávat vybrané webové časopisy pravidelným vyhledáváním registrovaných webových stránek časopisů pro nově publikovaný obsah a jeho archivací. Každý archiv je neustále ověřován proti ostatním mezipaměti knihoven a pokud je obsah poškozen nebo ztracen, použijí se k jeho obnově ostatní mezipaměti nebo časopis.
+<br /> <br />
+Nastavení podpory CLOCKSS pro Open Journal System stačí provést teprve po dokončení publikování.</source>
+      <target>Open Journal Systems také podporuje systém <a href="http://clockss.org/" target="_blank"> CLOCKSS </a>  (Controlled Lots of Copies Keep Stuff Safe), aby byl zajištěn bezpečný a trvalý archiv časopisu. Systém CLOCKSS je založen na softwaru open source LOCKSS vyvinutém ve Stanfordské univerzitní knihovně, který umožňuje knihovnám uchovávat vybrané webové časopisy pravidelným vyhledáváním registrovaných webových stránek časopisů pro nově publikovaný obsah a jeho archivací. Každý archiv je neustále ověřován proti ostatním mezipaměti knihoven a pokud je obsah poškozen nebo ztracen, použijí se k jeho obnově ostatní mezipaměti nebo časopis.
+<br /> <br />
+Nastavení podpory CLOCKSS pro Open Journal System stačí provést teprve po dokončení publikování.</target>
+    </trans-unit>
+    <trans-unit id="editor.issues.backIssues">
+      <source>Předchozí čísla</source>
+      <target>Předchozí čísla</target>
+    </trans-unit>
+    <trans-unit id="editor.issues.futureIssues">
+      <source>Budoucí čísla</source>
+      <target>Budoucí čísla</target>
+    </trans-unit>
+    <trans-unit id="submission.layout.galley.remotelyHostedContent">
+      <source>Tato sazebnice bude dostupná na nové webové stránce.</source>
+      <target>Tato sazebnice bude dostupná na nové webové stránce.</target>
+    </trans-unit>
+    <trans-unit id="submission.layout.galley.remoteURL">
+      <source>URL pro vzdáleně hostovaný obsah</source>
+      <target>URL pro vzdáleně hostovaný obsah</target>
+    </trans-unit>
+    <trans-unit id="user.register.selectContext">
+      <source>Vybrat časopis, ve kterém chcete být registrováni:</source>
+      <target>Vybrat časopis, ve kterém chcete být registrováni:</target>
+    </trans-unit>
+    <trans-unit id="article.pageTitle">
+      <source>Zobrazit {$title}</source>
+      <target>Zobrazit {$title}</target>
+    </trans-unit>
+    <trans-unit id="article.download">
+      <source>Stáhnout tento PDF soubor</source>
+      <target>Stáhnout tento PDF soubor</target>
+    </trans-unit>
+    <trans-unit id="archive.archivesPageNumber">
+      <source>Archivy - strana {$pageNumber}</source>
+      <target>Archivy - strana {$pageNumber}</target>
+    </trans-unit>
+    <trans-unit id="about.contact">
+      <source>Kontakt</source>
+      <target>Kontakt</target>
+    </trans-unit>
+    <trans-unit id="about.aboutContext">
+      <source>O časopise</source>
+      <target>O časopise</target>
+    </trans-unit>
+    <trans-unit id="about.onlineSubmissions.register">
+      <source>Registrovat</source>
+      <target>Registrovat</target>
+    </trans-unit>
+    <trans-unit id="about.onlineSubmissions.submissionActions">
+      <source>{$newSubmission} nebo {$viewSubmissions}.</source>
+      <target>{$newSubmission} nebo {$viewSubmissions}.</target>
+    </trans-unit>
+    <trans-unit id="about.onlineSubmissions.newSubmission">
+      <source>Zaslat nový příspěvek</source>
+      <target>Zaslat nový příspěvek</target>
+    </trans-unit>
+    <trans-unit id="about.onlineSubmissions.viewSubmissions">
+      <source>zobrazit vaše rozpracované příspěvky</source>
+      <target>zobrazit vaše rozpracované příspěvky</target>
+    </trans-unit>
+    <trans-unit id="reviewer.article.selectRecommendation.byEditor">
+      <source>Nastavte nebo upravte doporučení recenzenta.</source>
+      <target>Nastavte nebo upravte doporučení recenzenta.</target>
+    </trans-unit>
+    <trans-unit id="article.pluginMissing">
+      <source><p>Vybraný soubor PDF by se měl načíst zde, pokud má váš webový prohlížeč nainstalovaný plugin pro čtení souborů PDF (například poslední verze <a href="https://get.adobe.com/reader/">Adobe Acrobat Reader</a>). </p></source>
+      <target><p>Vybraný soubor PDF by se měl načíst zde, pokud má váš webový prohlížeč nainstalovaný plugin pro čtení souborů PDF (například poslední verze <a href="https://get.adobe.com/reader/">Adobe Acrobat Reader</a>). </p></target>
+    </trans-unit>
+    <trans-unit id="user.authorization.noContext">
+      <source>Žádný časopis v kontextu!</source>
+      <target>Žádný časopis v kontextu!</target>
+    </trans-unit>
+    <trans-unit id="user.authorization.invalidIssue">
+      <source>Je vyžadováno chybné číslo!</source>
+      <target>Je vyžadováno chybné číslo!</target>
+    </trans-unit>
+    <trans-unit id="grid.action.createContext">
+      <source>Vytvořit nový časopis</source>
+      <target>Vytvořit nový časopis</target>
+    </trans-unit>
+    <trans-unit id="editor.navigation.issues">
+      <source>Čísla</source>
+      <target>Čísla</target>
+    </trans-unit>
+    <trans-unit id="notification.type.approveSubmission">
+      <source>Tento příspěvek čeká na schválení, než se objeví v čísle.</source>
+      <target>Tento příspěvek čeká na schválení, než se objeví v čísle.</target>
+    </trans-unit>
+    <trans-unit id="notification.type.approveSubmissionTitle">
+      <source>Očekává se schválení.</source>
+      <target>Očekává se schválení.</target>
+    </trans-unit>
+    <trans-unit id="user.profile.form.showOtherContexts">
+      <source>Zaregistrovat se do dalších časopisů</source>
+      <target>Zaregistrovat se do dalších časopisů</target>
+    </trans-unit>
+    <trans-unit id="user.profile.form.hideOtherContexts">
+      <source>Schovat další časopisy</source>
+      <target>Schovat další časopisy</target>
+    </trans-unit>
+    <trans-unit id="article.view.interstitial">
+      <source>Vyberte, prosím, článek na stažení.</source>
+      <target>Vyberte, prosím, článek na stažení.</target>
+    </trans-unit>
+    <trans-unit id="grid.catalogEntry.availableRepresentation.approved">
+      <source>Schváleno</source>
+      <target>Schváleno</target>
+    </trans-unit>
+    <trans-unit id="grid.catalogEntry.availableRepresentation.notApproved">
+      <source>Čeká se na schválení</source>
+      <target>Čeká se na schválení</target>
+    </trans-unit>
+    <trans-unit id="grid.catalogEntry.approvedRepresentation.title">
+      <source>Schválení sazebnice</source>
+      <target>Schválení sazebnice</target>
+    </trans-unit>
+    <trans-unit id="grid.catalogEntry.approvedRepresentation.message">
+      <source><p>Schválení této sazebnice pro publikování.<p></source>
+      <target><p>Schválení této sazebnice pro publikování.<p></target>
+    </trans-unit>
+    <trans-unit id="grid.catalogEntry.approvedRepresentation.removeMessage">
+      <source><p>Odebrání schválení této sazebnice.</p></source>
+      <target><p>Odebrání schválení této sazebnice.</p></target>
+    </trans-unit>
+    <trans-unit id="search.cli.rebuildIndex.indexing">
+      <source>Indexace "{$journalName}"</source>
+      <target>Indexace "{$journalName}"</target>
+    </trans-unit>
+    <trans-unit id="search.cli.rebuildIndex.indexingByJournalNotSupported">
+      <source>Tato implementace vyhledávání neumožňuje opakované indexování podle časopisů.</source>
+      <target>Tato implementace vyhledávání neumožňuje opakované indexování podle časopisů.</target>
+    </trans-unit>
+    <trans-unit id="search.cli.rebuildIndex.unknownJournal">
+      <source>Nastavená cesta k časopisu  "{$journalPath}" nelze přiřadit k časopisu.</source>
+      <target>Nastavená cesta k časopisu  "{$journalPath}" nelze přiřadit k časopisu.</target>
+    </trans-unit>
+    <trans-unit id="notification.savedIssueMetadata">
+      <source>Metadata čísla byla uložena.</source>
+      <target>Metadata čísla byla uložena.</target>
+    </trans-unit>
+    <trans-unit id="notification.type.editorAssignmentTask">
+      <source>Byl vložen nový článek a je nutné mu přiřadit editora.</source>
+      <target>Byl vložen nový článek a je nutné mu přiřadit editora.</target>
+    </trans-unit>
+    <trans-unit id="notification.type.assignProductionUser">
+      <source>Přiřaďte uživatele pro tvorbu sazebnic pomocí "Přidat odkaz" v seznamu uživatelů.</source>
+      <target>Přiřaďte uživatele pro tvorbu sazebnic pomocí "Přidat odkaz" v seznamu uživatelů.</target>
+    </trans-unit>
+    <trans-unit id="notification.type.awaitingRepresentations">
+      <source>Jsou očekávány sazebnice.</source>
+      <target>Jsou očekávány sazebnice.</target>
+    </trans-unit>
+    <trans-unit id="installer.preInstallationInstructions">
+      <source><h4>Kroky před instalací</h4>
+<p>1. Následující soubory a adresáře (a jejich obsah) musí být zapisovatelné: </p>
+<ul>
+<li><tt>config.inc.php</tt> je zapisovatelný (volitelné): {$writable_config}</li>
+<li><tt>public/</tt> je zapisovatelný: {$writable_public}</li>
+<li><tt>cache/</tt> je zapisovatelný: {$writable_cache}</li>
+<li><tt>cache/t_cache/</tt> je zapisovatelný: {$writable_templates_cache} </ li>
+<li> <tt>cache/t_compile/</tt> je zapisovatelný: {$writable_templates_compile} </ li>
+<li> <tt>cache/_db</tt> je zapisovatelný: {$writable_db_cache} </ li>
+</ul>
+
+<P> 2. Adresář pro ukládání nahraných souborů musí být vytvořen a zapisovatelný (viz "Nastavení souborů" níže). </p></source>
+      <target><h4>Kroky před instalací</h4>
+<p>1. Následující soubory a adresáře (a jejich obsah) musí být zapisovatelné: </p>
+<ul>
+<li><tt>config.inc.php</tt> je zapisovatelný (volitelné): {$writable_config}</li>
+<li><tt>public/</tt> je zapisovatelný: {$writable_public}</li>
+<li><tt>cache/</tt> je zapisovatelný: {$writable_cache}</li>
+<li><tt>cache/t_cache/</tt> je zapisovatelný: {$writable_templates_cache} </ li>
+<li> <tt>cache/t_compile/</tt> je zapisovatelný: {$writable_templates_compile} </ li>
+<li> <tt>cache/_db</tt> je zapisovatelný: {$writable_db_cache} </ li>
+</ul>
+
+<P> 2. Adresář pro ukládání nahraných souborů musí být vytvořen a zapisovatelný (viz "Nastavení souborů" níže). </p></target>
+    </trans-unit>
+    <trans-unit id="help.goToEditPage">
+      <source>Editovat {$sectionTitle}</source>
+      <target>Editovat {$sectionTitle}</target>
+    </trans-unit>
+    <trans-unit id="notification.type.submissionSubmitted">
+      <source>Nový článek s názvem "{$title}" byl vložen.</source>
+      <target>Nový článek s názvem "{$title}" byl vložen.</target>
+    </trans-unit>
+    <trans-unit id="subscriptions.status.noSubscription">
+      <source>Nemáte aktivní předplatné.</source>
+      <target>Nemáte aktivní předplatné.</target>
+    </trans-unit>
+    <trans-unit id="reader.purchasePrice">
+      <source>{$price}) ({$currency}</source>
+      <target>{$price}) ({$currency}</target>
+    </trans-unit>
+    <trans-unit id="payment.type.publication.required">
+      <source>Je třeba uhradit publikační poplatek.</source>
+      <target>Je třeba uhradit publikační poplatek.</target>
+    </trans-unit>
+    <trans-unit id="payment.requestPublicationFee">
+      <source>Požadovaný publikační poplatek ({$feeAmount})</source>
+      <target>Požadovaný publikační poplatek ({$feeAmount})</target>
+    </trans-unit>
+    <trans-unit id="payment.notFound">
+      <source>Byla požadována platba, ale termín požadavku vypršel. Podrobné informace získáte od správce časopisu.</source>
+      <target>Byla požadována platba, ale termín požadavku vypršel. Podrobné informace získáte od správce časopisu.</target>
+    </trans-unit>
+    <trans-unit id="notification.type.publicationScheduled">
+      <source>Příspěvek byl naplánován k publikování.</source>
+      <target>Příspěvek byl naplánován k publikování.</target>
+    </trans-unit>
+    <trans-unit id="navigation.subscriptions">
+      <source>Předplatné</source>
+      <target>Předplatné</target>
+    </trans-unit>
+    <trans-unit id="log.editor.submissionExpedited">
+      <source>{$editorName} převzal redakční proces příspěvku {$submissionId}.</source>
+      <target>{$editorName} převzal redakční proces příspěvku {$submissionId}.</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.porticoDescription">
+      <source>Portico je nezisková služba, která se zasazuje o uchování digitálních publikací, včetně e-časopisů, elektronických knih a digitalizovaných historických sbírek. Pokud podepsal váš časopis smlouvu s Portico, povolte tuto službu zde:</source>
+      <target>Portico je nezisková služba, která se zasazuje o uchování digitálních publikací, včetně e-časopisů, elektronických knih a digitalizovaných historických sbírek. Pokud podepsal váš časopis smlouvu s Portico, povolte tuto službu zde:</target>
+    </trans-unit>
+    <trans-unit id="log.editor.recommendation">
+      <source>Doporučení redaktora ({$decision}) pro článek {$submissionId} zaznamenal {$editorName}.</source>
+      <target>Doporučení redaktora ({$decision}) pro článek {$submissionId} zaznamenal {$editorName}.</target>
+    </trans-unit>
+    <trans-unit id="user.register.form.emailConsentAllContexts">
+      <source>Ano, chci dostávat upozornění na nové články a dostávat nová upozornění v rámci všech časopisů, ke kterým jsem se zaregistroval.</source>
+      <target>Ano, chci dostávat upozornění na nové články a dostávat nová upozornění v rámci všech časopisů, ke kterým jsem se zaregistroval.</target>
+    </trans-unit>
+    <trans-unit id="notification.type.public">
+      <source>Veřejné oznámení</source>
+      <target>Veřejné oznámení</target>
+    </trans-unit>
+    <trans-unit id="user.reviewerPrompt.optin">
+      <source>Ano, chci být kontaktován s požadavky na recenze příspěvků do tohoto časopisu.</source>
+      <target>Ano, chci být kontaktován s požadavky na recenze příspěvků do tohoto časopisu.</target>
+    </trans-unit>
+  </body>
+</file>
+</xliff>
+ 

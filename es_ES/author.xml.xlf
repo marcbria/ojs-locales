@@ -1,0 +1,872 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file original="SoyMsgBundle" datatype="x-soy-msg-bundle" xml:space="preserve" source-language="$lang" target-language="$lang">
+    <body>
+    <trans-unit id="author.submit">
+      <source>Nuevo envío</source>
+      <target>Nuevo envío</target>
+    </trans-unit>
+    <trans-unit id="author.track">
+      <source>Envíos activos</source>
+      <target>Envíos activos</target>
+    </trans-unit>
+    <trans-unit id="author.competingInterests">
+      <source>Conflicto&nbsp;de intereses <a target="_new" class="action" href="{$competingInterestGuidelinesUrl}">CI&nbsp;Policy</a></source>
+      <target>Conflicto&nbsp;de intereses <a target="_new" class="action" href="{$competingInterestGuidelinesUrl}">CI&nbsp;Policy</a></target>
+    </trans-unit>
+    <trans-unit id="author.submit.submitArticle">
+      <source>Enviar un artículo</source>
+      <target>Enviar un artículo</target>
+    </trans-unit>
+    <trans-unit id="author.submit.stepsToSubmit">
+      <source>Enviar un artículo en cinco pasos</source>
+      <target>Enviar un artículo en cinco pasos</target>
+    </trans-unit>
+    <trans-unit id="author.submit.startHereTitle">
+      <source>Empezar un nuevo envío</source>
+      <target>Empezar un nuevo envío</target>
+    </trans-unit>
+    <trans-unit id="author.submit.startHereLink">
+      <source><a href="{$submitUrl}" class="action">Haga clic aquí</a> para ir al primer paso del proceso de envío en cinco pasos.</source>
+      <target><a href="{$submitUrl}" class="action">Haga clic aquí</a> para ir al primer paso del proceso de envío en cinco pasos.</target>
+    </trans-unit>
+    <trans-unit id="author.submit.step1">
+      <source>Paso 1. Empezar el envío</source>
+      <target>Paso 1. Empezar el envío</target>
+    </trans-unit>
+    <trans-unit id="author.submit.step2">
+      <source>Paso 2. Cargar el envío</source>
+      <target>Paso 2. Cargar el envío</target>
+    </trans-unit>
+    <trans-unit id="author.submit.step3">
+      <source>Paso 3. Introducir los metadatos del envío</source>
+      <target>Paso 3. Introducir los metadatos del envío</target>
+    </trans-unit>
+    <trans-unit id="author.submit.step4">
+      <source>Paso 4. Cargar los archivos complementarios</source>
+      <target>Paso 4. Cargar los archivos complementarios</target>
+    </trans-unit>
+    <trans-unit id="author.submit.step4a">
+      <source>Paso 4a. Añadir un archivo complementario</source>
+      <target>Paso 4a. Añadir un archivo complementario</target>
+    </trans-unit>
+    <trans-unit id="author.submit.step5">
+      <source>Paso 5. Confirmar el envío</source>
+      <target>Paso 5. Confirmar el envío</target>
+    </trans-unit>
+    <trans-unit id="author.submit.start">
+      <source>Inicio</source>
+      <target>Inicio</target>
+    </trans-unit>
+    <trans-unit id="author.submit.upload">
+      <source>Cargar el envío</source>
+      <target>Cargar el envío</target>
+    </trans-unit>
+    <trans-unit id="author.submit.metadata">
+      <source>Introducir los metadatos</source>
+      <target>Introducir los metadatos</target>
+    </trans-unit>
+    <trans-unit id="author.submit.supplementaryFiles">
+      <source>Cargar los archivos complementarios</source>
+      <target>Cargar los archivos complementarios</target>
+    </trans-unit>
+    <trans-unit id="author.submit.confirmation">
+      <source>Confirmación</source>
+      <target>Confirmación</target>
+    </trans-unit>
+    <trans-unit id="submission.submit.cancelSubmission">
+      <source>Puede completar este envío en otro momento seleccionando Envíos activos desde la página de inicio del autor/a.</source>
+      <target>Puede completar este envío en otro momento seleccionando Envíos activos desde la página de inicio del autor/a.</target>
+    </trans-unit>
+    <trans-unit id="author.submit.notAccepting">
+      <source>La revista no acepta envíos en este momento.</source>
+      <target>La revista no acepta envíos en este momento.</target>
+    </trans-unit>
+    <trans-unit id="author.submit.requestWaiver">
+      <source>Solicitud de exención de cuotas</source>
+      <target>Solicitud de exención de cuotas</target>
+    </trans-unit>
+    <trans-unit id="author.submit.qualifyForWaiver">
+      <source>Considere la posibilidad de exención de la cuota de envío para este artículo.</source>
+      <target>Considere la posibilidad de exención de la cuota de envío para este artículo.</target>
+    </trans-unit>
+    <trans-unit id="author.submit.addReasonsForWaiver">
+      <source>Deje un comentario en la casilla que encontrará a continuación para indicar por qué no se deberían aplicar las cuotas.</source>
+      <target>Deje un comentario en la casilla que encontrará a continuación para indicar por qué no se deberían aplicar las cuotas.</target>
+    </trans-unit>
+    <trans-unit id="author.submit.mustEnterWaiverReason">
+      <source>Si solicita una exención de cuotas, deberá introducir un motivo en el espacio que se le proporciona.</source>
+      <target>Si solicita una exención de cuotas, deberá introducir un motivo en el espacio que se le proporciona.</target>
+    </trans-unit>
+    <trans-unit id="author.submissions.queuedReviewSubsequent">
+      <source>En ronda de revisión {$round}</source>
+      <target>En ronda de revisión {$round}</target>
+    </trans-unit>
+    <trans-unit id="author.submissions.queuedReviewRevisions">
+      <source>En revisión: Publicable con modificaciones</source>
+      <target>En revisión: Publicable con modificaciones</target>
+    </trans-unit>
+    <trans-unit id="author.submissions.queuedEditingCopyedit">
+      <source>En edición: Se requiere corrección de originales</source>
+      <target>En edición: Se requiere corrección de originales</target>
+    </trans-unit>
+    <trans-unit id="author.submissions.queuedEditingProofread">
+      <source>En edición: Se requiere corrección de pruebas</source>
+      <target>En edición: Se requiere corrección de pruebas</target>
+    </trans-unit>
+    <trans-unit id="author.submissions.uploadCopyeditedVersion">
+      <source>Cargar la versión corregida</source>
+      <target>Cargar la versión corregida</target>
+    </trans-unit>
+    <trans-unit id="author.submissions.proofreadingCorrections">
+      <source>Modificaciones de la corrección de pruebas</source>
+      <target>Modificaciones de la corrección de pruebas</target>
+    </trans-unit>
+    <trans-unit id="author.submissions.confirmDelete">
+      <source>¿Está seguro/a de que desea eliminar el envío incompleto?</source>
+      <target>¿Está seguro/a de que desea eliminar el envío incompleto?</target>
+    </trans-unit>
+    <trans-unit id="author.submissions.viewStatus">
+      <source>Ver estado</source>
+      <target>Ver estado</target>
+    </trans-unit>
+    <trans-unit id="author.submissions.noSubmissions">
+      <source>Sin envíos.</source>
+      <target>Sin envíos.</target>
+    </trans-unit>
+    <trans-unit id="author.submit.howToSubmit">
+      <source>¿Necesita ayuda? Póngase en contacto con <a href="mailto:{$supportEmail}">{$supportName}</a> para recibir asistencia ({$supportPhone}).</source>
+      <target>¿Necesita ayuda? Póngase en contacto con <a href="mailto:{$supportEmail}">{$supportName}</a> para recibir asistencia ({$supportPhone}).</target>
+    </trans-unit>
+    <trans-unit id="author.submit.howToSubmitNoPhone">
+      <source>¿Necesita ayuda? Póngase en contacto con <a href="mailto:{$supportEmail}">{$supportName}</a> para recibir asistencia.</source>
+      <target>¿Necesita ayuda? Póngase en contacto con <a href="mailto:{$supportEmail}">{$supportName}</a> para recibir asistencia.</target>
+    </trans-unit>
+    <trans-unit id="author.submit.journalSection">
+      <source>Sección de la revista</source>
+      <target>Sección de la revista</target>
+    </trans-unit>
+    <trans-unit id="author.submit.journalSectionDescription">
+      <source>Seleccione la sección adecuada para el envío (ver Secciones y Política en <a href="{$aboutUrl}" target="_new">Acerca de</a> la revista).</source>
+      <target>Seleccione la sección adecuada para el envío (ver Secciones y Política en <a href="{$aboutUrl}" target="_new">Acerca de</a> la revista).</target>
+    </trans-unit>
+    <trans-unit id="submission.submit.selectSection">
+      <source>Seleccione una sección...</source>
+      <target>Seleccione una sección...</target>
+    </trans-unit>
+    <trans-unit id="author.submit.submissionChecklist">
+      <source>Lista de comprobación del envío</source>
+      <target>Lista de comprobación del envío</target>
+    </trans-unit>
+    <trans-unit id="author.submit.verifyChecklist">
+      <source>Antes de continuar, debe asegurarse de que se cumplen todos los requisitos de la lista de comprobación.</source>
+      <target>Antes de continuar, debe asegurarse de que se cumplen todos los requisitos de la lista de comprobación.</target>
+    </trans-unit>
+    <trans-unit id="author.submit.copyrightNoticeAgree">
+      <source>Los autores/as se comprometen a aceptar las condiciones de este aviso de derechos de autor/a, que se aplicarán a este envío siempre y cuando se publique en esta revista (más abajo se pueden añadir comentarios al editor/a).</source>
+      <target>Los autores/as se comprometen a aceptar las condiciones de este aviso de derechos de autor/a, que se aplicarán a este envío siempre y cuando se publique en esta revista (más abajo se pueden añadir comentarios al editor/a).</target>
+    </trans-unit>
+    <trans-unit id="author.submit.copyrightNoticeAgreeRequired">
+      <source>Debe aceptar las condiciones del aviso de derechos de autor/a antes de continuar.</source>
+      <target>Debe aceptar las condiciones del aviso de derechos de autor/a antes de continuar.</target>
+    </trans-unit>
+    <trans-unit id="submission.submit.coverNote">
+      <source>Comentarios para el editor/a</source>
+      <target>Comentarios para el editor/a</target>
+    </trans-unit>
+    <trans-unit id="author.submit.comments">
+      <source>Introduzca texto (opcional)</source>
+      <target>Introduzca texto (opcional)</target>
+    </trans-unit>
+    <trans-unit id="author.submit.form.sectionRequired">
+      <source>Seleccione la sección adecuada de la revista para este envío.</source>
+      <target>Seleccione la sección adecuada de la revista para este envío.</target>
+    </trans-unit>
+    <trans-unit id="author.submit.form.localeRequired">
+      <source>Seleccione el idioma del envío.</source>
+      <target>Seleccione el idioma del envío.</target>
+    </trans-unit>
+    <trans-unit id="submission.submit.privacyStatement">
+      <source>Declaración de privacidad de la revista</source>
+      <target>Declaración de privacidad de la revista</target>
+    </trans-unit>
+    <trans-unit id="author.submit.reorderInstructions">
+      <source>Reordenar a los autores/as para que aparezcan en el orden en el que serán enumerados en la publicación.</source>
+      <target>Reordenar a los autores/as para que aparezcan en el orden en el que serán enumerados en la publicación.</target>
+    </trans-unit>
+    <trans-unit id="author.submit.reorder">
+      <source>Reordenar el nombre del autor/a</source>
+      <target>Reordenar el nombre del autor/a</target>
+    </trans-unit>
+    <trans-unit id="author.submit.selectPrincipalContact">
+      <source>Contacto principal para la correspondencia editorial.</source>
+      <target>Contacto principal para la correspondencia editorial.</target>
+    </trans-unit>
+    <trans-unit id="author.submit.addAuthor">
+      <source>Añadir autor/a</source>
+      <target>Añadir autor/a</target>
+    </trans-unit>
+    <trans-unit id="author.submit.deleteAuthor">
+      <source>Eliminar autor/a</source>
+      <target>Eliminar autor/a</target>
+    </trans-unit>
+    <trans-unit id="author.submit.submissionIndexingDescription">
+      <source>Proporcione términos para indexar el envío y sepárelos con un punto y coma (término1; término2; término3).</source>
+      <target>Proporcione términos para indexar el envío y sepárelos con un punto y coma (término1; término2; término3).</target>
+    </trans-unit>
+    <trans-unit id="author.submit.coverageInstructions">
+      <source>Se refiere a la localización geográfica, a la cobertura cronológica o histórica o a las características de la muestra de investigación.</source>
+      <target>Se refiere a la localización geográfica, a la cobertura cronológica o histórica o a las características de la muestra de investigación.</target>
+    </trans-unit>
+    <trans-unit id="author.submit.languageInstructions">
+      <source>Inglés=en; francés=fr; español=es. <a href="http://www.loc.gov/standards/iso639-2/php/code_list.php" target="_blank">Códigos adicionales</a>.</source>
+      <target>Inglés=en; francés=fr; español=es. <a href="http://www.loc.gov/standards/iso639-2/php/code_list.php" target="_blank">Códigos adicionales</a>.</target>
+    </trans-unit>
+    <trans-unit id="author.submit.form.authorRequired">
+      <source>Inserte al menos un autor/a.</source>
+      <target>Inserte al menos un autor/a.</target>
+    </trans-unit>
+    <trans-unit id="author.submit.form.authorRequiredFields">
+      <source>Inserte el nombre, apellidos y dirección de correo electrónico de cada autor/a.</source>
+      <target>Inserte el nombre, apellidos y dirección de correo electrónico de cada autor/a.</target>
+    </trans-unit>
+    <trans-unit id="author.submit.form.titleRequired">
+      <source>Introduzca el título del artículo.</source>
+      <target>Introduzca el título del artículo.</target>
+    </trans-unit>
+    <trans-unit id="author.submit.form.abstractRequired">
+      <source>Introduzca el resumen del artículo.</source>
+      <target>Introduzca el resumen del artículo.</target>
+    </trans-unit>
+    <trans-unit id="author.submit.form.wordCountAlert">
+      <source>Ha superado el límite máximo de palabras para resúmenes en esta sección.</source>
+      <target>Ha superado el límite máximo de palabras para resúmenes en esta sección.</target>
+    </trans-unit>
+    <trans-unit id="author.submit.submissionFile">
+      <source>Archivo de envío</source>
+      <target>Archivo de envío</target>
+    </trans-unit>
+    <trans-unit id="author.submit.uploadSubmissionFile">
+      <source>Cargar el archivo de envío</source>
+      <target>Cargar el archivo de envío</target>
+    </trans-unit>
+    <trans-unit id="author.submit.replaceSubmissionFile">
+      <source>Reemplazar el archivo de envío</source>
+      <target>Reemplazar el archivo de envío</target>
+    </trans-unit>
+    <trans-unit id="author.submit.noSubmissionFile">
+      <source>No se ha cargado ningún archivo de envío.</source>
+      <target>No se ha cargado ningún archivo de envío.</target>
+    </trans-unit>
+    <trans-unit id="author.submit.noSubmissionConfirm">
+      <source>¿Está seguro/a de que desea continuar sin cargar un archivo de envío?</source>
+      <target>¿Está seguro/a de que desea continuar sin cargar un archivo de envío?</target>
+    </trans-unit>
+    <trans-unit id="author.submit.supplementaryFilesInstructions">
+      <source>Este paso opcional permite añadir archivos complementarios al envío. Estos archivos, que pueden estar en cualquier formato, pueden incluir (a) herramientas de investigación; (b) conjuntos de datos que cumplan con los términos establecidos por la revisión ética de la investigación; (c) fuentes que de otro modo no estarían disponibles para los lectores/as, (d) figuras y tablas que no se puedan integrar en el texto u otros materiales que se añadan a la contribución del trabajo.</source>
+      <target>Este paso opcional permite añadir archivos complementarios al envío. Estos archivos, que pueden estar en cualquier formato, pueden incluir (a) herramientas de investigación; (b) conjuntos de datos que cumplan con los términos establecidos por la revisión ética de la investigación; (c) fuentes que de otro modo no estarían disponibles para los lectores/as, (d) figuras y tablas que no se puedan integrar en el texto u otros materiales que se añadan a la contribución del trabajo.</target>
+    </trans-unit>
+    <trans-unit id="author.submit.supplementaryFiles.saveToUpload">
+      <source>Haga clic en Guardar para cargar el archivo (después se podrán cargar los archivos adicionales).</source>
+      <target>Haga clic en Guardar para cargar el archivo (después se podrán cargar los archivos adicionales).</target>
+    </trans-unit>
+    <trans-unit id="author.submit.forgottenSubmitSuppFile">
+      <source>¿Está seguro/a de que desea continuar sin cargar el archivo complementario que ha seleccionado?</source>
+      <target>¿Está seguro/a de que desea continuar sin cargar el archivo complementario que ha seleccionado?</target>
+    </trans-unit>
+    <trans-unit id="author.submit.noSupplementaryFiles">
+      <source>No se han añadido archivos complementarios a este envío.</source>
+      <target>No se han añadido archivos complementarios a este envío.</target>
+    </trans-unit>
+    <trans-unit id="author.submit.backToSupplementaryFiles">
+      <source>Volver a Archivos complementarios</source>
+      <target>Volver a Archivos complementarios</target>
+    </trans-unit>
+    <trans-unit id="author.submit.confirmDeleteSuppFile">
+      <source>¿Está seguro/a de que desea eliminar este archivo complementario?</source>
+      <target>¿Está seguro/a de que desea eliminar este archivo complementario?</target>
+    </trans-unit>
+    <trans-unit id="author.submit.uploadSuppFile">
+      <source>Cargar archivo complementario</source>
+      <target>Cargar archivo complementario</target>
+    </trans-unit>
+    <trans-unit id="author.submit.addSupplementaryFile">
+      <source>Añadir un archivo complementario</source>
+      <target>Añadir un archivo complementario</target>
+    </trans-unit>
+    <trans-unit id="author.submit.editSupplementaryFile">
+      <source>Editar un archivo complementario</source>
+      <target>Editar un archivo complementario</target>
+    </trans-unit>
+    <trans-unit id="author.submit.supplementaryFileData">
+      <source>Metadatos de archivos complementarios</source>
+      <target>Metadatos de archivos complementarios</target>
+    </trans-unit>
+    <trans-unit id="author.submit.supplementaryFileDataDescription">
+      <source>Para indexar el material complementario proporcione los siguientes metadatos del archivo complementario que ha cargado:</source>
+      <target>Para indexar el material complementario proporcione los siguientes metadatos del archivo complementario que ha cargado:</target>
+    </trans-unit>
+    <trans-unit id="author.submit.supplementaryFileUpload">
+      <source>Archivo complementario</source>
+      <target>Archivo complementario</target>
+    </trans-unit>
+    <trans-unit id="author.submit.suppFile.createrOrOwner">
+      <source>Creador/a (o propietario/a) del archivo</source>
+      <target>Creador/a (o propietario/a) del archivo</target>
+    </trans-unit>
+    <trans-unit id="author.submit.suppFile.researchInstrument">
+      <source>Herramienta de investigación</source>
+      <target>Herramienta de investigación</target>
+    </trans-unit>
+    <trans-unit id="author.submit.suppFile.researchMaterials">
+      <source>Materiales de investigación</source>
+      <target>Materiales de investigación</target>
+    </trans-unit>
+    <trans-unit id="author.submit.suppFile.researchResults">
+      <source>Resultados de la investigación</source>
+      <target>Resultados de la investigación</target>
+    </trans-unit>
+    <trans-unit id="author.submit.suppFile.transcripts">
+      <source>Transcripciones</source>
+      <target>Transcripciones</target>
+    </trans-unit>
+    <trans-unit id="author.submit.suppFile.dataAnalysis">
+      <source>Análisis de los datos</source>
+      <target>Análisis de los datos</target>
+    </trans-unit>
+    <trans-unit id="author.submit.suppFile.dataSet">
+      <source>Conjunto de datos</source>
+      <target>Conjunto de datos</target>
+    </trans-unit>
+    <trans-unit id="author.submit.suppFile.sourceText">
+      <source>Texto fuente</source>
+      <target>Texto fuente</target>
+    </trans-unit>
+    <trans-unit id="author.submit.suppFile.briefDescription">
+      <source>Descripción breve</source>
+      <target>Descripción breve</target>
+    </trans-unit>
+    <trans-unit id="author.submit.suppFile.availableToPeers">
+      <source>Presentar el archivo (sin metadatos) a los revisores/as para asegurar que el archivo sea objeto de evaluación anónima.</source>
+      <target>Presentar el archivo (sin metadatos) a los revisores/as para asegurar que el archivo sea objeto de evaluación anónima.</target>
+    </trans-unit>
+    <trans-unit id="author.submit.suppFile.publisherDescription">
+      <source>Utilizar sólo con materiales publicados formalmente.</source>
+      <target>Utilizar sólo con materiales publicados formalmente.</target>
+    </trans-unit>
+    <trans-unit id="author.submit.suppFile.dateDescription">
+      <source>Fecha en la que se recopilaron los datos o se creó el instrumento.</source>
+      <target>Fecha en la que se recopilaron los datos o se creó el instrumento.</target>
+    </trans-unit>
+    <trans-unit id="author.submit.suppFile.sourceDescription">
+      <source>Nombre del estudio u otro punto de origen.</source>
+      <target>Nombre del estudio u otro punto de origen.</target>
+    </trans-unit>
+    <trans-unit id="author.submit.suppFile.specifyOtherType">
+      <source>Especificar otros</source>
+      <target>Especificar otros</target>
+    </trans-unit>
+    <trans-unit id="author.submit.suppFile.noFile">
+      <source>No se ha cargado ningún archivo.</source>
+      <target>No se ha cargado ningún archivo.</target>
+    </trans-unit>
+    <trans-unit id="author.submit.suppFile.form.titleRequired">
+      <source>Introduzca el título del archivo complementario.</source>
+      <target>Introduzca el título del archivo complementario.</target>
+    </trans-unit>
+    <trans-unit id="author.submit.suppFile.form.subjectRequired">
+      <source>Introduzca un tema.</source>
+      <target>Introduzca un tema.</target>
+    </trans-unit>
+    <trans-unit id="author.submit.suppFile.form.descriptionRequired">
+      <source>Introduzca una descripción.</source>
+      <target>Introduzca una descripción.</target>
+    </trans-unit>
+    <trans-unit id="author.suppFile.suppFilePublicIdentificationExists">
+      <source>La identificación pública del archivo complementario ya existe.</source>
+      <target>La identificación pública del archivo complementario ya existe.</target>
+    </trans-unit>
+    <trans-unit id="author.suppFile.publicSuppFileIdentifier">
+      <source>Identificador público del archivo complementario</source>
+      <target>Identificador público del archivo complementario</target>
+    </trans-unit>
+    <trans-unit id="author.submit.confirmationDescription">
+      <source>Para enviar su manuscrito a {$journalTitle} haga clic en Finalizar envío. El contacto principal del envío recibirá un acuse de recibo por correo electrónico y podrá ver el progreso del envío a través del proceso editorial iniciando sesión en el sitio web de la revista. Gracias por su publicación en {$journalTitle}.</source>
+      <target>Para enviar su manuscrito a {$journalTitle} haga clic en Finalizar envío. El contacto principal del envío recibirá un acuse de recibo por correo electrónico y podrá ver el progreso del envío a través del proceso editorial iniciando sesión en el sitio web de la revista. Gracias por su publicación en {$journalTitle}.</target>
+    </trans-unit>
+    <trans-unit id="author.submit.noFiles">
+      <source>No se han adjuntado archivos a este envío.</source>
+      <target>No se han adjuntado archivos a este envío.</target>
+    </trans-unit>
+    <trans-unit id="author.submit.filesSummary">
+      <source>Resumen del archivo</source>
+      <target>Resumen del archivo</target>
+    </trans-unit>
+    <trans-unit id="author.submit.finishSubmission">
+      <source>Finalizar envío</source>
+      <target>Finalizar envío</target>
+    </trans-unit>
+    <trans-unit id="author.submit.submissionComplete">
+      <source>Envío completado. Gracias por su publicación en {$journalTitle}.</source>
+      <target>Envío completado. Gracias por su publicación en {$journalTitle}.</target>
+    </trans-unit>
+    <trans-unit id="author.article.uploadAuthorVersion">
+      <source>Cargar la versión del autor/a</source>
+      <target>Cargar la versión del autor/a</target>
+    </trans-unit>
+    <trans-unit id="author.article.copyeditedFile">
+      <source>Archivo corregido</source>
+      <target>Archivo corregido</target>
+    </trans-unit>
+    <trans-unit id="author.article.authorRevisedFile">
+      <source>Archivo del autor/a</source>
+      <target>Archivo del autor/a</target>
+    </trans-unit>
+    <trans-unit id="author.submit.authorSubmitLoginMessage">
+      <source>Es necesario disponer de una cuenta de usuario/a para realizar envíos a la revista. Esto permite que nuestros editores/as hagan un seguimiento de sus envíos y puedan contactarle cuando cambie el estado de los mismos o si es necesario proporcionar información adicional.</source>
+      <target>Es necesario disponer de una cuenta de usuario/a para realizar envíos a la revista. Esto permite que nuestros editores/as hagan un seguimiento de sus envíos y puedan contactarle cuando cambie el estado de los mismos o si es necesario proporcionar información adicional.</target>
+    </trans-unit>
+    <trans-unit id="author.submit.nextSteps">
+      <source>Siguientes pasos</source>
+      <target>Siguientes pasos</target>
+    </trans-unit>
+  </body>
+</file>
+</xliff>
+ 
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file original="SoyMsgBundle" datatype="x-soy-msg-bundle" xml:space="preserve" source-language="$lang" target-language="$lang">
+    <body>
+    <trans-unit id="author.submit">
+      <source>Nuevo envío</source>
+      <target>Nuevo envío</target>
+    </trans-unit>
+    <trans-unit id="author.track">
+      <source>Envíos activos</source>
+      <target>Envíos activos</target>
+    </trans-unit>
+    <trans-unit id="author.competingInterests">
+      <source>Conflicto&nbsp;de intereses <a target="_new" class="action" href="{$competingInterestGuidelinesUrl}">CI&nbsp;Policy</a></source>
+      <target>Conflicto&nbsp;de intereses <a target="_new" class="action" href="{$competingInterestGuidelinesUrl}">CI&nbsp;Policy</a></target>
+    </trans-unit>
+    <trans-unit id="author.submit.submitArticle">
+      <source>Enviar un artículo</source>
+      <target>Enviar un artículo</target>
+    </trans-unit>
+    <trans-unit id="author.submit.stepsToSubmit">
+      <source>Enviar un artículo en cinco pasos</source>
+      <target>Enviar un artículo en cinco pasos</target>
+    </trans-unit>
+    <trans-unit id="author.submit.startHereTitle">
+      <source>Empezar un nuevo envío</source>
+      <target>Empezar un nuevo envío</target>
+    </trans-unit>
+    <trans-unit id="author.submit.startHereLink">
+      <source><a href="{$submitUrl}" class="action">Haga clic aquí</a> para ir al primer paso del proceso de envío en cinco pasos.</source>
+      <target><a href="{$submitUrl}" class="action">Haga clic aquí</a> para ir al primer paso del proceso de envío en cinco pasos.</target>
+    </trans-unit>
+    <trans-unit id="author.submit.step1">
+      <source>Paso 1. Empezar el envío</source>
+      <target>Paso 1. Empezar el envío</target>
+    </trans-unit>
+    <trans-unit id="author.submit.step2">
+      <source>Paso 2. Cargar el envío</source>
+      <target>Paso 2. Cargar el envío</target>
+    </trans-unit>
+    <trans-unit id="author.submit.step3">
+      <source>Paso 3. Introducir los metadatos del envío</source>
+      <target>Paso 3. Introducir los metadatos del envío</target>
+    </trans-unit>
+    <trans-unit id="author.submit.step4">
+      <source>Paso 4. Cargar los archivos complementarios</source>
+      <target>Paso 4. Cargar los archivos complementarios</target>
+    </trans-unit>
+    <trans-unit id="author.submit.step4a">
+      <source>Paso 4a. Añadir un archivo complementario</source>
+      <target>Paso 4a. Añadir un archivo complementario</target>
+    </trans-unit>
+    <trans-unit id="author.submit.step5">
+      <source>Paso 5. Confirmar el envío</source>
+      <target>Paso 5. Confirmar el envío</target>
+    </trans-unit>
+    <trans-unit id="author.submit.start">
+      <source>Inicio</source>
+      <target>Inicio</target>
+    </trans-unit>
+    <trans-unit id="author.submit.upload">
+      <source>Cargar el envío</source>
+      <target>Cargar el envío</target>
+    </trans-unit>
+    <trans-unit id="author.submit.metadata">
+      <source>Introducir los metadatos</source>
+      <target>Introducir los metadatos</target>
+    </trans-unit>
+    <trans-unit id="author.submit.supplementaryFiles">
+      <source>Cargar los archivos complementarios</source>
+      <target>Cargar los archivos complementarios</target>
+    </trans-unit>
+    <trans-unit id="author.submit.confirmation">
+      <source>Confirmación</source>
+      <target>Confirmación</target>
+    </trans-unit>
+    <trans-unit id="submission.submit.cancelSubmission">
+      <source>Puede completar este envío en otro momento seleccionando Envíos activos desde la página de inicio del autor/a.</source>
+      <target>Puede completar este envío en otro momento seleccionando Envíos activos desde la página de inicio del autor/a.</target>
+    </trans-unit>
+    <trans-unit id="author.submit.notAccepting">
+      <source>La revista no acepta envíos en este momento.</source>
+      <target>La revista no acepta envíos en este momento.</target>
+    </trans-unit>
+    <trans-unit id="author.submit.requestWaiver">
+      <source>Solicitud de exención de cuotas</source>
+      <target>Solicitud de exención de cuotas</target>
+    </trans-unit>
+    <trans-unit id="author.submit.qualifyForWaiver">
+      <source>Considere la posibilidad de exención de la cuota de envío para este artículo.</source>
+      <target>Considere la posibilidad de exención de la cuota de envío para este artículo.</target>
+    </trans-unit>
+    <trans-unit id="author.submit.addReasonsForWaiver">
+      <source>Deje un comentario en la casilla que encontrará a continuación para indicar por qué no se deberían aplicar las cuotas.</source>
+      <target>Deje un comentario en la casilla que encontrará a continuación para indicar por qué no se deberían aplicar las cuotas.</target>
+    </trans-unit>
+    <trans-unit id="author.submit.mustEnterWaiverReason">
+      <source>Si solicita una exención de cuotas, deberá introducir un motivo en el espacio que se le proporciona.</source>
+      <target>Si solicita una exención de cuotas, deberá introducir un motivo en el espacio que se le proporciona.</target>
+    </trans-unit>
+    <trans-unit id="author.submissions.queuedReviewSubsequent">
+      <source>En ronda de revisión {$round}</source>
+      <target>En ronda de revisión {$round}</target>
+    </trans-unit>
+    <trans-unit id="author.submissions.queuedReviewRevisions">
+      <source>En revisión: Publicable con modificaciones</source>
+      <target>En revisión: Publicable con modificaciones</target>
+    </trans-unit>
+    <trans-unit id="author.submissions.queuedEditingCopyedit">
+      <source>En edición: Se requiere corrección de originales</source>
+      <target>En edición: Se requiere corrección de originales</target>
+    </trans-unit>
+    <trans-unit id="author.submissions.queuedEditingProofread">
+      <source>En edición: Se requiere corrección de pruebas</source>
+      <target>En edición: Se requiere corrección de pruebas</target>
+    </trans-unit>
+    <trans-unit id="author.submissions.uploadCopyeditedVersion">
+      <source>Cargar la versión corregida</source>
+      <target>Cargar la versión corregida</target>
+    </trans-unit>
+    <trans-unit id="author.submissions.proofreadingCorrections">
+      <source>Modificaciones de la corrección de pruebas</source>
+      <target>Modificaciones de la corrección de pruebas</target>
+    </trans-unit>
+    <trans-unit id="author.submissions.confirmDelete">
+      <source>¿Está seguro/a de que desea eliminar el envío incompleto?</source>
+      <target>¿Está seguro/a de que desea eliminar el envío incompleto?</target>
+    </trans-unit>
+    <trans-unit id="author.submissions.viewStatus">
+      <source>Ver estado</source>
+      <target>Ver estado</target>
+    </trans-unit>
+    <trans-unit id="author.submissions.noSubmissions">
+      <source>Sin envíos.</source>
+      <target>Sin envíos.</target>
+    </trans-unit>
+    <trans-unit id="author.submit.howToSubmit">
+      <source>¿Necesita ayuda? Póngase en contacto con <a href="mailto:{$supportEmail}">{$supportName}</a> para recibir asistencia ({$supportPhone}).</source>
+      <target>¿Necesita ayuda? Póngase en contacto con <a href="mailto:{$supportEmail}">{$supportName}</a> para recibir asistencia ({$supportPhone}).</target>
+    </trans-unit>
+    <trans-unit id="author.submit.howToSubmitNoPhone">
+      <source>¿Necesita ayuda? Póngase en contacto con <a href="mailto:{$supportEmail}">{$supportName}</a> para recibir asistencia.</source>
+      <target>¿Necesita ayuda? Póngase en contacto con <a href="mailto:{$supportEmail}">{$supportName}</a> para recibir asistencia.</target>
+    </trans-unit>
+    <trans-unit id="author.submit.journalSection">
+      <source>Sección de la revista</source>
+      <target>Sección de la revista</target>
+    </trans-unit>
+    <trans-unit id="author.submit.journalSectionDescription">
+      <source>Seleccione la sección adecuada para el envío (ver Secciones y Política en <a href="{$aboutUrl}" target="_new">Acerca de</a> la revista).</source>
+      <target>Seleccione la sección adecuada para el envío (ver Secciones y Política en <a href="{$aboutUrl}" target="_new">Acerca de</a> la revista).</target>
+    </trans-unit>
+    <trans-unit id="submission.submit.selectSection">
+      <source>Seleccione una sección...</source>
+      <target>Seleccione una sección...</target>
+    </trans-unit>
+    <trans-unit id="author.submit.submissionChecklist">
+      <source>Lista de comprobación del envío</source>
+      <target>Lista de comprobación del envío</target>
+    </trans-unit>
+    <trans-unit id="author.submit.verifyChecklist">
+      <source>Antes de continuar, debe asegurarse de que se cumplen todos los requisitos de la lista de comprobación.</source>
+      <target>Antes de continuar, debe asegurarse de que se cumplen todos los requisitos de la lista de comprobación.</target>
+    </trans-unit>
+    <trans-unit id="author.submit.copyrightNoticeAgree">
+      <source>Los autores/as se comprometen a aceptar las condiciones de este aviso de derechos de autor/a, que se aplicarán a este envío siempre y cuando se publique en esta revista (más abajo se pueden añadir comentarios al editor/a).</source>
+      <target>Los autores/as se comprometen a aceptar las condiciones de este aviso de derechos de autor/a, que se aplicarán a este envío siempre y cuando se publique en esta revista (más abajo se pueden añadir comentarios al editor/a).</target>
+    </trans-unit>
+    <trans-unit id="author.submit.copyrightNoticeAgreeRequired">
+      <source>Debe aceptar las condiciones del aviso de derechos de autor/a antes de continuar.</source>
+      <target>Debe aceptar las condiciones del aviso de derechos de autor/a antes de continuar.</target>
+    </trans-unit>
+    <trans-unit id="submission.submit.coverNote">
+      <source>Comentarios para el editor/a</source>
+      <target>Comentarios para el editor/a</target>
+    </trans-unit>
+    <trans-unit id="author.submit.comments">
+      <source>Introduzca texto (opcional)</source>
+      <target>Introduzca texto (opcional)</target>
+    </trans-unit>
+    <trans-unit id="author.submit.form.sectionRequired">
+      <source>Seleccione la sección adecuada de la revista para este envío.</source>
+      <target>Seleccione la sección adecuada de la revista para este envío.</target>
+    </trans-unit>
+    <trans-unit id="author.submit.form.localeRequired">
+      <source>Seleccione el idioma del envío.</source>
+      <target>Seleccione el idioma del envío.</target>
+    </trans-unit>
+    <trans-unit id="submission.submit.privacyStatement">
+      <source>Declaración de privacidad de la revista</source>
+      <target>Declaración de privacidad de la revista</target>
+    </trans-unit>
+    <trans-unit id="author.submit.reorderInstructions">
+      <source>Reordenar a los autores/as para que aparezcan en el orden en el que serán enumerados en la publicación.</source>
+      <target>Reordenar a los autores/as para que aparezcan en el orden en el que serán enumerados en la publicación.</target>
+    </trans-unit>
+    <trans-unit id="author.submit.reorder">
+      <source>Reordenar el nombre del autor/a</source>
+      <target>Reordenar el nombre del autor/a</target>
+    </trans-unit>
+    <trans-unit id="author.submit.selectPrincipalContact">
+      <source>Contacto principal para la correspondencia editorial.</source>
+      <target>Contacto principal para la correspondencia editorial.</target>
+    </trans-unit>
+    <trans-unit id="author.submit.addAuthor">
+      <source>Añadir autor/a</source>
+      <target>Añadir autor/a</target>
+    </trans-unit>
+    <trans-unit id="author.submit.deleteAuthor">
+      <source>Eliminar autor/a</source>
+      <target>Eliminar autor/a</target>
+    </trans-unit>
+    <trans-unit id="author.submit.submissionIndexingDescription">
+      <source>Proporcione términos para indexar el envío y sepárelos con un punto y coma (término1; término2; término3).</source>
+      <target>Proporcione términos para indexar el envío y sepárelos con un punto y coma (término1; término2; término3).</target>
+    </trans-unit>
+    <trans-unit id="author.submit.coverageInstructions">
+      <source>Se refiere a la localización geográfica, a la cobertura cronológica o histórica o a las características de la muestra de investigación.</source>
+      <target>Se refiere a la localización geográfica, a la cobertura cronológica o histórica o a las características de la muestra de investigación.</target>
+    </trans-unit>
+    <trans-unit id="author.submit.languageInstructions">
+      <source>Inglés=en; francés=fr; español=es. <a href="http://www.loc.gov/standards/iso639-2/php/code_list.php" target="_blank">Códigos adicionales</a>.</source>
+      <target>Inglés=en; francés=fr; español=es. <a href="http://www.loc.gov/standards/iso639-2/php/code_list.php" target="_blank">Códigos adicionales</a>.</target>
+    </trans-unit>
+    <trans-unit id="author.submit.form.authorRequired">
+      <source>Inserte al menos un autor/a.</source>
+      <target>Inserte al menos un autor/a.</target>
+    </trans-unit>
+    <trans-unit id="author.submit.form.authorRequiredFields">
+      <source>Inserte el nombre, apellidos y dirección de correo electrónico de cada autor/a.</source>
+      <target>Inserte el nombre, apellidos y dirección de correo electrónico de cada autor/a.</target>
+    </trans-unit>
+    <trans-unit id="author.submit.form.titleRequired">
+      <source>Introduzca el título del artículo.</source>
+      <target>Introduzca el título del artículo.</target>
+    </trans-unit>
+    <trans-unit id="author.submit.form.abstractRequired">
+      <source>Introduzca el resumen del artículo.</source>
+      <target>Introduzca el resumen del artículo.</target>
+    </trans-unit>
+    <trans-unit id="author.submit.form.wordCountAlert">
+      <source>Ha superado el límite máximo de palabras para resúmenes en esta sección.</source>
+      <target>Ha superado el límite máximo de palabras para resúmenes en esta sección.</target>
+    </trans-unit>
+    <trans-unit id="author.submit.submissionFile">
+      <source>Archivo de envío</source>
+      <target>Archivo de envío</target>
+    </trans-unit>
+    <trans-unit id="author.submit.uploadSubmissionFile">
+      <source>Cargar el archivo de envío</source>
+      <target>Cargar el archivo de envío</target>
+    </trans-unit>
+    <trans-unit id="author.submit.replaceSubmissionFile">
+      <source>Reemplazar el archivo de envío</source>
+      <target>Reemplazar el archivo de envío</target>
+    </trans-unit>
+    <trans-unit id="author.submit.noSubmissionFile">
+      <source>No se ha cargado ningún archivo de envío.</source>
+      <target>No se ha cargado ningún archivo de envío.</target>
+    </trans-unit>
+    <trans-unit id="author.submit.noSubmissionConfirm">
+      <source>¿Está seguro/a de que desea continuar sin cargar un archivo de envío?</source>
+      <target>¿Está seguro/a de que desea continuar sin cargar un archivo de envío?</target>
+    </trans-unit>
+    <trans-unit id="author.submit.supplementaryFilesInstructions">
+      <source>Este paso opcional permite añadir archivos complementarios al envío. Estos archivos, que pueden estar en cualquier formato, pueden incluir (a) herramientas de investigación; (b) conjuntos de datos que cumplan con los términos establecidos por la revisión ética de la investigación; (c) fuentes que de otro modo no estarían disponibles para los lectores/as, (d) figuras y tablas que no se puedan integrar en el texto u otros materiales que se añadan a la contribución del trabajo.</source>
+      <target>Este paso opcional permite añadir archivos complementarios al envío. Estos archivos, que pueden estar en cualquier formato, pueden incluir (a) herramientas de investigación; (b) conjuntos de datos que cumplan con los términos establecidos por la revisión ética de la investigación; (c) fuentes que de otro modo no estarían disponibles para los lectores/as, (d) figuras y tablas que no se puedan integrar en el texto u otros materiales que se añadan a la contribución del trabajo.</target>
+    </trans-unit>
+    <trans-unit id="author.submit.supplementaryFiles.saveToUpload">
+      <source>Haga clic en Guardar para cargar el archivo (después se podrán cargar los archivos adicionales).</source>
+      <target>Haga clic en Guardar para cargar el archivo (después se podrán cargar los archivos adicionales).</target>
+    </trans-unit>
+    <trans-unit id="author.submit.forgottenSubmitSuppFile">
+      <source>¿Está seguro/a de que desea continuar sin cargar el archivo complementario que ha seleccionado?</source>
+      <target>¿Está seguro/a de que desea continuar sin cargar el archivo complementario que ha seleccionado?</target>
+    </trans-unit>
+    <trans-unit id="author.submit.noSupplementaryFiles">
+      <source>No se han añadido archivos complementarios a este envío.</source>
+      <target>No se han añadido archivos complementarios a este envío.</target>
+    </trans-unit>
+    <trans-unit id="author.submit.backToSupplementaryFiles">
+      <source>Volver a Archivos complementarios</source>
+      <target>Volver a Archivos complementarios</target>
+    </trans-unit>
+    <trans-unit id="author.submit.confirmDeleteSuppFile">
+      <source>¿Está seguro/a de que desea eliminar este archivo complementario?</source>
+      <target>¿Está seguro/a de que desea eliminar este archivo complementario?</target>
+    </trans-unit>
+    <trans-unit id="author.submit.uploadSuppFile">
+      <source>Cargar archivo complementario</source>
+      <target>Cargar archivo complementario</target>
+    </trans-unit>
+    <trans-unit id="author.submit.addSupplementaryFile">
+      <source>Añadir un archivo complementario</source>
+      <target>Añadir un archivo complementario</target>
+    </trans-unit>
+    <trans-unit id="author.submit.editSupplementaryFile">
+      <source>Editar un archivo complementario</source>
+      <target>Editar un archivo complementario</target>
+    </trans-unit>
+    <trans-unit id="author.submit.supplementaryFileData">
+      <source>Metadatos de archivos complementarios</source>
+      <target>Metadatos de archivos complementarios</target>
+    </trans-unit>
+    <trans-unit id="author.submit.supplementaryFileDataDescription">
+      <source>Para indexar el material complementario proporcione los siguientes metadatos del archivo complementario que ha cargado:</source>
+      <target>Para indexar el material complementario proporcione los siguientes metadatos del archivo complementario que ha cargado:</target>
+    </trans-unit>
+    <trans-unit id="author.submit.supplementaryFileUpload">
+      <source>Archivo complementario</source>
+      <target>Archivo complementario</target>
+    </trans-unit>
+    <trans-unit id="author.submit.suppFile.createrOrOwner">
+      <source>Creador/a (o propietario/a) del archivo</source>
+      <target>Creador/a (o propietario/a) del archivo</target>
+    </trans-unit>
+    <trans-unit id="author.submit.suppFile.researchInstrument">
+      <source>Herramienta de investigación</source>
+      <target>Herramienta de investigación</target>
+    </trans-unit>
+    <trans-unit id="author.submit.suppFile.researchMaterials">
+      <source>Materiales de investigación</source>
+      <target>Materiales de investigación</target>
+    </trans-unit>
+    <trans-unit id="author.submit.suppFile.researchResults">
+      <source>Resultados de la investigación</source>
+      <target>Resultados de la investigación</target>
+    </trans-unit>
+    <trans-unit id="author.submit.suppFile.transcripts">
+      <source>Transcripciones</source>
+      <target>Transcripciones</target>
+    </trans-unit>
+    <trans-unit id="author.submit.suppFile.dataAnalysis">
+      <source>Análisis de los datos</source>
+      <target>Análisis de los datos</target>
+    </trans-unit>
+    <trans-unit id="author.submit.suppFile.dataSet">
+      <source>Conjunto de datos</source>
+      <target>Conjunto de datos</target>
+    </trans-unit>
+    <trans-unit id="author.submit.suppFile.sourceText">
+      <source>Texto fuente</source>
+      <target>Texto fuente</target>
+    </trans-unit>
+    <trans-unit id="author.submit.suppFile.briefDescription">
+      <source>Descripción breve</source>
+      <target>Descripción breve</target>
+    </trans-unit>
+    <trans-unit id="author.submit.suppFile.availableToPeers">
+      <source>Presentar el archivo (sin metadatos) a los revisores/as para asegurar que el archivo sea objeto de evaluación anónima.</source>
+      <target>Presentar el archivo (sin metadatos) a los revisores/as para asegurar que el archivo sea objeto de evaluación anónima.</target>
+    </trans-unit>
+    <trans-unit id="author.submit.suppFile.publisherDescription">
+      <source>Utilizar sólo con materiales publicados formalmente.</source>
+      <target>Utilizar sólo con materiales publicados formalmente.</target>
+    </trans-unit>
+    <trans-unit id="author.submit.suppFile.dateDescription">
+      <source>Fecha en la que se recopilaron los datos o se creó el instrumento.</source>
+      <target>Fecha en la que se recopilaron los datos o se creó el instrumento.</target>
+    </trans-unit>
+    <trans-unit id="author.submit.suppFile.sourceDescription">
+      <source>Nombre del estudio u otro punto de origen.</source>
+      <target>Nombre del estudio u otro punto de origen.</target>
+    </trans-unit>
+    <trans-unit id="author.submit.suppFile.specifyOtherType">
+      <source>Especificar otros</source>
+      <target>Especificar otros</target>
+    </trans-unit>
+    <trans-unit id="author.submit.suppFile.noFile">
+      <source>No se ha cargado ningún archivo.</source>
+      <target>No se ha cargado ningún archivo.</target>
+    </trans-unit>
+    <trans-unit id="author.submit.suppFile.form.titleRequired">
+      <source>Introduzca el título del archivo complementario.</source>
+      <target>Introduzca el título del archivo complementario.</target>
+    </trans-unit>
+    <trans-unit id="author.submit.suppFile.form.subjectRequired">
+      <source>Introduzca un tema.</source>
+      <target>Introduzca un tema.</target>
+    </trans-unit>
+    <trans-unit id="author.submit.suppFile.form.descriptionRequired">
+      <source>Introduzca una descripción.</source>
+      <target>Introduzca una descripción.</target>
+    </trans-unit>
+    <trans-unit id="author.suppFile.suppFilePublicIdentificationExists">
+      <source>La identificación pública del archivo complementario ya existe.</source>
+      <target>La identificación pública del archivo complementario ya existe.</target>
+    </trans-unit>
+    <trans-unit id="author.suppFile.publicSuppFileIdentifier">
+      <source>Identificador público del archivo complementario</source>
+      <target>Identificador público del archivo complementario</target>
+    </trans-unit>
+    <trans-unit id="author.submit.confirmationDescription">
+      <source>Para enviar su manuscrito a {$journalTitle} haga clic en Finalizar envío. El contacto principal del envío recibirá un acuse de recibo por correo electrónico y podrá ver el progreso del envío a través del proceso editorial iniciando sesión en el sitio web de la revista. Gracias por su publicación en {$journalTitle}.</source>
+      <target>Para enviar su manuscrito a {$journalTitle} haga clic en Finalizar envío. El contacto principal del envío recibirá un acuse de recibo por correo electrónico y podrá ver el progreso del envío a través del proceso editorial iniciando sesión en el sitio web de la revista. Gracias por su publicación en {$journalTitle}.</target>
+    </trans-unit>
+    <trans-unit id="author.submit.noFiles">
+      <source>No se han adjuntado archivos a este envío.</source>
+      <target>No se han adjuntado archivos a este envío.</target>
+    </trans-unit>
+    <trans-unit id="author.submit.filesSummary">
+      <source>Resumen del archivo</source>
+      <target>Resumen del archivo</target>
+    </trans-unit>
+    <trans-unit id="author.submit.finishSubmission">
+      <source>Finalizar envío</source>
+      <target>Finalizar envío</target>
+    </trans-unit>
+    <trans-unit id="author.submit.submissionComplete">
+      <source>Envío completado. Gracias por su publicación en {$journalTitle}.</source>
+      <target>Envío completado. Gracias por su publicación en {$journalTitle}.</target>
+    </trans-unit>
+    <trans-unit id="author.article.uploadAuthorVersion">
+      <source>Cargar la versión del autor/a</source>
+      <target>Cargar la versión del autor/a</target>
+    </trans-unit>
+    <trans-unit id="author.article.copyeditedFile">
+      <source>Archivo corregido</source>
+      <target>Archivo corregido</target>
+    </trans-unit>
+    <trans-unit id="author.article.authorRevisedFile">
+      <source>Archivo del autor/a</source>
+      <target>Archivo del autor/a</target>
+    </trans-unit>
+    <trans-unit id="author.submit.authorSubmitLoginMessage">
+      <source>Es necesario disponer de una cuenta de usuario/a para realizar envíos a la revista. Esto permite que nuestros editores/as hagan un seguimiento de sus envíos y puedan contactarle cuando cambie el estado de los mismos o si es necesario proporcionar información adicional.</source>
+      <target>Es necesario disponer de una cuenta de usuario/a para realizar envíos a la revista. Esto permite que nuestros editores/as hagan un seguimiento de sus envíos y puedan contactarle cuando cambie el estado de los mismos o si es necesario proporcionar información adicional.</target>
+    </trans-unit>
+    <trans-unit id="author.submit.nextSteps">
+      <source>Siguientes pasos</source>
+      <target>Siguientes pasos</target>
+    </trans-unit>
+  </body>
+</file>
+</xliff>
+ 

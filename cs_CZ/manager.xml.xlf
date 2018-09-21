@@ -1,0 +1,2316 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file original="SoyMsgBundle" datatype="x-soy-msg-bundle" xml:space="preserve" source-language="$lang" target-language="$lang">
+    <body>
+    <trans-unit id="manager.emails.confirmResetAll">
+      <source>Jste si jisti, že chcete resetovat všechny šablony e-mailů v tomto časopisu? Ztratíte tak veškerá přizpůsobení, která jste dopsud udělali.</source>
+      <target>Jste si jisti, že chcete resetovat všechny šablony e-mailů v tomto časopisu? Ztratíte tak veškerá přizpůsobení, která jste dopsud udělali.</target>
+    </trans-unit>
+    <trans-unit id="manager.files.note">
+      <source>Poznámka: Prohlížeč souborů je pokročilý nástroj, který umožňuje zobrazení a přímou manipulaci se soubory a adresáři souvisejícími s časopisem.</source>
+      <target>Poznámka: Prohlížeč souborů je pokročilý nástroj, který umožňuje zobrazení a přímou manipulaci se soubory a adresáři souvisejícími s časopisem.</target>
+    </trans-unit>
+    <trans-unit id="manager.journalManagement">
+      <source>Správa časopisu</source>
+      <target>Správa časopisu</target>
+    </trans-unit>
+    <trans-unit id="manager.language.confirmDefaultSettingsOverwrite">
+      <source>Toto nahradí všechna nastavení časopisu specifická pro lokalizaci, které jste měl pro tuto lokalizaci</source>
+      <target>Toto nahradí všechna nastavení časopisu specifická pro lokalizaci, které jste měl pro tuto lokalizaci</target>
+    </trans-unit>
+    <trans-unit id="manager.languages.languageInstructions">
+      <source>OJS může být uživatelům zpřístupněn v kterémkoliv z podporovaných jazyků. Stejně tak může OJS fungovat jako vícejazyčný systém, který uživatelům umožňuje přepínat na každé stránce mezi jazyky a zadávat určitá data v několika dalších jazycích. <br /><br />Pokud některý jazyk podporovaný OJS není uveden níže, požádejte svého administrátora stránek, aby z rozhraní administrátora požadovaný jazyk nainstaloval. Instrukce pro přidání podpory nových jazyků naleznete v OJS dokumentaci.</source>
+      <target>OJS může být uživatelům zpřístupněn v kterémkoliv z podporovaných jazyků. Stejně tak může OJS fungovat jako vícejazyčný systém, který uživatelům umožňuje přepínat na každé stránce mezi jazyky a zadávat určitá data v několika dalších jazycích. <br /><br />Pokud některý jazyk podporovaný OJS není uveden níže, požádejte svého administrátora stránek, aby z rozhraní administrátora požadovaný jazyk nainstaloval. Instrukce pro přidání podpory nových jazyků naleznete v OJS dokumentaci.</target>
+    </trans-unit>
+    <trans-unit id="manager.languages.noneAvailable">
+      <source>Promiňte, žádné další jazyky nejsou dostupné. Pokud chcete s tímto časopisem používat další jazyky, kontaktujte svého administrátora stránek.</source>
+      <target>Promiňte, žádné další jazyky nejsou dostupné. Pokud chcete s tímto časopisem používat další jazyky, kontaktujte svého administrátora stránek.</target>
+    </trans-unit>
+    <trans-unit id="manager.languages.primaryLocaleInstructions">
+      <source>Toto bude výchozí jazyk pro stránky vašeho časopisu.</source>
+      <target>Toto bude výchozí jazyk pro stránky vašeho časopisu.</target>
+    </trans-unit>
+    <trans-unit id="manager.managementPages">
+      <source>Stránky pro správu</source>
+      <target>Stránky pro správu</target>
+    </trans-unit>
+    <trans-unit id="manager.payment.action">
+      <source>Akce</source>
+      <target>Akce</target>
+    </trans-unit>
+    <trans-unit id="manager.payment.addPayment">
+      <source>Přidat platbu</source>
+      <target>Přidat platbu</target>
+    </trans-unit>
+    <trans-unit id="manager.payment.amount">
+      <source>Částka</source>
+      <target>Částka</target>
+    </trans-unit>
+    <trans-unit id="manager.payment.authorFees">
+      <source>Autorské poplatky</source>
+      <target>Autorské poplatky</target>
+    </trans-unit>
+    <trans-unit id="manager.payment.authorFeesDescription">
+      <source>Vybrané možnosti spolu s jejich popisem a poplatkem (lze editovat níže) se objeví v Kroku 1 při odesílání příspěvku a v části O časopise pod Příspěvky a dále na místech, kde je platba vyžadována.</source>
+      <target>Vybrané možnosti spolu s jejich popisem a poplatkem (lze editovat níže) se objeví v Kroku 1 při odesílání příspěvku a v části O časopise pod Příspěvky a dále na místech, kde je platba vyžadována.</target>
+    </trans-unit>
+    <trans-unit id="manager.payment.currency">
+      <source>Měna</source>
+      <target>Měna</target>
+    </trans-unit>
+    <trans-unit id="manager.payment.currencymessage">
+      <source>OJS neprovádí žádné měnové převody. Pokud přijímáte platbu za předplatné, musíte zajistit, že měna předplatného odpovídá měně zde specifikované.</source>
+      <target>OJS neprovádí žádné měnové převody. Pokud přijímáte platbu za předplatné, musíte zajistit, že měna předplatného odpovídá měně zde specifikované.</target>
+    </trans-unit>
+    <trans-unit id="manager.payment.description">
+      <source>Popis</source>
+      <target>Popis</target>
+    </trans-unit>
+    <trans-unit id="manager.payment.details">
+      <source>Detaily</source>
+      <target>Detaily</target>
+    </trans-unit>
+    <trans-unit id="manager.payment.editSubscription">
+      <source>Upravit předplatné</source>
+      <target>Upravit předplatné</target>
+    </trans-unit>
+    <trans-unit id="manager.payment.enable">
+      <source>Povolit</source>
+      <target>Povolit</target>
+    </trans-unit>
+    <trans-unit id="manager.payment.feePaymentOptions">
+      <source>Možnosti platy poplatků</source>
+      <target>Možnosti platy poplatků</target>
+    </trans-unit>
+    <trans-unit id="manager.payment.form.numeric">
+      <source>Všechny částky musí mít kladné číselné hodnoty (desetinná místa jsou povolena)</source>
+      <target>Všechny částky musí mít kladné číselné hodnoty (desetinná místa jsou povolena)</target>
+    </trans-unit>
+    <trans-unit id="manager.payment.generalFees">
+      <source>Obecné poplatky</source>
+      <target>Obecné poplatky</target>
+    </trans-unit>
+    <trans-unit id="manager.payment.generalFeesDescription">
+      <source>Členství v asociaci se objeví v části O časopise pod Pravidly a odkaz pro dary se objeví nad funkcí pro vyhledávání v rámci napravo.</source>
+      <target>Členství v asociaci se objeví v části O časopise pod Pravidly a odkaz pro dary se objeví nad funkcí pro vyhledávání v rámci napravo.</target>
+    </trans-unit>
+    <trans-unit id="manager.payment.generalOptions">
+      <source>Obecné možnosti</source>
+      <target>Obecné možnosti</target>
+    </trans-unit>
+    <trans-unit id="manager.payment.noPayments">
+      <source>Žádné platby</source>
+      <target>Žádné platby</target>
+    </trans-unit>
+    <trans-unit id="manager.payment.notFound">
+      <source>Nenalezeno</source>
+      <target>Nenalezeno</target>
+    </trans-unit>
+    <trans-unit id="manager.payment.options">
+      <source>Možnosti</source>
+      <target>Možnosti</target>
+    </trans-unit>
+    <trans-unit id="manager.payment.options.acceptSubscriptionPayments">
+      <source>Toto aktivuje platby předplatného; typy, ceny, trvání a předplatitelé jsou spravováni manažerem předplatného.</source>
+      <target>Toto aktivuje platby předplatného; typy, ceny, trvání a předplatitelé jsou spravováni manažerem předplatného.</target>
+    </trans-unit>
+    <trans-unit id="manager.payment.options.enablePayments">
+      <source>Klikněte zde pro povolení modulu plateb. Musíte nakonfigurovat nastavení plateb vyplněním níže uvedeného formuláře. Uživatelé se budou muset přihlásit, aby mohli provést platby.</source>
+      <target>Klikněte zde pro povolení modulu plateb. Musíte nakonfigurovat nastavení plateb vyplněním níže uvedeného formuláře. Uživatelé se budou muset přihlásit, aby mohli provést platby.</target>
+    </trans-unit>
+    <trans-unit id="manager.payment.options.fee">
+      <source>Poplatek</source>
+      <target>Poplatek</target>
+    </trans-unit>
+    <trans-unit id="manager.payment.options.feeDescription">
+      <source>Popis poplatku</source>
+      <target>Popis poplatku</target>
+    </trans-unit>
+    <trans-unit id="manager.payment.options.feeName">
+      <source>Název poplatku</source>
+      <target>Název poplatku</target>
+    </trans-unit>
+    <trans-unit id="manager.payment.options.membershipFee">
+      <source>Členství v asociaci</source>
+      <target>Členství v asociaci</target>
+    </trans-unit>
+    <trans-unit id="manager.payment.options.onlypdf">
+      <source>Pouze omezit přístup k PDF verzím čísel a článků</source>
+      <target>Pouze omezit přístup k PDF verzím čísel a článků</target>
+    </trans-unit>
+    <trans-unit id="manager.payment.options.publicationFee">
+      <source>Pulikování článku</source>
+      <target>Pulikování článku</target>
+    </trans-unit>
+    <trans-unit id="manager.payment.options.purchaseArticleFee">
+      <source>Koupit článek</source>
+      <target>Koupit článek</target>
+    </trans-unit>
+    <trans-unit id="manager.payment.options.text">
+      <source>Popis metody platby</source>
+      <target>Popis metody platby</target>
+    </trans-unit>
+    <trans-unit id="manager.payment.paymentId">
+      <source>ID platby</source>
+      <target>ID platby</target>
+    </trans-unit>
+    <trans-unit id="manager.payment.paymentMethod">
+      <source>Způsob platby</source>
+      <target>Způsob platby</target>
+    </trans-unit>
+    <trans-unit id="manager.payment.paymentMethod.description">
+      <source>Z této obrazovky můžete konfigurovat všechny následující pluginy pro způsob platby.</source>
+      <target>Z této obrazovky můžete konfigurovat všechny následující pluginy pro způsob platby.</target>
+    </trans-unit>
+    <trans-unit id="manager.payment.paymentMethods">
+      <source>Způsoby platby poplatku</source>
+      <target>Způsoby platby poplatku</target>
+    </trans-unit>
+    <trans-unit id="manager.payment.paymentType">
+      <source>Typ platby</source>
+      <target>Typ platby</target>
+    </trans-unit>
+    <trans-unit id="manager.payment.readerFees">
+      <source>Poplatky čtenářů</source>
+      <target>Poplatky čtenářů</target>
+    </trans-unit>
+    <trans-unit id="manager.payment.readerFeesDescription">
+      <source>Vybrané možnosti spolu s jejich popisem a poplatky (lze editovat níže) se objeví v části O časopise pod Pravidly a dále na místech, kde je platby vyžadována.</source>
+      <target>Vybrané možnosti spolu s jejich popisem a poplatky (lze editovat níže) se objeví v části O časopise pod Pravidly a dále na místech, kde je platby vyžadována.</target>
+    </trans-unit>
+    <trans-unit id="manager.payment.records">
+      <source>Záznamy</source>
+      <target>Záznamy</target>
+    </trans-unit>
+    <trans-unit id="manager.payments">
+      <source>Platby</source>
+      <target>Platby</target>
+    </trans-unit>
+    <trans-unit id="manager.payment.userName">
+      <source>ID platby</source>
+      <target>ID platby</target>
+    </trans-unit>
+    <trans-unit id="manager.people.allEnrolledUsers">
+      <source>Uživatelé zapsaní do tohoto časopisu</source>
+      <target>Uživatelé zapsaní do tohoto časopisu</target>
+    </trans-unit>
+    <trans-unit id="manager.people.allJournals">
+      <source>Všechny časopisy</source>
+      <target>Všechny časopisy</target>
+    </trans-unit>
+    <trans-unit id="manager.people.allSiteUsers">
+      <source>Zapsat uživatele z těchto stránek do tohoto časopisu</source>
+      <target>Zapsat uživatele z těchto stránek do tohoto časopisu</target>
+    </trans-unit>
+    <trans-unit id="manager.people.allUsers">
+      <source>Všichni zapsaní uživatelé</source>
+      <target>Všichni zapsaní uživatelé</target>
+    </trans-unit>
+    <trans-unit id="manager.people.confirmRemove">
+      <source>Odstranit tohoto uživatele z tohoto časopisu? Tato akce odepíše uživatele ze všech jeho rolí v rámci tohoto časopisu.</source>
+      <target>Odstranit tohoto uživatele z tohoto časopisu? Tato akce odepíše uživatele ze všech jeho rolí v rámci tohoto časopisu.</target>
+    </trans-unit>
+    <trans-unit id="manager.people.emailUsers.selectTemplate">
+      <source>Vyberte šablonu</source>
+      <target>Vyberte šablonu</target>
+    </trans-unit>
+    <trans-unit id="manager.people.enrollExistingUser">
+      <source>Zapsat existujícího uživatele</source>
+      <target>Zapsat existujícího uživatele</target>
+    </trans-unit>
+    <trans-unit id="manager.people.enrollSyncJournal">
+      <source>S časopisem</source>
+      <target>S časopisem</target>
+    </trans-unit>
+    <trans-unit id="manager.people.mergeUsers.from.description">
+      <source>Vyberte uživatele, který má být sloučen s jiným uživatelským účtem (např. pokud někdo má dva uživatelské účty). Účet, který byl vybrán jako první, bude smazán a všechny jeho příspěvky, úkoly atd. budou přiřazeny ke druhému účtu.</source>
+      <target>Vyberte uživatele, který má být sloučen s jiným uživatelským účtem (např. pokud někdo má dva uživatelské účty). Účet, který byl vybrán jako první, bude smazán a všechny jeho příspěvky, úkoly atd. budou přiřazeny ke druhému účtu.</target>
+    </trans-unit>
+    <trans-unit id="manager.people.mergeUsers.into.description">
+      <source>Vyberte uživatele, ke kterému mají být přiřazena autorství, editorské úlohy atd. předchozího uživatele.</source>
+      <target>Vyberte uživatele, ke kterému mají být přiřazena autorství, editorské úlohy atd. předchozího uživatele.</target>
+    </trans-unit>
+    <trans-unit id="manager.people.roleEnrollment">
+      <source>{$role} Zapsání</source>
+      <target>{$role} Zapsání</target>
+    </trans-unit>
+    <trans-unit id="manager.people.syncUserDescription">
+      <source>Synchronizací zapsání uživatelů zapíšete všechny uživatele zapsané do určité role v určitém časopisu do stejné role i v tomto časopisu. Tato funkce umožňuje, aby byly běžné sady uživatelů (např. Recenzentů) synchronizovány mezi časopisy.</source>
+      <target>Synchronizací zapsání uživatelů zapíšete všechny uživatele zapsané do určité role v určitém časopisu do stejné role i v tomto časopisu. Tato funkce umožňuje, aby byly běžné sady uživatelů (např. Recenzentů) synchronizovány mezi časopisy.</target>
+    </trans-unit>
+    <trans-unit id="manager.sections.abstractsNotRequired">
+      <source>Nepožadovat abstrakty</source>
+      <target>Nepožadovat abstrakty</target>
+    </trans-unit>
+    <trans-unit id="manager.sections.assigned">
+      <source>Editoři této sekce</source>
+      <target>Editoři této sekce</target>
+    </trans-unit>
+    <trans-unit id="manager.sections.create">
+      <source>Vytvořit sekci</source>
+      <target>Vytvořit sekci</target>
+    </trans-unit>
+    <trans-unit id="manager.section.sectionEditorInstructions">
+      <source>Vyberte z dostupných editorů sekcí pro tuto sekci, aby byli sekční editoři automaticky přidělováni. (Jinak budete muset sekční editory přidělovat později manuálně). Pokud je sekční editor přidán, můžete zvolit, zda bude automaticky přiřazeni k řízení RECENZNÍHO a/nebo EDITAČNÍHO procesu (redigování, rozložení a korektury) procesu příspěvků v této sekci. Editoři sekcí jsou tvořeni kliknutím na "Editoři sekcí" v Rolích správy časopisu.
+
+ a "Přidělte editora" této sekci.</source>
+      <target>Vyberte z dostupných editorů sekcí pro tuto sekci, aby byli sekční editoři automaticky přidělováni. (Jinak budete muset sekční editory přidělovat později manuálně). Pokud je sekční editor přidán, můžete zvolit, zda bude automaticky přiřazeni k řízení RECENZNÍHO a/nebo EDITAČNÍHO procesu (redigování, rozložení a korektury) procesu příspěvků v této sekci. Editoři sekcí jsou tvořeni kliknutím na "Editoři sekcí" v Rolích správy časopisu.
+
+ a "Přidělte editora" této sekci.</target>
+    </trans-unit>
+    <trans-unit id="manager.sections.editorRestriction">
+      <source>Položky mohou být zaslány pouze editory a editory sekcí.</source>
+      <target>Položky mohou být zaslány pouze editory a editory sekcí.</target>
+    </trans-unit>
+    <trans-unit id="manager.sections.editors">
+      <source>Editoři sekce</source>
+      <target>Editoři sekce</target>
+    </trans-unit>
+    <trans-unit id="manager.sections.form.abbrevRequired">
+      <source>Je vyžadován zkrácený název pro tuto sekci</source>
+      <target>Je vyžadován zkrácený název pro tuto sekci</target>
+    </trans-unit>
+    <trans-unit id="manager.sections.form.mustAllowPermission">
+      <source>Ujistěte se, prosím, že je zaškrtnuté alespoň jedno políčko pro každý úkol editora sekce.</source>
+      <target>Ujistěte se, prosím, že je zaškrtnuté alespoň jedno políčko pro každý úkol editora sekce.</target>
+    </trans-unit>
+    <trans-unit id="manager.sections.form.reviewFormId">
+      <source>Ujistěte se prosím, že jste vybral platný formulář posudku.</source>
+      <target>Ujistěte se prosím, že jste vybral platný formulář posudku.</target>
+    </trans-unit>
+    <trans-unit id="manager.sections.form.titleRequired">
+      <source>Je vyžadován název pro tuto sekci.</source>
+      <target>Je vyžadován název pro tuto sekci.</target>
+    </trans-unit>
+    <trans-unit id="manager.sections.hideTocAuthor">
+      <source>Vypustit jména autorů pro položky sekce z obsahu čísla.</source>
+      <target>Vypustit jména autorů pro položky sekce z obsahu čísla.</target>
+    </trans-unit>
+    <trans-unit id="manager.sections.hideTocTitle">
+      <source>Vypustit název této sekce z obsahu čísla.</source>
+      <target>Vypustit název této sekce z obsahu čísla.</target>
+    </trans-unit>
+    <trans-unit id="manager.sections.identifyType">
+      <source>Pro účely sběru metadat označte každou položku v této sekci jako</source>
+      <target>Pro účely sběru metadat označte každou položku v této sekci jako</target>
+    </trans-unit>
+    <trans-unit id="manager.sections.identifyTypeExamples">
+      <source>(Například "Recenzovaný článek", "Neposuzovaný článek", "Pozvaný komentář", apod.)</source>
+      <target>(Například "Recenzovaný článek", "Neposuzovaný článek", "Pozvaný komentář", apod.)</target>
+    </trans-unit>
+    <trans-unit id="manager.sections.indexed">
+      <source>Indexované</source>
+      <target>Indexované</target>
+    </trans-unit>
+    <trans-unit id="manager.sections.noneCreated">
+      <source>Nebyly vytvořeny žádné sekce.</source>
+      <target>Nebyly vytvořeny žádné sekce.</target>
+    </trans-unit>
+    <trans-unit id="manager.sections.open">
+      <source>Otevřené příspěvky</source>
+      <target>Otevřené příspěvky</target>
+    </trans-unit>
+    <trans-unit id="manager.sections.policy">
+      <source>Pravidla sekce</source>
+      <target>Pravidla sekce</target>
+    </trans-unit>
+    <trans-unit id="manager.sections.readingTools">
+      <source>Nástroje pro čtení</source>
+      <target>Nástroje pro čtení</target>
+    </trans-unit>
+    <trans-unit id="manager.sections.reviewed">
+      <source>Recenzované</source>
+      <target>Recenzované</target>
+    </trans-unit>
+    <trans-unit id="manager.sections.submissionIndexing">
+      <source>Nebudou zahrnuty do indexace časopisu</source>
+      <target>Nebudou zahrnuty do indexace časopisu</target>
+    </trans-unit>
+    <trans-unit id="manager.sections.submissionReview">
+      <source>Nebudou recenzovány</source>
+      <target>Nebudou recenzovány</target>
+    </trans-unit>
+    <trans-unit id="manager.section.submissionsToThisSection">
+      <source>Příspěvky zaslané do této sekce časopisu</source>
+      <target>Příspěvky zaslané do této sekce časopisu</target>
+    </trans-unit>
+    <trans-unit id="manager.sections.unassigned">
+      <source>Dostupní editoři sekce</source>
+      <target>Dostupní editoři sekce</target>
+    </trans-unit>
+    <trans-unit id="manager.setup">
+      <source>Nastavení</source>
+      <target>Nastavení</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.aboutItemContent">
+      <source>Obsah</source>
+      <target>Obsah</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.addAboutItem">
+      <source>Přidat položku</source>
+      <target>Přidat položku</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.addChecklistItem">
+      <source>Přidat položku zaškrtávacího seznamu</source>
+      <target>Přidat položku zaškrtávacího seznamu</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.addItem">
+      <source>Přidat položku</source>
+      <target>Přidat položku</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.addItemtoAboutJournal">
+      <source>Přidat položku, která se má obejvit v části O Časopisu</source>
+      <target>Přidat položku, která se má obejvit v části O Časopisu</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.addNavItem">
+      <source>Přidat položku</source>
+      <target>Přidat položku</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.addReviewerDatabaseLink">
+      <source>Přidat nový odkaz do databáze</source>
+      <target>Přidat nový odkaz do databáze</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.addSponsor">
+      <source>Přidat sponzorující organizaci</source>
+      <target>Přidat sponzorující organizaci</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.alternateHeader">
+      <source>Alternativní hlavička</source>
+      <target>Alternativní hlavička</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.alternateHeaderDescription">
+      <source>Alternativně lze místo názvu a loga vložit do textového pole níže HTML verzi hlavičky. Pokud nechcete tuto možnost využít, nechte pole prázdné.</source>
+      <target>Alternativně lze místo názvu a loga vložit do textového pole níže HTML verzi hlavičky. Pokud nechcete tuto možnost využít, nechte pole prázdné.</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.announcements">
+      <source>Oznámení</source>
+      <target>Oznámení</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.announcementsDescription">
+      <source>Mohou být publikována oznámení informující čtenáře o událostech a novinkách spojených s časopisem. Vydaná oznámení se zobrazí na stránce Oznámení.</source>
+      <target>Mohou být publikována oznámení informující čtenáře o událostech a novinkách spojených s časopisem. Vydaná oznámení se zobrazí na stránce Oznámení.</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.announcementsIntroduction">
+      <source>Doplňující informace</source>
+      <target>Doplňující informace</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.announcementsIntroductionDescription">
+      <source>Vložte jakékoliv doplňující informace, které by měly být zobrazeny čtenářům na stránce Oznámení.</source>
+      <target>Vložte jakékoliv doplňující informace, které by měly být zobrazeny čtenářům na stránce Oznámení.</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.appearInAboutJournal">
+      <source>(K zobrazení v části O časopisu)</source>
+      <target>(K zobrazení v části O časopisu)</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.competingInterests.requireAuthors">
+      <source>Požadovat od autorů, aby spolu s příspěvkem zaslali soubor s prohlášením o střetu zájmů.</source>
+      <target>Požadovat od autorů, aby spolu s příspěvkem zaslali soubor s prohlášením o střetu zájmů.</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.competingInterests.requireReviewers">
+      <source>Požadovat od recenzentů, aby s každým svým posudkem zasílali soubor s prohlášením o střetu zájmů.</source>
+      <target>Požadovat od recenzentů, aby s každým svým posudkem zasílali soubor s prohlášením o střetu zájmů.</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.copyeditInstructions">
+      <source>Instrukce pro redigovnání</source>
+      <target>Instrukce pro redigovnání</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.copyeditInstructionsDescription">
+      <source>Instrukce pro redigování budou spřístupněny redaktorům, autorům a editorům sekcí ve fázi redigování příspěvku. Níže je uveden výchozí set instrukcí v HTML, který může být kdykoliv upraven nebo nahrazen manžerem časopisu (v HTML nebo prostý text).</source>
+      <target>Instrukce pro redigování budou spřístupněny redaktorům, autorům a editorům sekcí ve fázi redigování příspěvku. Níže je uveden výchozí set instrukcí v HTML, který může být kdykoliv upraven nebo nahrazen manžerem časopisu (v HTML nebo prostý text).</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.copyrightNotice">
+      <source>Oznámení o copyrightu</source>
+      <target>Oznámení o copyrightu</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.coverage">
+      <source>Pokrytí</source>
+      <target>Pokrytí</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.coverageDescription">
+      <source>Odkazuje na zeměpisnou lokalitu, chronologické nebo historické pokrytí, a/nebo charakteristiky výzkumného souboru.</source>
+      <target>Odkazuje na zeměpisnou lokalitu, chronologické nebo historické pokrytí, a/nebo charakteristiky výzkumného souboru.</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.currentIssue">
+      <source>Aktuální číslo</source>
+      <target>Aktuální číslo</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.customizingTheLook">
+      <source>Krok 5. Úprava vzhledu</source>
+      <target>Krok 5. Úprava vzhledu</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.customTags">
+      <source>Uživatelské tagy (štítky)</source>
+      <target>Uživatelské tagy (štítky)</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.customTagsDescription">
+      <source>Uživatelské HTML tagy pro záhlaví, které mají být vloženy do záhlaví každé stránky (například META tagy).</source>
+      <target>Uživatelské HTML tagy pro záhlaví, které mají být vloženy do záhlaví každé stránky (například META tagy).</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.details">
+      <source>Detaily</source>
+      <target>Detaily</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.details.description">
+      <source>Název časopisu, ISSN, kontakty, sponzoři a vyhledávací stroje.</source>
+      <target>Název časopisu, ISSN, kontakty, sponzoři a vyhledávací stroje.</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.disableUserRegistration">
+      <source>Manažer časopisu registruje všechny uživatele, editoři a editoři sekcí mohou registrovat pouze recenzenty.</source>
+      <target>Manažer časopisu registruje všechny uživatele, editoři a editoři sekcí mohou registrovat pouze recenzenty.</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.discipline">
+      <source>Akademický obor a podobory</source>
+      <target>Akademický obor a podobory</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.disciplineDescription">
+      <source>Užitečné pokud časopis překračuje hranice oborů a/nebo autoři zasílají multidisciplinární příspěvky.</source>
+      <target>Užitečné pokud časopis překračuje hranice oborů a/nebo autoři zasílají multidisciplinární příspěvky.</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.disciplineExamples">
+      <source>(Např. Historie; Pedagogika; Sociologie; Psychologie; Právo)</source>
+      <target>(Např. Historie; Pedagogika; Sociologie; Psychologie; Právo)</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.disciplineProvideExamples">
+      <source>Poskytněte příklady relevantních akademických oborů pro tento časopis</source>
+      <target>Poskytněte příklady relevantních akademických oborů pro tento časopis</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.displayCurrentIssue">
+      <source>Přidat obsah aktuálního čísla (pokud je dostupné).</source>
+      <target>Přidat obsah aktuálního čísla (pokud je dostupné).</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.editorDecision">
+      <source>Rozhodnutí editora</source>
+      <target>Rozhodnutí editora</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.emailBounceAddress">
+      <source>Adresa pro nedoručitelné zprávy</source>
+      <target>Adresa pro nedoručitelné zprávy</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.emailBounceAddressDescription">
+      <source>Jakékoliv nedoručitelné e-maily povedou k zaslání chybové zprávy na tuto adresu.</source>
+      <target>Jakékoliv nedoručitelné e-maily povedou k zaslání chybové zprávy na tuto adresu.</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.emailBounceAddressDisabled">
+      <source><strong>Poznámka</strong> Pro aktivaci této možnosti musí administrátor stránky povolit možnost <tt>allow_envelope_sender</tt> v konfiguračním souboru OJS. Pro podporu této funkce může být vyžadována další konfigurace serveru (která nemusí být možná na všech serverech), jak je naznačeno v dokumentaci OJS.</source>
+      <target><strong>Poznámka</strong> Pro aktivaci této možnosti musí administrátor stránky povolit možnost <tt>allow_envelope_sender</tt> v konfiguračním souboru OJS. Pro podporu této funkce může být vyžadována další konfigurace serveru (která nemusí být možná na všech serverech), jak je naznačeno v dokumentaci OJS.</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.emails">
+      <source>E-mailová identifikace</source>
+      <target>E-mailová identifikace</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.emailSignature">
+      <source>Podpis</source>
+      <target>Podpis</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.emailSignatureDescription">
+      <source>Připravené e-maily, které jsou systémem posílány ve jménu časopisu budou mít na konci přidán následující podpis. Obsah připravených e-mailů je možné editovat v části Správa časopisu.</source>
+      <target>Připravené e-maily, které jsou systémem posílány ve jménu časopisu budou mít na konci přidán následující podpis. Obsah připravených e-mailů je možné editovat v části Správa časopisu.</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.enableAnnouncements">
+      <source>Umožnit manažerům časopisu přidávat oznámení časopisu.</source>
+      <target>Umožnit manažerům časopisu přidávat oznámení časopisu.</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.enableAnnouncementsHomepage1">
+      <source>Zobrazit</source>
+      <target>Zobrazit</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.enableAnnouncementsHomepage2">
+      <source>z nejnovějších oznámení na domácí stránce časopisu.</source>
+      <target>z nejnovějších oznámení na domácí stránce časopisu.</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.enableUserRegistration">
+      <source>Uživatelé se mohou do časopisu registrovat v jedné nebo více z následujících rolí:</source>
+      <target>Uživatelé se mohou do časopisu registrovat v jedné nebo více z následujících rolí:</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.focusAndScope">
+      <source>Zaměření a záběr</source>
+      <target>Zaměření a záběr</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.forAuthorsToIndexTheirWork">
+      <source>Autorům pro indexaci jejich práce</source>
+      <target>Autorům pro indexaci jejich práce</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.forAuthorsToIndexTheirWorkDescription">
+      <source>OJS dodržuje Protokol pro sběr metadat <a href="http://www.openarchives.org/" target="_blank">iniciativy Open Archives</a>, což je nově vznikající standard pro poskytování kvalitně indexovaného přístupu k elektronickým výzkumným zdrojům v celosvětovém měřítku. Autoři budou používat podobnou šablonu pro dodání metadat ke svým příspěvkům. Manažer časopisu by měl zvolit kategorie pro indexaci a poskytnout tak autorům relevantní příklady, které jim pomohou při indexaci jejich prací. Jednotlivé termíny je nutné oddělovat středníkem (např.: termín1; termín2). Položky by měly být uvozeny příklady s použitím „např.“ nebo „například“.</source>
+      <target>OJS dodržuje Protokol pro sběr metadat <a href="http://www.openarchives.org/" target="_blank">iniciativy Open Archives</a>, což je nově vznikající standard pro poskytování kvalitně indexovaného přístupu k elektronickým výzkumným zdrojům v celosvětovém měřítku. Autoři budou používat podobnou šablonu pro dodání metadat ke svým příspěvkům. Manažer časopisu by měl zvolit kategorie pro indexaci a poskytnout tak autorům relevantní příklady, které jim pomohou při indexaci jejich prací. Jednotlivé termíny je nutné oddělovat středníkem (např.: termín1; termín2). Položky by měly být uvozeny příklady s použitím „např.“ nebo „například“.</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.form.contactEmailRequired">
+      <source>Je vyžadován e-mail hlavního kontaktu.</source>
+      <target>Je vyžadován e-mail hlavního kontaktu.</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.form.contactNameRequired">
+      <source>Je vyžadováno jméno hlavního kontaktu.</source>
+      <target>Je vyžadováno jméno hlavního kontaktu.</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.form.journalInitialsRequired">
+      <source>Jsou vyžadovány iniciály časopisu.</source>
+      <target>Jsou vyžadovány iniciály časopisu.</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.form.journalTitleRequired">
+      <source>Je vyžadován název časopisu.</source>
+      <target>Je vyžadován název časopisu.</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.form.numReviewersPerSubmission">
+      <source>Je vyžadován počet recenzentů na příspěvek.</source>
+      <target>Je vyžadován počet recenzentů na příspěvek.</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.form.supportEmailRequired">
+      <source>Je vyžadován e-mail technické podpory.</source>
+      <target>Je vyžadován e-mail technické podpory.</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.form.supportNameRequired">
+      <source>Je vyžadováno jméno technické podpory.</source>
+      <target>Je vyžadováno jméno technické podpory.</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.generalInformation">
+      <source>Obecné informace</source>
+      <target>Obecné informace</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.gettingDownTheDetails">
+      <source>Krok 1. Zaznamenání detailů</source>
+      <target>Krok 1. Zaznamenání detailů</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.guidelines">
+      <source>Instrukce</source>
+      <target>Instrukce</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.guidingSubmissions">
+      <source>Krok 3. Instrukce pro příspěvky</source>
+      <target>Krok 3. Instrukce pro příspěvky</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.information">
+      <source>Informace</source>
+      <target>Informace</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.information.description">
+      <source>Stručné popisy časopisu pro knihovníky, případné autory a čtenáře jsou dostupné v sekci "Informace" postranního panelu.</source>
+      <target>Stručné popisy časopisu pro knihovníky, případné autory a čtenáře jsou dostupné v sekci "Informace" postranního panelu.</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.information.forAuthors">
+      <source>Pro autory</source>
+      <target>Pro autory</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.information.forLibrarians">
+      <source>Pro knihovníky</source>
+      <target>Pro knihovníky</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.information.forReaders">
+      <source>Pro čtenáře</source>
+      <target>Pro čtenáře</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.initialIssue">
+      <source>První výtisk</source>
+      <target>První výtisk</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.initialIssueDescription">
+      <source>V závislosti na zvoleném formátu stanovte číslo, ročník a/nebo rok prvního výtisku, který má být publikován pomocí OJS:</source>
+      <target>V závislosti na zvoleném formátu stanovte číslo, ročník a/nebo rok prvního výtisku, který má být publikován pomocí OJS:</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.institution">
+      <source>Instituce</source>
+      <target>Instituce</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.itemsDescription">
+      <source>Do aktuáního navigačního panelu lze přidat další položky (Domů, O časopisu, Výchozí stránka uživatele atd.), které se objeví v horní části stránky.</source>
+      <target>Do aktuáního navigačního panelu lze přidat další položky (Domů, O časopisu, Výchozí stránka uživatele atd.), které se objeví v horní části stránky.</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.itemsPerPage">
+      <source>Položek na stránku</source>
+      <target>Položek na stránku</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.journalAbbreviation">
+      <source>Zkratka časopisu</source>
+      <target>Zkratka časopisu</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.journalArchiving">
+      <source>Archivace časopisu</source>
+      <target>Archivace časopisu</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.journalHomepageContent">
+      <source>Obsah domácí stránky časopisu</source>
+      <target>Obsah domácí stránky časopisu</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.journalHomepageContentDescription">
+      <source>Ve výchozím nastavení je domácí stránka tvořena navigačními odkazy. Na domácí stránku je možné přidat doplňkový obsah použitím jedné nebo všech následujících možností. Tyto položky se objeví v zobrazeném pořadí. Vězte, že aktuální číslo je vždy dostupné přes odkaz Aktuální v navigačním panelu.</source>
+      <target>Ve výchozím nastavení je domácí stránka tvořena navigačními odkazy. Na domácí stránku je možné přidat doplňkový obsah použitím jedné nebo všech následujících možností. Tyto položky se objeví v zobrazeném pořadí. Vězte, že aktuální číslo je vždy dostupné přes odkaz Aktuální v navigačním panelu.</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.journalHomepageHeader">
+      <source>Záhlaví domácí stránky časopisu</source>
+      <target>Záhlaví domácí stránky časopisu</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.journalHomepageHeader.altText">
+      <source>Záhlaví domácí stránky časopisu</source>
+      <target>Záhlaví domácí stránky časopisu</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.journalHomepageHeaderDescription">
+      <source>Pro domácí stránku můžete nahrát grafickou verzi názvu a logo časopisu (jako soubory typu .gif, .jpg, nebo .png), které nahradí jinak zobrazovanou textovou verzi.</source>
+      <target>Pro domácí stránku můžete nahrát grafickou verzi názvu a logo časopisu (jako soubory typu .gif, .jpg, nebo .png), které nahradí jinak zobrazovanou textovou verzi.</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.journalInitials">
+      <source>Iniciály časopisu</source>
+      <target>Iniciály časopisu</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.journalLayout">
+      <source>Rozložení časopisu</source>
+      <target>Rozložení časopisu</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.journalLayoutDescription">
+      <source>Zde vyberte téma vzhledu časopisu a komponenty grafického uspořádání. Je také možné nahrát soubor stylu časopisu, který může potlačit standardní soubor stylu stránek a soubor stylu tématu (pokud bylo téma zvoleno).</source>
+      <target>Zde vyberte téma vzhledu časopisu a komponenty grafického uspořádání. Je také možné nahrát soubor stylu časopisu, který může potlačit standardní soubor stylu stránek a soubor stylu tématu (pokud bylo téma zvoleno).</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.journalLogo">
+      <source>Logo časopisu</source>
+      <target>Logo časopisu</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.journalLogo.altText">
+      <source>Logo časopisu</source>
+      <target>Logo časopisu</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.journalPageFooter">
+      <source>Zápatí stránky časopisu</source>
+      <target>Zápatí stránky časopisu</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.journalPageFooterDescription">
+      <source>Toto je zápatí vašeho časopisu. Pro změnu nebo aktualizaci zápatí vložte HTML kód do textového pole níže. Může jít například o další navigační panel, počítadlo atd. Toto zápatí se objeví na každé stránce.</source>
+      <target>Toto je zápatí vašeho časopisu. Pro změnu nebo aktualizaci zápatí vložte HTML kód do textového pole níže. Může jít například o další navigační panel, počítadlo atd. Toto zápatí se objeví na každé stránce.</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.journalPolicies">
+      <source>Krok 2. Pravidla časopisu</source>
+      <target>Krok 2. Pravidla časopisu</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.journalSetup">
+      <source>Nastavení časopisu</source>
+      <target>Nastavení časopisu</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.journalSetupUpdated">
+      <source>Nastavení časopisu bylo aktualizováno.</source>
+      <target>Nastavení časopisu bylo aktualizováno.</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.journalStyleSheetInvalid">
+      <source>Neplatný formát souboru stylu časopisu. Podporovaný formát je .css.</source>
+      <target>Neplatný formát souboru stylu časopisu. Podporovaný formát je .css.</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.journalTheme">
+      <source>Téma vzhledu časopisu</source>
+      <target>Téma vzhledu časopisu</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.journalTitle">
+      <source>Název časopisu</source>
+      <target>Název časopisu</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.labelName">
+      <source>Název popisku</source>
+      <target>Název popisku</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.layoutInstructions">
+      <source>Instrukce pro typografickou úpravu</source>
+      <target>Instrukce pro typografickou úpravu</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.layoutInstructionsDescription">
+      <source>Je možné připravit instrukce pro typografickou úpravu, které stanoví jak formátovat položky publikované v časopise. Tyto instrukce lze vložit níže v HTML nebo jako prostý text. Budou zpřístupněny typografovi a editorovi sekce na stránce určené pro redigování každého příspěvku. (Jelikož každý časopis může uplatňovat svůj vlastní formát souborů, citační normu atd., není zde poskytnut výchozí set instrukcí.)</source>
+      <target>Je možné připravit instrukce pro typografickou úpravu, které stanoví jak formátovat položky publikované v časopise. Tyto instrukce lze vložit níže v HTML nebo jako prostý text. Budou zpřístupněny typografovi a editorovi sekce na stránce určené pro redigování každého příspěvku. (Jelikož každý časopis může uplatňovat svůj vlastní formát souborů, citační normu atd., není zde poskytnut výchozí set instrukcí.)</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.layoutTemplates">
+      <source>Šablony pro typografickou úpravu</source>
+      <target>Šablony pro typografickou úpravu</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.layoutTemplatesDescription">
+      <source>Je možné nahrát šablony, které budou dostupné pro všechny standardní formáty příspěvků publikovaných v časopise (např. článek, recenze knihy atd.) s využitím jakéhokoliv formátu souboru (např. pdf, doc, atd.). Šablony budou doplněny o poznámky, které přesně specifikují font, velikosti písma, okraje, atd. a budou sloužit jako návod pro typografy a korektory.</source>
+      <target>Je možné nahrát šablony, které budou dostupné pro všechny standardní formáty příspěvků publikovaných v časopise (např. článek, recenze knihy atd.) s využitím jakéhokoliv formátu souboru (např. pdf, doc, atd.). Šablony budou doplněny o poznámky, které přesně specifikují font, velikosti písma, okraje, atd. a budou sloužit jako návod pro typografy a korektory.</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.layoutTemplates.file">
+      <source>Soubor šablony</source>
+      <target>Soubor šablony</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.layoutTemplates.title">
+      <source>Název</source>
+      <target>Název</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.lists">
+      <source>Seznamy</source>
+      <target>Seznamy</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.listsDescription">
+      <source>Zadejte maximální počet položek (například příspěvků, uživatelů nebo úkolů), které se zobrazí na každé stránce seznamu a počet odkazů na stránky zobrazených na každé stránce.</source>
+      <target>Zadejte maximální počet položek (například příspěvků, uživatelů nebo úkolů), které se zobrazí na každé stránce seznamu a počet odkazů na stránky zobrazených na každé stránce.</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.lockssEnable">
+      <source>Umožněte technologii LOCKSS ukládat a distribuovat obsah časopisu v zúčastněných knihovnách přes LOCKSS stránku <a href="{$lockssUrl}" target="_blank">Seznam vydavatelů</a>. LOCKSS licence se zobrazí v části O časopisu – Archivování:</source>
+      <target>Umožněte technologii LOCKSS ukládat a distribuovat obsah časopisu v zúčastněných knihovnách přes LOCKSS stránku <a href="{$lockssUrl}" target="_blank">Seznam vydavatelů</a>. LOCKSS licence se zobrazí v části O časopisu – Archivování:</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.lockssRegister">
+      <source>Identifikujte 6–10 knihoven, které budou registrovat a uskladňovat časopis. Například se obraťte na instituce, kde pracují editoři nebo členové redakční rady a/nebo na instituce, které se již účastní LOCKSS. Viz <a href="http://lockss.org/lockss/Libraries" target="_blank">zúčastněné knihovny</a>. Využijte připravená pozvání pro (i) <a href="{$lockssExistingArchiveUrl}" target="_blank">knihovny účastnící se LOCKSS</a> nebo (ii) <a href="{$lockssNewArchiveUrl}" target="_blank">knihovny, které ještě nejsou zapojené v LOCKSS</a>.</source>
+      <target>Identifikujte 6–10 knihoven, které budou registrovat a uskladňovat časopis. Například se obraťte na instituce, kde pracují editoři nebo členové redakční rady a/nebo na instituce, které se již účastní LOCKSS. Viz <a href="http://lockss.org/lockss/Libraries" target="_blank">zúčastněné knihovny</a>. Využijte připravená pozvání pro (i) <a href="{$lockssExistingArchiveUrl}" target="_blank">knihovny účastnící se LOCKSS</a> nebo (ii) <a href="{$lockssNewArchiveUrl}" target="_blank">knihovny, které ještě nejsou zapojené v LOCKSS</a>.</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.look">
+      <source>Vzhled</source>
+      <target>Vzhled</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.look.description">
+      <source>Záhlaví domácí stránky, obsah, záhlaví časopisu, zápatí, navigační panel a kaskádové styly.</source>
+      <target>Záhlaví domácí stránky, obsah, záhlaví časopisu, zápatí, navigační panel a kaskádové styly.</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.management">
+      <source>Správa</source>
+      <target>Správa</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.management.description">
+      <source>Přístup a zebezpečení, plánování, oznámení, redigování, typografické úpravy a korektury.</source>
+      <target>Přístup a zebezpečení, plánování, oznámení, redigování, typografické úpravy a korektury.</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.managementOfBasicEditorialSteps">
+      <source>Správa Základních editorských kroků</source>
+      <target>Správa Základních editorských kroků</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.managingPublishingSetup">
+      <source>Nastavení správy a publikování</source>
+      <target>Nastavení správy a publikování</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.managingTheJournal">
+      <source>Krok 4. Správa časopisu</source>
+      <target>Krok 4. Správa časopisu</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.navigationBar">
+      <source>Navigační panel</source>
+      <target>Navigační panel</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.navigationBarDescription">
+      <source>Přidat nebo odstranit přídavné položky navigačního panelu.</source>
+      <target>Přidat nebo odstranit přídavné položky navigačního panelu.</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.navItemIsAbsolute">
+      <source>URL je spíše absolutní URL (např.: "http://www.example.com") než relativní odkaz na stránku (např.: "/manager/setup")</source>
+      <target>URL je spíše absolutní URL (např.: "http://www.example.com") než relativní odkaz na stránku (např.: "/manager/setup")</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.navItemIsLiteral">
+      <source>Hodnotou popisku je spíše textový řetězec (např.: "Nastavení časopisu") než lokalizační klíč (např.: "manager.setup")</source>
+      <target>Hodnotou popisku je spíše textový řetězec (např.: "Nastavení časopisu") než lokalizační klíč (např.: "manager.setup")</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.noImageFileUploaded">
+      <source>Nebyl nahrán žádný soubor s obrázkem.</source>
+      <target>Nebyl nahrán žádný soubor s obrázkem.</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.noStyleSheetUploaded">
+      <source>Nebyl nahrán žádný soubor stylu.</source>
+      <target>Nebyl nahrán žádný soubor stylu.</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.note">
+      <source>Poznámka</source>
+      <target>Poznámka</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.notifications.submissionAckDisabled">
+      <source><strong>Poznámka:</strong> E-mail s poděkováním za příspěvek je v současnoti zakázán. Pro použití této funkce, povolte SUBMISSION_ACK e-mail v <a class="action" href="{$preparedEmailsUrl}">Připravených e-mailech</a>.</source>
+      <target><strong>Poznámka:</strong> E-mail s poděkováním za příspěvek je v současnoti zakázán. Pro použití této funkce, povolte SUBMISSION_ACK e-mail v <a class="action" href="{$preparedEmailsUrl}">Připravených e-mailech</a>.</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.numPageLinks">
+      <source>Odkazů na stránky</source>
+      <target>Odkazů na stránky</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.onlineAccessManagement">
+      <source>Přístup k obsahu časopisu</source>
+      <target>Přístup k obsahu časopisu</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.onlineIssn">
+      <source>Online ISSN</source>
+      <target>Online ISSN</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.openAccess">
+      <source>Časopis bude poskytovat otevřený přístup ke svému obsahu.</source>
+      <target>Časopis bude poskytovat otevřený přístup ke svému obsahu.</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.pageNumberIdentifier">
+      <source>Možnost číslování stránek</source>
+      <target>Možnost číslování stránek</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.policies">
+      <source>Pravidla</source>
+      <target>Pravidla</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.policies.description">
+      <source>Zaměření, recenzní řízení, sekce, soukromí, zabezpečení a další položky.</source>
+      <target>Zaměření, recenzní řízení, sekce, soukromí, zabezpečení a další položky.</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.printIssn">
+      <source>Tištěné ISSN</source>
+      <target>Tištěné ISSN</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.proofingInstructions">
+      <source>Instrukce pro korektury</source>
+      <target>Instrukce pro korektury</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.proofingInstructionsDescription">
+      <source>Instrukce pro korektury budou zpřístupněny, korektorům, autorům, typografům a editorům sekcí ve fázi editování příspěvku. Níže je uveden výchozí set instrukcí v HTML, který může být kdykoliv upraven nebo nahrazen manažerem časopisu (v HTML nebo prostý text).</source>
+      <target>Instrukce pro korektury budou zpřístupněny, korektorům, autorům, typografům a editorům sekcí ve fázi editování příspěvku. Níže je uveden výchozí set instrukcí v HTML, který může být kdykoliv upraven nebo nahrazen manažerem časopisu (v HTML nebo prostý text).</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.provideRefLinkInstructions">
+      <source>Poskytnout instrukce typografům.</source>
+      <target>Poskytnout instrukce typografům.</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.publicationSchedule">
+      <source>Plán publikací</source>
+      <target>Plán publikací</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.publicationScheduleDescription">
+      <source>Práce mohou být v časopisu publikovány hromadně jako součást jednoho čísla s vlastním obsahem. Alternativně mohou být jednotlivé práce publikovány jakmile jsou k tomu připraveny, tak že budou přidány do obsahu "aktuálního" čísla. Poskytněte čtenářům v části O časopisu informace o systému, který tento časopis bude používat a o předpokládané frekvenci publikování.</source>
+      <target>Práce mohou být v časopisu publikovány hromadně jako součást jednoho čísla s vlastním obsahem. Alternativně mohou být jednotlivé práce publikovány jakmile jsou k tomu připraveny, tak že budou přidány do obsahu "aktuálního" čísla. Poskytněte čtenářům v části O časopisu informace o systému, který tento časopis bude používat a o předpokládané frekvenci publikování.</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.publicationScheduling">
+      <source>Plánování publikací</source>
+      <target>Plánování publikací</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.publicIdentifier">
+      <source>Identifikace obsahu časopisu</source>
+      <target>Identifikace obsahu časopisu</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.publisher">
+      <source>Vydavatel</source>
+      <target>Vydavatel</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.publisherDescription">
+      <source>Název organizace vydávající časopis bude zobrazen v části O časopisu.</source>
+      <target>Název organizace vydávající časopis bude zobrazen v části O časopisu.</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.referenceLinking">
+      <source>Odkazování na reference</source>
+      <target>Odkazování na reference</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.refLinkInstructions.description">
+      <source>Instrukce pro typografickou úpravu při odkazování na reference</source>
+      <target>Instrukce pro typografickou úpravu při odkazování na reference</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.restrictArticleAccess">
+      <source>Uživatelé musí být registrovaní a přihlášení, aby mohli prohlížet obsah s otevřeným přístupem.</source>
+      <target>Uživatelé musí být registrovaní a přihlášení, aby mohli prohlížet obsah s otevřeným přístupem.</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.restrictSiteAccess">
+      <source>Uživatelé musí být registrovaní a přihlášení, aby mohli prohlížet stránky časopisu.</source>
+      <target>Uživatelé musí být registrovaní a přihlášení, aby mohli prohlížet stránky časopisu.</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.reviewGuidelines">
+      <source>Instrukce pro recenzování</source>
+      <target>Instrukce pro recenzování</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.reviewGuidelinesDescription">
+      <source>Instrukce pro recenzování udávají recenzentům kritéria pro posuzování adekvátnosti příspěvků pro publikování v časopisu, stejně tak jakékoliv další instrukce pro přípravu efektivní a nápomocné recenze. Během provádění recenze jsou recenzentům nabídnuty dva textové rámce, první "pro autora a edotira" a druhý "pro editora". Případně může správce časopisu vytvořit formulář pro recenzenty <a href="{$reviewFormsUrl}" class="action">Formuláře pro recenzenty</a>. Ve všech případech budou mít editoři možnost zahrnout recenzentovy poznámky do korespondence s autorem.</source>
+      <target>Instrukce pro recenzování udávají recenzentům kritéria pro posuzování adekvátnosti příspěvků pro publikování v časopisu, stejně tak jakékoliv další instrukce pro přípravu efektivní a nápomocné recenze. Během provádění recenze jsou recenzentům nabídnuty dva textové rámce, první "pro autora a edotira" a druhý "pro editora". Případně může správce časopisu vytvořit formulář pro recenzenty <a href="{$reviewFormsUrl}" class="action">Formuláře pro recenzenty</a>. Ve všech případech budou mít editoři možnost zahrnout recenzentovy poznámky do korespondence s autorem.</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.reviewOptions">
+      <source>Možnosti recenzí</source>
+      <target>Možnosti recenzí</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.reviewOptions.automatedReminders">
+      <source>Automatická e-mailová připomenutí (dostupná ve výchozích e-mailech OJS) mohou být posílána recenzentům ve dvou bodech (editor přitom vždy také může zaslat e-mail přímo recenzentovi)</source>
+      <target>Automatická e-mailová připomenutí (dostupná ve výchozích e-mailech OJS) mohou být posílána recenzentům ve dvou bodech (editor přitom vždy také může zaslat e-mail přímo recenzentovi)</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.reviewOptions.automatedRemindersDisabled">
+      <source><strong>Poznámka:</strong> Pro aktivování těchto možností musí administrátor stránky povolit možnost <tt>scheduled_tasks</tt> v konfiguračním souboru OJS. Pro podporu těchto funkcí může být nutná další konfigurace serveru (což nemusí být možné na všech serverech), jak je naznačeno v OJS dokumentaci.</source>
+      <target><strong>Poznámka:</strong> Pro aktivování těchto možností musí administrátor stránky povolit možnost <tt>scheduled_tasks</tt> v konfiguračním souboru OJS. Pro podporu těchto funkcí může být nutná další konfigurace serveru (což nemusí být možné na všech serverech), jak je naznačeno v OJS dokumentaci.</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.reviewOptions.blindReview">
+      <source>Anonymní recenze</source>
+      <target>Anonymní recenze</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.reviewOptions.numWeeksPerReview">
+      <source>Obvyklé povolené časové období pro zpracování recenzí</source>
+      <target>Obvyklé povolené časové období pro zpracování recenzí</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.reviewOptions.onQuality">
+      <source>Editor bude hodnotit recenzenty na pětistupňové škále kvality po každé recenzi.</source>
+      <target>Editor bude hodnotit recenzenty na pětistupňové škále kvality po každé recenzi.</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.reviewOptions.restrictReviewerFileAccess">
+      <source>Recenzenti budou mít přístup k souboru s příspěvkem pouze poté, co odsouhlasí, že zpracují jeho recenzi.</source>
+      <target>Recenzenti budou mít přístup k souboru s příspěvkem pouze poté, co odsouhlasí, že zpracují jeho recenzi.</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.reviewOptions.reviewerAccess">
+      <source>Přístup pro recenzenta</source>
+      <target>Přístup pro recenzenta</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.reviewOptions.reviewerAccessKeysEnabled">
+      <source>Umožnit přístup recenzentovi na-jedno-kliknutí.</source>
+      <target>Umožnit přístup recenzentovi na-jedno-kliknutí.</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.reviewOptions.reviewerAccessKeysEnabled.description">
+      <source><strong>Poznámka:</strong> E-mailové pozvání pro recenzenta bude obsahovat speciální URL, které dovede pozvané recenzenty přímo na Recenzní stránku k danému příspěvku (s přístupem na jakékoliv další stránky normálně vyžadující přihlášení). Z bezpečnostních důvodů nemohou editoři při tomto nastavení pozměnit e-mailové adresy nebo přidat CC nebo BCC předtím, než pošlou recenzentům pozvání.</source>
+      <target><strong>Poznámka:</strong> E-mailové pozvání pro recenzenta bude obsahovat speciální URL, které dovede pozvané recenzenty přímo na Recenzní stránku k danému příspěvku (s přístupem na jakékoliv další stránky normálně vyžadující přihlášení). Z bezpečnostních důvodů nemohou editoři při tomto nastavení pozměnit e-mailové adresy nebo přidat CC nebo BCC předtím, než pošlou recenzentům pozvání.</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.reviewOptions.reviewerRatings">
+      <source>Hodnocení recenzenta</source>
+      <target>Hodnocení recenzenta</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.reviewOptions.reviewerReminders">
+      <source>Připomenutí pro recenzenta</source>
+      <target>Připomenutí pro recenzenta</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.reviewOptions.showEnsuringLink">
+      <source>Poskytnout odkazy na <a href="javascript:openHelp('{$blindReviewHelpId}')" class="action">Zajištění anonymní recenze</a> na stránkách, ze kterých autoři a recenzenti nahrávají soubory.</source>
+      <target>Poskytnout odkazy na <a href="javascript:openHelp('{$blindReviewHelpId}')" class="action">Zajištění anonymní recenze</a> na stránkách, ze kterých autoři a recenzenti nahrávají soubory.</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.reviewPolicy">
+      <source>Pravidla recenzního řízení</source>
+      <target>Pravidla recenzního řízení</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.searchEngineIndexing">
+      <source>Indexace vyhledávacími nástroji</source>
+      <target>Indexace vyhledávacími nástroji</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.searchEngineIndexingDescription">
+      <source>Abyste usnadnili uživatelům vyhledávacích nástrojů objevení tohoto časopisu, poskytněte stručný popis časopisu a relevantní klíčová slova (oddělená středníkem).</source>
+      <target>Abyste usnadnili uživatelům vyhledávacích nástrojů objevení tohoto časopisu, poskytněte stručný popis časopisu a relevantní klíčová slova (oddělená středníkem).</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.sectionsAndSectionEditors">
+      <source>Sekce a editoři sekcí</source>
+      <target>Sekce a editoři sekcí</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.sectionsDefaultSectionDescription">
+      <source>(Pokud nejsou přidány sekce, jsou příspěvky dle výchozího nastavení zasílány do sekce Články.)</source>
+      <target>(Pokud nejsou přidány sekce, jsou příspěvky dle výchozího nastavení zasílány do sekce Články.)</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.sectionsDescription">
+      <source>Pro vytvoření nebo úpravu sekcí časopisu (například Články, Recenze knih, atd.) přejděte na Správa sekcí.<br /><br />Autoři při odesílání příspěvků do časopisu vyznačí...</source>
+      <target>Pro vytvoření nebo úpravu sekcí časopisu (například Články, Recenze knih, atd.) přejděte na Správa sekcí.<br /><br />Autoři při odesílání příspěvků do časopisu vyznačí...</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.securitySettings">
+      <source>Nastavení přístupu a zabezpečení</source>
+      <target>Nastavení přístupu a zabezpečení</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.securitySettingsDescription">
+      <source>OJS poskytuje řadu možností vztahujících se k bezpečnosti, které mohou být využity pro omezení obsahu časopisu a zachování doplňkových informací o příspěvcích pro účely auditu.</source>
+      <target>OJS poskytuje řadu možností vztahujících se k bezpečnosti, které mohou být využity pro omezení obsahu časopisu a zachování doplňkových informací o příspěvcích pro účely auditu.</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.selectEditorDescription">
+      <source>Editora časopisu, který na něj bude během redakčního řízení dohlížet.</source>
+      <target>Editora časopisu, který na něj bude během redakčního řízení dohlížet.</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.selectSectionDescription">
+      <source>Sekci časopisu, pro kterou je příspěvek zamýšlen.</source>
+      <target>Sekci časopisu, pro kterou je příspěvek zamýšlen.</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.showGalleyLinksDescription">
+      <source>Vždy zobrazovat odkazy sazebnice a indikovat omezený přístup.</source>
+      <target>Vždy zobrazovat odkazy sazebnice a indikovat omezený přístup.</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.siteAccess">
+      <source>Další omezení přístupu ke stránce a článkům</source>
+      <target>Další omezení přístupu ke stránce a článkům</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.stepsToJournalSite">
+      <source>Pět kroků k webové stránce časopisu</source>
+      <target>Pět kroků k webové stránce časopisu</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.subjectExamples">
+      <source>(např. fotosyntéza; černé díry; bayesova teorie; atd.)</source>
+      <target>(např. fotosyntéza; černé díry; bayesova teorie; atd.)</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.subjectKeywordTopic">
+      <source>Klíčová slova</source>
+      <target>Klíčová slova</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.subjectProvideExamples">
+      <source>Poskytněte příklady klíčových slov jako vodítko pro autory</source>
+      <target>Poskytněte příklady klíčových slov jako vodítko pro autory</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.submissionGuidelines">
+      <source>Instrukce pro příspěvky</source>
+      <target>Instrukce pro příspěvky</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.submissionPreparationChecklist">
+      <source>Zaškrtávací seznam pro přípravu příspěvku</source>
+      <target>Zaškrtávací seznam pro přípravu příspěvku</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.submissionPreparationChecklistDescription">
+      <source>V průběhu podávání příspěvku do časopisu jsou autoři nejdříve požádáni, aby zaškrtli všechny položky v Zaškrtávacím seznamu pro přípravu příspěvku a potvrdili tak jejich splnění; poté mohou postupovat dále. Zaškrtávací seznam je také zobrazen v Pokyny autorům v části O časopisu. Seznam můžete upravit níže, pamatujte ale, že aby autoři mohli pokračovat dále v odesílání svého příspěvku, budou muset zaškrtnutím potvrdit všechny položky tohoto seznamu.</source>
+      <target>V průběhu podávání příspěvku do časopisu jsou autoři nejdříve požádáni, aby zaškrtli všechny položky v Zaškrtávacím seznamu pro přípravu příspěvku a potvrdili tak jejich splnění; poté mohou postupovat dále. Zaškrtávací seznam je také zobrazen v Pokyny autorům v části O časopisu. Seznam můžete upravit níže, pamatujte ale, že aby autoři mohli pokračovat dále v odesílání svého příspěvku, budou muset zaškrtnutím potvrdit všechny položky tohoto seznamu.</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.submissions">
+      <source>Příspěvky</source>
+      <target>Příspěvky</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.submissions.description">
+      <source>Instrukce pro autory, copyright a indexace (včetně registrace).</source>
+      <target>Instrukce pro autory, copyright a indexace (včetně registrace).</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.subscription">
+      <source>Časopis bude vyžadovat pro přístup k některým částem nebo k celému obsahu předplatné.</source>
+      <target>Časopis bude vyžadovat pro přístup k některým částem nebo k celému obsahu předplatné.</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.subscriptionDescription">
+      <source>Toto vyžaduje přidělení manažera předplatného, který má přístup do modulu pro předpaltné obshujícího doplňková nastavení otevřeného přístupu, sebearchivování a e-mailových notifikací.</source>
+      <target>Toto vyžaduje přidělení manažera předplatného, který má přístup do modulu pro předpaltné obshujícího doplňková nastavení otevřeného přístupu, sebearchivování a e-mailových notifikací.</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.typeExamples">
+      <source>(např. historické dotazování; kvaziexperiment; literární analýza; interview)</source>
+      <target>(např. historické dotazování; kvaziexperiment; literární analýza; interview)</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.typeMethodApproach">
+      <source>Typ (Metoda/Přístup)</source>
+      <target>Typ (Metoda/Přístup)</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.typeProvideExamples">
+      <source>Poskytněte příklady relevantních typů výzkumu, metod a přístupů pro tento obor</source>
+      <target>Poskytněte příklady relevantních typů výzkumu, metod a přístupů pro tento obor</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.uniqueIdentifier">
+      <source>Jedinečný identifikátor</source>
+      <target>Jedinečný identifikátor</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.uniqueIdentifierDescription">
+      <source>Články a čísla mohou být označeny identifikačním číslem nebo řetězcem přičemž lze uplatnit registrační systém jako "Digital Object Identifier System" (DOI).</source>
+      <target>Články a čísla mohou být označeny identifikačním číslem nebo řetězcem přičemž lze uplatnit registrační systém jako "Digital Object Identifier System" (DOI).</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.useEditorialReviewBoard">
+      <source>Časopis bude využívat redakční/recenzní radu.</source>
+      <target>Časopis bude využívat redakční/recenzní radu.</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.useImageTitle">
+      <source>Obrázek názvu</source>
+      <target>Obrázek názvu</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.useJournalStyleSheet">
+      <source>Style sheet časopisu</source>
+      <target>Style sheet časopisu</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.userRegistration">
+      <source>Registrace uživatelů</source>
+      <target>Registrace uživatelů</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.useTextTitle">
+      <source>Text názvu</source>
+      <target>Text názvu</target>
+    </trans-unit>
+    <trans-unit id="manager.statistics.statistics">
+      <source>Statistiky časopisu</source>
+      <target>Statistiky časopisu</target>
+    </trans-unit>
+    <trans-unit id="manager.statistics.statistics.articleViews">
+      <source>Počet zobrazení článku (pouze pro autory)</source>
+      <target>Počet zobrazení článku (pouze pro autory)</target>
+    </trans-unit>
+    <trans-unit id="manager.statistics.statistics.count.accept">
+      <source>Přijmout</source>
+      <target>Přijmout</target>
+    </trans-unit>
+    <trans-unit id="manager.statistics.statistics.count.decline">
+      <source>Odmítnout</source>
+      <target>Odmítnout</target>
+    </trans-unit>
+    <trans-unit id="manager.statistics.statistics.count.revise">
+      <source>Znovu odeslat</source>
+      <target>Znovu odeslat</target>
+    </trans-unit>
+    <trans-unit id="manager.statistics.statistics.daysPerReview">
+      <source>Dny do recenze</source>
+      <target>Dny do recenze</target>
+    </trans-unit>
+    <trans-unit id="manager.statistics.statistics.daysToPublication">
+      <source>Dny do publikování</source>
+      <target>Dny do publikování</target>
+    </trans-unit>
+    <trans-unit id="manager.statistics.statistics.description">
+      <source>OJS vypočítává pro každý časopis následující statistiky. "Dny do recenze" jsou vypočítány z data odeslání příspěvku (nebo stanovení verze recenze) po datum úvodního rozhodnutí editora, zatímco "dny do publikování" jsou pro přijatý příspěvek měřeny od jeho původního nahrátí až do jeho publikování.</source>
+      <target>OJS vypočítává pro každý časopis následující statistiky. "Dny do recenze" jsou vypočítány z data odeslání příspěvku (nebo stanovení verze recenze) po datum úvodního rozhodnutí editora, zatímco "dny do publikování" jsou pro přijatý příspěvek měřeny od jeho původního nahrátí až do jeho publikování.</target>
+    </trans-unit>
+    <trans-unit id="manager.statistics.statistics.itemsPublished">
+      <source>Publikované položky</source>
+      <target>Publikované položky</target>
+    </trans-unit>
+    <trans-unit id="manager.statistics.statistics.makePublic">
+      <source>Zatrhněte položky, které mají být přístupné čtenářům v části O časopise.</source>
+      <target>Zatrhněte položky, které mají být přístupné čtenářům v části O časopise.</target>
+    </trans-unit>
+    <trans-unit id="manager.statistics.statistics.note">
+      <source>Poznámka: Procenta pro recenzované příspěvky nemusí dosáhnout 100 %, jelikož znovu odeslané položky jsou buď přijaty, odmítnuty nebo probíhá jejich zpracování.</source>
+      <target>Poznámka: Procenta pro recenzované příspěvky nemusí dosáhnout 100 %, jelikož znovu odeslané položky jsou buď přijaty, odmítnuty nebo probíhá jejich zpracování.</target>
+    </trans-unit>
+    <trans-unit id="manager.statistics.statistics.numIssues">
+      <source>Publikovaná čísla</source>
+      <target>Publikovaná čísla</target>
+    </trans-unit>
+    <trans-unit id="manager.statistics.statistics.numSubmissions">
+      <source>Celkem příspěvků</source>
+      <target>Celkem příspěvků</target>
+    </trans-unit>
+    <trans-unit id="manager.statistics.statistics.peerReviewed">
+      <source>Recenzovaných</source>
+      <target>Recenzovaných</target>
+    </trans-unit>
+    <trans-unit id="manager.statistics.statistics.registeredReaders">
+      <source>Registrovaní čtenáři</source>
+      <target>Registrovaní čtenáři</target>
+    </trans-unit>
+    <trans-unit id="manager.statistics.statistics.registeredUsers">
+      <source>Registrovaní uživatelé</source>
+      <target>Registrovaní uživatelé</target>
+    </trans-unit>
+    <trans-unit id="manager.statistics.statistics.reviewerCount">
+      <source>Počet přidělených</source>
+      <target>Počet přidělených</target>
+    </trans-unit>
+    <trans-unit id="manager.statistics.statistics.reviewers">
+      <source>Recenzenti</source>
+      <target>Recenzenti</target>
+    </trans-unit>
+    <trans-unit id="manager.statistics.statistics.reviewerScore">
+      <source>Skóre od editora</source>
+      <target>Skóre od editora</target>
+    </trans-unit>
+    <trans-unit id="manager.statistics.statistics.reviewsPerReviewer">
+      <source>Počet recenzí</source>
+      <target>Počet recenzí</target>
+    </trans-unit>
+    <trans-unit id="manager.statistics.statistics.selectSections">
+      <source>Vyberte sekce, pro které mají být v tomto časopise vypočítávány statistiky o recenzním řízení.</source>
+      <target>Vyberte sekce, pro které mají být v tomto časopise vypočítávány statistiky o recenzním řízení.</target>
+    </trans-unit>
+    <trans-unit id="manager.statistics.statistics.subscriptions">
+      <source>Předplatné</source>
+      <target>Předplatné</target>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionPolicies">
+      <source>Pravidla předplatného</source>
+      <target>Pravidla předplatného</target>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionPolicies.authorSelfArchive">
+      <source>Pravidla sebe-archivování autora</source>
+      <target>Pravidla sebe-archivování autora</target>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionPolicies.authorSelfArchiveDescription">
+      <source>Následující Pravidla sebe-archivování autora budou uvedena na stránce O časopisu pod Pravidly.</source>
+      <target>Následující Pravidla sebe-archivování autora budou uvedena na stránce O časopisu pod Pravidly.</target>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionPolicies.delayedOpenAccess">
+      <source>Zpožděný otevřený přístup</source>
+      <target>Zpožděný otevřený přístup</target>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionPolicies.delayedOpenAccessDescription">
+      <source>I při zpožděném otevřeném přístupu mohou editoři vyhradit určité články v rámci jednoho čísla pro okamžitý otevřený přístup.</source>
+      <target>I při zpožděném otevřeném přístupu mohou editoři vyhradit určité články v rámci jednoho čísla pro okamžitý otevřený přístup.</target>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionPolicies.delayedOpenAccessDescription1">
+      <source>Dřívější čísla tohoto časopisu budou dostupná ve formátu otevřeného přístupu</source>
+      <target>Dřívější čísla tohoto časopisu budou dostupná ve formátu otevřeného přístupu</target>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionPolicies.delayedOpenAccessDescription2">
+      <source>měsíc(ů) poté, co bylo číslo publikováno.</source>
+      <target>měsíc(ů) poté, co bylo číslo publikováno.</target>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionPolicies.delayedOpenAccessDurationValid">
+      <source>Vyberte prosím platnou dobu trvání.</source>
+      <target>Vyberte prosím platnou dobu trvání.</target>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionPolicies.delayedOpenAccessPolicyDescription">
+      <source>Následující Pravidla zpožděného otevřeného přístupu budou uvedena na stránce O časopisu pod Pravidly.</source>
+      <target>Následující Pravidla zpožděného otevřeného přístupu budou uvedena na stránce O časopisu pod Pravidly.</target>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionPolicies.expiry">
+      <source>Vypršení předplatného</source>
+      <target>Vypršení předplatného</target>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionPolicies.expiryDescription">
+      <source>Po vypršení předplatného může být čtenářům zamítnut přístup k veškerému placenému obsahu nebo si mohou zachovat přístup k předplacenému obsahu, který byl publikován před vypršením předplatného.</source>
+      <target>Po vypršení předplatného může být čtenářům zamítnut přístup k veškerému placenému obsahu nebo si mohou zachovat přístup k předplacenému obsahu, který byl publikován před vypršením předplatného.</target>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionPolicies.expiryFull">
+      <source>Úplné vypršení</source>
+      <target>Úplné vypršení</target>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionPolicies.expiryFullDescription">
+      <source>Čtenářům je po vypršení předplatného zakázan přístup k veškerému předplacenému obsahu.</source>
+      <target>Čtenářům je po vypršení předplatného zakázan přístup k veškerému předplacenému obsahu.</target>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionPolicies.expiryPartial">
+      <source>Částečné vypršení</source>
+      <target>Částečné vypršení</target>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionPolicies.expiryPartialDescription">
+      <source>Čtenáři mají zakázaný přístup k nově publikovanému předplacenému obsahu, ale zůstává jim povolen přístup k předplacenému obsahu vydanému před datem vypršení předplatného.</source>
+      <target>Čtenáři mají zakázaný přístup k nově publikovanému předplacenému obsahu, ale zůstává jim povolen přístup k předplacenému obsahu vydanému před datem vypršení předplatného.</target>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionPolicies.expiryReminders">
+      <source>Připomenutí vypršení předplatného</source>
+      <target>Připomenutí vypršení předplatného</target>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionPolicies.expiryRemindersDescription">
+      <source>Předplatitelům mohou být automaticky zasílány e-mailové připomínky (dostupné manažerům časopisu pro úpravy v předpřipravených emailech OJS) před tím i poté, co předplatné vypršelo.</source>
+      <target>Předplatitelům mohou být automaticky zasílány e-mailové připomínky (dostupné manažerům časopisu pro úpravy v předpřipravených emailech OJS) před tím i poté, co předplatné vypršelo.</target>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionPolicies.expiryRemindersDisabled">
+      <source><strong>Poznámka:</strong> Pro aktivování této možnosti musí administrátor stránek povolit volbu <tt>scheduled_tasks</tt> v konfiguračním souboru OJS. Podpora těchto funkcí může vyžadovat dodatečnou konfiguraci serveru (nemusí být realizovatelná na všech serverech) tak, jak je uvedeno v OJS documentaci.</source>
+      <target><strong>Poznámka:</strong> Pro aktivování této možnosti musí administrátor stránek povolit volbu <tt>scheduled_tasks</tt> v konfiguračním souboru OJS. Podpora těchto funkcí může vyžadovat dodatečnou konfiguraci serveru (nemusí být realizovatelná na všech serverech) tak, jak je uvedeno v OJS documentaci.</target>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionPolicies.expirySelectOne">
+      <source>Zvolte jednu z následujících možností:</source>
+      <target>Zvolte jednu z následujících možností:</target>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionPolicies.htmlInstructions">
+      <source>HTML lze použít v textových polích (pro font size, color atd.), přičemž s "vracenými hodnotami" ja nakládáno jako s <tt>&lt;br&gt;</tt>; HTML editor funguje s prohlížečem Firefox.</source>
+      <target>HTML lze použít v textových polích (pro font size, color atd.), přičemž s "vracenými hodnotami" ja nakládáno jako s <tt>&lt;br&gt;</tt>; HTML editor funguje s prohlížečem Firefox.</target>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionPolicies.numMonthsAfterSubscriptionExpiryReminderValid">
+      <source>Vyberte prosím platnou hodnotu pro počet měsíců po vypršení předplatného.</source>
+      <target>Vyberte prosím platnou hodnotu pro počet měsíců po vypršení předplatného.</target>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionPolicies.numMonthsBeforeSubscriptionExpiryReminderValid">
+      <source>Vyberte prosím platnou hodnotu pro počet měsíců před vypršením předplatného.</source>
+      <target>Vyberte prosím platnou hodnotu pro počet měsíců před vypršením předplatného.</target>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionPolicies.numWeeksAfterSubscriptionExpiryReminderValid">
+      <source>Vyberte prosím platnou hodnotu pro počet týdnů po vypršení předplatného.</source>
+      <target>Vyberte prosím platnou hodnotu pro počet týdnů po vypršení předplatného.</target>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionPolicies.numWeeksBeforeSubscriptionExpiryReminderValid">
+      <source>Vyberte prosím platnou hodnotu pro počet týdnů před vypršením předplatného.</source>
+      <target>Vyberte prosím platnou hodnotu pro počet týdnů před vypršením předplatného.</target>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionPolicies.openAccessNotificationDescription">
+      <source>Registrovaní čtenáři budou mít možnost obdržet e-mailem obsah čísla v okamžiku, kdy k danému číslu bude umožněn otevřený přístup.</source>
+      <target>Registrovaní čtenáři budou mít možnost obdržet e-mailem obsah čísla v okamžiku, kdy k danému číslu bude umožněn otevřený přístup.</target>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionPolicies.openAccessNotificationDisabled">
+      <source><strong>Poznámka:</strong> Pro aktivování této možnosti musí administrátor stránek povolit volbu <tt>scheduled_tasks</tt> v konfiguračním souboru OJS. Podpora těchto funkcí může vyžadovat dodatečnou konfiguraci serveru (nemusí být realizovatelná na všech serverech) tak, jak je uvedeno v OJS documentaci.</source>
+      <target><strong>Poznámka:</strong> Pro aktivování této možnosti musí administrátor stránek povolit volbu <tt>scheduled_tasks</tt> v konfiguračním souboru OJS. Podpora těchto funkcí může vyžadovat dodatečnou konfiguraci serveru (nemusí být realizovatelná na všech serverech) tak, jak je uvedeno v OJS documentaci.</target>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionPolicies.openAccessOptions">
+      <source>Možnosti otevřeného přístupu pro časpisy s předplatným</source>
+      <target>Možnosti otevřeného přístupu pro časpisy s předplatným</target>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionPolicies.openAccessOptionsDescription">
+      <source>Časopisy s předplatným mohou poskytovat "zpožděný otevřený přístup" ke svému publikovanému obsahu, stejně jako povolovat "sebe-archivování autora" (což v obou případech zvyšuje čtenost a citovanost obsahu).</source>
+      <target>Časopisy s předplatným mohou poskytovat "zpožděný otevřený přístup" ke svému publikovanému obsahu, stejně jako povolovat "sebe-archivování autora" (což v obou případech zvyšuje čtenost a citovanost obsahu).</target>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionPolicies.subscriptionAdditionalInformation">
+      <source>Informace o předplatném</source>
+      <target>Informace o předplatném</target>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionPolicies.subscriptionAdditionalInformationDescription">
+      <source>Typy předplatného a struktura poplatku bude automaticky umístěna pod položku Předplatné na stránce O časopisu společně se jménem a kontaktem na manažera předplatného. Mohou sem být vloženy doplňující informace o předplatném jako např. způsob platby nebo forma podpory předplatitelů z rozvojových zemí.</source>
+      <target>Typy předplatného a struktura poplatku bude automaticky umístěna pod položku Předplatné na stránce O časopisu společně se jménem a kontaktem na manažera předplatného. Mohou sem být vloženy doplňující informace o předplatném jako např. způsob platby nebo forma podpory předplatitelů z rozvojových zemí.</target>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionPolicies.subscriptionContact">
+      <source>Manažer předplatného</source>
+      <target>Manažer předplatného</target>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionPolicies.subscriptionContactDescription">
+      <source>Kontakt uvedený pod položkou Předplatné v O časopisu.</source>
+      <target>Kontakt uvedený pod položkou Předplatné v O časopisu.</target>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionPolicies.subscriptionContactEmailValid">
+      <source>Vložte prosím platný e-mail.</source>
+      <target>Vložte prosím platný e-mail.</target>
+    </trans-unit>
+    <trans-unit id="manager.subscriptions">
+      <source>Předplatné</source>
+      <target>Předplatné</target>
+    </trans-unit>
+    <trans-unit id="manager.subscriptions.confirmDelete">
+      <source>Jste si jisti, že chcete smazat toto předplatné?</source>
+      <target>Jste si jisti, že chcete smazat toto předplatné?</target>
+    </trans-unit>
+    <trans-unit id="manager.subscriptions.create">
+      <source>Vytvořit nové předplatné</source>
+      <target>Vytvořit nové předplatné</target>
+    </trans-unit>
+    <trans-unit id="manager.subscriptions.createTitle">
+      <source>Vytvořit</source>
+      <target>Vytvořit</target>
+    </trans-unit>
+    <trans-unit id="manager.subscriptions.dateEnd">
+      <source>Konec</source>
+      <target>Konec</target>
+    </trans-unit>
+    <trans-unit id="manager.subscriptions.dateEndSearch">
+      <source>Konečné datum</source>
+      <target>Konečné datum</target>
+    </trans-unit>
+    <trans-unit id="manager.subscriptions.dateStart">
+      <source>Začátek</source>
+      <target>Začátek</target>
+    </trans-unit>
+    <trans-unit id="manager.subscriptions.dateStartSearch">
+      <source>Počáteční datum</source>
+      <target>Počáteční datum</target>
+    </trans-unit>
+    <trans-unit id="manager.subscriptions.domain">
+      <source>Doména</source>
+      <target>Doména</target>
+    </trans-unit>
+    <trans-unit id="manager.subscriptions.edit">
+      <source>Editovat předplatné</source>
+      <target>Editovat předplatné</target>
+    </trans-unit>
+    <trans-unit id="manager.subscriptions.editTitle">
+      <source>Editovat</source>
+      <target>Editovat</target>
+    </trans-unit>
+    <trans-unit id="manager.subscriptions.form.dateEnd">
+      <source>Datum konce</source>
+      <target>Datum konce</target>
+    </trans-unit>
+    <trans-unit id="manager.subscriptions.form.dateEndRequired">
+      <source>Je vyžadován datum konce předplatného.</source>
+      <target>Je vyžadován datum konce předplatného.</target>
+    </trans-unit>
+    <trans-unit id="manager.subscriptions.form.dateEndValid">
+      <source>Zvolte prosím platné datum konce předplatného.</source>
+      <target>Zvolte prosím platné datum konce předplatného.</target>
+    </trans-unit>
+    <trans-unit id="manager.subscriptions.form.dateStart">
+      <source>Datum začátku</source>
+      <target>Datum začátku</target>
+    </trans-unit>
+    <trans-unit id="manager.subscriptions.form.dateStartRequired">
+      <source>Je vyžadován datum začátku předplatného.</source>
+      <target>Je vyžadován datum začátku předplatného.</target>
+    </trans-unit>
+    <trans-unit id="manager.subscriptions.form.dateStartValid">
+      <source>Zvolte prosím platné datum začátku předplatného.</source>
+      <target>Zvolte prosím platné datum začátku předplatného.</target>
+    </trans-unit>
+    <trans-unit id="manager.subscriptions.form.domain">
+      <source>Doména</source>
+      <target>Doména</target>
+    </trans-unit>
+    <trans-unit id="manager.subscriptions.form.domainInstructions">
+      <source>Vložte doménu, pokud se jedná o typ předplatného pro instituce. Pokud je sem vložena doména, IP rozsah je nepovinný. Platné hodnoty jsou doménová jména (např. lib.sfu.ca).</source>
+      <target>Vložte doménu, pokud se jedná o typ předplatného pro instituce. Pokud je sem vložena doména, IP rozsah je nepovinný. Platné hodnoty jsou doménová jména (např. lib.sfu.ca).</target>
+    </trans-unit>
+    <trans-unit id="manager.subscriptions.form.domainIPRangeRequired">
+      <source>Zvolený typ předplatného vyžaduje pro autentifikaci doménu a/nebo rozsah IP.</source>
+      <target>Zvolený typ předplatného vyžaduje pro autentifikaci doménu a/nebo rozsah IP.</target>
+    </trans-unit>
+    <trans-unit id="manager.subscriptions.form.domainValid">
+      <source>Vložte prosím platnou doménu.</source>
+      <target>Vložte prosím platnou doménu.</target>
+    </trans-unit>
+    <trans-unit id="manager.subscriptions.form.ipRange">
+      <source>IP rozsah</source>
+      <target>IP rozsah</target>
+    </trans-unit>
+    <trans-unit id="manager.subscriptions.form.ipRangeInstructions">
+      <source>Vložte IP rozsah, pokud se jedná o typ předplatného pro instituce. Pokud je sem vložen rozsah IP, doména je nepovinná. Platné hodnoty zahrnují IP (např. 142.58.103.1), CIDR IP rozsah (např. 142.58.100.0/24), IP rozsah (např. 142.58.103.1 - 142.58.103.4), IP rozsah s '*' (např. 142.58.103.*) nebo jakoukoliv kombinaci předchozích oddělených pomocí ';' (např. 142.58.103.* - 142.58.107.* ; 142.58.108.1/24 ; 142.58.106.*)</source>
+      <target>Vložte IP rozsah, pokud se jedná o typ předplatného pro instituce. Pokud je sem vložen rozsah IP, doména je nepovinná. Platné hodnoty zahrnují IP (např. 142.58.103.1), CIDR IP rozsah (např. 142.58.100.0/24), IP rozsah (např. 142.58.103.1 - 142.58.103.4), IP rozsah s '*' (např. 142.58.103.*) nebo jakoukoliv kombinaci předchozích oddělených pomocí ';' (např. 142.58.103.* - 142.58.107.* ; 142.58.108.1/24 ; 142.58.106.*)</target>
+    </trans-unit>
+    <trans-unit id="manager.subscriptions.form.ipRangeValid">
+      <source>Vložte prosím platný rozsah IP.</source>
+      <target>Vložte prosím platný rozsah IP.</target>
+    </trans-unit>
+    <trans-unit id="manager.subscriptions.form.membership">
+      <source>Členství</source>
+      <target>Členství</target>
+    </trans-unit>
+    <trans-unit id="manager.subscriptions.form.membershipInstructions">
+      <source>Vložte informaci o členství, pokud typ předplatného vyžaduje, aby předplatitel patřil do nějaké asociace nebo organizace.</source>
+      <target>Vložte informaci o členství, pokud typ předplatného vyžaduje, aby předplatitel patřil do nějaké asociace nebo organizace.</target>
+    </trans-unit>
+    <trans-unit id="manager.subscriptions.form.membershipRequired">
+      <source>Zvolený typ předplatného vyžaduje informaci o členství.</source>
+      <target>Zvolený typ předplatného vyžaduje informaci o členství.</target>
+    </trans-unit>
+    <trans-unit id="manager.subscriptions.form.notifyEmail">
+      <source>Poslat uživateli email s uživatelským jménem a detaily předplatného.</source>
+      <target>Poslat uživateli email s uživatelským jménem a detaily předplatného.</target>
+    </trans-unit>
+    <trans-unit id="manager.subscriptions.form.notifyEmailValid">
+      <source>Použijte prosím nabízené zaškrtávací políčko.</source>
+      <target>Použijte prosím nabízené zaškrtávací políčko.</target>
+    </trans-unit>
+    <trans-unit id="manager.subscriptions.form.saveAndCreateAnother">
+      <source>Uložit a vytvořit další</source>
+      <target>Uložit a vytvořit další</target>
+    </trans-unit>
+    <trans-unit id="manager.subscriptions.form.subscriptionContactRequired">
+      <source>Aby bylo možné zaslat uživateli notifikační email, musí být v Nastavení časopisu specifikováno jméno kontaktu pro předplatné a E-mailová adresa.</source>
+      <target>Aby bylo možné zaslat uživateli notifikační email, musí být v Nastavení časopisu specifikováno jméno kontaktu pro předplatné a E-mailová adresa.</target>
+    </trans-unit>
+    <trans-unit id="manager.subscriptions.form.subscriptionExists">
+      <source>Tento uživatel již má pro tento časopis předplatné.</source>
+      <target>Tento uživatel již má pro tento časopis předplatné.</target>
+    </trans-unit>
+    <trans-unit id="manager.subscriptions.form.typeId">
+      <source>Typ předplatného</source>
+      <target>Typ předplatného</target>
+    </trans-unit>
+    <trans-unit id="manager.subscriptions.form.typeIdRequired">
+      <source>Je vyžadován typ předplatného.</source>
+      <target>Je vyžadován typ předplatného.</target>
+    </trans-unit>
+    <trans-unit id="manager.subscriptions.form.typeIdValid">
+      <source>Zvolte, prosím, platný typ předplatného.</source>
+      <target>Zvolte, prosím, platný typ předplatného.</target>
+    </trans-unit>
+    <trans-unit id="manager.subscriptions.form.userId">
+      <source>Uživatel</source>
+      <target>Uživatel</target>
+    </trans-unit>
+    <trans-unit id="manager.subscriptions.form.userIdRequired">
+      <source>Je vyžadován uživatel.</source>
+      <target>Je vyžadován uživatel.</target>
+    </trans-unit>
+    <trans-unit id="manager.subscriptions.form.userIdValid">
+      <source>Zvolte prosím platného uživatele.</source>
+      <target>Zvolte prosím platného uživatele.</target>
+    </trans-unit>
+    <trans-unit id="manager.subscriptions.ipRange">
+      <source>Rozsah IP</source>
+      <target>Rozsah IP</target>
+    </trans-unit>
+    <trans-unit id="manager.subscriptions.membership">
+      <source>Členství</source>
+      <target>Členství</target>
+    </trans-unit>
+    <trans-unit id="manager.subscriptions.noneCreated">
+      <source>Žádné předplatné</source>
+      <target>Žádné předplatné</target>
+    </trans-unit>
+    <trans-unit id="manager.subscriptions.select">
+      <source>Vybrat</source>
+      <target>Vybrat</target>
+    </trans-unit>
+    <trans-unit id="manager.subscriptions.selectSubscriber.desc">
+      <source>Práva předplatitelského přístupu jsou automaticky garantována pro manažery časopisu, editory, editory sekcí, typografy, redaktory a korektory.</source>
+      <target>Práva předplatitelského přístupu jsou automaticky garantována pro manažery časopisu, editory, editory sekcí, typografy, redaktory a korektory.</target>
+    </trans-unit>
+    <trans-unit id="manager.subscriptions.subscriptionCreatedSuccessfully">
+      <source>Předplatné bylo úspěšně vytvořeno.</source>
+      <target>Předplatné bylo úspěšně vytvořeno.</target>
+    </trans-unit>
+    <trans-unit id="manager.subscriptions.subscriptionType">
+      <source>Typ předplatného</source>
+      <target>Typ předplatného</target>
+    </trans-unit>
+    <trans-unit id="manager.subscriptions.user">
+      <source>Uživatel</source>
+      <target>Uživatel</target>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionTypes">
+      <source>Typy předplatného</source>
+      <target>Typy předplatného</target>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionTypes.confirmDelete">
+      <source>Varování! Všechna předplatné s tímto typem předplatného budou rovněž smazána. Jste si jisti, že chcete pokračovat a smazat tento typ předplatného?</source>
+      <target>Varování! Všechna předplatné s tímto typem předplatného budou rovněž smazána. Jste si jisti, že chcete pokračovat a smazat tento typ předplatného?</target>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionTypes.cost">
+      <source>Cena</source>
+      <target>Cena</target>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionTypes.create">
+      <source>Vytvořit nový typ předplatného</source>
+      <target>Vytvořit nový typ předplatného</target>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionTypes.createTitle">
+      <source>Vytvořit</source>
+      <target>Vytvořit</target>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionTypes.duration">
+      <source>Trvání</source>
+      <target>Trvání</target>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionTypes.edit">
+      <source>Editovat typ předplatného</source>
+      <target>Editovat typ předplatného</target>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionTypes.editTitle">
+      <source>Editovat</source>
+      <target>Editovat</target>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionTypes.form.cost">
+      <source>Cena</source>
+      <target>Cena</target>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionTypes.form.costInstructions">
+      <source>Vložte číslenou hodnotu (např. 40 nebo 40.00) bez symbolu (např. €).</source>
+      <target>Vložte číslenou hodnotu (např. 40 nebo 40.00) bez symbolu (např. €).</target>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionTypes.form.costNumeric">
+      <source>Cena musí být kladná číselná hodnota.</source>
+      <target>Cena musí být kladná číselná hodnota.</target>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionTypes.form.costRequired">
+      <source>Je vyžadována cena.</source>
+      <target>Je vyžadována cena.</target>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionTypes.form.currency">
+      <source>Měna</source>
+      <target>Měna</target>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionTypes.form.currencyRequired">
+      <source>Je vyžadována měna.</source>
+      <target>Je vyžadována měna.</target>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionTypes.form.currencyValid">
+      <source>Vyberte prosím platnou měnu.</source>
+      <target>Vyberte prosím platnou měnu.</target>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionTypes.form.description">
+      <source>Popis</source>
+      <target>Popis</target>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionTypes.form.duration">
+      <source>Trvání</source>
+      <target>Trvání</target>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionTypes.form.durationInstructions">
+      <source>Počet měsíců během nichž trvá předplatné (např. 12).</source>
+      <target>Počet měsíců během nichž trvá předplatné (např. 12).</target>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionTypes.form.durationNumeric">
+      <source>Trvání musí být kladná číselná hodnota.</source>
+      <target>Trvání musí být kladná číselná hodnota.</target>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionTypes.form.durationRequired">
+      <source>Je vyžadováno trvání.</source>
+      <target>Je vyžadováno trvání.</target>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionTypes.form.format">
+      <source>Formát</source>
+      <target>Formát</target>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionTypes.form.formatRequired">
+      <source>Je vyžadován formát typu předplatného.</source>
+      <target>Je vyžadován formát typu předplatného.</target>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionTypes.form.formatValid">
+      <source>Vyberte prosím platný formát typu předplatného.</source>
+      <target>Vyberte prosím platný formát typu předplatného.</target>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionTypes.form.institutional">
+      <source>Předplatitelé by měli být ověřováni prostřednictvím domény nebo IP autentifikace.</source>
+      <target>Předplatitelé by měli být ověřováni prostřednictvím domény nebo IP autentifikace.</target>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionTypes.form.institutionalValid">
+      <source>Použijte prosím poskytnuté zaškrtávací políčko.</source>
+      <target>Použijte prosím poskytnuté zaškrtávací políčko.</target>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionTypes.form.membership">
+      <source>Předplatné vyžaduje informaci o členství<br />(např. v asociaci nebo organizaci či konzorciu atd.)</source>
+      <target>Předplatné vyžaduje informaci o členství<br />(např. v asociaci nebo organizaci či konzorciu atd.)</target>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionTypes.form.membershipValid">
+      <source>Použijte prosím poskytnuté políčko.</source>
+      <target>Použijte prosím poskytnuté políčko.</target>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionTypes.form.public">
+      <source>Tento typ předplatného nebude veřejně viditelný <br />(např. pod položkou Předplatné v části O časopisu).</source>
+      <target>Tento typ předplatného nebude veřejně viditelný <br />(např. pod položkou Předplatné v části O časopisu).</target>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionTypes.form.publicValid">
+      <source>Použijte prosím zaškrtávací políčko.</source>
+      <target>Použijte prosím zaškrtávací políčko.</target>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionTypes.form.saveAndCreateAnotherType">
+      <source>Uložit a vytvořit další</source>
+      <target>Uložit a vytvořit další</target>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionTypes.form.typeName">
+      <source>Název typu</source>
+      <target>Název typu</target>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionTypes.form.typeNameExists">
+      <source>Typ předplatného s tímto názvem již existuje.</source>
+      <target>Typ předplatného s tímto názvem již existuje.</target>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionTypes.form.typeNameRequired">
+      <source>Je vyžadován název typu předplatného.</source>
+      <target>Je vyžadován název typu předplatného.</target>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionTypes.name">
+      <source>Typ předplatného</source>
+      <target>Typ předplatného</target>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionTypes.noneCreated">
+      <source>Nebyly vytvořeny žádné typy předplatného.</source>
+      <target>Nebyly vytvořeny žádné typy předplatného.</target>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionTypes.subscriptionTypeCreatedSuccessfully">
+      <source>Typ předplatného byl úspěšně vytvořen.</source>
+      <target>Typ předplatného byl úspěšně vytvořen.</target>
+    </trans-unit>
+    <trans-unit id="manager.subscriptions.renew">
+      <source>Obnovit</source>
+      <target>Obnovit</target>
+    </trans-unit>
+    <trans-unit id="manager.subscriptions.form.status">
+      <source>Stav</source>
+      <target>Stav</target>
+    </trans-unit>
+    <trans-unit id="manager.subscriptions.form.userContact">
+      <source>Kontakt</source>
+      <target>Kontakt</target>
+    </trans-unit>
+    <trans-unit id="manager.subscriptions.form.notes">
+      <source>Poznámky</source>
+      <target>Poznámky</target>
+    </trans-unit>
+    <trans-unit id="manager.subscriptions.form.deleteIpRange">
+      <source>Smazat</source>
+      <target>Smazat</target>
+    </trans-unit>
+    <trans-unit id="manager.subscriptions.form.addIpRange">
+      <source>Přidat</source>
+      <target>Přidat</target>
+    </trans-unit>
+    <trans-unit id="manager.subscriptions.notes">
+      <source>Poznámky</source>
+      <target>Poznámky</target>
+    </trans-unit>
+    <trans-unit id="manager.subscriptions.selectUser">
+      <source>Vybrat uživatele</source>
+      <target>Vybrat uživatele</target>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionTypes.subscriptions">
+      <source>Předplatné</source>
+      <target>Předplatné</target>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionTypes.individual">
+      <source>Individuální</source>
+      <target>Individuální</target>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionTypes.institutional">
+      <source>Institucionální</source>
+      <target>Institucionální</target>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionTypes.form.nonExpiring.neverExpires">
+      <source>Nikdy nevyprší</source>
+      <target>Nikdy nevyprší</target>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionTypes.form.options">
+      <source>Možnosti</source>
+      <target>Možnosti</target>
+    </trans-unit>
+    <trans-unit id="manager.language.ui">
+      <source>UI</source>
+      <target>UI</target>
+    </trans-unit>
+    <trans-unit id="manager.language.forms">
+      <source>Formuláře</source>
+      <target>Formuláře</target>
+    </trans-unit>
+    <trans-unit id="manager.people.showNoRole">
+      <source>Zobrazit uživatele bez žádné role</source>
+      <target>Zobrazit uživatele bez žádné role</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.history">
+      <source>Historie časopisu</source>
+      <target>Historie časopisu</target>
+    </trans-unit>
+    <trans-unit id="manager.individualSubscriptions">
+      <source>Individuální předplatné</source>
+      <target>Individuální předplatné</target>
+    </trans-unit>
+    <trans-unit id="manager.institutionalSubscriptions">
+      <source>Institucionální předplatné</source>
+      <target>Institucionální předplatné</target>
+    </trans-unit>
+    <trans-unit id="manager.subscriptions.summary">
+      <source>Souhrn předplatného</source>
+      <target>Souhrn předplatného</target>
+    </trans-unit>
+    <trans-unit id="manager.subscriptions.withStatus">
+      <source>Se stavem</source>
+      <target>Se stavem</target>
+    </trans-unit>
+    <trans-unit id="manager.subscriptions.allStatus">
+      <source>Vše</source>
+      <target>Vše</target>
+    </trans-unit>
+    <trans-unit id="manager.subscriptions.form.statusRequired">
+      <source>Je vyžadován stav předpaltného.</source>
+      <target>Je vyžadován stav předpaltného.</target>
+    </trans-unit>
+    <trans-unit id="manager.subscriptions.form.statusValid">
+      <source>Zvolte prosím platný stav předplatného.</source>
+      <target>Zvolte prosím platný stav předplatného.</target>
+    </trans-unit>
+    <trans-unit id="manager.subscriptions.form.userCountryValid">
+      <source>Zvolte prosím platnou zemi.</source>
+      <target>Zvolte prosím platnou zemi.</target>
+    </trans-unit>
+    <trans-unit id="manager.subscriptions.form.referenceNumber">
+      <source>Referenční číslo</source>
+      <target>Referenční číslo</target>
+    </trans-unit>
+    <trans-unit id="manager.subscriptions.form.institutionName">
+      <source>Název instituce</source>
+      <target>Název instituce</target>
+    </trans-unit>
+    <trans-unit id="manager.subscriptions.form.institutionNameRequired">
+      <source>Je vyžadován název instituce.</source>
+      <target>Je vyžadován název instituce.</target>
+    </trans-unit>
+    <trans-unit id="manager.subscriptions.form.institutionMailingAddress">
+      <source>Poštovní adresa</source>
+      <target>Poštovní adresa</target>
+    </trans-unit>
+    <trans-unit id="manager.subscriptions.form.ipRangeItem">
+      <source>&#8226;</source>
+      <target>&#8226;</target>
+    </trans-unit>
+    <trans-unit id="manager.subscriptions.referenceNumber">
+      <source>Referenční číslo</source>
+      <target>Referenční číslo</target>
+    </trans-unit>
+    <trans-unit id="manager.subscriptions.contact">
+      <source>Kontaktní jméno</source>
+      <target>Kontaktní jméno</target>
+    </trans-unit>
+    <trans-unit id="manager.subscriptions.institutionName">
+      <source>Název instituce</source>
+      <target>Název instituce</target>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionTypes.form.nonExpiring.expiresAfter">
+      <source>Vyprší po</source>
+      <target>Vyprší po</target>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionTypes.form.subscriptions">
+      <source>Předplatné</source>
+      <target>Předplatné</target>
+    </trans-unit>
+    <trans-unit id="manager.sections.wordCount">
+      <source>Počet slov</source>
+      <target>Počet slov</target>
+    </trans-unit>
+    <trans-unit id="manager.sections.wordCountInstructions">
+      <source>Omezit počet slov abstraktu pro tuto sekci na (0 pro žádný limit):</source>
+      <target>Omezit počet slov abstraktu pro tuto sekci na (0 pro žádný limit):</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.historyDescription">
+      <source>Tento text se zobrazí v části "O časopisu" webových stránek časopisu a může být použit pro popis změn v názvu, redakční radě a dalších položkách souvisejících s historií časopisu.</source>
+      <target>Tento text se zobrazí v části "O časopisu" webových stránek časopisu a může být použit pro popis změn v názvu, redakční radě a dalších položkách souvisejících s historií časopisu.</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.noPublishing">
+      <source>OJS nebude používán pro online publikování obsahu časopisu.</source>
+      <target>OJS nebude používán pro online publikování obsahu časopisu.</target>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionPolicies.onlinePaymentNotifications">
+      <source>Oznámení o online platbě</source>
+      <target>Oznámení o online platbě</target>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionPolicies.onlinePaymentNotificationsDescription">
+      <source>Automatická e-mailová oznámení (dostupná pro editaci manažerovi časopisu v Připravených emailech OJS) mohou být zasílána manažerovi předplatného po provedení online platby předplatného.</source>
+      <target>Automatická e-mailová oznámení (dostupná pro editaci manažerovi časopisu v Připravených emailech OJS) mohou být zasílána manažerovi předplatného po provedení online platby předplatného.</target>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionPolicies.enableSubscriptionOnlinePaymentNotificationPurchaseIndividual">
+      <source>Informovat manažera předplatného e-mailem po provedení online koupě individuálního předplatného.</source>
+      <target>Informovat manažera předplatného e-mailem po provedení online koupě individuálního předplatného.</target>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionPolicies.enableSubscriptionOnlinePaymentNotificationPurchaseInstitutional">
+      <source>Informovat manažera předplatného e-mailem po provedení online koupě institucionálního předplatného (doporučeno).</source>
+      <target>Informovat manažera předplatného e-mailem po provedení online koupě institucionálního předplatného (doporučeno).</target>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionPolicies.enableSubscriptionOnlinePaymentNotificationRenewIndividual">
+      <source>Informovat manažera předplatného e-mailem po provedení online obnovy individuálního předplatného.</source>
+      <target>Informovat manažera předplatného e-mailem po provedení online obnovy individuálního předplatného.</target>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionPolicies.enableSubscriptionOnlinePaymentNotificationRenewInstitutional">
+      <source>Informovat manažera předplatného e-mailem po provedení online obnovy institucionálního předplatného.</source>
+      <target>Informovat manažera předplatného e-mailem po provedení online obnovy institucionálního předplatného.</target>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionTypes.form.nonExpiringValid">
+      <source>Použijte, prosím, nabízené možnosti.</source>
+      <target>Použijte, prosím, nabízené možnosti.</target>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionPolicies.onlinePaymentPurchaseInstitutionalDescription">
+      <source><strong>Poznámka:</strong> Institucionální předplatné zakoupené online vyžaduje schválení uvedené domény a IP rozsahu a aktivaci předplatného manažerem předplatného.</source>
+      <target><strong>Poznámka:</strong> Institucionální předplatné zakoupené online vyžaduje schválení uvedené domény a IP rozsahu a aktivaci předplatného manažerem předplatného.</target>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionPolicies.onlinePaymentDisabled">
+      <source><strong>Poznámka:</strong> Pro zapnutí těchto možností musí manažer časopisu zapnout modul pro online platby včetně online plateb předplatného pod Čtenářskými poplatky.</source>
+      <target><strong>Poznámka:</strong> Pro zapnutí těchto možností musí manažer časopisu zapnout modul pro online platby včetně online plateb předplatného pod Čtenářskými poplatky.</target>
+    </trans-unit>
+    <trans-unit id="manager.subscriptions.form.userProfileInstructions">
+      <source>Poznámka: Všechny níže provedené změny se týkají profilu uživatele v celém systému.</source>
+      <target>Poznámka: Všechny níže provedené změny se týkají profilu uživatele v celém systému.</target>
+    </trans-unit>
+    <trans-unit id="manager.subscriptions.form.typeRequired">
+      <source>Před pořízením nového předplatného musí být vytvořen typ předplatného.</source>
+      <target>Před pořízením nového předplatného musí být vytvořen typ předplatného.</target>
+    </trans-unit>
+    <trans-unit id="manager.subscriptions.selectContact">
+      <source>Zvolte kontakt pro předplatné</source>
+      <target>Zvolte kontakt pro předplatné</target>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionTypes.form.nonExpiring.months">
+      <source>měsíce (např.: 12)</source>
+      <target>měsíce (např.: 12)</target>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionTypes.form.individual">
+      <source>Individuální (uživatelé jsou ověřování pomocí přihlášení)</source>
+      <target>Individuální (uživatelé jsou ověřování pomocí přihlášení)</target>
+    </trans-unit>
+    <trans-unit id="manager.sections.confirmDelete">
+      <source>Jste si jisti, že chcete natrvalo vymazat tuto sekci?</source>
+      <target>Jste si jisti, že chcete natrvalo vymazat tuto sekci?</target>
+    </trans-unit>
+    <trans-unit id="manager.sections.alertDelete">
+      <source>Než budete moci smazat tuto sekci, musíte přesunout všechny články z této sekce do jiných sekcí.</source>
+      <target>Než budete moci smazat tuto sekci, musíte přesunout všechny články z této sekce do jiných sekcí.</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.resetPermissions">
+      <source>Resetovat práva k článku</source>
+      <target>Resetovat práva k článku</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.journalThumbnail">
+      <source>Náhled časopisu</source>
+      <target>Náhled časopisu</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.useThumbnail">
+      <source>Náhled</source>
+      <target>Náhled</target>
+    </trans-unit>
+    <trans-unit id="manager.statistics.reports.defaultReport.articleAbstract">
+      <source>Počet přečtení stránky abstraktu daného článku</source>
+      <target>Počet přečtení stránky abstraktu daného článku</target>
+    </trans-unit>
+    <trans-unit id="manager.statistics.reports.defaultReport.articleAbstractAndDownloads">
+      <source>Abstrakty článku a stažení</source>
+      <target>Abstrakty článku a stažení</target>
+    </trans-unit>
+    <trans-unit id="manager.statistics.reports.defaultReport.journalIndexPageViews">
+      <source>Počet přečtení hlavní stránky časopisu</source>
+      <target>Počet přečtení hlavní stránky časopisu</target>
+    </trans-unit>
+    <trans-unit id="manager.statistics.reports.defaultReport.articleDownloads">
+      <source>Stažení souborů článku</source>
+      <target>Stažení souborů článku</target>
+    </trans-unit>
+    <trans-unit id="manager.statistics.reports.filters.byContext.description">
+      <source>Zúžení výsledků podle kontextu (vydání a/nebo článek).</source>
+      <target>Zúžení výsledků podle kontextu (vydání a/nebo článek).</target>
+    </trans-unit>
+    <trans-unit id="manager.language.submissions">
+      <source>Příspěvky</source>
+      <target>Příspěvky</target>
+    </trans-unit>
+    <trans-unit id="manager.payment.options.purchaseIssueFee">
+      <source>Zakoupit přístup k číslu</source>
+      <target>Zakoupit přístup k číslu</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.resetPermissions.description">
+      <source>Informace o autorský právech a licenci budou stále připojeny k publikovanému obsahu a budou zajišťovat, že se nezmění ani v případě, že časopis změní autorská práva nových příspěvků. K změně autorských práv na standardní hodnostu použijte tlačítko níže.</source>
+      <target>Informace o autorský právech a licenci budou stále připojeny k publikovanému obsahu a budou zajišťovat, že se nezmění ani v případě, že časopis změní autorská práva nových příspěvků. K změně autorských práv na standardní hodnostu použijte tlačítko níže.</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.copyrightYearBasis">
+      <source>Založit rok copyrightu nového článku na</source>
+      <target>Založit rok copyrightu nového článku na</target>
+    </trans-unit>
+    <trans-unit id="manager.statistics.defaultMetricDescription">
+      <source>Váš časopis je nakonfigurován k využívaní více metrik. Statistiky čtenosti budou zobrazovány ve více souvislostech. Jsou případy, kdy musí být zobrazovány jednotlivé statistiky, např. pro zobrazení seznamu nejčtenějších článků, nebo pro zobrazení rozsahu vyhledávání. Vyberte si, prosím, jednu z nakonfigurovaných metrik jako standardní.</source>
+      <target>Váš časopis je nakonfigurován k využívaní více metrik. Statistiky čtenosti budou zobrazovány ve více souvislostech. Jsou případy, kdy musí být zobrazovány jednotlivé statistiky, např. pro zobrazení seznamu nejčtenějších článků, nebo pro zobrazení rozsahu vyhledávání. Vyberte si, prosím, jednu z nakonfigurovaných metrik jako standardní.</target>
+    </trans-unit>
+    <trans-unit id="manager.statistics.reports.filters.byObject.description">
+      <source>Upřesněte výsledy podle typu objektu (časopis, číslo, článek, pdf sazebnice, ostatní sazebnice) a/nebo podle jednoho, nebo více id.</source>
+      <target>Upřesněte výsledy podle typu objektu (časopis, číslo, článek, pdf sazebnice, ostatní sazebnice) a/nebo podle jednoho, nebo více id.</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.categories">
+      <source>Kategorie</source>
+      <target>Kategorie</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.categories.description">
+      <source>Zvolte nejvíce vhodné kategorie z nabídky výše. Čtenáři boudou moci procházet podle těchto kategorií z kompletní sady časopisů.</source>
+      <target>Zvolte nejvíce vhodné kategorie z nabídky výše. Čtenáři boudou moci procházet podle těchto kategorií z kompletní sady časopisů.</target>
+    </trans-unit>
+    <trans-unit id="plugins.importexport.common.settings">
+      <source>Nastavení</source>
+      <target>Nastavení</target>
+    </trans-unit>
+    <trans-unit id="plugins.importexport.common.error.DOIsNotAvailable">
+      <source>Aby bylo možné používat tento plugin, jděte prosím do kategorie pluginů Veřejné identifikátory, povolte a nastavte plugin DOI a specifikujte tam platný prefix DOI.</source>
+      <target>Aby bylo možné používat tento plugin, jděte prosím do kategorie pluginů Veřejné identifikátory, povolte a nastavte plugin DOI a specifikujte tam platný prefix DOI.</target>
+    </trans-unit>
+    <trans-unit id="plugins.importexport.common.error.pluginNotConfigured">
+      <source>Plugin není plně nastavený</source>
+      <target>Plugin není plně nastavený</target>
+    </trans-unit>
+    <trans-unit id="plugins.importexport.common.settings.form.password">
+      <source>Heslo</source>
+      <target>Heslo</target>
+    </trans-unit>
+    <trans-unit id="plugins.importexport.common.settings.form.password.description">
+      <source>Upozornění: heslo bude uloženo jako prostý text, nebude tedy zašifrováno.</source>
+      <target>Upozornění: heslo bude uloženo jako prostý text, nebude tedy zašifrováno.</target>
+    </trans-unit>
+    <trans-unit id="plugins.importexport.common.action.register">
+      <source>Registrace</source>
+      <target>Registrace</target>
+    </trans-unit>
+    <trans-unit id="plugins.importexport.common.export.error.outputFileNotWritable">
+      <source>Do výstupního souboru {$param} nejde zapisovat.</source>
+      <target>Do výstupního souboru {$param} nejde zapisovat.</target>
+    </trans-unit>
+    <trans-unit id="plugins.importexport.common.register.error.mdsError">
+      <source>Registrace nebyla úspěšná! Registrační server DOI vrátil následující chybu: '{$param}'.</source>
+      <target>Registrace nebyla úspěšná! Registrační server DOI vrátil následující chybu: '{$param}'.</target>
+    </trans-unit>
+    <trans-unit id="plugins.importexport.common.register.success">
+      <source>Registrace byla úspěšná!</source>
+      <target>Registrace byla úspěšná!</target>
+    </trans-unit>
+    <trans-unit id="manager.website.archiving">
+      <source>Archivace</source>
+      <target>Archivace</target>
+    </trans-unit>
+    <trans-unit id="manager.section.noSectionEditors">
+      <source>Zatím nejsou žádní sekční editoři. Přidejte nejprve tuto roli minimálně jednomu uživateli pomocí Správa > Nastavení > Uživatelé a role.</source>
+      <target>Zatím nejsou žádní sekční editoři. Přidejte nejprve tuto roli minimálně jednomu uživateli pomocí Správa > Nastavení > Uživatelé a role.</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.masthead">
+      <source>Hlavní titulek</source>
+      <target>Hlavní titulek</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.homepageContent">
+      <source>Obsah domovské stránky časopisu</source>
+      <target>Obsah domovské stránky časopisu</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.homepageContentDescription">
+      <source>Domovská stránka časopisu ve výchozím nastavení obsahuje navigační odkazy. Další obsah domovské stránky lze přidat pomocí jedné nebo více následujících možností, které se zobrazí v uvedeném pořadí.</source>
+      <target>Domovská stránka časopisu ve výchozím nastavení obsahuje navigační odkazy. Další obsah domovské stránky lze přidat pomocí jedné nebo více následujících možností, které se zobrazí v uvedeném pořadí.</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.layout">
+      <source>Vzhled časopisu</source>
+      <target>Vzhled časopisu</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.useStyleSheet">
+      <source>Style sheet časopisu</source>
+      <target>Style sheet časopisu</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.contextName">
+      <source>Jméno časopisu</source>
+      <target>Jméno časopisu</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.pageHeader">
+      <source>Hlavička stránky časopisu</source>
+      <target>Hlavička stránky časopisu</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.focusAndScope.description">
+      <source>Popište autorům, čtenářům a knihovníkům zaměření článků a dalších položek, které časopis publikuje.</source>
+      <target>Popište autorům, čtenářům a knihovníkům zaměření článků a dalších položek, které časopis publikuje.</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.form.issnInvalid">
+      <source>Zadané ISSN není platné.</source>
+      <target>Zadané ISSN není platné.</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.journalSummary">
+      <source>Souhrn informací o časopise</source>
+      <target>Souhrn informací o časopise</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.journalSummary.description">
+      <source>Stručný popis časopisu, který lze zobrazit v seznamech časopisů.</source>
+      <target>Stručný popis časopisu, který lze zobrazit v seznamech časopisů.</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.journalAbout">
+      <source>O časopise</source>
+      <target>O časopise</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.journalAbout.description">
+      <source>Zahrňte de veškeré informace o vašem časopise, které mohou být zajímavé pro čtenáře, autory nebo recenzenty. Tyto informace by měly zahrnovat vaše zásady otevřeného přístupu, zaměření a rozsah časopisu, oznámení o autorských právech, povolení sponzoringu, historii časopisu, prohlášení o ochraně osobních údajů a zařazení do libovolného archivního systému LOCKSS nebo CLOCKSS.</source>
+      <target>Zahrňte de veškeré informace o vašem časopise, které mohou být zajímavé pro čtenáře, autory nebo recenzenty. Tyto informace by měly zahrnovat vaše zásady otevřeného přístupu, zaměření a rozsah časopisu, oznámení o autorských právech, povolení sponzoringu, historii časopisu, prohlášení o ochraně osobních údajů a zařazení do libovolného archivního systému LOCKSS nebo CLOCKSS.</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.favicon">
+      <source>Favicon časopisu</source>
+      <target>Favicon časopisu</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.faviconDescription">
+      <source>Přidejte favicon pro tento časopis, který se zobrazí vedle navigačního panelu při návštěvě vašeho webu.</source>
+      <target>Přidejte favicon pro tento časopis, který se zobrazí vedle navigačního panelu při návštěvě vašeho webu.</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.faviconInvalid">
+      <source>Neplatný formát favicon. Přijatelné jsou .ico, .png a .gif.</source>
+      <target>Neplatný formát favicon. Přijatelné jsou .ico, .png a .gif.</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.includeCreativeCommons">
+      <source>Pro časopisy, které nabízejí okamžitý nebo zpožděný otevřený přístup, uveďte ve vhodnou dobu licenci Creative Commons ke všem publikovaným pracím.</source>
+      <target>Pro časopisy, které nabízejí okamžitý nebo zpožděný otevřený přístup, uveďte ve vhodnou dobu licenci Creative Commons ke všem publikovaným pracím.</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.journalThumbnail.description">
+      <source>Malé logo či obrázek reprezentující časopis, který může být využit v seznamu časopisů.</source>
+      <target>Malé logo či obrázek reprezentující časopis, který může být využit v seznamu časopisů.</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.journalThumbnail.altText">
+      <source>Alternativní text pro obrázek</source>
+      <target>Alternativní text pro obrázek</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.enableArchive">
+      <source>Povolit archivování</source>
+      <target>Povolit archivování</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.lockssLicenseDescription">
+      <source>Licence LOCKSS se objeví v O časopise pod Archivace: <a href="http://www.lockss.org/community/publishers-titles-gln/" target="_blank">Licence LOCKSS</a></source>
+      <target>Licence LOCKSS se objeví v O časopise pod Archivace: <a href="http://www.lockss.org/community/publishers-titles-gln/" target="_blank">Licence LOCKSS</a></target>
+    </trans-unit>
+    <trans-unit id="manager.setup.lockssLicenseLabel">
+      <source>Popis licence LOCKSS</source>
+      <target>Popis licence LOCKSS</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.lockssTitle">
+      <source>LOCKSS</source>
+      <target>LOCKSS</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.clockssEnable">
+      <source>Povolte službě CLOCKSS ukládat a distribuovat obsah časopisu v zúčastněných knihovnách prostřednictvím stránky <a href="{$clockssUrl}" target="_blank">stránky Manifest vydavatele </a>.</source>
+      <target>Povolte službě CLOCKSS ukládat a distribuovat obsah časopisu v zúčastněných knihovnách prostřednictvím stránky <a href="{$clockssUrl}" target="_blank">stránky Manifest vydavatele </a>.</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.clockssLicenseDescription">
+      <source>Licence CLOCKSS se objeví v sekci O časopise v sekci Archivování: <a href="http://clockss.org/" target="_blank"> Licence CLOCKSS </a></source>
+      <target>Licence CLOCKSS se objeví v sekci O časopise v sekci Archivování: <a href="http://clockss.org/" target="_blank"> Licence CLOCKSS </a></target>
+    </trans-unit>
+    <trans-unit id="manager.setup.clockssLicenseLabel">
+      <source>Popis licence CLOCKSS</source>
+      <target>Popis licence CLOCKSS</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.clockssRegister">
+      <source>Přihlaste se k službě CLOCKSS na adrese <a href="http://clockss.org/" target="_blank"> webu CLOCKSS </a>.</source>
+      <target>Přihlaste se k službě CLOCKSS na adrese <a href="http://clockss.org/" target="_blank"> webu CLOCKSS </a>.</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.clockssTitle">
+      <source>CLOCKSS</source>
+      <target>CLOCKSS</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.Issn">
+      <source>ISSN</source>
+      <target>ISSN</target>
+    </trans-unit>
+    <trans-unit id="manager.statistics.reports.defaultReport.issuePageViews">
+      <source>Obsah čísla s počty přístupů</source>
+      <target>Obsah čísla s počty přístupů</target>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionPolicies.enableSubscriptionExpiryReminderBeforeMonthsValid">
+      <source>Použijte, prosím,  zaškrtávací políčka.</source>
+      <target>Použijte, prosím,  zaškrtávací políčka.</target>
+    </trans-unit>
+    <trans-unit id="manager.distribution.access">
+      <source>Přístup</source>
+      <target>Přístup</target>
+    </trans-unit>
+    <trans-unit id="grid.category.path">
+      <source>Cesta</source>
+      <target>Cesta</target>
+    </trans-unit>
+    <trans-unit id="grid.action.addSection">
+      <source>Přidat sekci</source>
+      <target>Přidat sekci</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.section.description">
+      <source>Články v publikovaných číslech časopisu jsou organizovány v sekcích, obvykle podle tématu nebo typu obsahu (např. Recenzované články, Výzkum atd.).</source>
+      <target>Články v publikovaných číslech časopisu jsou organizovány v sekcích, obvykle podle tématu nebo typu obsahu (např. Recenzované články, Výzkum atd.).</target>
+    </trans-unit>
+    <trans-unit id="settings.roles.gridDescription">
+      <source>Role jsou skupiny uživatelů v časopise, kteří mají přístup k různým úrovním oprávnění a přidruženým pracovním postupům v časopise. Existuje pět různých úrovní oprávnění: Správci časopisu mají přístup ke všemu v časopise (veškerý obsah a nastavení); Editoři sekcí mají kompletní přístup k veškerému přiřazenému obsahu. Asistenti časopisu mají omezený přístup ke všem příspěvkům, které jim explicitně přidělil Editor; Recenzenti mohou zobrazit a recenzovat příspěvky, které jim byly přiděleny ke kontrole. A Autoři mohou vidět a komunikovat s omezeným množstvím informací o svých příspěvcích. Kromě toho existuje pět různých etap, do kterých může být nastaven přístup: podání, interní recenze, recenze, redakce a výroba.</source>
+      <target>Role jsou skupiny uživatelů v časopise, kteří mají přístup k různým úrovním oprávnění a přidruženým pracovním postupům v časopise. Existuje pět různých úrovní oprávnění: Správci časopisu mají přístup ke všemu v časopise (veškerý obsah a nastavení); Editoři sekcí mají kompletní přístup k veškerému přiřazenému obsahu. Asistenti časopisu mají omezený přístup ke všem příspěvkům, které jim explicitně přidělil Editor; Recenzenti mohou zobrazit a recenzovat příspěvky, které jim byly přiděleny ke kontrole. A Autoři mohou vidět a komunikovat s omezeným množstvím informací o svých příspěvcích. Kromě toho existuje pět různých etap, do kterých může být nastaven přístup: podání, interní recenze, recenze, redakce a výroba.</target>
+    </trans-unit>
+    <trans-unit id="manager.publication.library">
+      <source>Knihovna vydavatele</source>
+      <target>Knihovna vydavatele</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.copyrightYearBasis.article">
+      <source>Článek: výchozí rok vydání bude odvozen z data publikace článku, podobně jako při "publish-as-you-go".</source>
+      <target>Článek: výchozí rok vydání bude odvozen z data publikace článku, podobně jako při "publish-as-you-go".</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.copyrightYearBasis.issue">
+      <source>Číslo: výchozí rok vydání bude odvozen z data vydání čísla.</source>
+      <target>Číslo: výchozí rok vydání bude odvozen z data vydání čísla.</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.resetPermissions.confirm">
+      <source>Jste si jisti, že chcete obnovit údaje o oprávněních již připojených k článkům?</source>
+      <target>Jste si jisti, že chcete obnovit údaje o oprávněních již připojených k článkům?</target>
+    </trans-unit>
+    <trans-unit id="grid.genres.title.short">
+      <source>Komponenty</source>
+      <target>Komponenty</target>
+    </trans-unit>
+    <trans-unit id="grid.genres.title">
+      <source>Komponenty článku</source>
+      <target>Komponenty článku</target>
+    </trans-unit>
+    <trans-unit id="grid.genres.description">
+      <source>Tyto komponenty se používají pro účely pojmenování souborů a jsou zobrazeny v rozbalovací nabídce při nahrávání souborů. Žánry označené ## umožňují uživateli přiřadit soubor buď s celým příspěvkem 99Z, nebo s určitou komponentou podle čísla (např. 02).</source>
+      <target>Tyto komponenty se používají pro účely pojmenování souborů a jsou zobrazeny v rozbalovací nabídce při nahrávání souborů. Žánry označené ## umožňují uživateli přiřadit soubor buď s celým příspěvkem 99Z, nebo s určitou komponentou podle čísla (např. 02).</target>
+    </trans-unit>
+    <trans-unit id="plugins.importexport.common.settings.DOIPluginSettings">
+      <source>Nastavení pluginu DOI</source>
+      <target>Nastavení pluginu DOI</target>
+    </trans-unit>
+    <trans-unit id="plugins.importexport.common.export.articles">
+      <source>Články</source>
+      <target>Články</target>
+    </trans-unit>
+    <trans-unit id="plugins.importexport.common.export.issues">
+      <source>Čísla</source>
+      <target>Čísla</target>
+    </trans-unit>
+    <trans-unit id="plugins.importexport.common.export.representations">
+      <source>Sazebnice</source>
+      <target>Sazebnice</target>
+    </trans-unit>
+    <trans-unit id="plugins.importexport.common.missingRequirements">
+      <source>Nevyhovuje požadavkům pluginu</source>
+      <target>Nevyhovuje požadavkům pluginu</target>
+    </trans-unit>
+    <trans-unit id="plugins.importexport.common.error.noDOIContentObjects">
+      <source>Nebyly vybrány žádné objekty pro přiřazení DOI v rámci pluginu DOI, takže v tomto pluginu není žádná možnost ukládání či exportu.</source>
+      <target>Nebyly vybrány žádné objekty pro přiřazení DOI v rámci pluginu DOI, takže v tomto pluginu není žádná možnost ukládání či exportu.</target>
+    </trans-unit>
+    <trans-unit id="plugins.importexport.common.filter.issue">
+      <source>Libovolné číslo</source>
+      <target>Libovolné číslo</target>
+    </trans-unit>
+    <trans-unit id="plugins.importexport.common.status.any">
+      <source>Libovolný status</source>
+      <target>Libovolný status</target>
+    </trans-unit>
+    <trans-unit id="plugins.importexport.common.status.notDeposited">
+      <source>Neuloženo</source>
+      <target>Neuloženo</target>
+    </trans-unit>
+    <trans-unit id="plugins.importexport.common.status.markedRegistered">
+      <source>Označeno jako registrované</source>
+      <target>Označeno jako registrované</target>
+    </trans-unit>
+    <trans-unit id="plugins.importexport.common.status.registered">
+      <source>Registrované</source>
+      <target>Registrované</target>
+    </trans-unit>
+    <trans-unit id="plugins.importexport.common.action">
+      <source>Akce</source>
+      <target>Akce</target>
+    </trans-unit>
+    <trans-unit id="plugins.importexport.common.action.export">
+      <source>Export</source>
+      <target>Export</target>
+    </trans-unit>
+    <trans-unit id="plugins.importexport.common.action.markRegistered">
+      <source>Označit registrované</source>
+      <target>Označit registrované</target>
+    </trans-unit>
+    <trans-unit id="plugins.importexport.common.error.noObjectsSelected">
+      <source>Nebyly vybrány žádné objekty.</source>
+      <target>Nebyly vybrány žádné objekty.</target>
+    </trans-unit>
+    <trans-unit id="plugins.importexport.common.error.validation">
+      <source>Vybrané objekty nelze konvertovat.</source>
+      <target>Vybrané objekty nelze konvertovat.</target>
+    </trans-unit>
+    <trans-unit id="plugins.importexport.common.invalidXML">
+      <source>Neplatné XML:</source>
+      <target>Neplatné XML:</target>
+    </trans-unit>
+    <trans-unit id="plugins.importexport.common.senderTask.warning.noDOIprefix">
+      <source>Prefix DOI chybí pro časopis na adrese {$path}.</source>
+      <target>Prefix DOI chybí pro časopis na adrese {$path}.</target>
+    </trans-unit>
+    <trans-unit id="plugins.importexport.common.cliError">
+      <source>CHYBA:</source>
+      <target>CHYBA:</target>
+    </trans-unit>
+    <trans-unit id="plugins.importexport.common.error.unknownJournal">
+      <source>Vybraná adresa časopisu  "{$journalPath}" neexistuje.</source>
+      <target>Vybraná adresa časopisu  "{$journalPath}" neexistuje.</target>
+    </trans-unit>
+    <trans-unit id="plugins.importexport.common.error.unknownObjects">
+      <source>Specifikované objekty nelze najít.</source>
+      <target>Specifikované objekty nelze najít.</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.notifications.copyPrimaryContact">
+      <source>Odeslání kopie primárnímu kontaktu, identifikovanému v Nastavení časopisu.</source>
+      <target>Odeslání kopie primárnímu kontaktu, identifikovanému v Nastavení časopisu.</target>
+    </trans-unit>
+    <trans-unit id="subscriptionManager.subscription.confirmRemove">
+      <source>Jste si jisti, že chcete smazat toto předplatné?</source>
+      <target>Jste si jisti, že chcete smazat toto předplatné?</target>
+    </trans-unit>
+    <trans-unit id="manager.paymentTypes">
+      <source>Typy platby</source>
+      <target>Typy platby</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.plnPluginEnable">
+      <source>Plugin PKP PN byl povolen</source>
+      <target>Plugin PKP PN byl povolen</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.plnDescription">
+      <source>PKP Preservation Network (PN) poskytuje bezplatné archivační služby pro všechny časopisy OJS, které splňují několik základních kritérií.</source>
+      <target>PKP Preservation Network (PN) poskytuje bezplatné archivační služby pro všechny časopisy OJS, které splňují několik základních kritérií.</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.plnSettingsDescription">
+      <source>Klikněte na odkaz Nastavení k přijetí podmínek používání PKP PN.</source>
+      <target>Klikněte na odkaz Nastavení k přijetí podmínek používání PKP PN.</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.plnPluginArchiving">
+      <source>PKP Archivační síť (PN)</source>
+      <target>PKP Archivační síť (PN)</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.plnPluginNotInstalled">
+      <source>PKP Preservation Network (PN) poskytuje bezplatné archivační služby pro všechny časopisy OJS, které splňují několik základních kritérií. Plugin PKP PN pro OJS 3 je v současnosti ve vývoji a brzy bude k dispozici v galerii pluginů.</source>
+      <target>PKP Preservation Network (PN) poskytuje bezplatné archivační služby pro všechny časopisy OJS, které splňují několik základních kritérií. Plugin PKP PN pro OJS 3 je v současnosti ve vývoji a brzy bude k dispozici v galerii pluginů.</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.otherLockss">
+      <source>Jiné archivační možnosti</source>
+      <target>Jiné archivační možnosti</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.porticoEnable">
+      <source>Povolte službu Portico k ukládání a distribuci obsahu časopisu knihovnám, které se účastní v projektu Portico.</source>
+      <target>Povolte službu Portico k ukládání a distribuci obsahu časopisu knihovnám, které se účastní v projektu Portico.</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.porticoTitle">
+      <source>Portico</source>
+      <target>Portico</target>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionPolicies.xWeeks">
+      <source>{$x} týdnů</source>
+      <target>{$x} týdnů</target>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionPolicies.expiryReminderAfterMonths">
+      <source>Upozornit předplatitele emailem po vypršení předplatného</source>
+      <target>Upozornit předplatitele emailem po vypršení předplatného</target>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionPolicies.expiryReminderAfterWeeks">
+      <source>Upozornit předplatitele emailem po vypršení předplatného.</source>
+      <target>Upozornit předplatitele emailem po vypršení předplatného.</target>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionPolicies.expiryReminderBeforeMonths">
+      <source>Upozornit předplatitele emailem před vypršením předplatného.</source>
+      <target>Upozornit předplatitele emailem před vypršením předplatného.</target>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionPolicies.expiryReminderBeforeWeeks">
+      <source>Upozornit předplatitele emailem před vypršením předplatného.</source>
+      <target>Upozornit předplatitele emailem před vypršením předplatného.</target>
+    </trans-unit>
+    <trans-unit id="manager.subscriptions.confirmRenew">
+      <source>Jste si jisti, že chcete obnovit toto předplatné?</source>
+      <target>Jste si jisti, že chcete obnovit toto předplatné?</target>
+    </trans-unit>
+    <trans-unit id="manager.navigationMenus.subscriptions.description">
+      <source>Odkaz na stránku, kde jsou popsány nabídky vašeho předplatného.</source>
+      <target>Odkaz na stránku, kde jsou popsány nabídky vašeho předplatného.</target>
+    </trans-unit>
+    <trans-unit id="manager.navigationMenus.mySubscriptions.description">
+      <source>Odkaz na stránku popisující návštěvníkovo současné i minulá předplatná.</source>
+      <target>Odkaz na stránku popisující návštěvníkovo současné i minulá předplatná.</target>
+    </trans-unit>
+    <trans-unit id="manager.navigationMenus.mySubscriptions.conditionalWarning">
+      <source>Tento odkaz se zobrazí pouze v případě, že je návštěvník přihlášený.</source>
+      <target>Tento odkaz se zobrazí pouze v případě, že je návštěvník přihlášený.</target>
+    </trans-unit>
+    <trans-unit id="plugins.importexport.common.validation">
+      <source>Validujte XML před exportem a registrací.</source>
+      <target>Validujte XML před exportem a registrací.</target>
+    </trans-unit>
+    <trans-unit id="plugins.importexport.common.export.error.inputFileNotReadable">
+      <source>Vstupní soubor {$param} není čitelný.</source>
+      <target>Vstupní soubor {$param} není čitelný.</target>
+    </trans-unit>
+    <trans-unit id="manager.subscriptionPolicies.xMonths">
+      <source>{$x} měsíců</source>
+      <target>{$x} měsíců</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.editorialTeam">
+      <source>Tým redaktorů</source>
+      <target>Tým redaktorů</target>
+    </trans-unit>
+    <trans-unit id="manager.setup.editorialTeam.description">
+      <source>Seznam redaktorů, vedoucích správců a ostatních osobností spojených s tímto časopisem.</source>
+      <target>Seznam redaktorů, vedoucích správců a ostatních osobností spojených s tímto časopisem.</target>
+    </trans-unit>
+  </body>
+</file>
+</xliff>
+ 

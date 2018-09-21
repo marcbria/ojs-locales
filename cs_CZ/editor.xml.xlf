@@ -1,0 +1,844 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file original="SoyMsgBundle" datatype="x-soy-msg-bundle" xml:space="preserve" source-language="$lang" target-language="$lang">
+    <body>
+    <trans-unit id="editor.home">
+      <source>Domácí stránka editora</source>
+      <target>Domácí stránka editora</target>
+    </trans-unit>
+    <trans-unit id="editor.submissionsAndPublishing">
+      <source>Příspěvky a publikování</source>
+      <target>Příspěvky a publikování</target>
+    </trans-unit>
+    <trans-unit id="editor.submissionQueue">
+      <source>Fronta příspěvků</source>
+      <target>Fronta příspěvků</target>
+    </trans-unit>
+    <trans-unit id="editor.submissionArchive">
+      <source>Archiv příspěvků</source>
+      <target>Archiv příspěvků</target>
+    </trans-unit>
+    <trans-unit id="editor.publishing">
+      <source>Publikování</source>
+      <target>Publikování</target>
+    </trans-unit>
+    <trans-unit id="editor.publishedIssues">
+      <source>Publikovaná čísla</source>
+      <target>Publikovaná čísla</target>
+    </trans-unit>
+    <trans-unit id="editor.allSections">
+      <source>Všechny sekce</source>
+      <target>Všechny sekce</target>
+    </trans-unit>
+    <trans-unit id="editor.allEditors">
+      <source>Všichni editoři</source>
+      <target>Všichni editoři</target>
+    </trans-unit>
+    <trans-unit id="editor.me">
+      <source>Já</source>
+      <target>Já</target>
+    </trans-unit>
+    <trans-unit id="editor.submissionArchive.noSubmissions">
+      <source>V archivu nejsou žádné příspěvky.</source>
+      <target>V archivu nejsou žádné příspěvky.</target>
+    </trans-unit>
+    <trans-unit id="editor.submissionArchive.saveChanges">
+      <source>Uložit změny v archivovaných příspěvcích? Příspěvky označené pro smazání budou trvale odstraněny ze systému.</source>
+      <target>Uložit změny v archivovaných příspěvcích? Příspěvky označené pro smazání budou trvale odstraněny ze systému.</target>
+    </trans-unit>
+    <trans-unit id="editor.submissionArchive.confirmDelete">
+      <source>Jste si jisti, že chcete trvale smazat tento příspěvek?</source>
+      <target>Jste si jisti, že chcete trvale smazat tento příspěvek?</target>
+    </trans-unit>
+    <trans-unit id="editor.submissionReview.confirmDecision">
+      <source>Jste si jisti, že chcete zaznamenat toto rozhodnutí?</source>
+      <target>Jste si jisti, že chcete zaznamenat toto rozhodnutí?</target>
+    </trans-unit>
+    <trans-unit id="editor.submissionReview.emailWillArchive">
+      <source>Tento příspěvek bude archivován poté, co bude odeslán e-mail Informovat autora nebo bude kliknuto na tlačítko přeskočit e-mail.</source>
+      <target>Tento příspěvek bude archivován poté, co bude odeslán e-mail Informovat autora nebo bude kliknuto na tlačítko přeskočit e-mail.</target>
+    </trans-unit>
+    <trans-unit id="editor.notifyUsers">
+      <source>Informovat uživatele</source>
+      <target>Informovat uživatele</target>
+    </trans-unit>
+    <trans-unit id="editor.notifyUsers.inProgress">
+      <source>Probíhá informování uživatelů...</source>
+      <target>Probíhá informování uživatelů...</target>
+    </trans-unit>
+    <trans-unit id="editor.usersNotified">
+      <source>Uživatelé byli informováni</source>
+      <target>Uživatelé byli informováni</target>
+    </trans-unit>
+    <trans-unit id="editor.notifyUsers.allUsers">
+      <source>Poslat tuto zprávu všem uživatelům spojeným s tímto časopisem ({$count} uživatelů)</source>
+      <target>Poslat tuto zprávu všem uživatelům spojeným s tímto časopisem ({$count} uživatelů)</target>
+    </trans-unit>
+    <trans-unit id="editor.notifyUsers.interestedUsers">
+      <source>Poslat tuto zprávu uživatelům spojeným s tímto časopisem, kteří uvedli, že si přejí dostávat nejnovější informace ({$count} uživatelů)</source>
+      <target>Poslat tuto zprávu uživatelům spojeným s tímto časopisem, kteří uvedli, že si přejí dostávat nejnovější informace ({$count} uživatelů)</target>
+    </trans-unit>
+    <trans-unit id="editor.notifyUsers.includeToc">
+      <source>Připojit obsah tohoto čísla:</source>
+      <target>Připojit obsah tohoto čísla:</target>
+    </trans-unit>
+    <trans-unit id="editor.editorAdministration">
+      <source>Editorská administrace</source>
+      <target>Editorská administrace</target>
+    </trans-unit>
+    <trans-unit id="editor.issues.createIssue">
+      <source>Vytvořit číslo</source>
+      <target>Vytvořit číslo</target>
+    </trans-unit>
+    <trans-unit id="editor.issues.currentIssue">
+      <source>Aktuální číslo</source>
+      <target>Aktuální číslo</target>
+    </trans-unit>
+    <trans-unit id="editor.issues.numArticles">
+      <source>Položky</source>
+      <target>Položky</target>
+    </trans-unit>
+    <trans-unit id="editor.issues.noArticles">
+      <source>Pro toto číslo nejsou aktuálně naplánovány žádné položky.</source>
+      <target>Pro toto číslo nejsou aktuálně naplánovány žádné položky.</target>
+    </trans-unit>
+    <trans-unit id="editor.issues.confirmDelete">
+      <source>Jste si jistý, že chcete trvale smazat toto číslo?</source>
+      <target>Jste si jistý, že chcete trvale smazat toto číslo?</target>
+    </trans-unit>
+    <trans-unit id="editor.issues.published">
+      <source>Publikováno</source>
+      <target>Publikováno</target>
+    </trans-unit>
+    <trans-unit id="editor.issues.unpublished">
+      <source>Nepublikováno</source>
+      <target>Nepublikováno</target>
+    </trans-unit>
+    <trans-unit id="editor.issues.volumeRequired">
+      <source>Je vyžadován ročník. Musí to být kladné číslo.</source>
+      <target>Je vyžadován ročník. Musí to být kladné číslo.</target>
+    </trans-unit>
+    <trans-unit id="editor.issues.numberRequired">
+      <source>Je vyžadováno číslo. Musí to být kladné číslo.</source>
+      <target>Je vyžadováno číslo. Musí to být kladné číslo.</target>
+    </trans-unit>
+    <trans-unit id="editor.issues.yearRequired">
+      <source>Je vyžadován rok. Musí to být kladné číslo.</source>
+      <target>Je vyžadován rok. Musí to být kladné číslo.</target>
+    </trans-unit>
+    <trans-unit id="editor.issues.titleRequired">
+      <source>Je vyžadová název čísla.</source>
+      <target>Je vyžadová název čísla.</target>
+    </trans-unit>
+    <trans-unit id="editor.issues.issueIdentificationRequired">
+      <source>Je vyžadována identifikace čísla. Zvolte prosím nejméně jednu z možností identifikace čísla.</source>
+      <target>Je vyžadována identifikace čísla. Zvolte prosím nejméně jednu z možností identifikace čísla.</target>
+    </trans-unit>
+    <trans-unit id="editor.issues.issueIdentification">
+      <source>Identifikace čísla</source>
+      <target>Identifikace čísla</target>
+    </trans-unit>
+    <trans-unit id="editor.issues.publicIssueIdentifier">
+      <source>Veřejný identifikátor čísla</source>
+      <target>Veřejný identifikátor čísla</target>
+    </trans-unit>
+    <trans-unit id="editor.issues.description">
+      <source>Popis</source>
+      <target>Popis</target>
+    </trans-unit>
+    <trans-unit id="editor.issues.accessStatus">
+      <source>Stav přístupu</source>
+      <target>Stav přístupu</target>
+    </trans-unit>
+    <trans-unit id="editor.issues.accessDate">
+      <source>Datum otevřeného přístupu</source>
+      <target>Datum otevřeného přístupu</target>
+    </trans-unit>
+    <trans-unit id="editor.issues.invalidAccessDate">
+      <source>Datum přístupu není platné.</source>
+      <target>Datum přístupu není platné.</target>
+    </trans-unit>
+    <trans-unit id="editor.issues.coverPage">
+      <source>Titulní obrázek</source>
+      <target>Titulní obrázek</target>
+    </trans-unit>
+    <trans-unit id="editor.issues.coverPageInstructions">
+      <source>(Povolené formáty: .gif, .jpg nebo .png )</source>
+      <target>(Povolené formáty: .gif, .jpg nebo .png )</target>
+    </trans-unit>
+    <trans-unit id="editor.issues.uploaded">
+      <source>Nahrané</source>
+      <target>Nahrané</target>
+    </trans-unit>
+    <trans-unit id="editor.issues.remove">
+      <source>Odstranit</source>
+      <target>Odstranit</target>
+    </trans-unit>
+    <trans-unit id="editor.issues.proofed">
+      <source>Schválené</source>
+      <target>Schválené</target>
+    </trans-unit>
+    <trans-unit id="editor.issues.removeCoverPage">
+      <source>Odstranit obrázek titulní stránky?</source>
+      <target>Odstranit obrázek titulní stránky?</target>
+    </trans-unit>
+    <trans-unit id="editor.issues.styleFile">
+      <source>Soubor stylu</source>
+      <target>Soubor stylu</target>
+    </trans-unit>
+    <trans-unit id="editor.issues.invalidStyleFormat">
+      <source>Neplatný formát souboru stylu. Přesvědčte se, že odeslaný soubor je platný CSS. (Vězte že soubory stylu s komentářem na začátku mohou být odmítnuty.)</source>
+      <target>Neplatný formát souboru stylu. Přesvědčte se, že odeslaný soubor je platný CSS. (Vězte že soubory stylu s komentářem na začátku mohou být odmítnuty.)</target>
+    </trans-unit>
+    <trans-unit id="editor.issues.removeStyleFile">
+      <source>Odstranit soubor stylu?</source>
+      <target>Odstranit soubor stylu?</target>
+    </trans-unit>
+    <trans-unit id="editor.issues.coverPageCaption">
+      <source>Legenda k titulní stránce</source>
+      <target>Legenda k titulní stránce</target>
+    </trans-unit>
+    <trans-unit id="editor.issues.showCoverPage">
+      <source>Vytvořit titulní stránku pro toto číslo s následujícími prvky.</source>
+      <target>Vytvořit titulní stránku pro toto číslo s následujícími prvky.</target>
+    </trans-unit>
+    <trans-unit id="editor.issues.coverPageDisplay">
+      <source>Zobrazit</source>
+      <target>Zobrazit</target>
+    </trans-unit>
+    <trans-unit id="editor.issues.openAccess">
+      <source>Otevřený přístup</source>
+      <target>Otevřený přístup</target>
+    </trans-unit>
+    <trans-unit id="editor.issues.subscription">
+      <source>Předplatné</source>
+      <target>Předplatné</target>
+    </trans-unit>
+    <trans-unit id="editor.issues.identification">
+      <source>Identifikace</source>
+      <target>Identifikace</target>
+    </trans-unit>
+    <trans-unit id="editor.issues.access">
+      <source>Přístup</source>
+      <target>Přístup</target>
+    </trans-unit>
+    <trans-unit id="editor.issues.cover">
+      <source>Titulní strana</source>
+      <target>Titulní strana</target>
+    </trans-unit>
+    <trans-unit id="editor.issues.confirmIssueDelete">
+      <source>Všechny články budou navráceny do fronty a všechny asociované soubory budou trvale odstraněny. Jste si jisti, že chcete odstranit toto číslo?</source>
+      <target>Všechny články budou navráceny do fronty a všechny asociované soubory budou trvale odstraněny. Jste si jisti, že chcete odstranit toto číslo?</target>
+    </trans-unit>
+    <trans-unit id="editor.issues.resetIssueOrder">
+      <source>Tento časopis používá přizpůsobené řazení čísel. <a href="{$url}" class="action">Resetovat na výchozí</a></source>
+      <target>Tento časopis používá přizpůsobené řazení čísel. <a href="{$url}" class="action">Resetovat na výchozí</a></target>
+    </trans-unit>
+    <trans-unit id="editor.issues.resetSectionOrder">
+      <source>Toto číslo používá obvyklé řazení sekcí. <a href="{$url}" class="action">Resetovat na výchozí</a></source>
+      <target>Toto číslo používá obvyklé řazení sekcí. <a href="{$url}" class="action">Resetovat na výchozí</a></target>
+    </trans-unit>
+    <trans-unit id="editor.issues.issueData">
+      <source>Data čísla</source>
+      <target>Data čísla</target>
+    </trans-unit>
+    <trans-unit id="editor.issues.saveChanges">
+      <source>Uložit změny do obsahu?</source>
+      <target>Uložit změny do obsahu?</target>
+    </trans-unit>
+    <trans-unit id="editor.issues.default">
+      <source>Výchozí</source>
+      <target>Výchozí</target>
+    </trans-unit>
+    <trans-unit id="editor.issues.order">
+      <source>Pořadí</source>
+      <target>Pořadí</target>
+    </trans-unit>
+    <trans-unit id="editor.issues.publicId">
+      <source>Veřejné ID</source>
+      <target>Veřejné ID</target>
+    </trans-unit>
+    <trans-unit id="editor.issues.publishIssue">
+      <source>Publikovat číslo</source>
+      <target>Publikovat číslo</target>
+    </trans-unit>
+    <trans-unit id="editor.issues.previewIssue">
+      <source>Náhled čísla</source>
+      <target>Náhled čísla</target>
+    </trans-unit>
+    <trans-unit id="editor.issues.preview">
+      <source>(Náhled)</source>
+      <target>(Náhled)</target>
+    </trans-unit>
+    <trans-unit id="editor.issues.confirmPublish">
+      <source>Jste si jisti, že chcete publikovat nové číslo?</source>
+      <target>Jste si jisti, že chcete publikovat nové číslo?</target>
+    </trans-unit>
+    <trans-unit id="editor.issues.publicArticleIdExists">
+      <source>Nebylo možné uložit veřejné ID pro článek:</source>
+      <target>Nebylo možné uložit veřejné ID pro článek:</target>
+    </trans-unit>
+    <trans-unit id="editor.issues.noLiveIssues">
+      <source>Žádná živá čísla</source>
+      <target>Žádná živá čísla</target>
+    </trans-unit>
+    <trans-unit id="editor.issues.open">
+      <source>Otevřít</source>
+      <target>Otevřít</target>
+    </trans-unit>
+    <trans-unit id="editor.issues.pages">
+      <source>Stránky</source>
+      <target>Stránky</target>
+    </trans-unit>
+    <trans-unit id="editor.navigation.futureIssues">
+      <source>Budoucí čísla</source>
+      <target>Budoucí čísla</target>
+    </trans-unit>
+    <trans-unit id="editor.navigation.issueArchive">
+      <source>Minulá čísla</source>
+      <target>Minulá čísla</target>
+    </trans-unit>
+    <trans-unit id="editor.article.designateReviewVersion">
+      <source>Označit původní soubor za verzi pro recenzi</source>
+      <target>Označit původní soubor za verzi pro recenzi</target>
+    </trans-unit>
+    <trans-unit id="editor.article.uploadReviewVersion">
+      <source>Nahrát revidovanou verzi pro recenzi</source>
+      <target>Nahrát revidovanou verzi pro recenzi</target>
+    </trans-unit>
+    <trans-unit id="editor.article.showSuppFile">
+      <source>Poskytnout soubor recenzentům</source>
+      <target>Poskytnout soubor recenzentům</target>
+    </trans-unit>
+    <trans-unit id="editor.article.layoutAndProof">
+      <source>Vzheld & Korektura</source>
+      <target>Vzheld & Korektura</target>
+    </trans-unit>
+    <trans-unit id="editor.article.clear">
+      <source>Odebrat</source>
+      <target>Odebrat</target>
+    </trans-unit>
+    <trans-unit id="editor.article.clearReviewer">
+      <source>Odebrat recenzenta</source>
+      <target>Odebrat recenzenta</target>
+    </trans-unit>
+    <trans-unit id="editor.article.changeSection">
+      <source>Změnit sekci</source>
+      <target>Změnit sekci</target>
+    </trans-unit>
+    <trans-unit id="editor.article.setDueDate">
+      <source>Nastavit termín splnění</source>
+      <target>Nastavit termín splnění</target>
+    </trans-unit>
+    <trans-unit id="editor.article.addReviewer">
+      <source>Přidat recenzenta</source>
+      <target>Přidat recenzenta</target>
+    </trans-unit>
+    <trans-unit id="editor.article.toReviewer">
+      <source>Pro recenzenta</source>
+      <target>Pro recenzenta</target>
+    </trans-unit>
+    <trans-unit id="editor.article.notifyReviewer">
+      <source>Informovat recenzenta</source>
+      <target>Informovat recenzenta</target>
+    </trans-unit>
+    <trans-unit id="editor.article.initiateReview">
+      <source>Zahájit recenzi</source>
+      <target>Zahájit recenzi</target>
+    </trans-unit>
+    <trans-unit id="editor.article.cancelReview">
+      <source>Zrušit požadavek</source>
+      <target>Zrušit požadavek</target>
+    </trans-unit>
+    <trans-unit id="editor.article.clearReview">
+      <source>Odebrat recenzenta</source>
+      <target>Odebrat recenzenta</target>
+    </trans-unit>
+    <trans-unit id="editor.article.enterRecommendation">
+      <source>Vložit doporučení</source>
+      <target>Vložit doporučení</target>
+    </trans-unit>
+    <trans-unit id="editor.article.enterReviewerRecommendation">
+      <source>Vložit doporučení recenzenta</source>
+      <target>Vložit doporučení recenzenta</target>
+    </trans-unit>
+    <trans-unit id="editor.article.recommendation">
+      <source>Doporučení</source>
+      <target>Doporučení</target>
+    </trans-unit>
+    <trans-unit id="editor.article.selectReviewer">
+      <source>Zvolit recenzenta</source>
+      <target>Zvolit recenzenta</target>
+    </trans-unit>
+    <trans-unit id="editor.article.replaceReviewer">
+      <source>Nahradit recenzenta</source>
+      <target>Nahradit recenzenta</target>
+    </trans-unit>
+    <trans-unit id="editor.article.editorToEnter">
+      <source>Doporučení/komentáře editora pro recenzenta</source>
+      <target>Doporučení/komentáře editora pro recenzenta</target>
+    </trans-unit>
+    <trans-unit id="editor.article.uploadReviewForReviewer">
+      <source>Nahrát posudek</source>
+      <target>Nahrát posudek</target>
+    </trans-unit>
+    <trans-unit id="editor.article.peerReviewOptions">
+      <source>Možnosti recenzování</source>
+      <target>Možnosti recenzování</target>
+    </trans-unit>
+    <trans-unit id="editor.article.decision">
+      <source>Rozhodnutí</source>
+      <target>Rozhodnutí</target>
+    </trans-unit>
+    <trans-unit id="editor.article.noEditorSelected">
+      <source>Nebyl zvolen žádný editor.</source>
+      <target>Nebyl zvolen žádný editor.</target>
+    </trans-unit>
+    <trans-unit id="editor.article.recordDecision">
+      <source>Zaznamenat rozhodnutí</source>
+      <target>Zaznamenat rozhodnutí</target>
+    </trans-unit>
+    <trans-unit id="editor.article.cannotRecord">
+      <source>Editor sekce nezaznamenán, nebo není k dispozici soubor pro recenzi.</source>
+      <target>Editor sekce nezaznamenán, nebo není k dispozici soubor pro recenzi.</target>
+    </trans-unit>
+    <trans-unit id="editor.article.reviewersSeeAuthorsVersion">
+      <source>Recenzenti vidí autorovu verzi</source>
+      <target>Recenzenti vidí autorovu verzi</target>
+    </trans-unit>
+    <trans-unit id="editor.article.designateDueDate">
+      <source>Stanovit datum termínu splnění</source>
+      <target>Stanovit datum termínu splnění</target>
+    </trans-unit>
+    <trans-unit id="editor.article.designateDueDateDescription">
+      <source>Vložte datum nebo počet týdnů pro nové datum termínu splnění.</source>
+      <target>Vložte datum nebo počet týdnů pro nové datum termínu splnění.</target>
+    </trans-unit>
+    <trans-unit id="editor.article.todaysDate">
+      <source>Dnešní datum</source>
+      <target>Dnešní datum</target>
+    </trans-unit>
+    <trans-unit id="editor.article.requestedByDate">
+      <source>Vyžadováno do data</source>
+      <target>Vyžadováno do data</target>
+    </trans-unit>
+    <trans-unit id="editor.article.dueDateFormat">
+      <source>Formát: RRRR-MM-DD</source>
+      <target>Formát: RRRR-MM-DD</target>
+    </trans-unit>
+    <trans-unit id="editor.article.numberOfWeeks">
+      <source>Počet týdnů</source>
+      <target>Počet týdnů</target>
+    </trans-unit>
+    <trans-unit id="editor.article.selectCopyeditor">
+      <source>Přidělit redaktora</source>
+      <target>Přidělit redaktora</target>
+    </trans-unit>
+    <trans-unit id="editor.article.replaceCopyeditor">
+      <source>Nahradit redaktora</source>
+      <target>Nahradit redaktora</target>
+    </trans-unit>
+    <trans-unit id="editor.article.editorsCopyedit">
+      <source>Editorovo redigování</source>
+      <target>Editorovo redigování</target>
+    </trans-unit>
+    <trans-unit id="editor.article.showAuthor">
+      <source>Umožnit autorovi vidět soubor</source>
+      <target>Umožnit autorovi vidět soubor</target>
+    </trans-unit>
+    <trans-unit id="editor.article.showCopyeditor">
+      <source>Ukázat verzi redaktorovi</source>
+      <target>Ukázat verzi redaktorovi</target>
+    </trans-unit>
+    <trans-unit id="editor.article.rateReviewer">
+      <source>Ohodnocení recenzenta</source>
+      <target>Ohodnocení recenzenta</target>
+    </trans-unit>
+    <trans-unit id="editor.article.reviewerRating.veryGood">
+      <source>5 vysoké</source>
+      <target>5 vysoké</target>
+    </trans-unit>
+    <trans-unit id="editor.article.reviewerRating.good">
+      <source>4</source>
+      <target>4</target>
+    </trans-unit>
+    <trans-unit id="editor.article.reviewerRating.average">
+      <source>3</source>
+      <target>3</target>
+    </trans-unit>
+    <trans-unit id="editor.article.reviewerRating.poor">
+      <source>2</source>
+      <target>2</target>
+    </trans-unit>
+    <trans-unit id="editor.article.reviewerRating.veryPoor">
+      <source>1 nízké</source>
+      <target>1 nízké</target>
+    </trans-unit>
+    <trans-unit id="editor.article.comments">
+      <source>Komentáře</source>
+      <target>Komentáře</target>
+    </trans-unit>
+    <trans-unit id="editor.article.commentsRequired">
+      <source>Je vyžadováno pole pro komentáře.</source>
+      <target>Je vyžadováno pole pro komentáře.</target>
+    </trans-unit>
+    <trans-unit id="editor.article.saveRating">
+      <source>Uložit hodnocení</source>
+      <target>Uložit hodnocení</target>
+    </trans-unit>
+    <trans-unit id="editor.article.noneSelected">
+      <source>Nebyl vybrán žádný</source>
+      <target>Nebyl vybrán žádný</target>
+    </trans-unit>
+    <trans-unit id="editor.article.authorProofing">
+      <source>Kontrola autorem</source>
+      <target>Kontrola autorem</target>
+    </trans-unit>
+    <trans-unit id="editor.article.restoreToQueue">
+      <source>Vrátit do seznamu aktivních</source>
+      <target>Vrátit do seznamu aktivních</target>
+    </trans-unit>
+    <trans-unit id="editor.article.assignSectionEditor">
+      <source>Přidat editora sekce</source>
+      <target>Přidat editora sekce</target>
+    </trans-unit>
+    <trans-unit id="editor.article.assignEditor">
+      <source>Přidat editora</source>
+      <target>Přidat editora</target>
+    </trans-unit>
+    <trans-unit id="editor.article.selectEditor">
+      <source>Zvolit {$roleName}</source>
+      <target>Zvolit {$roleName}</target>
+    </trans-unit>
+    <trans-unit id="editor.article.selectDecision">
+      <source>Vybrat rozhodnutí</source>
+      <target>Vybrat rozhodnutí</target>
+    </trans-unit>
+    <trans-unit id="editor.article.selectLayoutEditor">
+      <source>Zvolit typografa</source>
+      <target>Zvolit typografa</target>
+    </trans-unit>
+    <trans-unit id="editor.article.replaceLayoutEditor">
+      <source>Nahradit typografa</source>
+      <target>Nahradit typografa</target>
+    </trans-unit>
+    <trans-unit id="editor.article.reviewSubmission">
+      <source>Recenzovat příspěvek</source>
+      <target>Recenzovat příspěvek</target>
+    </trans-unit>
+    <trans-unit id="editor.article.resubmitForReview">
+      <source>Znovu odeslat soubor na recenzi</source>
+      <target>Znovu odeslat soubor na recenzi</target>
+    </trans-unit>
+    <trans-unit id="editor.article.resubmitFileForPeerReview">
+      <source>Znovu odeslat zvolený soubor na recenzi</source>
+      <target>Znovu odeslat zvolený soubor na recenzi</target>
+    </trans-unit>
+    <trans-unit id="editor.article.sendToCopyedit">
+      <source>Poslat soubor na redigování</source>
+      <target>Poslat soubor na redigování</target>
+    </trans-unit>
+    <trans-unit id="editor.article.selectProofreader">
+      <source>Přidělit korektora</source>
+      <target>Přidělit korektora</target>
+    </trans-unit>
+    <trans-unit id="editor.article.replaceProofreader">
+      <source>Nahradit korektora</source>
+      <target>Nahradit korektora</target>
+    </trans-unit>
+    <trans-unit id="editor.article.authorComments">
+      <source>Komentář autora</source>
+      <target>Komentář autora</target>
+    </trans-unit>
+    <trans-unit id="editor.article.proofreaderComments">
+      <source>Komentář korektora</source>
+      <target>Komentář korektora</target>
+    </trans-unit>
+    <trans-unit id="editor.article.layoutEditorFinal">
+      <source>Typograf finální</source>
+      <target>Typograf finální</target>
+    </trans-unit>
+    <trans-unit id="editor.article.noDate">
+      <source>(datum)</source>
+      <target>(datum)</target>
+    </trans-unit>
+    <trans-unit id="editor.submissions.showBy">
+      <source>Ukázat podle</source>
+      <target>Ukázat podle</target>
+    </trans-unit>
+    <trans-unit id="editor.submissions.submitMMDD">
+      <source>Odeslání MM-DD</source>
+      <target>Odeslání MM-DD</target>
+    </trans-unit>
+    <trans-unit id="editor.submissions.activeAssignments">
+      <source>Aktivní úkoly</source>
+      <target>Aktivní úkoly</target>
+    </trans-unit>
+    <trans-unit id="editor.submissions.invite">
+      <source>Pozvat</source>
+      <target>Pozvat</target>
+    </trans-unit>
+    <trans-unit id="editor.submissions.accept">
+      <source>Přijmout</source>
+      <target>Přijmout</target>
+    </trans-unit>
+    <trans-unit id="editor.submissions.noSubmissions">
+      <source>Žádné příspěvky</source>
+      <target>Žádné příspěvky</target>
+    </trans-unit>
+    <trans-unit id="editor.submissions.lastAssigned">
+      <source>Poslední</source>
+      <target>Poslední</target>
+    </trans-unit>
+    <trans-unit id="editor.submissions.averageTime">
+      <source>Týdny</source>
+      <target>Týdny</target>
+    </trans-unit>
+    <trans-unit id="editor.submissions.lastCompleted">
+      <source>Poslední zhotovený</source>
+      <target>Poslední zhotovený</target>
+    </trans-unit>
+    <trans-unit id="editor.submissions.assignedTo">
+      <source>Přiděleno (komu)</source>
+      <target>Přiděleno (komu)</target>
+    </trans-unit>
+    <trans-unit id="editor.submissions.inSection">
+      <source>V sekci</source>
+      <target>V sekci</target>
+    </trans-unit>
+    <trans-unit id="editor.article.scheduleForPublication">
+      <source>Naplánovat k publikování v</source>
+      <target>Naplánovat k publikování v</target>
+    </trans-unit>
+    <trans-unit id="editor.article.scheduleForPublication.toBeAssigned">
+      <source>Bude přiděleno</source>
+      <target>Bude přiděleno</target>
+    </trans-unit>
+    <trans-unit id="editor.article.payment.publicationFeeNotPaid">
+      <source>Publikační poplatek nebyl zaplacen. Aby byla položka naplánována k publikování, informujte autora, aby  zaplatil poplatek nebo se vzdejte poplatku.</source>
+      <target>Publikační poplatek nebyl zaplacen. Aby byla položka naplánována k publikování, informujte autora, aby  zaplatil poplatek nebo se vzdejte poplatku.</target>
+    </trans-unit>
+    <trans-unit id="editor.article.display">
+      <source>Zobrazit</source>
+      <target>Zobrazit</target>
+    </trans-unit>
+    <trans-unit id="editor.article.hideTocAuthorDescription">
+      <source>Vypustit jména autorů z obsahu čísla</source>
+      <target>Vypustit jména autorů z obsahu čísla</target>
+    </trans-unit>
+    <trans-unit id="editor.article.hideTocAuthorDefault">
+      <source>Výchozí</source>
+      <target>Výchozí</target>
+    </trans-unit>
+    <trans-unit id="editor.article.hideTocAuthorHide">
+      <source>Vypustit</source>
+      <target>Vypustit</target>
+    </trans-unit>
+    <trans-unit id="editor.article.hideTocAuthorShow">
+      <source>Zobrazit</source>
+      <target>Zobrazit</target>
+    </trans-unit>
+    <trans-unit id="editor.article.cover">
+      <source>Obal</source>
+      <target>Obal</target>
+    </trans-unit>
+    <trans-unit id="editor.article.coverImage">
+      <source>Titulní obrázek</source>
+      <target>Titulní obrázek</target>
+    </trans-unit>
+    <trans-unit id="editor.article.uploaded">
+      <source>Nahráno</source>
+      <target>Nahráno</target>
+    </trans-unit>
+    <trans-unit id="editor.article.removeCoverPage">
+      <source>Odstranit titulní obrázek?</source>
+      <target>Odstranit titulní obrázek?</target>
+    </trans-unit>
+    <trans-unit id="editor.article.remove">
+      <source>Odstranit</source>
+      <target>Odstranit</target>
+    </trans-unit>
+    <trans-unit id="editor.issues.enableOpenAccessDate">
+      <source>Povolit zpožděný otevřený přístup</source>
+      <target>Povolit zpožděný otevřený přístup</target>
+    </trans-unit>
+    <trans-unit id="editor.issues.unpublishIssue">
+      <source>Zrušit vydání čísla</source>
+      <target>Zrušit vydání čísla</target>
+    </trans-unit>
+    <trans-unit id="editor.issues.confirmUnpublish">
+      <source>Jste si jisti, že chcete zrušit vydání tohoto vydaného čísla?</source>
+      <target>Jste si jisti, že chcete zrušit vydání tohoto vydaného čísla?</target>
+    </trans-unit>
+    <trans-unit id="editor.article.archiveSubmission">
+      <source>Odmítnout a archivovat příspěvek</source>
+      <target>Odmítnout a archivovat příspěvek</target>
+    </trans-unit>
+    <trans-unit id="editor.reassign">
+      <source>Nové přidělení</source>
+      <target>Nové přidělení</target>
+    </trans-unit>
+    <trans-unit id="editor.publicIdentificationExists">
+      <source>Veřejný identifikátor '{$publicIdentifier}' již existuje pro jiný objekt (vydání, článek, sazebnice či doplňkový soubor). Zvolte si, prosím, unikátní edentifikátor v rámci celého časopisu.</source>
+      <target>Veřejný identifikátor '{$publicIdentifier}' již existuje pro jiný objekt (vydání, článek, sazebnice či doplňkový soubor). Zvolte si, prosím, unikátní edentifikátor v rámci celého časopisu.</target>
+    </trans-unit>
+    <trans-unit id="editor.notifyUsers.allReaders">
+      <source>Všem čtenářům ({$count} uživatelů)</source>
+      <target>Všem čtenářům ({$count} uživatelů)</target>
+    </trans-unit>
+    <trans-unit id="editor.notifyUsers.allAuthors">
+      <source>Všem autorům článků ({$count} uživatelů)</source>
+      <target>Všem autorům článků ({$count} uživatelů)</target>
+    </trans-unit>
+    <trans-unit id="editor.notifyUsers.allIndividualSubscribers">
+      <source>Všem individuálním předplatitelům ({$count} uživatelů)</source>
+      <target>Všem individuálním předplatitelům ({$count} uživatelů)</target>
+    </trans-unit>
+    <trans-unit id="editor.notifyUsers.allInstitutionalSubscribers">
+      <source>Všem institucionálnám předplatitelům ({$count} uživatelů)</source>
+      <target>Všem institucionálnám předplatitelům ({$count} uživatelů)</target>
+    </trans-unit>
+    <trans-unit id="editor.issues.galleys">
+      <source>Sazebnice čísla</source>
+      <target>Sazebnice čísla</target>
+    </trans-unit>
+    <trans-unit id="editor.issues.galley">
+      <source>Sazebnice čísla</source>
+      <target>Sazebnice čísla</target>
+    </trans-unit>
+    <trans-unit id="editor.issues.viewingGalley">
+      <source>Prohlédnout sazebnici čísla</source>
+      <target>Prohlédnout sazebnici čísla</target>
+    </trans-unit>
+    <trans-unit id="editor.submissionReview.cannotSendToCopyediting">
+      <source>Před odesláním příspěvku k redigování, použijte odkaz Upozornit autora, abyste informovali autora o rozhodnutí a vyberte, která verze má být odeslána.</source>
+      <target>Před odesláním příspěvku k redigování, použijte odkaz Upozornit autora, abyste informovali autora o rozhodnutí a vyberte, která verze má být odeslána.</target>
+    </trans-unit>
+    <trans-unit id="editor.issues.issueGalleysDescription">
+      <source>Publikovat sazebnice s obsahem celého čísla.</source>
+      <target>Publikovat sazebnice s obsahem celého čísla.</target>
+    </trans-unit>
+    <trans-unit id="editor.issues.noneIssueGalleys">
+      <source>Nebyly publikovány žádné sazebnice čísla.</source>
+      <target>Nebyly publikovány žádné sazebnice čísla.</target>
+    </trans-unit>
+    <trans-unit id="editor.issues.galleyLabelRequired">
+      <source>Je vyžadováno označení sazebnice čísla.</source>
+      <target>Je vyžadováno označení sazebnice čísla.</target>
+    </trans-unit>
+    <trans-unit id="editor.issues.galleyLocaleRequired">
+      <source>Je vyžadována jazyková lokalizace sazebnice čísla.</source>
+      <target>Je vyžadována jazyková lokalizace sazebnice čísla.</target>
+    </trans-unit>
+    <trans-unit id="editor.issues.galleyPublicIdentificationExists">
+      <source>Veřejný identifikátor sazebnice čísla již existuje.</source>
+      <target>Veřejný identifikátor sazebnice čísla již existuje.</target>
+    </trans-unit>
+    <trans-unit id="editor.issues.backToIssueGalleys">
+      <source>Zpět na sazebnice čísla</source>
+      <target>Zpět na sazebnice čísla</target>
+    </trans-unit>
+    <trans-unit id="editor.issues.confirmDeleteGalley">
+      <source>Jste si jisti, že chcete smazat tuto sazebnici čísla?</source>
+      <target>Jste si jisti, že chcete smazat tuto sazebnici čísla?</target>
+    </trans-unit>
+    <trans-unit id="editor.issues.editIssue">
+      <source>Správa čísla: {$issueIdentification}</source>
+      <target>Správa čísla: {$issueIdentification}</target>
+    </trans-unit>
+    <trans-unit id="editor.issues.datePublished">
+      <source>Datum publikace</source>
+      <target>Datum publikace</target>
+    </trans-unit>
+    <trans-unit id="editor.issues.removeCoverImageFileNameMismatch">
+      <source>Obrázek obálky, který jste požadovali odstranit, neodpovídá obrázku obalu tohoto čísla. Znovu načtěte stránku a zkuste to znovu.</source>
+      <target>Obrázek obálky, který jste požadovali odstranit, neodpovídá obrázku obalu tohoto čísla. Znovu načtěte stránku a zkuste to znovu.</target>
+    </trans-unit>
+    <trans-unit id="editor.issues.removeCoverImageFileNotFound">
+      <source>Obrázek obálky čísla, který chcete odstranit, nebyl nalezen. Možná již byl smazán. Zkuste znovu načíst stránku.</source>
+      <target>Obrázek obálky čísla, který chcete odstranit, nebyl nalezen. Možná již byl smazán. Zkuste znovu načíst stránku.</target>
+    </trans-unit>
+    <trans-unit id="editor.issues.invalidCoverImageFormat">
+      <source>Nepřípustný formát obrázku obálky. Přijatelné formáty jsou .gif, .jpg a .png.</source>
+      <target>Nepřípustný formát obrázku obálky. Přijatelné formáty jsou .gif, .jpg a .png.</target>
+    </trans-unit>
+    <trans-unit id="editor.issues.identifiers">
+      <source>Identifikátory</source>
+      <target>Identifikátory</target>
+    </trans-unit>
+    <trans-unit id="grid.action.addGalley">
+      <source>Přidat sazebnici</source>
+      <target>Přidat sazebnici</target>
+    </trans-unit>
+    <trans-unit id="grid.action.publish">
+      <source>Publikovat číslo</source>
+      <target>Publikovat číslo</target>
+    </trans-unit>
+    <trans-unit id="grid.action.addIssue">
+      <source>Vytvořit číslo</source>
+      <target>Vytvořit číslo</target>
+    </trans-unit>
+    <trans-unit id="grid.action.viewIssue">
+      <source>Zobrazit</source>
+      <target>Zobrazit</target>
+    </trans-unit>
+    <trans-unit id="grid.action.previewIssue">
+      <source>Náhled</source>
+      <target>Náhled</target>
+    </trans-unit>
+    <trans-unit id="grid.action.addIssueGalley">
+      <source>Vytvořit sazebnici čísla</source>
+      <target>Vytvořit sazebnici čísla</target>
+    </trans-unit>
+    <trans-unit id="editor.article.schedulePublication">
+      <source>Naplánováno k publikování</source>
+      <target>Naplánováno k publikování</target>
+    </trans-unit>
+    <trans-unit id="editor.article.removeCoverImageFileNotFound">
+      <source>Obrázek obálky, který chcete smazat, nebyl nalezen. Možná již byl smazána. Zkuste znovu načíst stránku.</source>
+      <target>Obrázek obálky, který chcete smazat, nebyl nalezen. Možná již byl smazána. Zkuste znovu načíst stránku.</target>
+    </trans-unit>
+    <trans-unit id="grid.action.removeArticle">
+      <source>Odebrat článek z čísla</source>
+      <target>Odebrat článek z čísla</target>
+    </trans-unit>
+    <trans-unit id="editor.article.remove.confirm">
+      <source>Opravdu chcete odstranit tento článek z čísla? Článek bude k dispozici pro vydání v jiném čísle.</source>
+      <target>Opravdu chcete odstranit tento článek z čísla? Článek bude k dispozici pro vydání v jiném čísle.</target>
+    </trans-unit>
+    <trans-unit id="editor.issues.editIssueGalley">
+      <source>Upravit sazebnici čísla</source>
+      <target>Upravit sazebnici čísla</target>
+    </trans-unit>
+    <trans-unit id="editor.submission.production.productionReadyFilesDescription">
+      <source>Editor rozvržení připravuje tyto soubory pro každou sazebnic a poté je nahrává na příslušné <span class = "pkp_help_title">Korektury</ span> pro korekturu.</source>
+      <target>Editor rozvržení připravuje tyto soubory pro každou sazebnic a poté je nahrává na příslušné <span class = "pkp_help_title">Korektury</ span> pro korekturu.</target>
+    </trans-unit>
+    <trans-unit id="editor.submission.selectGalleyFiles">
+      <source>Vyberte soubory sazebnice</source>
+      <target>Vyberte soubory sazebnice</target>
+    </trans-unit>
+    <trans-unit id="editor.submission.editorial.finalDraftDescription">
+      <source>Konečné návrhy souborů v tomto seznamu jsou převedeny redaktorem do redakčních verzí, nahrany níže pod <span class = "pkp_help_title">Redakce</ span>.¨</source>
+      <target>Konečné návrhy souborů v tomto seznamu jsou převedeny redaktorem do redakčních verzí, nahrany níže pod <span class = "pkp_help_title">Redakce</ span>.¨</target>
+    </trans-unit>
+    <trans-unit id="editor.submission.proof.manageProofFilesDescription">
+      <source>Jakékoli soubory, které již byly nahrány do libovolné etapy podání článku, mohou být přidány do seznamu Korektury zaškrtnutím políčka Zahrnout a klepnutím na tlačítko Hledat: budou uvedeny všechny dostupné soubory a mohou být vybrány k zařazení.</source>
+      <target>Jakékoli soubory, které již byly nahrány do libovolné etapy podání článku, mohou být přidány do seznamu Korektury zaškrtnutím políčka Zahrnout a klepnutím na tlačítko Hledat: budou uvedeny všechny dostupné soubory a mohou být vybrány k zařazení.</target>
+    </trans-unit>
+    <trans-unit id="editor.issues.confirmSetCurrentIssue">
+      <source>Jste si jisti, že chcete nastavit toto číslo jako číslo aktuální?</source>
+      <target>Jste si jisti, že chcete nastavit toto číslo jako číslo aktuální?</target>
+    </trans-unit>
+    <trans-unit id="grid.action.setCurrentIssue">
+      <source>Nastavte aktuální číslo</source>
+      <target>Nastavte aktuální číslo</target>
+    </trans-unit>
+    <trans-unit id="editor.publicIdentificationExistsForTheSameType">
+      <source>Veřejný identifikátor '{$publicIdentifier}' již existuje pro jiný objekt stejného typu. Vyberte prosím jedinečné identifikátory pro objekty stejného typu v časopise.</source>
+      <target>Veřejný identifikátor '{$publicIdentifier}' již existuje pro jiný objekt stejného typu. Vyberte prosím jedinečné identifikátory pro objekty stejného typu v časopise.</target>
+    </trans-unit>
+  </body>
+</file>
+</xliff>
+ 
