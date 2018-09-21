@@ -12,5 +12,5 @@
   -->
 
 <locale name="es_ES" full_name="Español (España)">
-	<message key="api.submissions.403.unpublishedIssues">No tiene permiso para ver los números no publicados.</message>
+	<message key="api.submissions.403.unpublishedIssues">No tiene permiso para ver los numeros no publicados.</message>
 </locale>

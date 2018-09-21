@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
-  <file original="es_ES/admin.xml" datatype="plaintext" xml:space="preserve" source-language="es_ES" target-language="es_ES">
+  <file original="es_ES/admin.xml" datatype="xml" xml:space="preserve" source-language="es_ES" target-language="es_ES">
     <body>
     <trans-unit id="admin.hostedJournals">
       <source>Revistas alojadas</source>
