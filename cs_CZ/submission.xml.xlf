@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
-  <file original="SoyMsgBundle" datatype="x-soy-msg-bundle" xml:space="preserve" source-language="$lang" target-language="$lang">
+  <file original="cs_CZ/submission.xml" datatype="plaintext" xml:space="preserve" source-language="cs_CZ" target-language="cs_CZ">
     <body>
     <trans-unit id="submission.submit.title">
       <source>Odeslat článek</source>

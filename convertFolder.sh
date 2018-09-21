@@ -8,7 +8,7 @@ do
   if [ ${file: -4} == ".xml" ]
   then
     echo "Parsing: $file"
-    php parser.php "$file" "$2" >> $file.xlf
+    php parser.php "$file" "$2" > $file.xlf
   else
     echo "Ignoring: $file is not a OJS-XML"
   fi
