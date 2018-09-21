@@ -299,8 +299,8 @@
       <target>Decisión del editor/a</target>
     </trans-unit>
     <trans-unit id="submission.round">
-      <source>Ronda&nbsp;{$round}</source>
-      <target>Ronda&nbsp;{$round}</target>
+      <source>Ronda {$round}</source>
+      <target>Ronda {$round}</target>
     </trans-unit>
     <trans-unit id="submission.editorReview">
       <source>Revisión del editor/a</source>
@@ -866,9 +866,9 @@
     </trans-unit>
     <trans-unit id="editor.submissionReview.notes">
       <source>
-	<ol> <li>Los elementos resaltados indican que el editor debe llevar a cabo las siguientes acciones tal y como se muestra a continuación: <ul> <li class="highlightReviewerNotNotified">Hay un revisor/a asignado a quien no se le avisó por correo electrónico</li> <li class="highlightNoDecision">Todos los revisores/as enviaron sus comentarios, pero no se registró ninguna decisión</li> <li class="highlightRevisedCopyUploaded">El autor/a subió un manuscrito revisado</li> <li class="highlightReviewerConfirmationOverdue">Falta que el revisor/a confirme&nbsp;la invitación para la evaluación por pares</li> <li class="highlightReviewerCompletionOverdue">Falta&nbsp;que el revisor/a termine su tarea</li> </ul> </li> <li>La "Fecha de vencimiento" se completa cuando el revisor/a acepta la tarea y muestra el número de semanas hasta la entrega o (-) las semanas que lleva de retraso.</li> </ol></source>
+	<ol> <li>Los elementos resaltados indican que el editor debe llevar a cabo las siguientes acciones tal y como se muestra a continuación: <ul> <li class="highlightReviewerNotNotified">Hay un revisor/a asignado a quien no se le avisó por correo electrónico</li> <li class="highlightNoDecision">Todos los revisores/as enviaron sus comentarios, pero no se registró ninguna decisión</li> <li class="highlightRevisedCopyUploaded">El autor/a subió un manuscrito revisado</li> <li class="highlightReviewerConfirmationOverdue">Falta que el revisor/a confirme la invitación para la evaluación por pares</li> <li class="highlightReviewerCompletionOverdue">Falta que el revisor/a termine su tarea</li> </ul> </li> <li>La "Fecha de vencimiento" se completa cuando el revisor/a acepta la tarea y muestra el número de semanas hasta la entrega o (-) las semanas que lleva de retraso.</li> </ol></source>
       <target>
-	<ol> <li>Los elementos resaltados indican que el editor debe llevar a cabo las siguientes acciones tal y como se muestra a continuación: <ul> <li class="highlightReviewerNotNotified">Hay un revisor/a asignado a quien no se le avisó por correo electrónico</li> <li class="highlightNoDecision">Todos los revisores/as enviaron sus comentarios, pero no se registró ninguna decisión</li> <li class="highlightRevisedCopyUploaded">El autor/a subió un manuscrito revisado</li> <li class="highlightReviewerConfirmationOverdue">Falta que el revisor/a confirme&nbsp;la invitación para la evaluación por pares</li> <li class="highlightReviewerCompletionOverdue">Falta&nbsp;que el revisor/a termine su tarea</li> </ul> </li> <li>La "Fecha de vencimiento" se completa cuando el revisor/a acepta la tarea y muestra el número de semanas hasta la entrega o (-) las semanas que lleva de retraso.</li> </ol></target>
+	<ol> <li>Los elementos resaltados indican que el editor debe llevar a cabo las siguientes acciones tal y como se muestra a continuación: <ul> <li class="highlightReviewerNotNotified">Hay un revisor/a asignado a quien no se le avisó por correo electrónico</li> <li class="highlightNoDecision">Todos los revisores/as enviaron sus comentarios, pero no se registró ninguna decisión</li> <li class="highlightRevisedCopyUploaded">El autor/a subió un manuscrito revisado</li> <li class="highlightReviewerConfirmationOverdue">Falta que el revisor/a confirme la invitación para la evaluación por pares</li> <li class="highlightReviewerCompletionOverdue">Falta que el revisor/a termine su tarea</li> </ul> </li> <li>La "Fecha de vencimiento" se completa cuando el revisor/a acepta la tarea y muestra el número de semanas hasta la entrega o (-) las semanas que lleva de retraso.</li> </ol></target>
     </trans-unit>
     <trans-unit id="editor.submissionEditing.notes">
       <source>
@@ -1137,8 +1137,8 @@
       <target>Haga clic en los nombres de los archivos relacionados con este envío que desee descargar y revisar (en pantalla o imprimiéndolos).</target>
     </trans-unit>
     <trans-unit id="reviewer.article.enterCompetingInterests">
-      <source>Indique si tiene o no, algún conflicto de intereses en cuanto a esta investigación (consulte <a target="_new" class="action" href="{$competingInterestGuidelinesUrl}">CI&nbsp;Policy</a>).</source>
-      <target>Indique si tiene o no, algún conflicto de intereses en cuanto a esta investigación (consulte <a target="_new" class="action" href="{$competingInterestGuidelinesUrl}">CI&nbsp;Policy</a>).</target>
+      <source>Indique si tiene o no, algún conflicto de intereses en cuanto a esta investigación (consulte <a target="_new" class="action" href="{$competingInterestGuidelinesUrl}">CI Policy</a>).</source>
+      <target>Indique si tiene o no, algún conflicto de intereses en cuanto a esta investigación (consulte <a target="_new" class="action" href="{$competingInterestGuidelinesUrl}">CI Policy</a>).</target>
     </trans-unit>
     <trans-unit id="reviewer.competingInterests">
       <source>Conflicto de intereses</source>

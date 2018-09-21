@@ -311,8 +311,8 @@
       <target>Editor Decision</target>
     </trans-unit>
     <trans-unit id="submission.round">
-      <source>Round&nbsp;{$round}</source>
-      <target>Round&nbsp;{$round}</target>
+      <source>Round {$round}</source>
+      <target>Round {$round}</target>
     </trans-unit>
     <trans-unit id="submission.editorReview">
       <source>Editor Review</source>
@@ -1387,8 +1387,8 @@ You may optionally provide the user with a reason for disabling their account.</
       <target>Click on file names to download and review (on screen or by printing) the files associated with this submission.</target>
     </trans-unit>
     <trans-unit id="reviewer.article.enterCompetingInterests">
-      <source>Declare whether or not you have competing interests with regard to this research (see <a target="_new" class="action" href="{$competingInterestGuidelinesUrl}">CI&nbsp;Policy</a>).</source>
-      <target>Declare whether or not you have competing interests with regard to this research (see <a target="_new" class="action" href="{$competingInterestGuidelinesUrl}">CI&nbsp;Policy</a>).</target>
+      <source>Declare whether or not you have competing interests with regard to this research (see <a target="_new" class="action" href="{$competingInterestGuidelinesUrl}">CI Policy</a>).</source>
+      <target>Declare whether or not you have competing interests with regard to this research (see <a target="_new" class="action" href="{$competingInterestGuidelinesUrl}">CI Policy</a>).</target>
     </trans-unit>
     <trans-unit id="reviewer.competingInterests">
       <source>Competing Interests</source>
