@@ -44,10 +44,10 @@ $lang=$argv[2];
 
 $xml=simplexml_load_file("$file") or die("Error: Unable to parse the xml. Cannot create object");
 
-$trans = <<<'EOT'
+$trans = <<<EOT
 <?xml version="1.0" encoding="UTF-8"?>
 <xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
-  <file original="SoyMsgBundle" datatype="x-soy-msg-bundle" xml:space="preserve" source-language="$lang" target-language="$lang">
+  <file original="$file" datatype="plaintext" xml:space="preserve" source-language="$lang" target-language="$lang">
     <body>
 
 EOT;
