@@ -107,10 +107,10 @@ Dříve, než dramaticky odstoupíte od struktury a uspořádání rukopisu, kte
 Poté, co budete hotovi s úpravami, přejmenujte soubor z JmenoAutoraDA.doc na JmenoAutoraDAR.doc (např.: z NovakDA.doc na NovakDAR.doc). Vytiskněte kopii příspěvku a pošlete ji poštou spolu s disketou obsahující <strong>[smazáno slovo]</strong> opravený a přejmenovaný soubor dokumentu. <strong>[DA: V odstavci by bylo vhodné zdůraznit důležitost pečlivého dodržení instrukcí pro elektronické redigování. Jinak může dojít k výraznému zpomalení edičního procesu] [Komentář: S ohledem na Vaše doporučení jsem přidal větu.]</strong>
 
 <strong>Poznámky:</strong>
-&bull; Odebrání tučného zvýraznění textu poukazuje na přijetí doporučené změny v první větě
-&bull; Přidána věta v reakci na DA. Tučný text poukazuje na přidání nového textu
-&bull; [smazáno slovo] poukazuje na smazání slova "kompletně"
-&bull; Komentář obsahuje odpověď na DA od redaktora.</source>
+*  Odebrání tučného zvýraznění textu poukazuje na přijetí doporučené změny v první větě
+* Přidána věta v reakci na DA. Tučný text poukazuje na přidání nového textu
+* [smazáno slovo] poukazuje na smazání slova "kompletně"
+*  Komentář obsahuje odpověď na DA od redaktora.</source>
       <target>Etapa redigování příspěvku je zaměřena na zkvalitnění toku textu, jeho srozumitelnosti, gramatiky, stylizace a formátování. Představuje pro autora poslední šanci, kdy může udělat v textu nějakou podstatnou změnu, protože další etapa je již omezena pouze na opravy překlepů a formátování.
 
 Soubor pro redigování je ve formátu Word nebo .rtf, a proto může být snadno upravován jako textový dokument. Uvedený soubor instrukcí nabízí dva přístupy k redigování. Jeden je založen na nástroji Revize v programu Microsoft Word a vyžaduje, aby redaktor, editor i autor měli k dispozici tento program. Druhý systém, který nezávisí na softwaru, byl s dovolením vypůjčen od Harvard Educational Review. Editor může pozměnit tyto instrukce, aby lépe vyhovovaly požadavkům tohoto časopisu.
@@ -171,10 +171,10 @@ Dříve, než dramaticky odstoupíte od struktury a uspořádání rukopisu, kte
 Poté, co budete hotovi s úpravami, přejmenujte soubor z JmenoAutoraDA.doc na JmenoAutoraDAR.doc (např.: z NovakDA.doc na NovakDAR.doc). Vytiskněte kopii příspěvku a pošlete ji poštou spolu s disketou obsahující <strong>[smazáno slovo]</strong> opravený a přejmenovaný soubor dokumentu. <strong>[DA: V odstavci by bylo vhodné zdůraznit důležitost pečlivého dodržení instrukcí pro elektronické redigování. Jinak může dojít k výraznému zpomalení edičního procesu] [Komentář: S ohledem na Vaše doporučení jsem přidal větu.]</strong>
 
 <strong>Poznámky:</strong>
-&bull; Odebrání tučného zvýraznění textu poukazuje na přijetí doporučené změny v první větě
-&bull; Přidána věta v reakci na DA. Tučný text poukazuje na přidání nového textu
-&bull; [smazáno slovo] poukazuje na smazání slova "kompletně"
-&bull; Komentář obsahuje odpověď na DA od redaktora.</target>
+* Odebrání tučného zvýraznění textu poukazuje na přijetí doporučené změny v první větě
+* Přidána věta v reakci na DA. Tučný text poukazuje na přidání nového textu
+* [smazáno slovo] poukazuje na smazání slova "kompletně"
+* Komentář obsahuje odpověď na DA od redaktora.</target>
     </trans-unit>
     <trans-unit id="default.journalSettings.refLinkInstructions">
       <source><h4>Přidání odkazů na reference v průběhu provádění grafických úprav</h4>
