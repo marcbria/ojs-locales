@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
-  <file original="cs_CZ/default.xml" datatype="plaintext" xml:space="preserve" source-language="cs_CZ" target-language="cs_CZ">
+  <file original="cs_CZ/default.xml" datatype="xml" xml:space="preserve" source-language="cs" target-language="cs">
     <body>
     <trans-unit id="section.default.title">
       <source>Články</source>
