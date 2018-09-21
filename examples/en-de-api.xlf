@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
-  <file original="api.xml" xml:space="preserve" source-language="en" target-language="de">
-    <body>    <trans-unit id="api.submissions.403.unpublishedIssues">
+  <file original="api.xml" datatype="plaintext" xml:space="preserve" source-language="en" target-language="de">
+    <body>
+	  <trans-unit id="api.submissions.403.unpublishedIssues">
       <source>You do not have permission to view unpublished issues.</source>
       <target>Sie haben keine Berechtigung, unveröffentlichte Ausgaben zu sehen.</target>
     </trans-unit>
