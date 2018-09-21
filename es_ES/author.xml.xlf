@@ -11,8 +11,8 @@
       <target>Envíos activos</target>
     </trans-unit>
     <trans-unit id="author.competingInterests">
-      <source>Conflicto&nbsp;de intereses <a target="_new" class="action" href="{$competingInterestGuidelinesUrl}">CI&nbsp;Policy</a></source>
-      <target>Conflicto&nbsp;de intereses <a target="_new" class="action" href="{$competingInterestGuidelinesUrl}">CI&nbsp;Policy</a></target>
+      <source>Conflicto de intereses <a target="_new" class="action" href="{$competingInterestGuidelinesUrl}">CI Policy</a></source>
+      <target>Conflicto de intereses <a target="_new" class="action" href="{$competingInterestGuidelinesUrl}">CI Policy</a></target>
     </trans-unit>
     <trans-unit id="author.submit.submitArticle">
       <source>Enviar un artículo</source>

@@ -11,8 +11,8 @@
       <target>Aktivní příspěvky</target>
     </trans-unit>
     <trans-unit id="author.competingInterests">
-      <source>Střet&nbsp;zájmů <a target="_new" class="action" href="{$competingInterestGuidelinesUrl}">Pravidla upravující střet zájmů</a></source>
-      <target>Střet&nbsp;zájmů <a target="_new" class="action" href="{$competingInterestGuidelinesUrl}">Pravidla upravující střet zájmů</a></target>
+      <source>Střet zájmů <a target="_new" class="action" href="{$competingInterestGuidelinesUrl}">Pravidla upravující střet zájmů</a></source>
+      <target>Střet zájmů <a target="_new" class="action" href="{$competingInterestGuidelinesUrl}">Pravidla upravující střet zájmů</a></target>
     </trans-unit>
     <trans-unit id="author.submit.submitArticle">
       <source>Odeslat článek</source>

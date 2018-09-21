@@ -11,8 +11,8 @@
       <target>Active Submissions</target>
     </trans-unit>
     <trans-unit id="author.competingInterests">
-      <source>Competing&nbsp;interests <a target="_new" class="action" href="{$competingInterestGuidelinesUrl}">CI&nbsp;Policy</a></source>
-      <target>Competing&nbsp;interests <a target="_new" class="action" href="{$competingInterestGuidelinesUrl}">CI&nbsp;Policy</a></target>
+      <source>Competing interests <a target="_new" class="action" href="{$competingInterestGuidelinesUrl}">CI Policy</a></source>
+      <target>Competing interests <a target="_new" class="action" href="{$competingInterestGuidelinesUrl}">CI Policy</a></target>
     </trans-unit>
     <trans-unit id="author.submit.submitArticle">
       <source>Submit an Article</source>
